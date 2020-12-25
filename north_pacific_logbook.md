@@ -14,7 +14,7 @@ cover-image: cover.pdf
 
 We found our boat, a Yamaha 33, on Vancouver Island. Back then, we associated the brand of Yamaha to keyboards and motorcycles, not sailboats. After a bit of research, we learned that between 1976 and 1985 Yamaha did build and export sailboats to the Pacific Northwest. These boats had the reputation of being sturdy as they were often used in sailing schools. The third boat that we visited while shopping was one of them, and it so happened to be the right price and size.
 
-Prior to purchasing Pino, we read many sailing books. One of them in particular, "The feeding and caring of the offshore crew" by Lin Pardey, left a lasting impression. In this book, Lin and Larry Pardey travel to Japan on their 24' sailboat Seraffyn. We had never heard of anyone sailing to Japan but afterward we became obssessed with the idea. Pino was built in 1982, and we thought, what better way to celebrate Pino's 36th birthday, than to take it back home to Japan! By our calculations, we could make it by 2018. But first, we had to learn how to sail.
+Prior to purchasing Pino, we read many sailing books. One of them in particular, "The feeding and caring of the offshore crew" by Lin Pardey, left a lasting impression. In this book, Lin and Larry Pardey travel to Japan on their 24-foot sailboat Seraffyn. We had never heard of anyone sailing to Japan but afterward we became obssessed with the idea. Pino was built in 1982, and we thought, what better way to celebrate Pino's 36th birthday, than to take it back home to Japan! By our calculations, we could make it by 2018. But first, we had to learn how to sail.
 
 In February 2016, we moved aboard Pino. And like fledlings leaping out of the nest, clumsy, but determined, we pushed from the dock and spread Pino's dacron wings. Learning to sail was a process, it often involved a little trial and error. Like every new skill, it required both patience and practice. Similar to how a toddler's first steps are interrupted with stumbles and falls. In the beggining, we lacked the finesse that we observed in others, but with time we knew we'd get it. On the topic of finesse, or the lack thereof, the first time we hoisted our gennaker, we raised it the wrong way 3 times(it's a triangle). We didn't know which part of the sail was the tack, clew or head. To be fair, when a large sail is stuffed into a bag, it is hard to tell where it begins and where it ends. We had humble beginnings in sailing, we learned by watching others, and by reading books, but mostly by doing.
 
@@ -46,7 +46,7 @@ The town had many shops, making it ideal for provisioning. We'd already started 
 
 While in the city, we realized our Iridium GO satellite phone would need a new SIM card. We had no address in the city, but Anja and Thomas from Robusta had met a friendly local, a woodworker named Shuhei. Shuhei let us use his address. The card would ship from the US, but we didn't know how long it would take. We knew there were reduced flights because of the pandemic. A week away, we saw a possible weather window, but had doubts whether or not we could take it. Venturing into the Pacific without weather, or any form of communication would be dangerous, and so we waited. 
 
-Days passed, and the weather window proved to be ideal for departing from Japan. Robusta told us they planned to take it. Devine & I were feeling down, refreshing the FedeX website every morning to see where our card was in the world. On the 8th of June, Anja and Thomas traveled to the Immigration office in Shizuoka to check out of Japan, with plans to leave Japan the next day. 2-3 hours after our friends left, Shuhei came by with a package, it was our SIM card! We looked at each other then. "Can we make it?" It was 1100, if we left now, we could arrive at the Immigration office by 1400. "Let's do it." We grabbed our passports and boat papers, and boarded the train to Shizuoka. 
+Days passed, and the weather window proved to be ideal for departing from Japan. Robusta told us they planned to take it. Devine & I were feeling down, refreshing the FedeX website every morning to see where our card was in the world. On the 8th of June, Anja and Thomas traveled to the Immigration office in Shizuoka to check out of Japan, with plans to leave the next day. 2-3 hours after our friends left, Shuhei came by with a package, it was our SIM card! We looked at each other then. "Can we make it?" It was 1100, if we left now, we could arrive at the Immigration office by 1400. "Let's do it." We grabbed our passports and boat papers, and boarded the train to Shizuoka. 
 
 We arrived on time to the Immigration office, and checked out. We had plans to visit the customs office in Shimoda to finish the process, but the officials informed us that the Shimoda branch was closed today, it was only open on Wednesdays. If we wanted to check out, we would have to go to Numazu. I looked at the time, even if we left now, we wouldn't make it before closing. The workers at the Immigration Office could tell we were pressed for time, and decided to give them a call to see if they could help check us out with customs. We were lucky, they allowed us to complete the process by email. We rushed back onto the train, eager to return to Shimoda to prepare for our departure tomorrow morning. 
 
@@ -652,8 +652,6 @@ We flipped the jib sheets around as we'd noticed some chafe, we also added tape 
 
 There is blue ahead, how nice, but this also means we're heading into a calm — not so nice.
 
-![la lune](book14.jpg "Voyage to the moon")
-
 ##### 1700
 Storm petrels are flying around Pino island, cackling in the dark. There's at least 30 of them. We are becalmed over a buffet it seems. Tonight will be quiet, and tomorrow will be more of the same. We might have to motor east to catch a breeze, as currently the forecast has us stuck here a while. We hope it's one of those times when it's wrong, otherwise this trip will surely take us 2 months — now I'm glad we left early! We made quick *pâté chinois* (recipe, p.136), with corn, sweet potatoes and tofu. When I make the quick version, I don't bake it in the oven, I prepare the ingredients separarely and combine them in a bowl. Both of us had a big appetite today, I guess we were both tired from wrestling the anchor off the bow. We have 1 daikon left, tightly wrapped in cling wrap. It has some dark spots but feels firm. We'll cut it up tomorrow, and see if it tastes as bad as it looks.
 
@@ -662,6 +660,8 @@ Cruel that the wind is gone but that waves persist. I bet there's a circle of he
 \newpage
 
 #### June 29th
+
+![](book9.jpg "bowie")
 
     Distance covered: 43 nm
     Distance to Victoria: 2583 nm
@@ -687,11 +687,7 @@ We put Calcifer to sleep, goodnight Cal!
 
 Then, we make *savory pancakes* (recipe, p.147), same recipe as regular pancakes, except that I use water instead of soy buttermilk. I like to use pancakes as quick-bread whilst sailing. The pancakes act as a sidedish to *soybean hummus* (recipe, p.133), carrots and daikon. The daikon had some nasty bits but I cut them off, and the rest was eatable, mild, but good enough by our standards. We had a glass of wine afterwards, as two albatrosses circled our boat, landing closer and closer everytime.
 
-![la lune](bowie.jpg "Voyage to the moon")
-
 They kept their distance at first, but now they come right near, checking us out, and allowing us to see their striking features more clearly. We named the more daring of the two "Bowie", because of the dark colouring around its eyes, which is very glamorous indeed. Everytime we look outside we see Bowie there, paddling next to the boat, having no trouble keeping up. Love ya Bowie, you're keeping us well entertained.
-
-![la lune](book9.jpg "Voyage to the moon")
    
 ##### 1530
 We have 2 carrots left, a length of daikon, 2 lotus roots, about 10 sweet potatoes and as many regular potatoes. We have 8 onions and 1/2 bulb of garlic. We should have bought more garlic. In the end while stocking up, this staple escaped our minds. We departed Japan so suddenly that we forgot a few key things. Ah well, we'll manage without, we have garlic powder that we can use as a backup.
@@ -746,7 +742,7 @@ Sometimes sailing feels like witchcraft. There was hardly any wind before, Pino 
 ##### 0600
 Devine got up earlier today, he did not feel the need to nap in his last 3-hour shift. He stayed up with me, had a 2nd breakfast — like a proper hobbit — and made REAL coffee. We've been having instant as it is easier to manage in rough seas, but now we're running out of the easy stuff so we don't have a choice. Devine pre-ground beans yesterday for this morning, he may continue to grind more ahead of time to make sure it's never too bothersome to prepare.
 
-![la lune](book10.jpg "Voyage to the moon")
+![](book10.jpg "Voyage to the moon")
 
 The wind is light, but good, we are making headway and will likely reach 180°W this afternoon. JOY. Then, we'll be moving toward our big halfway milestone of 2200 nm. With how things are currently, this trip will take longer than 45 days, but no matter, we're in the good season and left Japan early enough that we can have many more slow days. The seas are flat today, making it easy to move on light airs. We have to go northeast to keep with the wind, there is another no wind area southeast of us that we have to be careful to avoid. Robusta is behind us, it is not easy for them to go north, as the weather there is awful right now.  
 
@@ -795,6 +791,8 @@ The night is quiet otherwise, with stars in full view. The moon has set, making 
 
 #### July 1st (again)
 
+![](book1.jpg "Where is the wind")
+
     Distance covered: 110 nm
     Distance to Victoria: 2461 nm
 
@@ -806,18 +804,12 @@ We make *pancakes and maple syrup* (recipe, p.147) to celebrate our passing of 1
 
 Calm, calm, calm. Flat calm. Silvery, rippleless seas. We drifted last night until 4 h this morning, then turned on the iron wind to charge the batteries and to give ourselves a false sense of progress. Our dolphin family came to say hello today, we saw their outlines perfectly in calm waters. We felt guilty to be motoring with them around, I imagine the sound must be deafening underwater. Devine charged the Nikon yesterday and was able to take footage of our sea family.
 
-![la lune](porp1.jpg "Voyage to the moon")
-
 As we drifted in quiet waters this morning, I saw a strange creature pulsing in the water, it looked like a creature that had been turned inside out, translucent and pinkish. It had multiple bulbous protrusions. The ocean feels alien with such things living in it. We dubbed these strangelings "mimoids", like the manifestations in Solaris.
 
 Devine went up the mast to the first spreader to fix a light that had broken off, it was hanging by its wires. Devine feared that one day it would fall and smack us in the head. He secured it with tape, a good temporary fix. He was happy to come back down, even after only being up there for 5 minutes, as the bosun's chair was giving him a hell of a wedgie. "Ahh! My balls!" Dev whined as I helped him down.
-
-![la lune](book11.jpg "Voyage to the moon")
    
 ##### 0700
 I've been doodling a lot at night, drawing silly cartoons. My peanut people doodles keep me busy, it is therapeutic. Humor is a good way to deal with stress. It's something I did too when working at an animation studio in Japan. My computer was garbage and crashed constantly, between reboots I'd draw cartoons, featuring my derpy computer. It helped diffuse my anger and made working there bearable.
-
-![la lune](book1.jpg "Voyage to the moon")
    
 ##### 0800
 Devine made a glass noodle (potato noodles) stir-fry for lunch, using spices, our preserved lotus root and half a daikon. He also added bits of dried tofu. We love adding this type of tofu to meals as they soak up all the flavor. After lunch, Devine and I napped hard in succession. The sea is calm, with a swell coming out of the east. No wind, well... if one can call the occasional puff of air wind. We are pointing Pino's bow east, into the swell. I sing some Deathcab For Cutie as I steer...
@@ -857,13 +849,13 @@ I feel bad because I dropped a glass jar onto Devine's bony side while reaching 
 
 #### July 2nd
 
+![](book12.jpg "This is fine")
+
     Distance covered: 41 nm
     Distance to Victoria: 2488 nm
 
 ##### 0400
 July brings grey days and rain, a drizzle, annoying and ever-present. Weak winds are with us, still, we try and keep with it. Today, I am a slave to the compass, sacrificing comfort for forwardness. I prepared warm oatmeal, but the pan is dirty — Devine had the same idea. Warm meals on cold mornings feels good. I wonder if the solar panel will work today, given the grey conditions and low visibility. I miss the sun already. I'm glued to the stairs, hands on ropes, guiding Pino along as it doesn't care to guide itself today, like this amount of wind isn't worth fussing over — with 2 knots of speed I am inclined to agree, but still, there's a will in me to steer so I will steer.
-
-![la lune](book12.jpg "Voyage to the moon")
 
 ##### 0530
 Slave to the compass no longer, I've left my post, annoyed. The forecast I checked inspired this decision, as the coming calm is complete. We will not be sailing today, maybe not even tomorrow... this part of the ocean is not what I thought it'd be. It's like the doldrums of the north, but only around Pino. I've lashed the tiller, and rolled in the jib, now Pino can go wherever it wants at a snail's pace. There are waves that carry us onward, I wonder if this is what was propelling us on too last night. Today will be a quiet day, spent in a monochrome, wet world. The rain is too light to catch, I'm hoping for a good downpour so we can replenish our tanks. We are using as little water as possible, but catching a few liters would reassure me, and maybe permit us to wash a few neglected items.
@@ -872,8 +864,6 @@ Noticed we were getting a few amps from the solar panel after all, that is good.
    
 ##### 0900
 I made *mapo tofu* (recipe, p.148), with the last bit of daikon. We ate it, while Pino was engulfed in a thick fog bank. Been a while since we've been in weather like this, our world has become much smaller suddenly. The waves are down, as is the wind. The ocean is quiet.
-
-![la lune](book8.jpg "Voyage to the moon")
    
 ##### 1000
 I transcribe email addresses into a notebook reserved for this purpose. I had many Japanese boat cards to add, many more than I thought. I like keeping addresses all in one place.
@@ -955,6 +945,8 @@ Devine makes late night ramen on his last shift. I am happy he is eating and tha
 
 #### July 4th
 
+![](book0.jpg "AIS") 
+
     Distance covered: 120 nm
     Distance to Victoria: 2636 nm
 
@@ -1024,6 +1016,8 @@ Sometimes though, I grow tired of resting. I am restless to sail, to move forwar
 
 #### July 6th
 
+![](book3.jpg "Pendulum")
+
     Distance covered: 97 nm
     Distance to Victoria: 2733 nm
 
@@ -1031,8 +1025,6 @@ Sometimes though, I grow tired of resting. I am restless to sail, to move forwar
 The wind has been erratic, coming and going, always from the north, or the northeast. At times, it was so weak we could go neither east or north. Other times, the same strength permitted us to sail into it? Both of us are confused. The seas are also messy. Pino is sailing, but we're getting slapped by wavelets from the sout, west and east? The westerly swell is notably bigger. The fog is here again, and it is thick. I can see the sun still, a diffused ring of light perched up above. We're happy to be moving forward but being outside is uncomfortable, the fog leaves droplets of moisture all over Pino, and us if we happen to venture into the cockpit. 10 minutes out there and my eyelashes have wet beads in them, and my foul weather gear becomes thoroughly damp and heavy.
 
 This morning at 1 h, when I went to sleep, I noticed that I could see my own breath. Yep, it is cold in here! I was lying in bed, in a pile of sleeping bags, buried within to try and shield myself from it.
-
-![la lune](lantern.jpg "Voyage to the moon")
 
 Devine made a lantern our of a can of Yebisu beer yesterday, he hung it up and placed a candle in it. It helped us save power at night, while giving the room a nice ambiance. If we near our hands to it it gives off a bit of warmth too, it feels good after a cold shift.
 
@@ -1045,8 +1037,6 @@ Devines makes penne, using our last bag of fun-shaped pasta. He serves it with i
 We sail in and out of fog banks. Sailing in fog is hard on the eyes, its brings everything out of focus. I've got a massive headache right now, because my eyes strain too much, but also from constantly turning my head to look at the compass from the companionway door. I steer outside when the fog clears, and retreat indoors when it settles around us. Fog makes my clothes damp in a second. As Devine drives, I read "Golden Apples Of The Sun", a collection of shorts by Ray Bradbury. Really fun stories in which I can practice making voices, something I really enjoy doing and that distracts us both.
 
 We're sailing east into the wind, it is hard, as the waves make us yaw, and that self-steering is not possible. Can't complain though, as we are going forward, it's what I wanted, although I do wish that wind came at us from a better quarter. What I wish doesn't matter though, because we've got to live in the moment, what is is, and we've got to push on.
-
-![la lune](book4.jpg "Voyage to the moon")
    
 ##### 1730
 We give up — well, for today anyway. The wind died, gradually. We stayed with it for as long as we could, hand-steering into the waves, tacking north to find more wind. Devine started up the engine for 1 hour, motoring north to try and find wind. Nada! The gloom bug is back, we're doing our best to fight it off. I took a angry nap, but it did little to freshen my mood. Everytime we get wind I think: "This is the wind that will take us home!" It is silly to think such things, for a reliable breeze in an area outside of the trade wind belt. Our GRIB files are more than 60 hours old, not a good reference anymore for what's happening out there. We thought we could use it to approximate the conditions, but in an area of supposed fresh winds, we've got nothing. Pino is still, as if it's forgotten what sailing is, it just might, with all of the calms we've been having. I'm beginning to forget what progress feels like.
@@ -1055,7 +1045,7 @@ In better news, my ribs are better! I can sleep in almost any position, but I mu
 
 Now, we await wind, if it would be so kind as to return to instill a bit of hope in us, some faith in the possibility of making it to land... someday. I often joke that Pino is a log, when we're not going forward. In such times, I feel the log would get to its destination faster. Maybe Pino is just tired? Steering us from calm to calm to rest its rigging and wings. We pushed you hard these past 4 1/2 years, haven't we?
 
-![la lune](book3.jpg "Voyage to the moon")
+
 
 \newpage
 
@@ -1066,6 +1056,8 @@ Now, we await wind, if it would be so kind as to return to instill a bit of hope
 
 ##### 0100
 Calm, calm, calm, always and forever. Not much to say. This constant quiet has robbed me of all words, but thankfully, I'm still able to laugh at this situation through cartoons. This logbook is filled with them, and they get sillier as the gloom bug grows in size.
+
+> "Be patient. Wind leaves, but it also always comes back!"
    
 ##### 0400
 I awake to the sound of the engine. We hadn't agreed on using it today. Devine is driving, says he saw a tern flying and is following it, saying that it knows where the wind is. But no, it doesn't know this, and neither do we because we still can't get GRIB files. "Motoring won't help," I say, Devine finally agrees and turns it off. I take his place then, steering into nothing. Devine appears high-strung, annoyed, and he starts digging through the cockpit locker to get to our old dinghy oars. He finds them and elongates one of the two using a boat hook and some hose clamps. He takes it to the side of the boat and starts rowing...! What I said about rowing Pino earlier has happened, but as you can expect, it did little to propel us onward, especially with one side doing the work and because the oars are too small and not really very good ones. The paddle is too small. I urge Devine to stop, to go to bed, as I can tell he is frustrated. When Devine looses his cool, then you know that things are bad, but also, he has a headache again and I blame this for the momentary breakdown. "Go to bed." I say again. He stops, leaves the oar on the side and slips inside. He is tired, he needs his sleep.
@@ -1209,6 +1201,8 @@ Saw a ship on AIS called KDDI Cable Infinity. It's one of those vessels that lay
 \newpage
 
 #### July 11th
+
+![](book14.jpg "Rabbit waves")
 
     Distance covered: 46 nm
     Distance to Victoria: 2950 nm
@@ -1544,6 +1538,8 @@ The calm is here, it's caught up to us. We stopped motoring early on, as we down
 
 #### July 22nd
 
+![](book6.jpg "Lumpy sausage")
+
     Distance covered: 45 nm
     Distance to Victoria: 3648 nm
 
@@ -1552,18 +1548,14 @@ We got some good wind for 1 hour, then off it went again, I guess it didn't feel
 
 Do we still like the ocean? Yes, of course we still like it, we've spent too much time in it as of late, but we'll always love it. During this trip, we'd often ask ourselves, why do we do this? Why put ourselves through this crazy sailing across a vast ocean business? We don't really know why, but when we left Canada with Pino to go south, we knew we'd be taking it back home afterwards, that was a promise we'd made. No matter what, Pino would come back with us. We're a team, and we're closing this circle together.
 
-![la lune](book15.jpg "Voyage to the moon")
-
 ##### 1300
 What to say about today... calm days are torture when this close to our goal. The waves are slow but frequent, tossing us around. The calm, according to this morning's weather, will stay until this evening, 6 long hours away. I tried steering with the 2-3 knots of wind there was, but it is too much work for too little reward. Devine is reading Akira, while I sit outside, watching the horizon for ripples in the water. My patience meter depleted, I went inside to clean the dishes dirtied from dinner. I made rice with soybeans (canned), topped with a sweet and sour sauce, sauteed with some dried seaweed and 1/2 the potato from yesterday. We're eating a lot of beans these days, it was a staple on this trip, eaten in the form of soybeans, dry tofu, silken tofu and kuro mame, yokan, kinako powder. Looks like this day will consist mostly of sleeping, reading and waiting for wind. People on land complained of boredom during Coronavirus quarantine, well, they'd go stir-crazy on a voyage like this. This is quarantine on steroids. There is no internet, not enough power to watch films all day, not enough books to read, limited water and food... and a look outside our window offers nothing but grey.
 
-![la lune](book7.jpg "Voyage to the moon")
-
 I've noticed I've always got one word stuck in my head, a new one everyday that I repeat like a mantra. The word stays with me, especially when I'm too tired to think. Today's word is "flummoxed", yesterday's was "cassowary". Not all words are as great as these, a week ago I kept repeating the phrase "tits up", tirelessly. Maybe this is my brain's way of dealing with boredom. Repetition. Keeping the space filled with words leave little room for anxiety to take root.
 
-Today, I re-packed our ditch bag, the current bag grew a bit of mold as it lay under the space where we'd hang our wet clothes. I pulled out what I thought to be a large dry bag, thought it would serve as a good replacement. I rolled it out once to look at it, but never tried to pack anything into it, I'd noticed then how long it was and thought it would be perfect for this. I assumed it had as much girth as it had length — far from! I put two big items in, and noticed how narrow it was, and so instead of bulging outward it grew skyward. With all the items packed in, it was no wider than a soccer ball, but reached up to my waist, like a long, awkward, slender worm. I named it: "The lumpy sausage". Now everytime I look at it, I can't stop laughing.
+![](book7.jpg "Flummoxed cassowary")
 
-![la lune](book6.jpg "Voyage to the moon")
+Today, I re-packed our ditch bag, the current bag grew a bit of mold as it lay under the space where we'd hang our wet clothes. I pulled out what I thought to be a large dry bag, thought it would serve as a good replacement. I rolled it out once to look at it, but never tried to pack anything into it, I'd noticed then how long it was and thought it would be perfect for this. I assumed it had as much girth as it had length — far from! I put two big items in, and noticed how narrow it was, and so instead of bulging outward it grew skyward. With all the items packed in, it was no wider than a soccer ball, but reached up to my waist, like a long, awkward, slender worm. I named it: "The lumpy sausage". Now everytime I look at it, I can't stop laughing.
 
 ##### 2300
 The wind returned! I switched the sails (as they were on the wrong side) and we sped off! The wind started fast, blowing at a good 13-15 knots — perfect. Well, it would have been perfect if I hadn't looked at AIS to see that there was a large cargo ship heading straight for us, running on the same longitude. SHIT, I thought. Diverting southward seemed dumb as it was angling more that way, so I tightened the sheets and went as close to the wind as I could. It was enough to steer us 1 nm north of it. I saw its lights as it passed us, relieved and thankful for AIS, it saves us a lot of time and anxiety. It's easy to see their course and to divert appropriately ahead of time.
@@ -1725,6 +1717,18 @@ We couldn't go on land, but at least others had access to us! From here, it woul
 We look at each other, sitting on deck and admiring the view. "Hey..." I say to Devine, "i'm proud of you!" Devine smirks, "I'm proud of YOU!" We look at the Delta hotel across the water. "I guess the french fries and cold beer will have to wait huh?" Devine nods. "Yep, the bath too." We went to sleep that night, dirty, tired, but happy. We're here. HOLY CRAP we're here...!
 
 ![Quarantine dock](victoria2.jpg "Our quarantine dock in Victoria")
+
+> Limbo. Harpies everywhere.
+
+> Being surrounded by ships, can't enjoy the sea.
+
+> Incessant gales, can't sleep.
+
+> Forever becalmed, can't move ahead.
+
+> Overpowering tide, can't go into port.
+
+> Sunless sky, can't charge the GPS. Lost. 
 
 \newpage
 
@@ -2297,6 +2301,21 @@ In a bowl, mix 60 ml (1/4 cup) of vegetable broth (or kombu dashi), 15 g (1 tbsp
 Heat a pan at medium heat, add 15 ml (1 tbsp) of vegetable oil. When hot, add 3 minced garlic cloves and 1cm minced ginger root, cook until fragrant. Add 25 g (1/4 cup) of TVP, mix well, and sautée for 2 minutes. Add the sauce to the pan. When sauce is boiling, add 175 g of (1/2 of 350 g pack) cubed tofu, and cook until heated through. 
 
 Serve atop of rice, and season with ground sichuan pepper. I normally serve it with green onions, or chives, but it is a fresh ingredient I tend to lack at sea.
+
+\newpage
+
+# Boat recommendations
+
+1. Manual bilge pump in cabin
+2. Way to drive boat from inside
+3. Storm jib for self-steering
+4. Spare blocks, bike tubes (or surgical tubes), again, for self-steering
+5. Stow bow anchor below
+6. AIS transponder
+7. Boards, cut to size, to cover windows
+8. Backup tiller
+9. Locks on all floorboards, doors, lockers etc.
+10. Indoor compass
 
 \newpage
 
