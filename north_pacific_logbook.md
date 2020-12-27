@@ -61,9 +61,11 @@ Note: On this trip, we used GRIB files to read the weather. They are computer-de
 # Week 1 
 
 #### June 9th
+
+![](june09.jpg "oshima")
+
 	Distance covered: 0 nm
 	Distance to Victoria: 4045 nm
-
 
 ##### 0600
 We woke up early today, as we had little time to prepare before leaving Japan. Why so last minute? Because we only decided to leave yesterday morning. The reason we decided so late, was because we were waiting for a SIM card for our Iridium GO satellite phone, and we received it yesterday morning. As soon as we got it, we grabbed our passports and boat papers and hurried to the Immigration Office in Shizuoka to check out (a 4-5 hour train ride away). We were eager to leave on the 9th, as there was a good weather window, with moderate winds coming from a favourable direction. Because we weren't planning to leave until late yesterday morning, there were many tasks we had no yet done, or had not had time to do.
@@ -92,6 +94,9 @@ Wind rises to 20 knots, we put on our foul weather gear as we don't want to wet 
 \newpage
 
 #### June 10th
+
+![](june10.jpg "sick")
+
 	Distance covered: 165 nm
 	Distance to Victoria: 4045 nm
 
@@ -114,6 +119,8 @@ We eat chips as a snack, as we are not hungry for a full dinner. Everything tast
 \newpage
 
 #### June 11th
+
+![](june11.jpg "brocoli")
 
     Distance covered: 138 nm
     Distance to Victoria: 3926 nm
@@ -144,6 +151,8 @@ Made spaghetti with eggplant and green peppers for dinner. It is still hard to f
 
 ##### June 12th
 
+![](june12.jpg "rain")
+
     Distance covered: 162 nm
     Distance to Victoria: 3786 nm
 
@@ -156,6 +165,8 @@ The conditions out here are horrible. We are running with the waves and wind, we
 \newpage
 
 ##### June 13th
+
+![](june13.jpg "daikon")
 
     Distance covered: 192 nm
     Distance to Victoria: 3611 nm
@@ -175,6 +186,8 @@ Another rough and rainy night. This horrible system seems to cover the whole are
 \newpage
 
 #### June 14th
+
+![](june14.jpg "superhuman")
 
     Distance covered: 124 nm
     istance to Victoria: 3523 nm
@@ -262,6 +275,8 @@ Devine is doing a longer shift to give me time to rest. I took an advil for the 
 \newpage
 
 #### June 17th
+
+![](june17.jpg "disaster")
 
     Distance covered: 11 nm
     Distance to Victoria: 3331 nm
