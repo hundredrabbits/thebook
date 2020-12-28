@@ -207,6 +207,8 @@ Devine makes gnocchi. I managed to finish off my entire bowl — this is a good 
 
 #### June 15th
 
+![](june15.jpg "anchor")
+
     Distance covered: 52 nm
     Distance to Victoria: 3472 nm
 
@@ -244,6 +246,8 @@ The 'usual tricks' I have to pass the time include brainstorming, as I have many
 # Week 2
 
 #### June 16th
+
+![](june16.jpg "ribs")
 
     Distance covered: 144 nm
     Distance to Victoria: 3340 nm
@@ -308,6 +312,8 @@ We slept in each other's arms, with alarms on to warn us off coming ships. We do
 
 #### June 18th
 
+![](june18.jpg "heave to")
+
     Distance covered: 21 nm
     Distance to Victoria: 3311 nm
 
@@ -330,8 +336,6 @@ The first time we did it at sea, was on the sail from Mexico to the Marquesas. I
 
 It's a technique that is worth mastering, as it could save your boat, and your life, and in difficult times, it gives you time to rest.
 
-![la lune](lalune.jpg "heaving to")
-
 Our boat, with its fin keel, heaves-to well enough. Slowing the boat does cost time, but our safety is important. We've got plenty of time to get to Canada. We are so glad that the rig suffered no damage, we were lucky. Pino is a good, strong boat, we knew when we bought it, and we know it now. 
    
 ##### 1700
@@ -350,6 +354,8 @@ This is going to be a long, long trip, as we are not done seeing big waves.
 \newpage
 
 #### June 19th
+
+![](june19.jpg "jib")
 
     Distance covered: 95 nm
     Distance to Victoria: 3242 nm
@@ -377,6 +383,8 @@ Can't sleep. I am stressed about the weather, plus the bit of jib we couldn't fu
 \newpage
 
 #### June 20th
+
+![](june20.jpg "coffee")
 
     Distance covered: 40 nm
     Distance to Victoria: 3210 nm
@@ -417,6 +425,8 @@ Pino is steering itself. We are navigating from inside, checking our heading on 
 \newpage
 
 #### June 21st
+
+![](june21.jpg "smooth")
 
     Distance covered: 20 nm
     Distance to Victoria: 3214 nm
