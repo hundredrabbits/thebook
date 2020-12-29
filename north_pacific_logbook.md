@@ -454,6 +454,8 @@ Wind rose from the south, with big seas. We reefed the jib, put the 3rd reef in 
 
 #### June 22nd
 
+![](june22.jpg "pants")
+
     Distance covered: 103 nm
     Distance to Victoria: 3115 nm
 
@@ -490,6 +492,8 @@ In the South Pacific, many squalls would form at night. We would watch the horiz
 
 #### June 23rd
 
+![](june23.jpg "rot demons")
+
     Distance covered: 110 nm
     Distance to Victoria: 3040 nm
 
@@ -504,8 +508,6 @@ Took sleeping bags out to dry, also found more mold covering a variety of object
 
 We had *soba* (p.142) for lunch, the smell was enough to cover up the one emanating from the rotten charts.
 
-![la lune](charts.jpg "Voyage to the moon")
-
 To be truly rid of it, we'd have to exorcize the rot demons out of them.
    
 ##### 1600
@@ -517,6 +519,8 @@ Clear skies, with plenty of stars, but no time to enjoy them as the sea demands 
 \newpage
 
 #### June 24th
+
+![](june24.jpg "sad")
 
     Distance covered: 123 nm
     Distance to Victoria: 2943 nm
@@ -549,6 +553,8 @@ I noticed our heave to was behaving strangely... the main was flapping and causi
 \newpage
 
 #### June 25th
+
+![](june25.jpg "coffee")
 
     Distance covered: 49 nm
     Distance to Victoria: 2901 nm
@@ -593,6 +599,8 @@ It is cold outside, we steer from inside, pulling ropes between the washboards. 
 
 #### June 26th
 
+![](june26.jpg "socks")
+
     Distance covered: 106 nm
     Distance to Victoria: 2794 nm
 
@@ -626,6 +634,8 @@ Devine is making *cornpone* (recipe, p.139) for dinner! We thought we had cornme
 
 #### June 27th
 
+![](june27.jpg "toilet")
+
     Distance covered: 65 nm
     Distance to Victoria: 2735 nm
 
@@ -657,6 +667,8 @@ Maybe I got my wish? A calm is in our future. We were supposed to have a good br
 
 #### June 28th
 
+![](june28.jpg "oil")
+
     Distance covered: 121 nm
     Distance to Victoria: 2620 nm
 
@@ -686,7 +698,7 @@ Cruel that the wind is gone but that waves persist. I bet there's a circle of he
 
 #### June 29th
 
-![](book9.jpg "bowie")
+![](june29.jpg "bowie")
 
     Distance covered: 43 nm
     Distance to Victoria: 2583 nm
@@ -750,8 +762,6 @@ Wandered into yet, another patch of calm. This is better than beating or running
 
 A quiet ocean isn't the worse thing, as there is much to enjoy. Our neighbours the Pacific white-sided dolphins came to see us 3 times today. Because the sea was flat, we could hear them coming from far away. They are a most welcome sight. No matter how bad I'm feeling, their visit always perks me right up! Bowie left to look for food, we're left with the cackling storm petrels for company.
 
-![la lune](fog.jpg "Voyage to the moon")
-
 We moved closer to 180°W, we are at 178°E, here's hoping for wind returning later today so we can finally cross that invisible line! We noticed today that one of our spreader lights was broken, our espar heater too has issues... Pino is going to need a lot of love and attention after this trip is over.  
 
 ##### 2230
@@ -766,8 +776,6 @@ Sometimes sailing feels like witchcraft. There was hardly any wind before, Pino 
 
 ##### 0600
 Devine got up earlier today, he did not feel the need to nap in his last 3-hour shift. He stayed up with me, had a 2nd breakfast — like a proper hobbit — and made REAL coffee. We've been having instant as it is easier to manage in rough seas, but now we're running out of the easy stuff so we don't have a choice. Devine pre-ground beans yesterday for this morning, he may continue to grind more ahead of time to make sure it's never too bothersome to prepare.
-
-![](book10.jpg "Voyage to the moon")
 
 The wind is light, but good, we are making headway and will likely reach 180°W this afternoon. JOY. Then, we'll be moving toward our big halfway milestone of 2200 nm. With how things are currently, this trip will take longer than 45 days, but no matter, we're in the good season and left Japan early enough that we can have many more slow days. The seas are flat today, making it easy to move on light airs. We have to go northeast to keep with the wind, there is another no wind area southeast of us that we have to be careful to avoid. Robusta is behind us, it is not easy for them to go north, as the weather there is awful right now.  
 
@@ -792,8 +800,6 @@ We have an early glass of red wine to celebrate our near victory. We sip it as I
 ##### 1500
 I make *Japanese curry* (recipe, p.145), or "kare", a staple on Pino. It's a dish that I can always finish, even when not hungry. We both have a kare stomach. I used up the last carrot to make it. Now, our fresh vegetable bin is near empty, occupied by a quarter daikon and two preserved lotus roots.
 
-![la lune](meal.jpg "Voyage to the moon")
-
 ##### 1730
 WOOHOO! We made it past 180°W! We are officially in the Western Pacific! Exciting! This also means that we get to experience July 1st twice, as we are going back a day — funny how that works. It's nice to see degrees going down. We have a long way to go still to reach our destination which lies at 123°W, but it's a start, and we've got to appreciate little victories. Tomorrow morning, we'll celebrate this passing with pancakes and maple syrup, we'll open our last can of delicious liquid gold.
 
@@ -816,7 +822,7 @@ The night is quiet otherwise, with stars in full view. The moon has set, making 
 
 #### July 1st (again)
 
-![](book1.jpg "Where is the wind")
+![](july011.jpg "waiting")
 
     Distance covered: 110 nm
     Distance to Victoria: 2461 nm
@@ -874,7 +880,7 @@ I feel bad because I dropped a glass jar onto Devine's bony side while reaching 
 
 #### July 2nd
 
-![](book12.jpg "This is fine")
+![](july02.jpg "This is fine")
 
     Distance covered: 41 nm
     Distance to Victoria: 2488 nm
@@ -919,8 +925,6 @@ We are becalmed, again. Pino had a good run today though! Now, there is fog and 
 
 As we bob around, I hear voices in the rigging, a sort of squeaky "hellooo." Other times, while sitting outside at night, we'd hear "hey's!" and "check its!" When extremely tired, the brain not only finds words in sounds, we also have conversations with ghosts, asking questions, receiving answers... sometimes my own answers were so absurd that it would startle me into wakefulness. I'd start combining words to make new ones, or invent new ones entirely while being sure of their meaning. Questions like: "Where is the turtle there?" I'd answer with "the meeting last time", then say "in the mihtime" or something.
 
-![la lune](book13.jpg "Voyage to the moon")
-
 Lack of sleep does weird things to one's brain. Don't get me started on the things I saw moving in the compass! A head, nodding, agreeing to all of my nonsense, always. It would swallow me right up, my head swimming with numbers in a clear liquid, enveloped in yellow light. Thankfully, we hallucinate less these days, being becalmed allows for more sleep.
    
 ##### 2330
@@ -929,6 +933,8 @@ Found wind for 1 hour, but lost it again. The wind is rude during calms, it leav
 \newpage
 
 #### July 3rd
+
+![](july03.jpg "monster aleutian") 
 
     Distance covered: 82 nm
     Distance to Victoria: 2540 nm
@@ -970,7 +976,7 @@ Devine makes late night ramen on his last shift. I am happy he is eating and tha
 
 #### July 4th
 
-![](book0.jpg "AIS") 
+![](july04.jpg "AIS") 
 
     Distance covered: 120 nm
     Distance to Victoria: 2636 nm
@@ -998,13 +1004,9 @@ We have to alter course to avoid a fishing fleet that lies ahead. We see many ta
 ##### 1530
 It's worse than we thought. We've stumbled into a minefield of fishing vessels, a fleet of over 40, all huddled in together around us. They're covering 40 nm of ocean, going around them was just not possible. There is room to go between them, but it is scary. AIS has been beeping non-stop for the past 4 hours. We thought we'd reached the end but we saw many more appearing on AIS. What a nightmare. I thought we'd be clear of these monsters tonight but no. How is this possible? Why are they all here? I feel like a mouse in a pit of snakes.
 
-![la lune](ship.jpg "Voyage to the moon") 
-
 The sight of all these targets is too crazy, I almost don't believe it. They're all Chinese-flagged vessels, all huddled up together here — a hellish sight. I really hope fog won't set in, otherwise this could get dangerous. This is worse than sailing in Japanese coastal waters. We went through thinking that we'd reach the end of the fleet soon, but the thing is that AIS doesn't load all targets, especially those beyond 12 nm. There are many, many more ahead.
 
 There are no birds here. I understand. If I could leave this place skyward I'd do it.
-
-![la lune](book2.jpg "Voyage to the moon")
    
 ##### 2300
 We've passed it, but boy did it ever shake my trust of this ocean. I enjoyed its vast emptiness, and now we run into mid-ocean traffic of the worst sort. There is another cluster south of us, glad that it's there and not here. We spent the day weaving our way through them. The upside in all this is that we passed them quickly, as the wind was with us. Pino ran at 6 knots, eager too it seemed to leave this accursed patch of ships. When darkness fell, each ship turned on their lights, each one illuminating everything around them. It was easier to see where they were, but it also exposed just how many were around us, their light burning into the clouds above. Absolutely surreal, and horrible! Each time we approached an island of light we could hear their powerful engines whirring, and could smell their exhaust fumes. I was afraid they'd all start moving at once. It was like tiptoeing through a cave of sleeping bears. "SHHH! Must not wake them or they'll swallow us up!"
@@ -1014,6 +1016,8 @@ The wind is light now, and we cannot download the weather. We'll try again tomor
 \newpage
 
 #### July 5th
+
+![](july05.jpg "calm")
 
     Distance covered: 41 nm
     Distance to Victoria: 2671 nm
@@ -1041,7 +1045,7 @@ Sometimes though, I grow tired of resting. I am restless to sail, to move forwar
 
 #### July 6th
 
-![](book3.jpg "Pendulum")
+![](july06.jpg "Pendulum")
 
     Distance covered: 97 nm
     Distance to Victoria: 2733 nm
@@ -1227,7 +1231,7 @@ Saw a ship on AIS called KDDI Cable Infinity. It's one of those vessels that lay
 
 #### July 11th
 
-![](book14.jpg "Rabbit waves")
+![](july11.jpg "Rabbit waves")
 
     Distance covered: 46 nm
     Distance to Victoria: 2950 nm
@@ -1406,8 +1410,6 @@ Devine awakens. He is starving. He makes stir-fried potatoes with tofu and shiso
 It isn't raining, so I take this rare opportunity to fill up the diesel tank. Operation fill-up was a success, with no freak wave slashing up onto the deck. I can fill the tank myself, thanks to a little syphon we got while in New Zealand. I tie the diesel bin on the cabin-top rail, so it stands a bit higher, than I jiggle the syphon and have it empty into the tank through a funnel with a fine mesh strainer. No mess, no problem.
 
 We are considering stopping at Ucluelet if we get low on fuel, but I don't think it'll be necessary. Landing there would shorten our trip though, that is something to consider, say, if we are tired. I've already marked the positions of the customs and fuel dock on Navionics. The little marina there looks nice, going there is tempting, but I wonder what the situation is now for Coronavirus as we've been in the dark for 37 days. WOW. 37?! That's long. I stopped crossing dates on our calendar because it discouraged me, although the cartoons I've drawn in the margins always make me smile. Cartoons for the mind.
-
-![la lune](book5.jpg "Voyage to the moon")
    
 ##### 1200
 Devine is asleep. I am steering outside under a proper sun?! With a blue clearing? WHAT! It feels great to see colour in the sky again. It won't last, but for now, it is nice. I am lonely though, even if there are two of us aboard. We're rarely together as one is often sleeping while the other is awake, or steering outside while the other is keeping warm in the cabin. When the weather is good, or when we can self-steer we do activities together, like reading, drinking something or talking, but we haven't done a lot of that these past few days and it makes me sad. We're together, alone. At least we take the time to eat together for dinner, heaving to for a short hour. We plan to do this today.
@@ -1563,7 +1565,7 @@ The calm is here, it's caught up to us. We stopped motoring early on, as we down
 
 #### July 22nd
 
-![](book6.jpg "Lumpy sausage")
+![](july22.jpg "cassowary")
 
     Distance covered: 45 nm
     Distance to Victoria: 3648 nm
@@ -1578,8 +1580,6 @@ What to say about today... calm days are torture when this close to our goal. Th
 
 I've noticed I've always got one word stuck in my head, a new one everyday that I repeat like a mantra. The word stays with me, especially when I'm too tired to think. Today's word is "flummoxed", yesterday's was "cassowary". Not all words are as great as these, a week ago I kept repeating the phrase "tits up", tirelessly. Maybe this is my brain's way of dealing with boredom. Repetition. Keeping the space filled with words leave little room for anxiety to take root.
 
-![](book7.jpg "Flummoxed cassowary")
-
 Today, I re-packed our ditch bag, the current bag grew a bit of mold as it lay under the space where we'd hang our wet clothes. I pulled out what I thought to be a large dry bag, thought it would serve as a good replacement. I rolled it out once to look at it, but never tried to pack anything into it, I'd noticed then how long it was and thought it would be perfect for this. I assumed it had as much girth as it had length — far from! I put two big items in, and noticed how narrow it was, and so instead of bulging outward it grew skyward. With all the items packed in, it was no wider than a soccer ball, but reached up to my waist, like a long, awkward, slender worm. I named it: "The lumpy sausage". Now everytime I look at it, I can't stop laughing.
 
 ##### 2300
@@ -1590,6 +1590,8 @@ The rest of the night was uneventful, we are zooming forward, beating into the w
 \newpage
 
 #### July 23rd
+
+![](july23.jpg "Lumpy sausage")
 
     Distance covered: 109 nm
     Distance to Victoria: 3699 nm
@@ -1741,19 +1743,11 @@ We couldn't go on land, but at least others had access to us! From here, it woul
 
 We look at each other, sitting on deck and admiring the view. "Hey..." I say to Devine, "i'm proud of you!" Devine smirks, "I'm proud of YOU!" We look at the Delta hotel across the water. "I guess the french fries and cold beer will have to wait huh?" Devine nods. "Yep, the bath too." We went to sleep that night, dirty, tired, but happy. We're here. HOLY CRAP we're here...!
 
-![Quarantine dock](victoria2.jpg "Our quarantine dock in Victoria")
+\newpage
 
-> Limbo. Harpies everywhere.
+![](victoria.jpg "Our quarantine dock in Victoria")
 
-> Being surrounded by ships, can't enjoy the sea.
-
-> Incessant gales, can't sleep.
-
-> Forever becalmed, can't move ahead.
-
-> Overpowering tide, can't go into port.
-
-> Sunless sky, can't charge the GPS. Lost. 
+Our quarantine dock in Victoria.
 
 \newpage
 
