@@ -68,28 +68,30 @@ Note: On this trip, we used GRIB files to read the weather. They are computer-de
 	Distance to Victoria: 4045 nm
 
 ##### 0600
-We woke up early today, as we had little time to prepare before leaving Japan. Why so last minute? Because we only decided to leave yesterday morning. The reason we decided so late, was because we were waiting for a SIM card for our Iridium GO satellite phone, and we received it yesterday morning. As soon as we got it, we grabbed our passports and boat papers and hurried to the Immigration Office in Shizuoka to check out (a 4-5 hour train ride away). We were eager to leave on the 9th, as there was a good weather window, with moderate winds coming from a favourable direction. Because we weren't planning to leave until late yesterday morning, there were many tasks we had no yet done, or had not had time to do.
+We woke up early today, as we had little time to prepare before leaving Japan. Why so last minute? Because we only decided to leave yesterday. The reason we decided so late, was because we were waiting for a SIM card for our Iridium GO satellite phone, and we received it yesterday morning. As soon as we got it, we grabbed our passports and boat papers and hurried to the Immigration Office in Shizuoka to check out (a 4-5 hour train ride away). We were eager to leave on the 9th, as there was a good weather window, with moderate winds coming from a favourable direction. Because we weren't planning to leave until late yesterday morning, there were many tasks we had no yet done, or had not had time to do.
 
-We're usually more organized than this, with only a few menial tasks to do, but not this time. Last minute departures is not our style, but we also wanted to take this window. We had to find a post box to send the pocket wifi we rented and to fill our water tanks — this may not seem like much, but it was, as it piled up on top of other things we'd forgotten, like finding and installing the pot holders to the stovetop, installing the jack lines, taking out the tethers, putting key items back in the ditch bag plus a number of other last minute things that had escaped us at the time.
+We're usually more organized than this, with only a few menial tasks to do, but not this time. Last minute departures is not our style, but we also wanted to take this window. We had to find a post box to send the pocket wifi we rented and to fill our water tanks — this may not seem like much, but it was, as it piled up on top of other things we'd forgotten, like finding and installing the pot holders to the stovetop, installing the jack lines, locating the tethers, putting key items back in the ditch bag plus a number of other last minute things that had escaped our minds at the time.
 
 ##### 0700
-We meet Shuhei, Thomas and Anja on the sailing vessel Robusta for coffee, turning down a cup as coffee, as it never sits right on the first day at sea. We use this opportunity to chat, meanwhile butterflies gather in my gut. I am nervous. I always am before a big trip and this time is no different, although this is our biggest passage yet, and will also likely be the most challenging. My gut has every right to twist itself into knots. We ask Shuhei to drop off our pocket wifi in a post box, he agrees ­— ah, what a kind person. He came by this with his truck to help Robusta with some last minute tasks, like getting produce, gas etc. We had done most of that ahead of time.
+We meet Shuhei, Thomas and Anja on their sailboat Robusta. We turned down a cup as coffee, as it never sits right on the first day at sea. We use this opportunity to chat, meanwhile butterflies gather in my gut. I am nervous. I always am before a big trip, and this time is no different. Although this is our biggest passage yet, and will also be the most challenging. My gut has every right to twist itself into knots. We ask Shuhei to drop off our pocket wifi in a post box, he agrees ­— ah, what a kind person! He came by this with his truck to help Robusta with some last minute tasks, like getting produce, gas etc. We had done most of that ahead of time.
 
 ##### 0800
-We push off our spot and head over to the Shimoda Boat Services pontoon to fill our water tanks. We tied up to it and began to ferry bins back and forth to empty them in our tank. We filled as many recipients as we could carry, as we don't know how long the trip will take. Once the tanks and jerry cans were full, we left the pontoon and headed outside of the breakwater. The Shimoda coastguard ship was lifting anchor at the time, it went past us, disappearing quickly as it was going much faster. Outside of the breakwater, we saw the lighthouse on our starboard side, the one we had difficulty rounding when we arrived here a week and a half ago due to 30-knot winds off our bow. Today, the seas were tame and the skies clear and blue.
+We push off our spot and head over to the Shimoda Boat Services pontoon to fill our water tanks. We tied up to it and began to ferry bins back and forth to empty them in our tank. We filled as many recipients as we could carry, as we don't know how long the trip will take. Once the tanks and jerry cans were full, we left the pontoon and headed outside of the breakwater. The Shimoda coastguard ship was lifting anchor at the time, it went past us, disappearing quickly as it was going much faster. Outside of the breakwater, we saw the lighthouse on our starboard side, the one we had difficulty rounding when we arrived here a week and a half ago. Today, the seas were tame, and the skies clear and blue. Unrecognizable. 
 
-We saw the Kurofune, a replica of Commodore Perry's black ship, taking tourists about the harbor. It was the first time we'd seen it on the water, as there weren't many tourists before due to concerns with the coronavirus. Now that the state of emergency's been lifted, people started traveling more around the country.
+We saw the Kurofune, a replica of Commodore Perry's black ship, taking tourists around the harbor. It was the first time we'd seen it on the water, as there weren't many tourists before due to concerns with the coronavirus. Now that the state of emergency's been lifted, people started traveling around the country again.
 
 ##### 1200
-The current is pushing us along, fast. We passed Oshima island at a ridiculous speed of 9.5 knots! The kuroshio, or black current, is very strong in this area, and even stronger between the islands as the water is forced through a narrow opening. We had no problem with ships, even with many heading to Tokyo. Our speed made it easy to work our way out of the main shipping channel. We are flying! Pino is happy to be moving again, and as are we.
+The current is pushing us along, fast. We passed Oshima island at a ridiculous speed of 9.5 knots! The kuroshio, or black current, is very strong in this area, and even stronger between the islands as the water is forced through a narrow opening. We had no problem with ships, even with many moving toward Tokyo. Our speed made it easy to work our way out of the main shipping channel. 
+
+We are flying! Pino is happy to be moving again, and as are we.
 
 ##### 1430
-We saw porpoises in the water! It's been too long! They came for a bow-riding session. We missed them. Winds are coming out of the southwest, at a good speed of 12-15 knots. We're going at 8 knots. For lunch, we had inari pouches (rice stuffed tofu pockets), a meal we'd purchased at MaxValue the night before. It's nice not having to cook on the first day. Neither of us are sea sick, but going below is still difficult and can easily trigger it. We stay outside instead, enjoying the good wind, weather and sun.
+We saw porpoises in the water! It's been too long! They came for a bow-riding session. We missed them. Winds are coming out of the southwest, at a good strength of 12-15 knots, with Pino doing 8 knots. For lunch, we had inari pouches (rice-stuffed tofu pockets), a meal we'd purchased at MaxValue the night before. Not cooking on the first day is nice, neither of us are sea sick, but going below is still difficult and can easily trigger it. We stay outside instead, enjoying the good wind, weather and sun.
 
-Devine is reading "The mushrooom at the end of the world", while I steer us east. We tried calling Robusta on the VHF, but got no answer, either they're too far or their radio isn't on.
+Devine is reading "The mushrooom at the end of the world", while I steer us east. We tried hailing Robusta on the VHF, but got no answer, either they're too far or their radio isn't on.
 
 ##### 1700
-Wind rises to 20 knots, we put on our foul weather gear as we don't want to wet our clothes. We won't be doing laundry in this trip, so keeping clothes dry is crucial.
+The wind rises to 20 knots, we put on our foul weather gear as we don't want to wet our clothes. We won't be doing laundry in this trip, so keeping clothes dry is crucial.
 
 \newpage
 
@@ -101,20 +103,26 @@ Wind rises to 20 knots, we put on our foul weather gear as we don't want to wet 
 	Distance to Victoria: 4045 nm
 
 ##### 0800
-We download the weather, it is the same as yesterday, but it looks like the wind will increase this evening. Both of us are feeling sick and grumpy. We're experiencing the early symptoms of sea sickness, which usually means a headache, reduced appetite, morose view on things etc. This happens on every trip. Neither of us have ever vomited, thankfully.
+We download the weather, it is the same as yesterday, but it looks like the wind will increase this evening. Both of us are ill and grumpy. We're experiencing the early symptoms of sea sickness, which usually means a headache, reduced appetite and a morose view on things. This happens on every trip. Our inner ears fight our eyes, both are determined to convince the brain of their version of reality. This incongruity, if allowed to persist, will trigger vomitting. In our 5 years of sailing, neither of us have ever vomitted — good!
+
+The first 2 days of every offshore trip are the hardest. We whine a lot, profess to hate sailing, and question why we do this at all.. and then on the 3rd day our inner ears adjust, our brains adapt and learn the rhythm of the boat and sailing becomes fun again!
+
+Generally when we feel seasick we steer the boat while keeping our eyes on the horizon. When steering, we're able to predict movements and are more likely to not get sick. We also avoid coffee in the beginning
 
 Yesterday we sent Robusta an email and got a reply, they are ok and are southwest of us.
 
 ##### 1200
-We napped hard, then awoke and decided that we should try and cook something. Neither of us feel like eating rice balls, we regret getting so many as we aren't sure we can eat them. We have no appetite, but try to eat anyway.
+We napped hard, then awoke and decided that we should try and cook something. Neither of us feel like eating onigiri (rice balls), we regret getting so many as we aren't sure we can eat them. We have no appetite, but we try to eat anyway.
 
 We ate raw snap peas as a snack, the texture was weird in our mouths. Devine made spicy ramen, which were very, very spicy. I couldn't finish my bowl. We had a grapefruit for desert, and made a mess on deck trying to pry it apart. The deck had red on it for a while afterwards.
 
 ##### 1700
-We check the weather again. We don't normally check it twice a day as it eats up data, but the weather was changing so fast...! We wanted to know what was going on. We're glad we looked, as the wind was set to increase by a lot. If we hadn't checked, we might not have set the second reef point in our main. The last thing we want in this ocean is to have too much canvas up.
+We check the weather again. We don't normally check it twice a day as it eats up data, but the weather was changing so fast...! We wanted to know what was going on. We're glad we looked, as the wind was set to increase by a lot. If we hadn't checked, we might not have set the second reef point in our mainsail. The last thing we want in this ocean is to have too much canvas up. Shaking out a reef is easier than putting one in in high winds.
+
+Our rule is that if we think about maybe reefing a sail, we do it without hesitation. Another important rule, is to never reef at night. Everything is harder to do in the dark. Generally, we decided to reef while the sun is still up, or don't.
 
 ##### 1800
-We eat chips as a snack, as we are not hungry for a full dinner. Everything tastes weird? It's like our taste buds are going crazy. The only thing that goes down easy is salty foods.
+We eat chips as a snack, as we are not hungry for a full dinner. Everything tastes weird? It's like our taste buds are on LSD. The only thing that goes down easy is salty foods.
 
 \newpage
 
