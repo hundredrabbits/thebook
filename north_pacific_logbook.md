@@ -103,23 +103,27 @@ The wind rises to 20 knots, we put on our foul weather gear as we don't want to 
 	Distance to Victoria: 4045 nm
 
 ##### 0800
-We download the weather, it is the same as yesterday, but it looks like the wind will increase this evening. Both of us are ill and grumpy. We're experiencing the early symptoms of sea sickness, which usually means a headache, reduced appetite and a morose view on things. This happens on every trip. Our inner ears fight our eyes, both are determined to convince the brain of their version of reality. This incongruity, if allowed to persist, will trigger vomitting. In our 5 years of sailing, neither of us have ever vomitted — good!
+We download the weather, it is the same as yesterday, but it looks like the wind will increase this evening. Both of us are ill and grumpy. We're experiencing the early symptoms of sea sickness, which usually means a headache, reduced appetite and a morose view on things. This happens on every trip. Our inner ears fight our eyes, both are determined to convince the brain of their version of reality. This incongruity, if allowed to persist, will trigger vomitting. In our 5 years of sailing, we've managed to keep our food and fluids inside, where they belong. 
 
-The first 2 days of every offshore trip are the hardest. We whine a lot, profess to hate sailing, and question why we do this at all.. and then on the 3rd day our inner ears adjust, our brains adapt and learn the rhythm of the boat and sailing becomes fun again!
+The first 2 days of every offshore trip are the hardest. We whine a lot, profess to hate sailing, and question why we sail at all. Then on the 3rd day our inner ears adjust, our brains adapt and learn the rhythm of the boat and sailing is fun again. Although, we've met sailors that are not so lucky, cursed with seasickness that persists for the entirety of their trip, and yet, they continue to sail. It's remarkable, really. 
 
-Generally when we feel seasick we steer the boat while keeping our eyes on the horizon. When steering, we're able to predict movements and are more likely to not get sick. We also avoid coffee in the beginning
+When we feel seasick we steer the boat while keeping our eyes on the horizon. We also avoid coffee in the beginning, refusing that cup from Robusta yesterday was wise. 
 
-Yesterday we sent Robusta an email and got a reply, they are ok and are southwest of us.
+Yesterday we sent Anja and Thomas an email and got a reply, they are ok and are southwest of us.
 
 ##### 1200
-We napped hard, then awoke and decided that we should try and cook something. Neither of us feel like eating onigiri (rice balls), we regret getting so many as we aren't sure we can eat them. We have no appetite, but we try to eat anyway.
+We napped hard, then awoke and decided that we should try and cook something. Neither of us feel like eating onigiri (recipe, p. 175), we regret making so many as we aren't sure we can eat them. They were our go-to snack when in Japan. Onigiri is made from white sticky rice formed into triangular or cylindrical shapes and often wrapped in nori (seaweed). They can served as is, with salt as seasoning, or with a filling like pickled plums, kombu or salted fish. The salty and sour fillings act as a natural preservative. We love onigiri, but today we have no appetite.
 
-We ate raw snap peas as a snack, the texture was weird in our mouths. Devine made spicy ramen, which were very, very spicy. I couldn't finish my bowl. We had a grapefruit for desert, and made a mess on deck trying to pry it apart. The deck had red on it for a while afterwards.
+The day before we sailed to Mainland Japan, a friend that we met in Chichijima gave us homemade onigiri for the trip. The weather was very bad, we couldn't cook, we were glad to have the rice balls then! It's an easy, and quick meal. In the seventeenth century, samurai carried them, but the origin of onigiri goes back even further, to a time before the Japanese used chopsticks. Molding the rice into balls made it easier to handle with your hands.
+
+Despite not being hungry, we ate raw snap peas as a snack. The texture was weird in our mouths. Devine made spicy ramen, which were very, very spicy. I couldn't finish my bowl. We had a grapefruit for desert, and made a mess on deck trying to pry it apart. The deck had red on it for a while afterwards.
 
 ##### 1700
-We check the weather again. We don't normally check it twice a day as it eats up data, but the weather was changing so fast...! We wanted to know what was going on. We're glad we looked, as the wind was set to increase by a lot. If we hadn't checked, we might not have set the second reef point in our mainsail. The last thing we want in this ocean is to have too much canvas up. Shaking out a reef is easier than putting one in in high winds.
+We check the weather again. We don't normally check it twice a day as it eats up data, but the weather was changing so fast...! We wanted to know what was going on. We're glad we looked, as the wind was set to increase by a lot. If we hadn't checked, we might not have set the second reef point in our mainsail. The last thing we want in this ocean is to have too much canvas up. Shaking out a reef is easier than putting one in during high winds.
 
-Our rule is that if we think about maybe reefing a sail, we do it without hesitation. Another important rule, is to never reef at night. Everything is harder to do in the dark. Generally, we decided to reef while the sun is still up, or don't.
+Our rule is that if we think about maybe reefing a sail, we do it. Another important rule, is to never reef at night. Everything is harder to do in the dark. Generally, we decide to reef while the sun is up, or don't. We are not racing, we don't care to have the most sail up always, our main concern is our safety.
+
+Our main sail didn't used to have a third reef, we had a new one made in New Zealand with it. We're glad we did. 
 
 ##### 1800
 We eat chips as a snack, as we are not hungry for a full dinner. Everything tastes weird? It's like our taste buds are on LSD. The only thing that goes down easy is salty foods.
@@ -1960,6 +1964,32 @@ Below is a list of items that we had aboard Pino on the passage from Japan to Ca
 > Pancake                             143
 
 > Mapo tofu                           144
+
+\newpage
+
+## Plain onigiri
+
+This recipe makes 6 plain onigiri. Plain rice balls go down easy on sailing trips! 
+
+Ingredients
+-----------------------    --------------------------- 
+Japanese short grain rice  190 g
+Water                      350 mL
+Salt                       to taste
+Nori                       2 sheets                  
+-----------------          ---------------------------
+
+Wash the starch from 190 g (1 cup) of Japanese short grain rice (white), rinsing with fresh water until it runs clear. Let soak for 30 minutes, then drain the water. Transfer rice to pot, along with 350 ml (1 1/2 cups) of water. Bring water to a boil, at medium heat. When water is boiling, reduce heat to a simmer, cover, and let cook for 10 minutes (or until all water is absorbed). Resist the urge to peek into the pot before the 10-minute mark.
+
+Remove pot from heat, and let steam with the lid for 10 minutes. With a spatula, or rice paddle, fluff the rice. Let the rice cool enough that you can touch it with your hands, but don't wait until it's cooled completely.
+
+For the wrapper, cut the nori sheets in thirds. Wet your hands so the rice doesn't stick to your skin, I like to keep a bowl nearby to dip my hands in. Put some salt (dip 2 wet fingers in salt) on your hands and spread them around your palms. Pick up a handful of warm rice in one hand. If you want to use filling, make a small well in the center of the rice, and put 1-2 tsp of the mixture in the center. Then, mold rice with your hands around the filling to cover it up completely. If you're not using filling, skip this step.
+
+Shape into a rough triangle, or ball, with your hands. Press rice firmly, so the rice ball doesn't fall apart. Place rice ball in center of 1/3 of a sheet of nori, and fold corners over it.
+
+*Yaki Onigiri*: Instead of wrapping the rice ball in nori, alternatively, you can leave it as is, and season the outside with sesame seeds or furikake (Japanese spice mixes). Another option, is to grill the plain rice balls in a lightly-oiled pan until browned and crispy, and to brush the outside with soy sauce. 
+
+*Onigiri with filling*. Add pickled plums (remove the pits), seasoned kombu or steamed edamame (young soy beans). 
 
 \newpage
 
