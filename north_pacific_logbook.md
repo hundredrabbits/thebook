@@ -1080,6 +1080,8 @@ Now, we await wind, if it would be so kind as to return to instill a bit of hope
 
 #### July 7th
 
+![](july07.jpg "Pendulum")
+
     Distance covered: 99 nm
     Distance to Victoria: 2795 nm
 
@@ -1116,6 +1118,8 @@ I'd rather be here than on a plane though, that much is sure, as I hate to be bo
 \newpage
 
 #### July 8th
+
+![](july08.jpg "Pendulum")
 
     Distance covered: 49 nm
     Distance to Victoria: 2836 nm
@@ -1170,6 +1174,8 @@ I bought boxes of Clif Bars in Japan before leaving, as filler for our ditch bag
 
 #### July 9th
 
+![](july09.jpg "Pendulum")
+
     Distance covered: 59 nm
     Distance to Victoria: 2860 nm
 
@@ -1205,6 +1211,8 @@ The night is smooth, so far. We are staying ahead of the weather, pretending it 
 \newpage
 
 #### July 10th
+
+![](july10.jpg "Pendulum")
 
     Distance covered: 133 nm
     Distance to Victoria: 2941 nm
@@ -1263,6 +1271,8 @@ I am eager, scared to see how this develops. 40 knots of wind isn't a big deal f
 
 #### July 12th
 
+![](july12.jpg "Pendulum")
+
     Distance covered: 52 nm
     Distance to Victoria: 2948 nm
 
@@ -1299,6 +1309,8 @@ Devine comes in for some hot chocolate. A mix of cocoa powder, kinako powder (ro
 # Week 6
 
 #### July 13th
+
+![](july13.jpg "Pendulum")
 
     Distance covered: 84 nm
     Distance to Victoria: 3014 nm
@@ -1745,17 +1757,33 @@ We look at each other, sitting on deck and admiring the view. "Hey..." I say to 
 
 \newpage
 
+# Quarantine dock
+
 ![](victoria.jpg "Our quarantine dock in Victoria")
 
-Our quarantine dock in Victoria.
+We'll end this story by thanking those who helped us during our 14-day quarantine period. 
+
+> Jason, for doing our laundry and for the take-out food.
+
+> Brian, for the extra baking supplies. 
+
+> Cameron, for happy junk foods. 
+
+> Robert, for the fresh produce.
+
+> Judie & Colin, for the company.
+
+> Marie, for the pocket wifi, brew and fresh produce. 
+
+> Karin & Rick, for the icecream and fresh produce.
+
+> Colin N., for the mouse.
+
+> Warren for the fresh produce and beer.
 
 \newpage
-
-![](closingwords.jpg)
 
 # Closing words
-
-\newpage
 
 If you ask us why we decided to go sailing, we don't think we could give you a straight answer. Even the authors of our sailing manuals cannot explain what might compel anyone to do it, even after being made aware of the many perils of an ocean. Why would anyone do something with a very real risk of not making it back to shore, and furthermore, for no obvious reward?
 
@@ -1780,8 +1808,6 @@ We have seen the non-participation to the throughput mechanisms of society label
 We believe that one can use nature's indifference as a reminder of the actual fortitude of their being, to learn of one's own true capacity for resilience when communing with nature — Ideas altogether at odds with modern stories, or an invitation to be part of something.
 
 > "Modern man requires more and more comfort both at home and in the car. Sailors, too, want more comfort in their cruisers, but comfort cannot be combined with simplicity. And when life is no longer simple, it loses both beauty and joy." (Sven Yrvind, 2017) 
-
-We'll end this story by thanking those who helped us during our 14-day quarantine period. Thank you Jason, for doing our laundry and for bringing some amazing take-out food, Brian, for the extra baking supplies, Cameron, for happy junk foods, Robert, for the fresh produce, Judie & Colin, for the company, Marie, for the pocket wifi, brew and fresh produce, Colin N., for the mouse and Warren for the fresh produce and beer.
 
 Thank you for reading.
 
