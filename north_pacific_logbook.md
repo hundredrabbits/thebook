@@ -62,7 +62,7 @@ Note: On this trip, we used GRIB files to read the weather. They are computer-de
 
 #### June 9th
 
-![](june09.jpg "oshima")
+![](img/june09.jpg "oshima")
 
 	Distance covered: 0 nm
 	Distance to Victoria: 4045 nm
@@ -97,7 +97,7 @@ The wind rises to 20 knots, we put on our foul weather gear as we don't want to 
 
 #### June 10th
 
-![](june10.jpg "sick")
+![](img/june10.jpg "sick")
 
 	Distance covered: 165 nm
 	Distance to Victoria: 4045 nm
@@ -132,7 +132,7 @@ We eat chips as a snack, as we are not hungry for a full dinner. Everything tast
 
 #### June 11th
 
-![](june11.jpg "brocoli")
+![](img/june11.jpg "brocoli")
 
     Distance covered: 138 nm
     Distance to Victoria: 3926 nm
@@ -163,7 +163,7 @@ Made spaghetti with eggplant and green peppers for dinner. It is still hard to f
 
 ##### June 12th
 
-![](june12.jpg "rain")
+![](img/june12.jpg "rain")
 
     Distance covered: 162 nm
     Distance to Victoria: 3786 nm
@@ -178,7 +178,7 @@ The conditions out here are horrible. We are running with the waves and wind, we
 
 ##### June 13th
 
-![](june13.jpg "daikon")
+![](img/june13.jpg "daikon")
 
     Distance covered: 192 nm
     Distance to Victoria: 3611 nm
@@ -199,7 +199,7 @@ Another rough and rainy night. This horrible system seems to cover the whole are
 
 #### June 14th
 
-![](june14.jpg "superhuman")
+![](img/june14.jpg "superhuman")
 
     Distance covered: 124 nm
     istance to Victoria: 3523 nm
@@ -219,7 +219,7 @@ Devine makes gnocchi. I managed to finish off my entire bowl — this is a good 
 
 #### June 15th
 
-![](june15.jpg "anchor")
+![](img/june15.jpg "anchor")
 
     Distance covered: 52 nm
     Distance to Victoria: 3472 nm
@@ -259,7 +259,7 @@ The 'usual tricks' I have to pass the time include brainstorming, as I have many
 
 #### June 16th
 
-![](june16.jpg "ribs")
+![](img/june16.jpg "ribs")
 
     Distance covered: 144 nm
     Distance to Victoria: 3340 nm
@@ -292,7 +292,7 @@ Devine is doing a longer shift to give me time to rest. I took an advil for the 
 
 #### June 17th
 
-![](june17.jpg "disaster")
+![](img/june17.jpg "disaster")
 
     Distance covered: 11 nm
     Distance to Victoria: 3331 nm
@@ -324,7 +324,7 @@ We slept in each other's arms, with alarms on to warn us off coming ships. We do
 
 #### June 18th
 
-![](june18.jpg "heave to")
+![](img/june18.jpg "heave to")
 
     Distance covered: 21 nm
     Distance to Victoria: 3311 nm
@@ -367,7 +367,7 @@ This is going to be a long, long trip, as we are not done seeing big waves.
 
 #### June 19th
 
-![](june19.jpg "jib")
+![](img/june19.jpg "jib")
 
     Distance covered: 95 nm
     Distance to Victoria: 3242 nm
@@ -396,7 +396,7 @@ Can't sleep. I am stressed about the weather, plus the bit of jib we couldn't fu
 
 #### June 20th
 
-![](june20.jpg "coffee")
+![](img/june20.jpg "coffee")
 
     Distance covered: 40 nm
     Distance to Victoria: 3210 nm
@@ -438,7 +438,7 @@ Pino is steering itself. We are navigating from inside, checking our heading on 
 
 #### June 21st
 
-![](june21.jpg "smooth")
+![](img/june21.jpg "smooth")
 
     Distance covered: 20 nm
     Distance to Victoria: 3214 nm
@@ -466,7 +466,7 @@ Wind rose from the south, with big seas. We reefed the jib, put the 3rd reef in 
 
 #### June 22nd
 
-![](june22.jpg "pants")
+![](img/june22.jpg "pants")
 
     Distance covered: 103 nm
     Distance to Victoria: 3115 nm
@@ -504,7 +504,7 @@ In the South Pacific, many squalls would form at night. We would watch the horiz
 
 #### June 23rd
 
-![](june23.jpg "rot demons")
+![](img/june23.jpg "rot demons")
 
     Distance covered: 110 nm
     Distance to Victoria: 3040 nm
@@ -532,7 +532,7 @@ Clear skies, with plenty of stars, but no time to enjoy them as the sea demands 
 
 #### June 24th
 
-![](june24.jpg "sad")
+![](img/june24.jpg "sad")
 
     Distance covered: 123 nm
     Distance to Victoria: 2943 nm
@@ -566,7 +566,7 @@ I noticed our heave to was behaving strangely... the main was flapping and causi
 
 #### June 25th
 
-![](june25.jpg "coffee")
+![](img/june25.jpg "coffee")
 
     Distance covered: 49 nm
     Distance to Victoria: 2901 nm
@@ -611,7 +611,7 @@ It is cold outside, we steer from inside, pulling ropes between the washboards. 
 
 #### June 26th
 
-![](june26.jpg "socks")
+![](img/june26.jpg "socks")
 
     Distance covered: 106 nm
     Distance to Victoria: 2794 nm
@@ -646,7 +646,7 @@ Devine is making *cornpone* (recipe, p.139) for dinner! We thought we had cornme
 
 #### June 27th
 
-![](june27.jpg "toilet")
+![](img/june27.jpg "toilet")
 
     Distance covered: 65 nm
     Distance to Victoria: 2735 nm
@@ -679,7 +679,7 @@ Maybe I got my wish? A calm is in our future. We were supposed to have a good br
 
 #### June 28th
 
-![](june28.jpg "oil")
+![](img/june28.jpg "oil")
 
     Distance covered: 121 nm
     Distance to Victoria: 2620 nm
@@ -710,7 +710,7 @@ Cruel that the wind is gone but that waves persist. I bet there's a circle of he
 
 #### June 29th
 
-![](june29.jpg "bowie")
+![](img/june29.jpg "bowie")
 
     Distance covered: 43 nm
     Distance to Victoria: 2583 nm
@@ -834,7 +834,7 @@ The night is quiet otherwise, with stars in full view. The moon has set, making 
 
 #### July 1st (again)
 
-![](july011.jpg "waiting")
+![](img/july011.jpg "waiting")
 
     Distance covered: 110 nm
     Distance to Victoria: 2461 nm
@@ -892,7 +892,7 @@ I feel bad because I dropped a glass jar onto Devine's bony side while reaching 
 
 #### July 2nd
 
-![](july02.jpg "This is fine")
+![](img/july02.jpg "This is fine")
 
     Distance covered: 41 nm
     Distance to Victoria: 2488 nm
@@ -946,7 +946,7 @@ Found wind for 1 hour, but lost it again. The wind is rude during calms, it leav
 
 #### July 3rd
 
-![](july03.jpg "monster aleutian") 
+![](img/july03.jpg "monster aleutian") 
 
     Distance covered: 82 nm
     Distance to Victoria: 2540 nm
@@ -988,7 +988,7 @@ Devine makes late night ramen on his last shift. I am happy he is eating and tha
 
 #### July 4th
 
-![](july04.jpg "AIS") 
+![](img/july04.jpg "AIS") 
 
     Distance covered: 120 nm
     Distance to Victoria: 2636 nm
@@ -1029,7 +1029,7 @@ The wind is light now, and we cannot download the weather. We'll try again tomor
 
 #### July 5th
 
-![](july05.jpg "calm")
+![](img/july05.jpg "calm")
 
     Distance covered: 41 nm
     Distance to Victoria: 2671 nm
@@ -1057,7 +1057,7 @@ Sometimes though, I grow tired of resting. I am restless to sail, to move forwar
 
 #### July 6th
 
-![](july06.jpg "Pendulum")
+![](img/july06.jpg "Pendulum")
 
     Distance covered: 97 nm
     Distance to Victoria: 2733 nm
@@ -1092,7 +1092,7 @@ Now, we await wind, if it would be so kind as to return to instill a bit of hope
 
 #### July 7th
 
-![](july07.jpg "Pendulum")
+![](img/july07.jpg "Pendulum")
 
     Distance covered: 99 nm
     Distance to Victoria: 2795 nm
@@ -1131,7 +1131,7 @@ I'd rather be here than on a plane though, that much is sure, as I hate to be bo
 
 #### July 8th
 
-![](july08.jpg "Pendulum")
+![](img/july08.jpg "Pendulum")
 
     Distance covered: 49 nm
     Distance to Victoria: 2836 nm
@@ -1186,7 +1186,7 @@ I bought boxes of Clif Bars in Japan before leaving, as filler for our ditch bag
 
 #### July 9th
 
-![](july09.jpg "Pendulum")
+![](img/july09.jpg "Pendulum")
 
     Distance covered: 59 nm
     Distance to Victoria: 2860 nm
@@ -1224,7 +1224,7 @@ The night is smooth, so far. We are staying ahead of the weather, pretending it 
 
 #### July 10th
 
-![](july10.jpg "Pendulum")
+![](img/july10.jpg "Pendulum")
 
     Distance covered: 133 nm
     Distance to Victoria: 2941 nm
@@ -1251,7 +1251,7 @@ Saw a ship on AIS called KDDI Cable Infinity. It's one of those vessels that lay
 
 #### July 11th
 
-![](july11.jpg "Rabbit waves")
+![](img/july11.jpg "Rabbit waves")
 
     Distance covered: 46 nm
     Distance to Victoria: 2950 nm
@@ -1283,7 +1283,7 @@ I am eager, scared to see how this develops. 40 knots of wind isn't a big deal f
 
 #### July 12th
 
-![](july12.jpg "Pendulum")
+![](img/july12.jpg "Pendulum")
 
     Distance covered: 52 nm
     Distance to Victoria: 2948 nm
@@ -1322,7 +1322,7 @@ Devine comes in for some hot chocolate. A mix of cocoa powder, kinako powder (ro
 
 #### July 13th
 
-![](july13.jpg "Pendulum")
+![](img/july13.jpg "Pendulum")
 
     Distance covered: 84 nm
     Distance to Victoria: 3014 nm
@@ -1589,7 +1589,7 @@ The calm is here, it's caught up to us. We stopped motoring early on, as we down
 
 #### July 22nd
 
-![](july22.jpg "cassowary")
+![](img/july22.jpg "cassowary")
 
     Distance covered: 45 nm
     Distance to Victoria: 3648 nm
@@ -1615,7 +1615,7 @@ The rest of the night was uneventful, we are zooming forward, beating into the w
 
 #### July 23rd
 
-![](july23.jpg "Lumpy sausage")
+![](img/july23.jpg "Lumpy sausage")
 
     Distance covered: 109 nm
     Distance to Victoria: 3699 nm
@@ -1771,7 +1771,7 @@ We look at each other, sitting on deck and admiring the view. "Hey..." I say to 
 
 # Quarantine dock
 
-![](victoria.jpg "Our quarantine dock in Victoria")
+![](img/victoria.jpg "Our quarantine dock in Victoria")
 
 We'll end this story by thanking those who helped us during our 14-day quarantine period. 
 
@@ -1825,7 +1825,7 @@ Thank you for reading.
 
 \newpage
 
-![](pantry.jpg)
+![](img/pantry.jpg)
 
 # Pino's pantry
 
@@ -1925,7 +1925,7 @@ Below is a list of items that we had aboard Pino on the passage from Japan to Ca
 
 \newpage
 
-![](cooking.jpg)
+![](img/cooking.jpg)
 
 # Recipes
 

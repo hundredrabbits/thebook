@@ -1,2 +1,1 @@
-# thebook
-north pacific logbook
+# North Pacific Logbook
