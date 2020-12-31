@@ -1933,6 +1933,8 @@ Below is a list of items that we had aboard Pino on the passage from Japan to Ca
 
 ## Table of contents
 
+> Plain onigiri                       127
+
 > Sweet and sour lentils              128  
 
 > Soybean hummus                      130
