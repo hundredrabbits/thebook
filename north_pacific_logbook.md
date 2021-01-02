@@ -1361,6 +1361,8 @@ The wind increased, instead of lessening, that, and rain. A LOT of rain. Not a v
 
 #### July 14th
 
+![](img/july14.jpg "rain")
+
     Distance covered: 85 nm
     Distance to Victoria: 3065 nm
 
@@ -1390,6 +1392,8 @@ The wind increased, a lot. We were a bit over-canvassed. Devine begrudgingly goe
 
 #### July 15th
 
+![](img/july15.jpg "dance")
+
     Distance covered: 106 nm
     Distance to Victoria: 3158 nm
 
@@ -1418,6 +1422,8 @@ I motored for 2 hours on my first shift to charge our batteries, we need to do i
 \newpage
 
 #### July 16th
+
+![](img/july16.jpg "spluh")
 
     Distance covered: 117 nm
     Distance to Victoria: 3251 nm
@@ -1450,6 +1456,8 @@ Calm night, not too cold out there as there is neither rain nor fog. Dolphins st
 
 #### July 17th
 
+![](img/july17.jpg "waves")
+
     Distance covered: 118 nm
     Distance to Victoria: 3335 nm
 
@@ -1473,6 +1481,8 @@ The wind was supposed to increase, it hasn't. This could mean many things, that 
 \newpage
 
 #### July 18th
+
+![](img/july18.jpg "hungry")
 
     Distance covered: 113 nm
     Distance to Victoria: 3407 nm
@@ -1499,6 +1509,8 @@ Very tame winds and seas tonight, I keep over-steering because of how calm it is
 \newpage
 
 #### July 19th
+
+![](img/july19.jpg "sleep")
 
     Distance covered: 110 nm
     Distance to Victoria: 3476 nm
@@ -1535,6 +1547,8 @@ We're almost below 800 nm to the Vancouver Island entrance. I hope that we won't
 # Week 7 
 
 #### July 20th
+
+![](img/july20.jpg "sobatoss")
 
     Distance covered: 125 nm
     Distance to Victoria: 3566 nm
