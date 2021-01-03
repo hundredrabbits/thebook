@@ -1576,6 +1576,8 @@ Boisterous night, as the weather flared up momentarily. It's going to die off by
 
 #### July 21st
 
+![](img/july21.jpg "downwind")
+
     Distance covered: 84 nm
     Distance to Victoria: 3621 nm
 
@@ -1668,6 +1670,8 @@ That's all I have to say for today, as my brain is mush and I haven't got the en
 
 #### July 25th
 
+![](img/july25.jpg "soup")
+
     Distance covered: 99 nm
     Distance to Victoria: 3832 nm
 
@@ -1686,6 +1690,8 @@ We watch Kiki's delivery service while eating kare. Wind is still at our backs, 
 \newpage
 
 #### July 26th
+
+![](img/july26.jpg "reading")
 
     Distance covered: 50 nm
     Distance to Victoria: 3868 nm
