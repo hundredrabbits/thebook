@@ -752,6 +752,8 @@ The wind is rising from the east, we're self-steering toward the north. The wind
 
 #### June 30th
 
+![](img/june30.jpg "calm")
+
     Distance covered: 61 nm
     Distance to Victoria: 2526 nm
 
@@ -782,6 +784,8 @@ Sometimes sailing feels like witchcraft. There was hardly any wind before, Pino 
 \newpage
 
 #### July 1st
+
+![](img/july01.jpg "dolphin")
 
     Distance covered: 75 nm
     Distance to Victoria: 2451 nm
@@ -1085,8 +1089,6 @@ We give up — well, for today anyway. The wind died, gradually. We stayed with 
 In better news, my ribs are better! I can sleep in almost any position, but I must be careful not to strain. Lifting heavy objects is still hard, and on some rare occasions I get dull pain. All in all, it's better than it was and I am glad. 
 
 Now, we await wind, if it would be so kind as to return to instill a bit of hope in us, some faith in the possibility of making it to land... someday. I often joke that Pino is a log, when we're not going forward. In such times, I feel the log would get to its destination faster. Maybe Pino is just tired? Steering us from calm to calm to rest its rigging and wings. We pushed you hard these past 4 1/2 years, haven't we?
-
-
 
 \newpage
 
@@ -1654,6 +1656,8 @@ Tonight promises winds of 10-15 knots, smooth, easy sailing. We made it under 50
 
 #### July 24th
 
+![](img/july24.jpg "tired")
+
     Distance covered: 104 nm
     Distance to Victoria: 3773 nm
 
@@ -1718,6 +1722,8 @@ We are watching The Incredibles 2 this evening, with some popcorn! A little trea
 
 #### July 27th
 
+![](img/july27.jpg "tired")
+
     Distance covered: 59 nm
     Distance to Victoria: 3910 nm
 
@@ -1730,6 +1736,8 @@ Because of the very bad weather, and because it will be our last night in the Pa
 \newpage
 
 #### July 28th
+
+![](img/july28.jpg "land")
 
     Distance covered: 109 nm
     Distance to Victoria: 3981 nm
@@ -1759,6 +1767,8 @@ Devine makes spaghetti aioli for dinner, we drink matcha afterwards and watch Th
 \newpage
 
 #### July 29th
+
+![](img/july29.jpg "soup")
 
     Distance covered: 4545 nm
     Distance to Victoria: 79 nm
