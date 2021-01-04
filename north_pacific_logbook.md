@@ -5,7 +5,6 @@ lang: en-CA
 publisher: Hundredrabbits
 date: 2020-12-01
 rights: © 2020 HundredRabbits, CC BY-NC
-cover-image: cover.pdf
 ...
 
 \newpage
