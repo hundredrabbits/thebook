@@ -172,7 +172,21 @@ Devine made a salad for lunch to try and use up some of our uglier produce. The 
 ##### 1300
 We watched seabirds pirouetting in the distance, they've no problem in this wind. Their movements are sharp and fast. We don't know what kind of bird they are, they're brown with a white stomach. It's at times like these, that I wish we had a book to identify sea birds. We've seen a great variety in the last 5 years. There is always a certain excitement with sailing into different waters, wondering what kind of birds or sea life we'll find when we get there.
 
-In the Western Pacific, near the equator, there were boobys, birds with a reputation for not being very smart. Nicknamed 'bobos' by the Spanish, because they'd fly onto ship's decks, and people would eat them. Calling them stupid though is hardly fair, unacustomed to the incredible threat that are human beings, is a better thing to say.
+# Our friends the birds
+
+In Mexico, we glimpsed Frigatebirds. They soar continously, seemingly immobile in the sky, their tails and wings giving them a distinctive 'W' silhouette in flight. They're known for staying aloft for up to 2 months! They sleep in flight, as they only use one hemisphere of the brain at a time. An incredible adaptation. It is perhaps best that we can't do this, as deep sleep is the only refuge of the brain in humans obssessed with productivity. It's like with salarymen in Japan, if the trains ran all night instead of stopping at 0000 or 0100, they would never leave their desks.
+
+In the Western Pacific, near the equator, there were boobys. These birds have a reputation for not being very smart because they like to land on ships, and early mariners would eat them. Calling them stupid though is hardly fair, as it is in their nature to be trusting. Human beings, being cruel and opportunistic, are not worthy of their trust. A red-footed booby landed on Pino once, and spent the night with us. Had we not chased it away though, it would have covered a solar panel in putrid discharges.
+
+In Fiji, I glimpsed the most beautiful bird I'd ever seen, a Fiji parrotfinch, with blackish feathering on its chin becoming dark blue on the lower throat and turquoise on the upper breast before fading into the bright green of the underparts. Coming from Canada, we don't have brightly-colored birds like these. I saw it on a walk on the Island, perched in a tree, its colours drew my eye and I could not  look away. This bird had bewitched me, and did not know it. It went about its business, staying for a short time before flying off to enrapture other unsuspecting humans. 
+
+Since we started sailing, I have become a bird nerd. Watching them brings me joy. 
+
+Attention restoration theory says that people can concentrate better, and were less stressed after spending time in nature, or even looking at scenes of nature. We have found this to be true for us, and observing birds has played a big part in it. Humans possess an innate tendency to seek connections with nature and other forms of life, according to the Biophilia hypothesis, is is thought to be rooted in our biology. Observing nature, whether it be from a window out on a garden, or during a walk in the park, or from the deck of a ship, brings us joy, and this positive psychological effect increases as the perceived biodiversity of the landscape increases. 
+
+This to say, we can only gain from protecting nature. We live in a time when much of it is under threat. Nature will always give, but it is up to us to learn to take less, and to protect it from those who won't learn.
+
+* * *
 
 We've noticed the automatic bilge pump keeps going off, we think there's a leak below the waterline, if so, that is worrisome. We tried to find where it was, but found nothing. None of the thru-hulls are leaking. I also checked the hose connections, nada! I suspect it may be the rudder post that is leaking, but for now it is impossible to look as I'd have to get into the cockpit locker, which is full of water bins and other heavy gear. For now, we try and check the bilge often, pumping the water out by hand every 2 hours or so. We have two manual bilge pumps, one in the cockpit and another in the cabin under the sink. The automatic bilge pump doesn't empty the bilge entirely, as it sits on a little stand above the lowest point, but the manual pump tube touches the bottom and does a better job of sucking up the majority of the water. If anything, the automatic pump serves as an alarm.
 
