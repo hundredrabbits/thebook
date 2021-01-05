@@ -33,7 +33,7 @@ The writing in this book is not meant to be discouraging, or intentionally harro
 
 # Prior to leaving Japan
 
-On the morning of May 28th, we arrived near the Izu peninsula. We had left Shima Yacht Harbour the day before for an overnight 126 nm passage to Shimoda. We had planned to pass south of the Mikomotoshima Lighthouse, an island 5.9 nm away from the port's entrance. The forecast showed little to no wind for the area, but we got 30+ knots on the nose, funneling out of Sagami Bay. We tightened the sheets and pushed on. In this kind of weather, the short trip there was wet and cold, it felt endless. We saw a large freighter moving between the land and a set of offshore rocks to the north. "We should have passed there," I said. Had we done this, we would have avoided beating into the wind. 
+On the morning of May 28th, we arrived near the Izu peninsula. We had left Shima Yacht Harbour the day before for an overnight 233 km (126 nm) passage to Shimoda. We had planned to pass south of the Mikomotoshima Lighthouse, an island 11 km (5.9 nm) away from the port's entrance. The forecast showed little to no wind for the area, but we got 55 km/h (30+ kn) on the nose, funneling out of Sagami Bay. We tightened the sheets and pushed on. In this kind of weather, the short trip there was wet and cold, it felt endless. We saw a large freighter moving between the land and a set of offshore rocks to the north. "We should have passed there," I said. Had we done this, we would have avoided beating into the wind. 
 
 We arrived at the breakwater, and inched inside the beautiful sheltered port of Shimoda. We found a spot on a pontoon. Our spot in Shimoda offered an amazing view of the port, with many fishing boats lining its sides. Two iconic mountains stood as a backdrop to this small city. A bust of Commodore Matthew C. Perry sat a few meters away. Perry and his warships sailed into Shimoda port in 1854, demanding that the Japanese end its 200-year-old policy of isolation and begin trade with the United States. In town, we found many momuments commemorating the event, like a full-sized replica of his black warship, or Kuro fune. We also found strange Perry-themed oddities, like dolls and cookies bearing his likeness. 
 
@@ -63,8 +63,8 @@ Note: On this trip, we used GRIB files to read the weather. They are computer-de
 
 ![](img/june09.jpg "oshima")
 
-	Distance covered: 0 nm
-	Distance to Victoria: 4045 nm
+	Daily progress: 0 km (0 nm)
+	Distance to Victoria: 7,491 km (4045 nm)
 
 ##### 0600
 We woke up early today, as we had little time to prepare before leaving Japan. Why so last minute? Because we only decided to leave yesterday. The reason we decided so late, was because we were waiting for a SIM card for our Iridium GO satellite phone, and we received it yesterday morning. As soon as we got it, we grabbed our passports and boat papers and hurried to the Immigration Office in Shizuoka to check out (a 4-5 hour train ride away). We were eager to leave on the 9th, as there was a good weather window, with moderate winds coming from a favourable direction. Because we weren't planning to leave until late yesterday morning, there were many tasks we had no yet done, or had not had time to do.
@@ -80,17 +80,17 @@ We push off our spot and head over to the Shimoda Boat Services pontoon to fill 
 We saw the Kurofune, a replica of Commodore Perry's black ship, taking tourists around the harbor. It was the first time we'd seen it on the water, as there weren't many tourists before due to concerns with the coronavirus. Now that the state of emergency's been lifted, people started traveling around the country again.
 
 ##### 1200
-The current is pushing us along, fast. We passed Oshima island at a ridiculous speed of 9.5 knots! The kuroshio, or black current, is very strong in this area, and even stronger between the islands as the water is forced through a narrow opening. We had no problem with ships, even with many moving toward Tokyo. Our speed made it easy to work our way out of the main shipping channel. 
+The current is pushing us along, fast. We passed Oshima island at a ridiculous speed of 17 km/h (9.5 kn)! The kuroshio, or black current, is very strong in this area, and even stronger between the islands as the water is forced through a narrow opening. We had no problem with ships, even with many moving toward Tokyo. Our speed made it easy to work our way out of the main shipping channel. 
 
 We are flying! Pino is happy to be moving again, and as are we.
 
 ##### 1430
-We saw porpoises in the water! It's been too long! They came for a bow-riding session. We missed them. Winds are coming out of the southwest, at a good strength of 12-15 knots, with Pino doing 8 knots. For lunch, we had inari pouches (rice-stuffed tofu pockets), a meal we'd purchased at MaxValue the night before. Not cooking on the first day is nice, neither of us are sea sick, but going below is still difficult and can easily trigger it. We stay outside instead, enjoying the good wind, weather and sun.
+We saw porpoises in the water! It's been too long! They came for a bow-riding session. We missed them. Winds are coming out of the southwest, at a good strength of 22-28 km/h (12-15 kn), with Pino doing 15 km/h (8 kn). For lunch, we had inari pouches (rice-stuffed tofu pockets), a meal we'd purchased at MaxValue the night before. Not cooking on the first day is nice, neither of us are sea sick, but going below is still difficult and can easily trigger it. We stay outside instead, enjoying the good wind, weather and sun.
 
 Devine is reading "The mushrooom at the end of the world", while I steer us east. We tried hailing Robusta on the VHF, but got no answer, either they're too far or their radio isn't on.
 
 ##### 1700
-The wind rises to 20 knots, we put on our foul weather gear as we don't want to wet our clothes. We won't be doing laundry in this trip, so keeping clothes dry is crucial.
+The wind rises to 37 km/h (20 kn), we put on our foul weather gear as we don't want to wet our clothes. We won't be doing laundry in this trip, so keeping clothes dry is crucial.
 
 \newpage
 
@@ -98,17 +98,25 @@ The wind rises to 20 knots, we put on our foul weather gear as we don't want to 
 
 ![](img/june10.jpg "sick")
 
-	Distance covered: 165 nm
-	Distance to Victoria: 4045 nm
+	Daily progress: 305 km (165 nm)
+	Distance to Victoria: 7,491 km (4045 nm)
 
 ##### 0800
-We download the weather, it is the same as yesterday, but it looks like the wind will increase this evening. Both of us are ill and grumpy. We're experiencing the early symptoms of sea sickness, which usually means a headache, reduced appetite and a morose view on things. This happens on every trip. Our inner ears fight our eyes, both are determined to convince the brain of their version of reality. This incongruity, if allowed to persist, will trigger vomitting. In our 5 years of sailing, we've managed to keep our food and fluids inside, where they belong. 
+We download the weather, it is the same as yesterday, but it looks like the wind will increase this evening. Yesterday we sent Anja and Thomas an email and got a reply, they are ok and are southwest of us.
 
-The first 2 days of every offshore trip are the hardest. We whine a lot, profess to hate sailing, and question why we sail at all. Then on the 3rd day our inner ears adjust, our brains adapt and learn the rhythm of the boat and sailing is fun again. Although, we've met sailors that are not so lucky, cursed with seasickness that persists for the entirety of their trip, and yet, they continue to sail. It's remarkable, really. 
+Today, we are both sea sick.
 
-When we feel seasick we steer the boat while keeping our eyes on the horizon. We also avoid coffee in the beginning, refusing that cup from Robusta yesterday was wise. 
+# Seasickness
 
-Yesterday we sent Anja and Thomas an email and got a reply, they are ok and are southwest of us.
+People often ask us if we get sea sick, and we say that yes, we feel sea sick at the start of every trip.
+
+On the first day, we both become ill and grumpy. The early symptoms of sea sickness include a headache, a reduced appetite, and a morose view on things. Our inner ears fight our eyes, both are determined to convince the brain of their version of reality. This incongruity, if allowed to persist, will trigger vomitting. In our 5 years of sailing, we've managed to keep our food and fluids inside, where they belong. 
+
+The first 2 days of every offshore trip are the hardest. We whine a lot, profess to hate sailing, and question why we do it at all. Then on the 3 rd day our inner ears adjust, our brains adapt and learn the rhythm of the boat, and sailing is fun again! Although, we've met sailors that are not so lucky, cursed with seasickness that persists for the entirety of their trip, and yet, they continue to sail. It's remarkable, really. 
+
+The best thing to do to not get sea sick, is to stay outside, and to keep your mind off the motion of the boat. Going indoors for a long time, say, to retrieve an item from a locker, is the number one trigger for us. What do we do when seasick? We take turns steering the boat, keep our eyes on the horizon and take in some fresh air. When steering, we can anticipate the movement of the boat, which allows our brain (and eyes) to re-calibate.
+
+*  *  *  *
 
 ##### 1200
 We napped hard, then awoke and decided that we should try and cook something. Neither of us feel like eating onigiri (recipe, p. 175), we regret making so many as we aren't sure we can eat them. They were our go-to snack when in Japan. Onigiri is made from white sticky rice formed into triangular or cylindrical shapes and often wrapped in nori (seaweed). They can served as is, with salt as seasoning, or with a filling like pickled plums, kombu or salted fish. The salty and sour fillings act as a natural preservative. We love onigiri, but today we have no appetite.
@@ -122,7 +130,7 @@ We check the weather again. We don't normally check it twice a day as it eats up
 
 Our rule is that if we think about maybe reefing a sail, we do it. Another important rule, is to never reef at night. Everything is harder to do in the dark. Generally, we decide to reef while the sun is up, or don't. We are not racing, we don't care to have the most sail up always, our main concern is our safety.
 
-Our main sail didn't used to have a third reef, we had a new one made in New Zealand with it. We're glad we did. 
+Our main sail didn't used to have a third reef, we had a new one made in New Zealand and asked to include this in its design. We're glad we did. 
 
 ##### 1800
 We eat chips as a snack, as we are not hungry for a full dinner. Everything tastes weird? It's like our taste buds are on LSD. The only thing that goes down easy is salty foods.
@@ -133,27 +141,42 @@ We eat chips as a snack, as we are not hungry for a full dinner. Everything tast
 
 ![](img/june11.jpg "brocoli")
 
-    Distance covered: 138 nm
-    Distance to Victoria: 3926 nm
+    Daily progress: 255 km (138 nm)
+    Distance to Victoria: 7,271 km (3926 nm)
 
 ##### 0200
 Saw a tanker ahead, but it wasn't moving? We passed its stern, wondering why it was idling out here.
 
 ##### 0900
-We've reduced the jib, as the wind is a strong and steady 27 knots. We are sailing east, although the current has pushed us higher than we wanted. We are at 36°N, and it is worrisome as we knew it was safer to stay under 35°N. The wind above that line tends to be stronger. Robusta was at 33°N, upon exiting Shimoda they took a more southerly route, I wish we'd done the same. We underestimated the strength of this current. We have peanut butter toast with slices of banana on top for breakfast.
 
-Devine sent a happy birthday message to his sister.
+We have peanut butter toast with slices of banana on top for breakfast. One hand holding breakfast, and typing with the other, Devine sent a happy birthday message to his sister. 
+
+We've reduced the jib, as there is a very strong breeze. Pino's gliding under steady 50 km/h (27 kn) winds. 
+
+# Kuroshio 
+
+The Kuroshio, or black current, is a high-temperature, high-salinity warm current that is dark blue color as is implied by its name and has a transparency of more than 30 m (98 feet). Its flow rate is 4-5 kmh (2-3 kn) on the average and reaches up to 7-9 kmh (4 to 5 kn). The Kuroshio is weaker in summer and autumn and stronger in winter and spring. It it roughly 200 km wide, and it flows strong up to 1,800 km from Japan, and for this reason, carries a lot of Japanese floating seaweed into the Eastern Pacific.
+
+Tracking the Kurushio gave us a free ride, adding sometimes two or three knots to our speed. But coming out of Shimoda, we underestimated the strength of this current. As soon as we passed Oshima Island, the current began to pull us northward, even with our bow pointed east. 
+
+*  *  *  *
+
+The Kuroshio pushed us higher than we wanted. We are at 36°N, and it is worrisome, as we knew it was safer to stay under 35°N. The wind above that line tends to be stronger. Robusta was at 33°N, upon exiting Shimoda they took a more southerly route, I wish we'd done the same. 
 
 ##### 1100
 The waves are getting bigger. We are worried about our fresh produce as we can't eat any of it. This has never happened to us before. The sun is warm and is hastening the rotting of some of the more sensitive vegetables, like broccoli. We had to throw away half a head overboard today. I hope we'll find our appetites again, I'd rather the food end up in our stomachs than in the ocean.
 
 ##### 1200
-Devine made a salad for lunch to try and use up some of our uglier produce. The wind is blowing food off of my fork as I eat, maybe not the best meal to have on a windy day. The wind is blowing 25-30 knots, generating big waves, but at least it is sunny.
+Devine made a salad for lunch to try and use up some of our uglier produce. The wind is blowing food off of my fork as I eat — maybe not the best meal to have on a windy day. The wind is blowing 46-55 km/h (25-30 kn), generating big waves, but hey, at least it is sunny.
 
 ##### 1300
-We watched seabirds pirouetting in the distance, they've no problem in this wind. Their movements are sharp and fast. We don't know what kind of bird they are, they're brown with a white stomach.
+We watched seabirds pirouetting in the distance, they've no problem in this wind. Their movements are sharp and fast. We don't know what kind of bird they are, they're brown with a white stomach. It's at times like these, that I wish we had a book to identify sea birds. We've seen a great variety in the last 5 years. There is always a certain excitement with sailing into different waters, wondering what kind of birds or sea life we'll find when we get there.
 
-We've noticed the automatic bilge pump keeps going off, we think there's a leak below the waterline, if so, that is worrisome. We tried to find where it was, but found nothing. None of the thru-hulls are leaking. I also checked the hose connections, nada! I suspect it may be the rudder post that is leaking, but for now it is impossible to look as I'd have to get into the cockpit locker, which is full of water bins and other heavy gear. For now, we try and check the bilge often, pumping the water out by hand every 2h or so. We have two manual bilge pumps, one in the cockpit and another in the cabin under the sink. The automatic bilge pump doesn't empty the bilge entirely, as it sits on a little stand above the lowest point, but the manual pump tube touches the bottom and does a better job of sucking up the majority of the water. If anything, the automatic pump serves as an alarm.
+In the Western Pacific, near the equator, there were boobys, birds with a reputation for not being very smart. Nicknamed 'bobos' by the Spanish, because they'd fly onto ship's decks, and people would eat them. Calling them stupid though is hardly fair, unacustomed to the incredible threat that are human beings, is a better thing to say.
+
+We've noticed the automatic bilge pump keeps going off, we think there's a leak below the waterline, if so, that is worrisome. We tried to find where it was, but found nothing. None of the thru-hulls are leaking. I also checked the hose connections, nada! I suspect it may be the rudder post that is leaking, but for now it is impossible to look as I'd have to get into the cockpit locker, which is full of water bins and other heavy gear. For now, we try and check the bilge often, pumping the water out by hand every 2 hours or so. We have two manual bilge pumps, one in the cockpit and another in the cabin under the sink. The automatic bilge pump doesn't empty the bilge entirely, as it sits on a little stand above the lowest point, but the manual pump tube touches the bottom and does a better job of sucking up the majority of the water. If anything, the automatic pump serves as an alarm.
+
+We installed a second manual bilge pump in the cabin, while in New Zealand. We thought having a second, more powerful one aboard could be useful in storm conditions, we can pump water out while being dry inside the cabin. The original bilge pump is outside in the cockpit, it works well, but doesn't draw as much water out as the new one. On a boat, redundancy is key. 
 
 ##### 1700
 Made spaghetti with eggplant and green peppers for dinner. It is still hard to finish food, so we started making smaller portions to avoid waste. Both of us are still plagued with weird tastebuds. Sweet is too sweet, veggies are bland...
@@ -164,11 +187,11 @@ Made spaghetti with eggplant and green peppers for dinner. It is still hard to f
 
 ![](img/june12.jpg "rain")
 
-    Distance covered: 162 nm
-    Distance to Victoria: 3786 nm
+    Daily progress: 300 km (162 nm)
+    Distance to Victoria: 7,012 km (3786 nm)
 
 ##### 0800
-Rain. All day. It won't stop. We've asked it to, but it won't listen.
+Rain. All day. It won't stop. We've asked it to, but it *won't* listen.
 
 ##### 1900
 The conditions out here are horrible. We are running with the waves and wind, we wished we'd put in the 3rd reef earlier. It is too late to do it now, as it is dark and stormy. Neither of us eat dinner. We're in sparta mode. 
@@ -179,17 +202,19 @@ The conditions out here are horrible. We are running with the waves and wind, we
 
 ![](img/june13.jpg "daikon")
 
-    Distance covered: 192 nm
-    Distance to Victoria: 3611 nm
+    Daily progress: 355 km (192 nm)
+    Distance to Victoria: 6,687 km (3611 nm)
 
 ##### 0800
-It is still raining a lot, with winds gusting in the high 30's. This weather is demoralizing, but at least we are making good easting and getting further and further away from Japan. I never thought I'd be happy about getting away from Japan, it's my favorite place in the world! The ocean around the country is mean, and another entity entirely, lingering here is too dangerous. Oh how much I wish the rain would stop, everything would be more pleasant if the rain stopped.
+It is still raining a lot, with the wetness accompanied by gale force winds. This weather is demoralizing, but at least we are making good easting and getting further away from Japan. I never thought I'd be happy about that, as it's my favorite place in the world.
+
+The ocean encircling it though is mean, and another entity entirely, lingering here is too dangerous. Oh how much I wish the rain would stop! Everything would be more pleasant if the rain stopped...
 
 ##### 1200
-Devine made pasta with a mustard sauce for lunch, I ate half, and left the bowl on the stove. It was delicious, but I couldn't finish. I'll keep it as a snack for later. We had our usual peanut butter and banana toast this morning, we still have no problem eating this. Will our appetite ever return I wonder? We had to to throw away half a daikon today. Sad.
+Devine made *pasta with a mustard sauce* (see recipes) for lunch, I ate half, and left the bowl on the gimballed stove. It was delicious, but I couldn't finish. I'll keep it as a snack for later. We had our usual peanut butter and banana toast this morning, we still have no problem eating this. Will our appetite ever return I wonder? We had to to throw away half a daikon today. Sad.
 
 ##### 1700
-Devine was steering outside, running downwind in heavy weather, and gybed accidentally. As that happened, the block for the boom preventer broke off the toe rail, and the line caught one of the stanchions and bent it at a 45 degree angle. At the time, we thought it'd been ripped off the deck! Glad that wasn't the case. We'll be able to straighten it back out, but the weather right now doesn't permit casual walks on deck. No damage to boom or main.
+Devine was steering outside, running downwind in heavy weather, and gybed accidentally. As that happened, the shackle holding the block for the boom preventer broke, and the line caught one of the stanchions, bending it at a 45 degree angle. At the time, we thought it'd been ripped off the deck! Glad that wasn't the case. We'll be able to straighten it back out, but the weather right now doesn't permit casual walks on deck. No damage to boom or main.
 
 ##### 2100
 Another rough and rainy night. This horrible system seems to cover the whole area! What a nightmare world this is.
@@ -200,8 +225,8 @@ Another rough and rainy night. This horrible system seems to cover the whole are
 
 ![](img/june14.jpg "superhuman")
 
-    Distance covered: 124 nm
-    istance to Victoria: 3523 nm
+    Daily progress: 230 km (124 nm)
+    istance to Victoria: 6,524 km (3523 nm)
 
 ##### 0800
 We both did shorter night shifts because of the weather. Everything inside is wet, the floors are slippery with water, and our foul-weather gear just isn't drying between shifts. We hang them over the sink so they drip into it, which makes doing the dishes a very complex and unpleasant affair. All synthetic clothing won't dry, and does a poor job of keeping us warm. We switch to wool as it stays warm even when damp.
@@ -220,8 +245,8 @@ Devine makes gnocchi. I managed to finish off my entire bowl — this is a good 
 
 ![](img/june15.jpg "anchor")
 
-    Distance covered: 52 nm
-    Distance to Victoria: 3472 nm
+    Daily progress: 96 km (52 nm)
+    Distance to Victoria: 6,430 km (3472 nm)
 
 ##### 0800
 The wind changed a few times, then died and left us with nothing? Fantastic! Thank you weather! We hand-steered toward a blue patch on the horizon, toward the sun. Blue patches in the sky, laying between clouds, always gives us hope. We wanted the sun to dry up Pino's insides, and our outer shells.
@@ -260,8 +285,8 @@ The 'usual tricks' I have to pass the time include brainstorming, as I have many
 
 ![](img/june16.jpg "ribs")
 
-    Distance covered: 144 nm
-    Distance to Victoria: 3340 nm
+    Daily progress: 267 km (144 nm)
+    Distance to Victoria: 6,185 km (3340 nm)
 
 ##### 0600
 Devine woke up and went to stand in the companionway to tell me about this weird, elaborate dream he'd had. I look at him, standing there, half-awake as he re-counts it. He speaks slowly, talking about the architecture and mood of the place in his dream. His eyes are small, barely open, and I begin to wonder if he is truly awake...
@@ -293,8 +318,8 @@ Devine is doing a longer shift to give me time to rest. I took an advil for the 
 
 ![](img/june17.jpg "disaster")
 
-    Distance covered: 11 nm
-    Distance to Victoria: 3331 nm
+    Daily progress: 20 km (11 nm)
+    Distance to Victoria: 6,169 km (3331 nm)
 
 ##### 0600
 Disaster. I was sitting outside, steering the boat as we ran in heavy weather. The waves were still monstrous, but showed signs of slowing. I noticed a large wave pushing up at our rear, the strength of it caused the entire hull to vibrate. Then, before I had time to look back, another wave came... I did not see it, but it overwhelmed me. 
@@ -325,8 +350,8 @@ We slept in each other's arms, with alarms on to warn us off coming ships. We do
 
 ![](img/june18.jpg "heave to")
 
-    Distance covered: 21 nm
-    Distance to Victoria: 3311 nm
+    Daily progress: 39 km (21 nm) 
+    Distance to Victoria: 6,132 km (3311 nm)
 
 ##### 0400
 Seas are calmer, we broke our heave to and started sailing again. The winds are light, we're pointing southeast because that is all that this wind permits us to do at the moment. We shake out the 3rd reef, make coffee and have peanut butter toast. 
@@ -336,24 +361,32 @@ We recovered rather quickly from yesterday's event. One of the best things to ov
 The sun came and stayed with us for an hour, not long enough to dry anything, but we're happy it came at all. The sun does wonders for our mood.
    
 ##### 1200
-We tacked back to the northeast to dodge some weather. It is raining again now, we drive from the cabin using a set of long ropes, since we no longer have a dodger to hide under. We make *pate chinois* (see recipe, p.217) for lunch.
+We tacked back to the northeast to dodge some weather. It is raining again now, we drive from the cabin using a set of long ropes, since we no longer have a dodger to hide under. We make *pate chinois* (see recipes) for lunch.
    
 ##### 1400
-We napped hard, then beat to weather with a good easterly heading. We are now 1066 nm from Japan, we're nearing the 165°E mark that indicates our turn northward. When you sail east to Alaska or to the Pacific Northwest, you've got to go east until you hit that mark, otherwise you run the risk of staying in the path of typhoons. 
+We napped hard, then beat to weather with a good easterly heading. We are now 1,974 (1066 nm) from Japan, we're nearing the 165°E mark that indicates our turn northward. When you sail east to Alaska or to the Pacific Northwest, you've got to go east until you hit that mark, otherwise you run the risk of staying in the path of typhoons. 
 
-We keep getting strong winds. Every 2 days a big system runs us over. Considering what happened yesterday, we decided that we would heave to as often as we needed to. This trip is a long one, and we need to keep our energy up. Heaving-to is a technique in sailing, it is a way of slowing a sailing vessel's forward progress, as well as fixing the tiller and sail positions so that the vessel doesn't need steering. We liked to refer to it as 'parking' the boat. We practiced this technique years ago in Canada, and again a few times in the South Pacific. 
+We keep getting strong winds. Every 2 days a big system runs us over. Considering what happened yesterday, we decided that we would heave to as often as we needed to. This trip is a long one, and we need to keep our energy up. 
 
-The first time we did it at sea, was on the sail from Mexico to the Marquesas. It was early in the morning, I was outside, steering in the cockpit. The sky was grey, overcast, and I could see lightning. Then, without warning, the wind rose from a comfortable 15 knots to 40 knots. We had a full-jib and main, I couldn't hold the tiller. The sudden wind increase woke up Devine, and together we decided to heave to, to let the weather pass. We did it again while sailing from New Zealand to Fiji. We left Opua in early June, the wind stayed with us for two days, but then died entirely. We awoke Calcifer, to try and work our way past 30°S, as we were south of that line, and that a front was coming from the west. Fronts south of 30°S tend to pack a punch. Our little engine couldn't take us far enough, we were in a 'nowhere to run, nowhere to hide' situation. The system rolled in, bringing winds of 40+ knots and big seas. We hove-to, and again, waited. 
+# Heaving to
 
-It's a technique that is worth mastering, as it could save your boat, and your life, and in difficult times, it gives you time to rest.
+Heaving-to is a technique in sailing, it is a way of slowing a sailing vessel's forward progress, as well as fixing the tiller and sail positions so that the vessel doesn't need steering. It consists of turning to tack through the wind, without releasing the jibsheet. The mainsail will self-tack to the other side, but the jib is held aback. When the jib's belly curves inward, the tiller (or rudder) should be aligned with it, as if trying to tack back again. It's necessary to lash the tiller so the rudder can't move again. Without the power of the jib, the boat can't go forward and will stop. It is easy to do, and all aboard should learn to do it.
 
-Our boat, with its fin keel, heaves-to well enough. Slowing the boat does cost time, but our safety is important. We've got plenty of time to get to Canada. We are so glad that the rig suffered no damage, we were lucky. Pino is a good, strong boat, we knew when we bought it, and we know it now. 
+Breaking a heave to involves unlashing the tiller, and releasing the windward jibsheet, then hauling in the leeward sheet. 
+
+We liked to refer to heaving to as 'parking' the boat. We practiced this technique years ago in Canada, and again a few times in the South Pacific. Practicing it in calm waters is very different than in storm-like conditions, but the technique is the same.
+
+The first time we did it at sea, was on the sail from Mexico to the Marquesas. It was early in the morning, I was outside, steering in the cockpit. The sky was grey, overcast, and I could see lightning. Then, without warning, the wind rose from a comfortable 28 km/h (15 kn) to 74 km/h (40 kn). We had a full-jib and main, I couldn't hold the tiller. The sudden wind increase woke up Devine, and together we decided to heave to, to let the weather pass. We did it again while sailing from New Zealand to Fiji. We left Opua in early June, the wind stayed with us for two days, but then died entirely. We awoke Calcifer, to try and work our way past 30°S, as we were south of that line, and that a front was coming from the west. Fronts south of 30°S tend to pack a punch. Our little engine couldn't take us far enough, we were in a 'nowhere to run, nowhere to hide' situation. The system rolled in, bringing winds of 74 km/h (40+ kn) and big seas. We hove-to, and again, waited. 
+
+It's a technique that is worth mastering, as it could save your boat, and your life, and in difficult times, it gives you time to rest. We should have been heaving to instead of running with the weather yesterday, if we had been, Pino would not have been overwhelmed. 
+
+Our boat, with its fin keel, heaves to well enough. Slowing the boat does cost time, but our safety is important. We've got plenty of time to get to Canada. We are so glad that the rig suffered no damage, we were lucky. Pino is a good, strong boat, we knew when we bought it, and we know it now. 
    
 ##### 1700
 Put boat into heave to again to eat a dinner of *soy bean hummus* (see recipe, p.127), carrots and vegetables. We don't normally heave to to eat meals, but we stopped for an hour just to relax, and to spend some time together. 
    
 ##### 1800
-We started night shifts ahead of time today, as it is getting darker earlier. We had good winds pushing us southeast. We received a message from Robusta, they are doing well, and are 300 nm away from us. They cannot send messages often, as they have issues with their radio.
+We started night shifts ahead of time today, as it is getting darker earlier. We had good winds pushing us southeast. We received a message from Robusta, they are doing well, and are 556 km (300 nm) away from us. They cannot send messages often, as they have issues with their radio.
 
 ##### 2000
 I couldn't sit on either the high, or the low side during my night shifts. I was scared. Scared of being swept up again. I sat on the cockpit floor, moving the tiller with ropes from there. I did not think that yesterday's event had affected me adversely, but it has... everytime I hear a wave rushing up to us, my heart would leap into my throat, and my legs would turn to jelly. Big waves have the same effect, but worse. I would get panicky, with cold sweat at my back. 
@@ -368,8 +401,8 @@ This is going to be a long, long trip, as we are not done seeing big waves.
 
 ![](img/june19.jpg "jib")
 
-    Distance covered: 95 nm
-    Distance to Victoria: 3242 nm
+    Daily progress: 176 km (95 nm)
+    Distance to Victoria: 6,004 km (3242 nm)
 
 ##### 0400
 Wind has lessened to near nothing. The sails are flapping noisily. We reefed the main to the 3rd point in preparation for tonight, and to restrict its movement.
@@ -397,8 +430,8 @@ Can't sleep. I am stressed about the weather, plus the bit of jib we couldn't fu
 
 ![](img/june20.jpg "coffee")
 
-    Distance covered: 40 nm
-    Distance to Victoria: 3210 nm
+    Daily progress: 74 km (40 nm)
+    Distance to Victoria: 5,945 km (3210 nm)
 
 ##### 0100
 Finally went to sleep, as we slid into a calmer area of the passing low. It's hard to relax when the weather is intense outside, it always sounds worse from inside the cabin, with halyards slapping on the mast, waves smashing against the hull and the walls creaking.
@@ -426,7 +459,7 @@ We had tomato pasta with green peppers for lunch, served with chocolate and clem
 We are parked in the dead center of a mean system, waiting things out. Looking at the GRIB files, it's funny to see ourselves positioned in the 'eye' of this storm. The world around us is chaos, yet it is much quieter in our little parking lot on the ocean.
    
 ##### 1400
-The seas have settled, and the wind has died. The forecast changed. We motor east to get out of this patch of no-wind. We also use this time to charge our batteries. Even this far out, at 1011 nm, we still see some of that pesky sargassum seaweed (hondawara in Japanese), the kind that wraps around your prop and fouls it up. We are careful to avoid them, we would not want to dive under the boat to clear it, not out here. The kuro shio (black current) continues far offshore, the seaweed is carried by this current, but it is strange to see it here. We have not seen large patches, not yet.
+The seas have settled, and the wind has died. The forecast changed. We motor east to get out of this patch of no-wind. We also use this time to charge our batteries. Even this far out, at 1,872 km (1011 nm), we still see some of that pesky sargassum seaweed (hondawara in Japanese), the kind that wraps around your prop and fouls it up. We are careful to avoid them, we would not want to dive under the boat to clear it, not out here. The kuro shio (black current) continues far offshore, the seaweed is carried by this current, but it is strange to see it here. We have not seen large patches, not yet.
    
 ##### 1600
 We stopped motoring and sailed with a reefed jib and main. We don't trust the weather here, better to be cautious with the amount of sail we keep up. The wind is coming out of the west, even if the GRIB files called for no wind. The seas are moderate. We don't know the exact wind strength as our wind meter died after the wave knocked Pino over. We installed telltales at various points around the boat. One of them is hung around a toothbrush, and is the best one we've made? The telltale spins right around loosely, it is sensitive and is perfect to indicate wind direction — also, it makes me laugh.
@@ -439,8 +472,8 @@ Pino is steering itself. We are navigating from inside, checking our heading on 
 
 ![](img/june21.jpg "smooth")
 
-    Distance covered: 20 nm
-    Distance to Victoria: 3214 nm
+    Daily progress: 37 km (20 nm)
+    Distance to Victoria: 5,952 km (3214 nm)
 
 ##### 0300
 Woke up after heaving to again for the night. The wind rose, and it was too hard to steer. We broke our heave to and motored east, in calm conditions. Today promises favourable winds, finally!
@@ -467,8 +500,8 @@ Wind rose from the south, with big seas. We reefed the jib, put the 3rd reef in 
 
 ![](img/june22.jpg "pants")
 
-    Distance covered: 103 nm
-    Distance to Victoria: 3115 nm
+    Daily progress: 191 km (103 nm)
+    Distance to Victoria: 5,769 km (3115 nm)
 
 ##### 0300
 We hove to as the morning light shone onto the sea, I stared into the depths and felt dizzy. Heaving to is a good time to figure out if what you're doing is a shit idea, or a shitty shit shit shit idea. 
@@ -490,7 +523,7 @@ We did it, we reached 165°E! A milestone in our trip! We hope the weather will 
 ##### 1400
 Cooked dinner of *pasta salad with mustard dressing* (p. 143) and ate the last 2 pieces of fresh fruit, 2 ruby red grapefruits. When we eat more, it means the weather is good and that we too, are feeling good.
 
-Forecast is promising, but GRIB files in this area are not always accurate. This morning showed winds in the 15-20 knot range, but we had 30 knots. Usually, people say the weather is either 5 knots more, or less than forecasted, but out here there is a difference of 10 knots. There is better weather ahead, at least — well, we hope. We are happy to leave this forsaken area behind. We're running with a full jib and double-reefed main. Our paranoia with the weather is still strong, full main just isn't going to happen in this trip.  
+Forecast is promising, but GRIB files in this area are not always accurate. This morning showed winds in the 28-127 km/h (5-20 knot) range, but we had 55 km/h (30 kn). Usually, people say the weather is either 9 km/h (5 kn) more, or less than forecasted, but out here there is a difference of 18 km/h (10 kn). There is better weather ahead, at least — well, we hope. We are happy to leave this forsaken area behind. We're running with a full jib and double-reefed main. Our paranoia with the weather is still strong, full main just isn't going to happen in this trip.  
 
 ##### 2100
 Quiet night at sea. Saw some stars! It's been a while. We're sailing southeast with light rain on the horizon, just in time for Devine's shift HE HE HE HE.
@@ -505,8 +538,8 @@ In the South Pacific, many squalls would form at night. We would watch the horiz
 
 ![](img/june23.jpg "rot demons")
 
-    Distance covered: 110 nm
-    Distance to Victoria: 3040 nm
+    Daily progress: 204 km (110 nm)
+    Distance to Victoria: 5,630 (3040 nm)
 
 ##### 0300
 Blue skies for today, what a gift! Devine overslept because the phone died, and there was no alarm to wake him. I drove for 4 hours straight, and it felt undending. We feel that way often, even for short 2-hour shifts. We're steering and it feels as though it's been hours and hours. Then we see the time, and it's only been 30 minutes? There ought to be a ring in Dante's hell like this, where time is warped, where the clock says it is 2h33 but it never, ever changes. Or sometimes it does change, to 2h34, but then somehow it rolls back to 2h33?! Our brains must have hallucinated the change, surely!
@@ -533,8 +566,8 @@ Clear skies, with plenty of stars, but no time to enjoy them as the sea demands 
 
 ![](img/june24.jpg "sad")
 
-    Distance covered: 123 nm
-    Distance to Victoria: 2943 nm
+    Daily progress: 228 km (123 nm)
+    Distance to Victoria: 5,450 km (2943 nm)
 
 ##### 0400
 The seas are big, very big! My stomach is in knots from worry. I practice box breathing to calm myself. Every wave that comes lapping up the hull scares me now. I never did trust the sea, but now I am terrified of its strength and unpredictability.
@@ -567,8 +600,8 @@ I noticed our heave to was behaving strangely... the main was flapping and causi
 
 ![](img/june25.jpg "coffee")
 
-    Distance covered: 49 nm
-    Distance to Victoria: 2901 nm
+    Daily progress: 91 km (49 nm)
+    Distance to Victoria: 5,373 km (2901 nm)
 
 ##### 0230
 I got up at first light. The waves had diminished enough, so I got dressed and went outside to steer us out of this hell. I unfurled the jib and steered northeast.
@@ -612,8 +645,8 @@ It is cold outside, we steer from inside, pulling ropes between the washboards. 
 
 ![](img/june26.jpg "socks")
 
-    Distance covered: 106 nm
-    Distance to Victoria: 2794 nm
+    Daily progress: 196 km (106 nm)
+    Distance to Victoria: 5,174 km (2794 nm)
 
 ##### 0200
 Red sky at sunrise. How does that saying go again? "Red sky in the morn', sailors' forlorn." It is difficult view this as a threat, as we've come to expect big heavy weather in this area. I don't feel tired from my shift, seems like I got enough sleep... for once. I am steering north, the wind doesn't permit much else. We're steering clear of a system passing below us. I'd like to make more easting but that won't be possible today. 
@@ -647,8 +680,8 @@ Devine is making *cornpone* (recipe, p.139) for dinner! We thought we had cornme
 
 ![](img/june27.jpg "toilet")
 
-    Distance covered: 65 nm
-    Distance to Victoria: 2735 nm
+    Daily progress: 120 km (65 nm)
+    Distance to Victoria: 5,065 km (2735 nm)
 
 ##### 0230
 Finally seeing the wind turn, a little more towards the north. This permits us to do more easting. We need to keep heading that way to catch some of that sweet Pacific High breeze! The wind we've got is from a passing low, as usual, and won't last, but at this point we'll take what we can get.
@@ -659,7 +692,7 @@ We're steering from inside, as it is getting colder. Devine found a sweet spot w
 Pino is bashing to weather. The waves aren't too crazy, but I worry about them still. Pino's bow slams into the sea every now and then, and I can hear the anchor rattling. I hope I tied it down well this time, as retrieving it now would be dangerous. We are pointing east right now. I never thought we'd have to chase storms to get wind. Walking inside is difficult, we have to move carefully. Going to the bathroom is an interesting experience when bashing, since ours is at the bow. It's hard to focus on our business when we struggle to keep our butts down and bodies straight.
 
 ##### 6h00
-We saw a cargo ship named Scorpion on AIS. It is 4 nm south of us. A rare occurence. We've got an alarm set for ships that come near, it only rang twice so far while on the open sea. Last time it rang, there was a trawler passing south, near enough that we could make out its faint outline in distance, and we could hear its engine too. Otherwise, there is no one within 48 nm of us. Land is much further than this. We'll be passing the western tip of the Aleutians soon, the more miles we put between the opening to the Bering Sea and us the better. We were pointing to it for the better part of yesterday, and it was scaring the shit out of me.
+We saw a cargo ship named Scorpion on AIS. It is 7 km (4 nm) south of us. A rare occurence. We've got an alarm set for ships that come near, it only rang twice so far while on the open sea. Last time it rang, there was a trawler passing south, near enough that we could make out its faint outline in distance, and we could hear its engine too. Otherwise, there is no one within 89 km (48 nm) of us. Land is much further than this. We'll be passing the western tip of the Aleutians soon, the more miles we put between the opening to the Bering Sea and us the better. We were pointing to it for the better part of yesterday, and it was scaring the shit out of me.
    
 ##### 1230
 We are pointing northeast, bashing still. The wind hasn't lessened much, but it is supposed to as the day goes on. I am nervous, and I don't know what to do with myself today. I read a little, slept a little. We're doing good speed but bashing is a very stressful experience. Buckets of salt water splash up on deck and the bow keeps slamming into the waves.
@@ -680,8 +713,8 @@ Maybe I got my wish? A calm is in our future. We were supposed to have a good br
 
 ![](img/june28.jpg "oil")
 
-    Distance covered: 121 nm
-    Distance to Victoria: 2620 nm
+    Daily progress: 224 km (121 nm)
+    Distance to Victoria: 4,852 km (2620 nm)
 
 ##### 0900
 Seas are tame today. We are heading east northeast. The wind is supposed to die gradually. We are running with a full jib, and are trying to catch all the puffs of air. A low is coming from the west and we want to make as much headway as possible to avoid it. We are doing good speed, we reached 175°E and are 2 days away from reaching 180°W. The sky is grey, but the solar panel is doing a good job still! We're thankful for that, as it means we don't need to turn on the engine as often.
@@ -711,8 +744,8 @@ Cruel that the wind is gone but that waves persist. I bet there's a circle of he
 
 ![](img/june29.jpg "bowie")
 
-    Distance covered: 43 nm
-    Distance to Victoria: 2583 nm
+    Daily progress: 80 km (43 nm)
+    Distance to Victoria: 4,784 km (2583 nm)
 
 ##### 0000
 Clouds bring false hope of wind in passing. Once past us, all air is lifted out from the sea. I went back inside, no sense in bobbing in the water in the cold and dark.
@@ -753,8 +786,8 @@ The wind is rising from the east, we're self-steering toward the north. The wind
 
 ![](img/june30.jpg "calm")
 
-    Distance covered: 61 nm
-    Distance to Victoria: 2526 nm
+    Daily progress: 113 km (61 nm)
+    Distance to Victoria: 4,678 km (2526 nm)
 
 ##### 0430
 Wind is still coming out of the east, making going in that direction assuredly impossible. We are going north, making little headway to 180°W, that place on the map feels close, but far away with such winds. The breeze isn't pushing us at incredible speeds either. Marked our position on the chart and was disappointed with our lack of progress, we were becalmed yesterday and that has largely contributed to it, but it's hard to stomach with so much sea between Pino and Canada. I should be more patient, I know this. I can't control the weather and the forces that govern the winds aren't malicious. We've got to wait for wind, we've got to be patient, stoic.  
@@ -786,13 +819,13 @@ Sometimes sailing feels like witchcraft. There was hardly any wind before, Pino 
 
 ![](img/july01.jpg "dolphin")
 
-    Distance covered: 75 nm
-    Distance to Victoria: 2451 nm
+    Daily progress: 139 km (75 nm)
+    Distance to Victoria: 4,539 km (2451 nm)
 
 ##### 0600
 Devine got up earlier today, he did not feel the need to nap in his last 3-hour shift. He stayed up with me, had a 2nd breakfast — like a proper hobbit — and made REAL coffee. We've been having instant as it is easier to manage in rough seas, but now we're running out of the easy stuff so we don't have a choice. Devine pre-ground beans yesterday for this morning, he may continue to grind more ahead of time to make sure it's never too bothersome to prepare.
 
-The wind is light, but good, we are making headway and will likely reach 180°W this afternoon. JOY. Then, we'll be moving toward our big halfway milestone of 2200 nm. With how things are currently, this trip will take longer than 45 days, but no matter, we're in the good season and left Japan early enough that we can have many more slow days. The seas are flat today, making it easy to move on light airs. We have to go northeast to keep with the wind, there is another no wind area southeast of us that we have to be careful to avoid. Robusta is behind us, it is not easy for them to go north, as the weather there is awful right now.  
+The wind is light, but good, we are making headway and will likely reach 180°W this afternoon. JOY. Then, we'll be moving toward our big halfway milestone of 4,074 km (2200 nm). With how things are currently, this trip will take longer than 45 days, but no matter, we're in the good season and left Japan early enough that we can have many more slow days. The seas are flat today, making it easy to move on light airs. We have to go northeast to keep with the wind, there is another no wind area southeast of us that we have to be careful to avoid. Robusta is behind us, it is not easy for them to go north, as the weather there is awful right now.  
 
 ##### 0800
 Devine makes *soba* (recipe, p.142) with wasabi, accompanied by a dipping sauce — fancy! The weather is calm enough for us to handle both a bowl of noodles and a dipping bowl. He also added konyakku (konjac), a block we found yesterday while doing inventory. We didn't know if it would be good to eat, as it was past its best before date, but it was perfect! I will miss konyakku, it is delicious as sashimi.
@@ -802,7 +835,7 @@ Konyakku is the food made from the corm of the Konjac plant, the meat is process
 I've come to value the texture of food because of my time living in Japan, anything that is chewy, or slimy, I found, was really fun to eat. 
 
 ##### 1030
-I made pitas, not for a meal but to snack on. I'm glad the weather allows for this kind of messy cooking. The wind is good, we are pushing northeast. The sea is calm, the sun is bright and the sky is clear. We're gliding at 5-6 knots.
+I made pitas, not for a meal but to snack on. I'm glad the weather allows for this kind of messy cooking. The wind is good, we are pushing northeast. The sea is calm, the sun is bright and the sky is clear. We're gliding at 9-11 km/h (5-6 kn).
    
 ##### 1200
 The dolphins are back! They swam with Pino for a good hour. We love watching their dorsal fins cut through the water, the shine of their backs gleaming in the sun. Once in a while, a row of them all jump out together, prefectly synchronized in a neat line. It looks like a glitch in the Matrix — almost too perfect. It's hard to be sad when dolphins are near. Now, if only Bowie would swing by to say hello.
@@ -827,7 +860,7 @@ Awoke for my watch, Devine is at the navigation table, reading and wrapped up in
 I wash my face every few days to remove the accumulation of salt, my face feels smooth, and as do the tips of my fingers? Our bodies don't get rinsed often, as we are conserving water. We wash whenever we change clothes, which on this trip isn't terribly often. Sea life puts us on a different beat, I like it, but I do miss hot showers and our little room heater. It's a shame our Espar diesel heater is broken, but again, even if it wasn't I doubt we'd have enough power to sustain its use, as it is coldest when the power it at its lowest. Tomorrow is our scheduled time to wake Calcifer so we can charge our batteries. Our neighbour under the stairs is doing well, and did not think the knockdown bothersome — good.
 
 ##### 2230
-Calm, calm. We've drifted into another no-wind desert, a rift between two systems that is 100 nm wide. We thought we could keep Pino under light wind, following the southern edge of a system, but it is difficult to know for sure where the wind ends. No forecast is that accurate. Because of this, planning is difficult.
+Calm, calm. We've drifted into another no-wind desert, a rift between two systems that is 185 km (100 nm) wide. We thought we could keep Pino under light wind, following the southern edge of a system, but it is difficult to know for sure where the wind ends. No forecast is that accurate. Because of this, planning is difficult.
 
 Our main is flapping, waiting for wind to fill its belly, to give it purpose. Not tonight. Maybe things will be different in the morning, in the meantime we'll have to endure the flapping.
 
@@ -839,8 +872,8 @@ The night is quiet otherwise, with stars in full view. The moon has set, making 
 
 ![](img/july011.jpg "waiting")
 
-    Distance covered: 110 nm
-    Distance to Victoria: 2461 nm
+    Daily progress: 204 km (110 nm)
+    Distance to Victoria: 4,558 km (2461 nm)
 
 ##### 0130
 The wind is gone. All of it. The water is still, mirror-like. I go outside and reef the main in the dark to stop it from flapping. The sun is rising, I can see the outline of Shearwaters resting on the waves.
@@ -872,12 +905,12 @@ Something I do when my brain is too tired to brainstorm projects, or when it doe
 Pino clumsily wanders into a patch of resting Shearwaters. They are such skittish things. Even if we steer clear they still run, feet and wings flapping as they try and get away. Sometimes they dive underwater. I saw one do this today, but it must have been confused because it resurfaced even closer to us, and in a panic it took to the air, feet splashing and wings lifting water as it took off. These birds don't like us at all.
 
 ##### 1300
-Time to continue to read "The Long Way". I read aloud, snacking on peanuts with a glass of red wine. We are still on Japan time, deciding that we both liked a 2 h sunrise and a 17 h sunset. 13 h is 16 h, the time before we make dinner. These days we start our evening shifts at 17 h, as to make the most out of daylight hours. We're glad for long summer days, short nights are more pleasant as it doesn't get too cold. Robusta sent us a message, they are aiming for Dutch Harbor now and report the air being much cooler. Anja wonders how we'll cope with the cold without heating. We don't really know, but we'll figure something out. At the worse, we'll wear our sleeping bags?
+Time to continue to read "The Long Way". I read aloud, snacking on peanuts with a glass of red wine. We are still on Japan time, deciding that we both liked a 0200 sunrise and a 1700 sunset. 1300 is 1600, the time before we make dinner. These days we start our evening shifts at 1700, as to make the most out of daylight hours. We're glad for long summer days, short nights are more pleasant as it doesn't get too cold. Robusta sent us a message, they are aiming for Dutch Harbor now and report the air being much cooler. Anja wonders how we'll cope with the cold without heating. We don't really know, but we'll figure something out. At the worse, we'll wear our sleeping bags?
    
 ##### 1430
 Devine makes dinner today too, consisting of tomato pasta, with soft tofu and nori. He added some red miso to the sauce, I really like it! It adds a lot of depth.
 
-There is a tiny breeze, it helps us keep a heading east. We're cruising at a slow 2.5 knots — better than zero no? It will likely die today, with the forecast calling for an even calmer calm, if there can ever be such a thing. Perhaps it is a place where even sea life is still, slumbering peacefully before the next low comes rolling in. We should get some weather on Friday, maybe enough to propel us to our halfway mark.
+There is a tiny breeze, it helps us keep a heading east. We're cruising at a slow 5 km/h (2.5 kn) — better than zero no? It will likely die today, with the forecast calling for an even calmer calm, if there can ever be such a thing. Perhaps it is a place where even sea life is still, slumbering peacefully before the next low comes rolling in. We should get some weather on Friday, maybe enough to propel us to our halfway mark.
 
 Devine prepared some epoxy, and filled up some holes left on deck by our former dodger after it was ripped off. The dodge was held in place by many little clasps, they all broke.
    
@@ -887,7 +920,7 @@ We are still finding patches of mold in weird places, courtesy of the exploded j
 The breeze is still with us, the sky is overcast now though, it is much cooler outside without the warmth of the sun.
    
 ##### 2330
-Light winds, Pino is self-steering to the southeast, sometimes we can nudge it back to east with ropes. It started to drizzle, so I went inside. We're moving at a low 2.5-3 knots. It is difficult to find motivation to adjust sails in the rain and in the dark. I'm doing what I can from inside, hoping the breeze won't leave, it just might as the current forecast calls for zero winds in this area — and yet? The sun cannot rise fast enough. I am tired today, and hoping the brightness of the day will kick that out of me.
+Light winds, Pino is self-steering to the southeast, sometimes we can nudge it back to east with ropes. It started to drizzle, so I went inside. We're moving at a low 5 km/h (2.5 kn). It is difficult to find motivation to adjust sails in the rain and in the dark. I'm doing what I can from inside, hoping the breeze won't leave, it just might as the current forecast calls for zero winds in this area — and yet? The sun cannot rise fast enough. I am tired today, and hoping the brightness of the day will kick that out of me.
 
 I feel bad because I dropped a glass jar onto Devine's bony side while reaching for a snack in the dark. He was not pleased with me.
 
@@ -897,11 +930,11 @@ I feel bad because I dropped a glass jar onto Devine's bony side while reaching 
 
 ![](img/july02.jpg "This is fine")
 
-    Distance covered: 41 nm
-    Distance to Victoria: 2488 nm
+    Daily progress: 76 km (41 nm)
+    Distance to Victoria: 4,608 km (2488 nm)
 
 ##### 0400
-July brings grey days and rain, a drizzle, annoying and ever-present. Weak winds are with us, still, we try and keep with it. Today, I am a slave to the compass, sacrificing comfort for forwardness. I prepared warm oatmeal, but the pan is dirty — Devine had the same idea. Warm meals on cold mornings feels good. I wonder if the solar panel will work today, given the grey conditions and low visibility. I miss the sun already. I'm glued to the stairs, hands on ropes, guiding Pino along as it doesn't care to guide itself today, like this amount of wind isn't worth fussing over — with 2 knots of speed I am inclined to agree, but still, there's a will in me to steer so I will steer.
+July brings grey days and rain, a drizzle, annoying and ever-present. Weak winds are with us, still, we try and keep with it. Today, I am a slave to the compass, sacrificing comfort for forwardness. I prepared warm oatmeal, but the pan is dirty — Devine had the same idea. Warm meals on cold mornings feels good. I wonder if the solar panel will work today, given the grey conditions and low visibility. I miss the sun already. I'm glued to the stairs, hands on ropes, guiding Pino along as it doesn't care to guide itself today, like this amount of wind isn't worth fussing over — with 4 km/h (2 kn) of speed I am inclined to agree, but still, there's a will in me to steer so I will steer.
 
 ##### 0530
 Slave to the compass no longer, I've left my post, annoyed. The forecast I checked inspired this decision, as the coming calm is complete. We will not be sailing today, maybe not even tomorrow... this part of the ocean is not what I thought it'd be. It's like the doldrums of the north, but only around Pino. I've lashed the tiller, and rolled in the jib, now Pino can go wherever it wants at a snail's pace. There are waves that carry us onward, I wonder if this is what was propelling us on too last night. Today will be a quiet day, spent in a monochrome, wet world. The rain is too light to catch, I'm hoping for a good downpour so we can replenish our tanks. We are using as little water as possible, but catching a few liters would reassure me, and maybe permit us to wash a few neglected items.
@@ -951,11 +984,11 @@ Found wind for 1 hour, but lost it again. The wind is rude during calms, it leav
 
 ![](img/july03.jpg "monster aleutian") 
 
-    Distance covered: 82 nm
-    Distance to Victoria: 2540 nm
+    Daily progress: 152 km (82 nm)
+    Distance to Victoria: 4,704 km (2540 nm)
 
 ##### 0500
-What is this strange sensation on my skin? Like it is being caressed... it is also moving the water?! WIND. Lots of it! We are heading northeast at a pleasantly refreshing 5 knots! Pino is zoooooming! It looks like this patch of wind will stay with us for today. I am really looking forward to hitting our unnofficial halfway mark. We've been looking at it for too long now, it laying ahead, teasing us with its unnattainableness. We will reach you yet!
+What is this strange sensation on my skin? Like it is being caressed... it is also moving the water?! WIND. Lots of it! We are heading northeast at a pleasantly refreshing 9 km/h (5 kn)! Pino is zoooooming! It looks like this patch of wind will stay with us for today. I am really looking forward to hitting our unnofficial halfway mark. We've been looking at it for too long now, it laying ahead, teasing us with its unnattainableness. We will reach you yet!
 
 We set up food goals for each milestone. Halfway means opening a bag of gobou (burdock root) and renkon (lotus root), a mix we bought at a specialty grocery store in Shimoda. It was pricy, but it is shelf-stable and looks delicious! Looking forward to it.
    
@@ -967,7 +1000,7 @@ Pino is doing good. The sky is grey, but bright. Our solar backpack is outside, 
 ##### 1200
 A dark, blocky shape appears at our stern. It's a ship, a cargo ship. It doesn't broadcast on AIS. I take out my binoculars and try to figure out its course, as it is still far and difficult to make it out. For now, it looks as though it is barelling toward us. We keep our course and watch. Phew, we can see its stern at an angle, it's going to pass us well to starboard. It went by us, I could make out much of its deck, although it carried no cargo. It's waterline was high because of this. This is the closest encounter we've had with a big ship so far.
 
-We make *penne with a red lentil sauce* (recipe, p. 140) for lunch. The food helps to diffuse Devine's headache, a little, but he hopes to nap again right after the ship has passed us. The wind has lessened, but is still with us. Pino won't self-steer now, I pull ropes while standing on the companionway stairs. Afternoons are lonely when Devine doesn't feel good. We are 150 nm away from the halfway mark.
+We make *penne with a red lentil sauce* (recipe, p. 140) for lunch. The food helps to diffuse Devine's headache, a little, but he hopes to nap again right after the ship has passed us. The wind has lessened, but is still with us. Pino won't self-steer now, I pull ropes while standing on the companionway stairs. Afternoons are lonely when Devine doesn't feel good. We are 278 km (150 nm) away from the halfway mark.
 
 ##### 1730
 The wind is much weaker now, I still need to guide Pino along. It is cold, so I continue to steer from inside. It is not fun, as I am glued to this spot. Pino keeps trying to go north, and I want to go east. Not Pino, nor the wind care what I want. It is going to be a long night. Plus Devine has an indigestion and I am not sure what is causing it. I made him some fizzy water to help settle his stomach. He also ate a bit of crystallized ginger, claiming it helped. If we had fresh ginger, I'd brew him a cup of ginger tea.
@@ -993,13 +1026,13 @@ Devine makes late night ramen on his last shift. I am happy he is eating and tha
 
 ![](img/july04.jpg "AIS") 
 
-    Distance covered: 120 nm
-    Distance to Victoria: 2636 nm
+    Daily progress: 222 km (120 nm)
+    Distance to Victoria: 4,882 km (2636 nm)
 
 ##### 0500
 The wind was good for most of the night, light, but good. Now, it has abandoned us once again. I wake up Calcifer. "Wake up Cal! Time to go to work!" Calcifer rumbles to life, spitting water and smoke, and does this without complaining — unlike us. If our electronics could be powered by whining we'd be set. We'll get our wind back eventually. Meanwhile, a system is forming ahead, one that I'm not certain we can avoid. We'll keep an eye on it, see how it develops in the coming days.
 
-We reached 175°W today, with only 96 nm left to our halfway mark. I am as sick of not crossing it as I am of writing about not crossing it. There's fog, but thick enough to obscure all. Coffee time cannot come fast enough, my veins demand it. 
+We reached 175°W today, with only 178 km (96 nm) left to our halfway mark. I am as sick of not crossing it as I am of writing about not crossing it. There's fog, but thick enough to obscure all. Coffee time cannot come fast enough, my veins demand it. 
 
 ##### 0600
 I am charging electronics, managing them to see which need it the most. We don't have an infinity of USB ports or outlets, so I've got to swap items out when they're done so I can charge other devices. The solar backpack is outside again, charging up the big battery bank. It charges slowly, but it'll get there! This backpack is a good backup to have, should our other panel fail.
@@ -1017,14 +1050,14 @@ Devine wiped rust that had formed over some of our sailing needles, and was in t
 We have to alter course to avoid a fishing fleet that lies ahead. We see many targets on AIS but they all bear similar names, ending with numbers. The last time this happened, the other ships turned out to be buoyed beacons, marking the position of their nets. We hoped this wasn't the same deal, as avoiding them all is hard. I really despise this industry. They shouldn't be here doing this. All of the trash we see on the ocean is from fishing. Foam fenders, floats, nets etc. They are filling it with garbage while emptying it of life. I really, really hate them. 
 
 ##### 1530
-It's worse than we thought. We've stumbled into a minefield of fishing vessels, a fleet of over 40, all huddled in together around us. They're covering 40 nm of ocean, going around them was just not possible. There is room to go between them, but it is scary. AIS has been beeping non-stop for the past 4 hours. We thought we'd reached the end but we saw many more appearing on AIS. What a nightmare. I thought we'd be clear of these monsters tonight but no. How is this possible? Why are they all here? I feel like a mouse in a pit of snakes.
+It's worse than we thought. We've stumbled into a minefield of fishing vessels, a fleet of over 40, all huddled in together around us. They're covering 74 km (40 nm) of ocean, going around them was just not possible. There is room to go between them, but it is scary. AIS has been beeping non-stop for the past 4 hours. We thought we'd reached the end but we saw many more appearing on AIS. What a nightmare. I thought we'd be clear of these monsters tonight but no. How is this possible? Why are they all here? I feel like a mouse in a pit of snakes.
 
-The sight of all these targets is too crazy, I almost don't believe it. They're all Chinese-flagged vessels, all huddled up together here — a hellish sight. I really hope fog won't set in, otherwise this could get dangerous. This is worse than sailing in Japanese coastal waters. We went through thinking that we'd reach the end of the fleet soon, but the thing is that AIS doesn't load all targets, especially those beyond 12 nm. There are many, many more ahead.
+The sight of all these targets is too crazy, I almost don't believe it. They're all Chinese-flagged vessels, all huddled up together here — a hellish sight. I really hope fog won't set in, otherwise this could get dangerous. This is worse than sailing in Japanese coastal waters. We went through thinking that we'd reach the end of the fleet soon, but the thing is that AIS doesn't load all targets, especially those beyond 22 km (12 nm). There are many, many more ahead.
 
 There are no birds here. I understand. If I could leave this place skyward I'd do it.
    
 ##### 2300
-We've passed it, but boy did it ever shake my trust of this ocean. I enjoyed its vast emptiness, and now we run into mid-ocean traffic of the worst sort. There is another cluster south of us, glad that it's there and not here. We spent the day weaving our way through them. The upside in all this is that we passed them quickly, as the wind was with us. Pino ran at 6 knots, eager too it seemed to leave this accursed patch of ships. When darkness fell, each ship turned on their lights, each one illuminating everything around them. It was easier to see where they were, but it also exposed just how many were around us, their light burning into the clouds above. Absolutely surreal, and horrible! Each time we approached an island of light we could hear their powerful engines whirring, and could smell their exhaust fumes. I was afraid they'd all start moving at once. It was like tiptoeing through a cave of sleeping bears. "SHHH! Must not wake them or they'll swallow us up!"
+We've passed it, but boy did it ever shake my trust of this ocean. I enjoyed its vast emptiness, and now we run into mid-ocean traffic of the worst sort. There is another cluster south of us, glad that it's there and not here. We spent the day weaving our way through them. The upside in all this is that we passed them quickly, as the wind was with us. Pino ran at 11 km/h (6 kn), eager too it seemed to leave this accursed patch of ships. When darkness fell, each ship turned on their lights, each one illuminating everything around them. It was easier to see where they were, but it also exposed just how many were around us, their light burning into the clouds above. Absolutely surreal, and horrible! Each time we approached an island of light we could hear their powerful engines whirring, and could smell their exhaust fumes. I was afraid they'd all start moving at once. It was like tiptoeing through a cave of sleeping bears. "SHHH! Must not wake them or they'll swallow us up!"
 
 The wind is light now, and we cannot download the weather. We'll try again tomorrow morning. I am tired from this day, these ships sucked out all my energy. I can't relax either, afraid to see another cluster ahead. Tomorrow will be better, it's got to be better. I want to be with the birds and porpoises again.
 
@@ -1034,8 +1067,8 @@ The wind is light now, and we cannot download the weather. We'll try again tomor
 
 ![](img/july05.jpg "calm")
 
-    Distance covered: 41 nm
-    Distance to Victoria: 2671 nm
+    Daily progress: 76 km (41 nm)
+    Distance to Victoria: 4,947 km (2671 nm)
 
 ##### 0100
 We got a message from Iridium saying our account was about to be suspended. We think we may have used up all our data minutess. We can't check the weather, but SMS still work and we're trying to get in contact with them to append more minutes. Devine's dad is also helping us with it. What a shit show. We should have purchased more, but also, I don't know how it is possible that we went through it all. We did have some issues with the device, with it stalling during some internet calls... maybe this ate up extra minutes. Either way, this situation is shit, as we don't know what's going on out there and we can't broadcast our position.
@@ -1062,8 +1095,8 @@ Sometimes though, I grow tired of resting. I am restless to sail, to move forwar
 
 ![](img/july06.jpg "Pendulum")
 
-    Distance covered: 97 nm
-    Distance to Victoria: 2733 nm
+    Daily progress: 180 km (97 nm)
+    Distance to Victoria: 5,061 km (2733 nm)
 
 ##### 0500
 The wind has been erratic, coming and going, always from the north, or the northeast. At times, it was so weak we could go neither east or north. Other times, the same strength permitted us to sail into it? Both of us are confused. The seas are also messy. Pino is sailing, but we're getting slapped by wavelets from the sout, west and east? The westerly swell is notably bigger. The fog is here again, and it is thick. I can see the sun still, a diffused ring of light perched up above. We're happy to be moving forward but being outside is uncomfortable, the fog leaves droplets of moisture all over Pino, and us if we happen to venture into the cockpit. 10 minutes out there and my eyelashes have wet beads in them, and my foul weather gear becomes thoroughly damp and heavy.
@@ -1072,7 +1105,7 @@ This morning at 1 h, when I went to sleep, I noticed that I could see my own bre
 
 Devine made a lantern our of a can of Yebisu beer yesterday, he hung it up and placed a candle in it. It helped us save power at night, while giving the room a nice ambiance. If we near our hands to it it gives off a bit of warmth too, it feels good after a cold shift.
 
-Our next milestone lies ahead, 90 nm away. We'll hit the 2000 nm to Vancouver Island. It's a lot of ground to cover, but we've already done so much. If the wind stays we'll meet our goal soon enough, but it is difficult in these waters, where the wind is far from constant. We still don't have weather, as the Iridium office is closed on weekends, and that the next working day is a holiday. Sigh. We'd like to know what's going on out there, we can't read the waves and wind like Moitessier — at least not yet. Maybe it's time to unbox the sextant, although it won't be easy to take noonsights in fog. We started to learn, already, but neither of us have mastered it. 
+Our next milestone lies ahead, 167 km (90 nm) away. We'll hit the 3,704 km (2000 nm) to Vancouver Island. It's a lot of ground to cover, but we've already done so much. If the wind stays we'll meet our goal soon enough, but it is difficult in these waters, where the wind is far from constant. We still don't have weather, as the Iridium office is closed on weekends, and that the next working day is a holiday. Sigh. We'd like to know what's going on out there, we can't read the waves and wind like Moitessier — at least not yet. Maybe it's time to unbox the sextant, although it won't be easy to take noonsights in fog. We started to learn, already, but neither of us have mastered it. 
    
 ##### 0700
 Devines makes penne, using our last bag of fun-shaped pasta. He serves it with indian spices and tofu. "Experiment!" he says, handing me the bowl. I like Devine's experiments, he's got a gift for cooking with limited ingredients. He somehow always manages to prepare something delicious, something that feels fresh despite having no fresh ingredients. At this point in our trip it is an important skill, as we have nothing but potatoes, 1 preserved lotus root, dried radish and canned vegetables.
@@ -1095,8 +1128,8 @@ Now, we await wind, if it would be so kind as to return to instill a bit of hope
 
 ![](img/july07.jpg "Pendulum")
 
-    Distance covered: 99 nm
-    Distance to Victoria: 2795 nm
+    Daily progress: 183 km (99 nm)
+    Distance to Victoria: 5,176 km (2795 nm)
 
 ##### 0100
 Calm, calm, calm, always and forever. Not much to say. This constant quiet has robbed me of all words, but thankfully, I'm still able to laugh at this situation through cartoons. This logbook is filled with them, and they get sillier as the gloom bug grows in size.
@@ -1134,14 +1167,14 @@ I'd rather be here than on a plane though, that much is sure, as I hate to be bo
 
 ![](img/july08.jpg "Pendulum")
 
-    Distance covered: 49 nm
-    Distance to Victoria: 2836 nm
+    Daily progress: 91 km (49 nm)
+    Distance to Victoria: 5,252 km (2836 nm)
 
 ##### 0000
 I realized something tonight, that I had not checked the fuse for the sailing instruments. After the knockdown, I'd just assumed the wind meter had died, but it HASN'T! The fuse blew out! I switched the fuse (same rating) with the one from the steaming light, and it WORKS! WOW. That, is awesome! I turned the switch on and heard the familiar beeping as it sprang to life! Though, we don't really need it? We've been sailing without it for nearly 3 weeks now. It's definitely not an essential part of our boat, but still, I'm glad it's working.  
 
 ##### 0500
-The wind is strong and steady, still on the same northeast course. In 1 hour, we'll reach the 2000 nm milestone we set on Navionics. Then, it's 450 nm to the Turn Off. We call the Turn Off the place where we can turn and aim straight for the entrance to the Juan de Fuca Strait. Looking forward to that! I think we even have a small milestone before that, celebrating the fact that we can see our position along with Vancouver Island on the same chart. Little milestones keep us happy, they keep us busy.
+The wind is strong and steady, still on the same northeast course. In 1 hour, we'll reach the 3,704 km (2000 nm) milestone we set on Navionics. Then, it's 833 km (450 nm) to the Turn Off. We call the Turn Off the place where we can turn and aim straight for the entrance to the Juan de Fuca Strait. Looking forward to that! I think we even have a small milestone before that, celebrating the fact that we can see our position along with Vancouver Island on the same chart. Little milestones keep us happy, they keep us busy.
 
 There are some fishing boats ahead that I can see on AIS, I hope it isn't another large fleet... we'll have to wait until we get closer to find out.
 
@@ -1154,7 +1187,7 @@ We received a message from Devine's dad, saying that he'd contacted the customer
 
 The weather is set to increase, which means we'll be going forward for the next few days, but we've got to be careful. It's been a while since we've encountered such weather, and I don't want a repeat of what happened off the coast of Japan. We reefed down the jib, it helped stabilize Pino, but it has offset our course a little, not a big deal because the fleet of ships is still ahead. Yep, another fleet of Chinese-flagged vessels. As we are nearing them, the number of vessels increases. First, there was 2, then 4, now 9. The closer we go, the higher this number will go. Our reefed jib is giving us more northing, it will permit us to sail around the northernmost edge of the fleet.
 
-We're going at 4.5 knots. I'm glad to have the weather, but seeing the forecast is worrisome in other ways.
+We're going at 8 km/h (4.5 kn). I'm glad to have the weather, but seeing the forecast is worrisome in other ways.
 
 ##### 0900
 Noticed our headsail carts are staining our jib sheets black. The aluminum is being ground down. Let's hope they will last the trip! This hardware is original, past their prime. We think they will fair just fine, but we're keeping watch anyway. They squeak a great deal more than they used to, we sometimes have to pour dish soap over them to quiet them. Elderly Pino is doing good.
@@ -1189,13 +1222,13 @@ I bought boxes of Clif Bars in Japan before leaving, as filler for our ditch bag
 
 ![](img/july09.jpg "Pendulum")
 
-    Distance covered: 59 nm
-    Distance to Victoria: 2860 nm
+    Daily progress: 109 km (59 nm)
+    Distance to Victoria: 5,297 km (2860 nm)
 
 ##### 0700
 Been turning radar on more often, as there is no break to this fog. We don't leave it on, as it is a power-sucker. This, paired with AIS is essential out here. I can imagine that it wasn't crucial during Moitessier and Lin & Larry Pardey's time, as there was less shipping. Now, I see targets everyday, as cargo is circling the globe from one port to the next.
 
-Gliding at a reasonable 4-4.5 knots, heading northeast. The winds will shift to the southwest tomorrow, and will increase a lot. If it gets too crazy we will heave to. I've no desire to take risks anyore, not for speed anyway.
+Gliding at a reasonable 8 km/h (4.5 kn), heading northeast. The winds will shift to the southwest tomorrow, and will increase a lot. If it gets too crazy we will heave to. I've no desire to take risks anyore, not for speed anyway.
 
 As I am writing this, the fog cleared ahead! WOW! Look at that horizon line! What-a-BEAUTY! Never thought I'd miss the sight of it this much. I will not last, but for now I'll take it, it is here, it is pleasant and I am happy. The world just got a lot sharper and I love it!
    
@@ -1212,12 +1245,12 @@ Quiet afternoon on Pino Island. The waves are down, making it more pleasant to m
 
 I ate fermented radish that Kako gave us before leaving, she gave us two jars, plus two others of raggyo, small onions preserved in soy sauce and vinegar. We also prepared garlic miso, but they're not good to eat anymore I think. It's an amazing recipe and is easy to prepare, it consists of peeled garlic cloves with the tips cut off, buried in miso and left to ferment for 1 month. It is delicious, and not overly spicy, or salty.
 
-The wind will rise tonight as the low passes over us. It won't be as strong as what we had near Japan, but we'll be careful anyway. We're doing good speed, rapidly approaching our next milestone: The Turn Off. It is 370 nm away, not too far. Devine added other milestones in-between, to make things exciting. We'll likely cross the 1750 nm left mark in the coming day. Captain Ninj is pleased with our progress, "the gnocchi—" he says, "—it is near! SOON the potato pillows will enter your mouth caves!" Yes Captain Ninj, and we will be happy when they do.
+The wind will rise tonight as the low passes over us. It won't be as strong as what we had near Japan, but we'll be careful anyway. We're doing good speed, rapidly approaching our next milestone: The Turn Off. It is 685 km (370 nm) away, not too far. Devine added other milestones in-between, to make things exciting. We'll likely cross the 3,241 km (1750 nm) left mark in the coming day. Captain Ninj is pleased with our progress, "the gnocchi—" he says, "—it is near! SOON the potato pillows will enter your mouth caves!" Yes Captain Ninj, and we will be happy when they do.
    
 ##### 2200
 This is officially the longest sailing trip we've ever done, two days ago we passed our record of 28 days to the Marquesas, from Mexico. Already then, we had this passage in mind as it is much longer, but also inevitable if we want to go to Japan and back home. The passage to the Marquesas had better weather, consistent winds and assured rain because of squalls. The passage to Canada has been an entirely different experience, we thought that rain would be a frequent visitor but it has largely avoided us, especially when we need it the most. We collected water once, not since. We've no real way of measuring what is left in our main tank, but with the extra 50 L we added, it will extend its use for sure. If we are careful, we can go 1 1/2 months on this tank. Our extra jerry cans total 70 L. I'd like to keep these for cooking and as drinking water.
 
-With 1800 nm left, being careful is essential. We don't know what could happen that could slow us down, meaning more days out here where we consume water. Here is hoping we get some rain, one big downpour to dissolve the crust of salt enveloping Pino, to fill a few upside down umbrella's worth of extra water.
+With 3,334 km (1800 nm) left, being careful is essential. We don't know what could happen that could slow us down, meaning more days out here where we consume water. Here is hoping we get some rain, one big downpour to dissolve the crust of salt enveloping Pino, to fill a few upside down umbrella's worth of extra water.
 
 The night is smooth, so far. We are staying ahead of the weather, pretending it won't catch up. I realized today that I stopped dreaming? Seems like they stopped when the wind returned. I've got a more active mind during bouts of calms. With the winds we've had yesterday and today, those calms feel like a distant dream. Not sure we've seen the last of the calm calms, I could never say anything like that with confidence, not out here.
 
@@ -1227,11 +1260,11 @@ The night is smooth, so far. We are staying ahead of the weather, pretending it 
 
 ![](img/july10.jpg "Pendulum")
 
-    Distance covered: 133 nm
-    Distance to Victoria: 2941 nm
+    Daily progress: 246 km (133 nm)
+    Distance to Victoria: 5,447 km (2941 nm)
 
 ##### 0630
-A ship is passing north of us, we're angling east to not cross its path. Had a good restful night, no drama, and we like it that way. We passed the 1750 nm left milestone, and so we treat ourselves to *soba* (recipe, p.142), complete with dipping sauce and our bag of special toppings from Aoki: flavored take no ko (young bamboo). Ahead, lies our bigger milestone: The Turn Off. It is 270 nm ahead. I can't believe our progress! The weather has not hit us yet, but it is coming! No signs of a calm ahead either. OH JOY OH JOY! If we can continue at this pace, we might arrive in 49 days, now that, would be something!
+A ship is passing north of us, we're angling east to not cross its path. Had a good restful night, no drama, and we like it that way. We passed the 3,241 km (1750 nm) left milestone, and so we treat ourselves to *soba* (recipe, p.142), complete with dipping sauce and our bag of special toppings from Aoki: flavored take no ko (young bamboo). Ahead, lies our bigger milestone: The Turn Off. It is 500 km (270 nm) ahead. I can't believe our progress! The weather has not hit us yet, but it is coming! No signs of a calm ahead either. OH JOY OH JOY! If we can continue at this pace, we might arrive in 49 days, now that, would be something!
 
 Fog is ever-present, but with a bit of sun shining through. It isn't too cold either, even at night. We sit at the navigation table with a sleeping bag, and with it we are comfortable. Robusta is near Dutch Harbor, maybe they've arrived already. We got no message saying so today, we'll miss exchanging emails with our schnaubees.
    
@@ -1246,7 +1279,7 @@ Devine is making *garlic, nori and chili flake pasta* (recipe, p.138) for dinner
 The wind is rising out of the southwest. We have to hand steer to keep with the waves. It's been a while since we've steered outside at night. It was very cold, made colder by the lingering moisture in the air. It clung to our clothes, wool hats and gloves. After our shifts, we'd huddle under a pile of sleeping bags to try and warm ourselves as quickly as possible, to fall asleep as quickly as possible. I'd curl up into a ball, to try and accumulate warmth fast. Sleep doesn't come when I am cold.
    
 ##### 0000
-Saw a ship on AIS called KDDI Cable Infinity. It's one of those vessels that lay internet cables in the ocean! On AIS, it warned ships of its limited manoeuverability, and to stay 1 nm away. Funny to encounter a ship like this here, they certainly aren't working in the best of conditions, as the seas and winds are high. The fog too, is thick and laced with rain. On one hand, they're here for work, cause they've been asked to be here... but we're a 'pleasure craft'. They must be looking at us wondering the same thing. "There's rain and wind and fog! Why the HELL would THEY be out HERE...?!"
+Saw a ship on AIS called KDDI Cable Infinity. It's one of those vessels that lay internet cables in the ocean! On AIS, it warned ships of its limited manoeuverability, and to stay 1.852 km (1 nm) away. Funny to encounter a ship like this here, they certainly aren't working in the best of conditions, as the seas and winds are high. The fog too, is thick and laced with rain. On one hand, they're here for work, cause they've been asked to be here... but we're a 'pleasure craft'. They must be looking at us wondering the same thing. "There's rain and wind and fog! Why the HELL would THEY be out HERE...?!"
 
 \newpage
 
@@ -1254,11 +1287,11 @@ Saw a ship on AIS called KDDI Cable Infinity. It's one of those vessels that lay
 
 ![](img/july11.jpg "Rabbit waves")
 
-    Distance covered: 46 nm
-    Distance to Victoria: 2950 nm
+    Daily progress: 85 km (46 nm)
+    Distance to Victoria: 5,463 km (2950 nm)
 
 ##### 0100
-We keep to Japan time still, as the days are long, and that we enjoy a midnight sunrise. The fog is always thick in those early morning hours, visibility is limited. No ships nearby, at least, no monstrous fishing fleets either. The wind is 15-20 knots, looks like it won't be as strong as forecasted. I am starving though, I am always terribly hungry in the morning. I am a chasm of hunger, a foodless void, a mass of flesh in need of immediate sustenance. The groaning of my stomach creates ripples in the ocean.
+We keep to Japan time still, as the days are long, and that we enjoy a midnight sunrise. The fog is always thick in those early morning hours, visibility is limited. No ships nearby, at least, no monstrous fishing fleets either. The wind is 28-37 km/h (15-20 kn), looks like it won't be as strong as forecasted. I am starving though, I am always terribly hungry in the morning. I am a chasm of hunger, a foodless void, a mass of flesh in need of immediate sustenance. The groaning of my stomach creates ripples in the ocean.
    
 ##### 0300
 Devine makes coffee, we drink it together and check the weather. Robusta sent us a message, they haven't arrived at Dutch Harbor yet, but they're at an anchorage that seems pleasant. Ah, land! Rather not think of it. It's getting closer though, this weather has been carrying us across fast, so different than the period of calms we suffered recently. The downside of this point of sail is the hand-steering, but really, it isn't all bad, not when there's promise of a warm and dry sleeping bag inside.
@@ -1266,7 +1299,7 @@ Devine makes coffee, we drink it together and check the weather. Robusta sent us
 ##### 0800
 The sky has blue in it, fog has cleared. Waves are better too. I don't have to wear my scarf and gloves! This sun will help dry our wet clothes, before tonight's inevitable wettening. We make *Japanese curry* (recipe, p.145) for lunch, with white rice, potatoes, dry tofu, Japanese curry pickles and a can of green peas. Delicious. Expected the green peas to be the soft, discoloured, mushy kind, but they were a nice clear green and somewhat firm? Now I wish I'd purchased more. There's no way to know what you'll get when it comes to canned food. Canned brussel sprouts in Tahiti were amazing, asparagus in New Zealand were disgusting, but potatoes were good! It's a good idea to buy cans ahead of time to taste them, so as to no buy too much of the kind you realize you hate, and more of the good kind. Wish we had purchased more of those canned brussel sprouts. We ate it on passage later and couldn't believe the taste and texture, but of course by then, it was too late, the Carefour grocery was long gone. We never did see canned brussel sprouts again, but even so, I doubt they'd be any good.
 
-We are nearing the Turn Off, it is 138 nm away! Then, it's GNOCCHI TIME!
+We are nearing the Turn Off, it is 255 km (138 nm) away! Then, it's GNOCCHI TIME!
    
 ##### 1400
 Time for another freak out moment! I was steering outside, waves were okay, manageable, than overtime there would come trains of waves, sweeping in threes, each one larger than the next. This is common on the ocean, but I was also getting cross waves. While I steered through the train of threes, another set would come and hit Pino on the side. I freaked out because of the size and ferocity of the crosswaves, with some peaking way high, above the lifeline "Not again..." My legs are noodles. J'ai des jambes en nouilles. I was so scared they could barely hold me up. I wanted to heave to then, but I had to wait for the threes to pass. Once they did pass, I parked Pino and hurried inside, finding Devine reading quietly on the starboard side settee. "You okay?" he asks me. When I park the boat, it is usually because things aren't okay. I went to lie next to him and shook for hours as he tried to calm me. Devine decided to try and steer, and did so for a while but stopped as the crosswaves were too much, even for him. We decided to heave to for the night to let this awful weather pass.
@@ -1278,7 +1311,7 @@ Everytime we near a milestone, we hit a wall, whether it comes in the form of a 
 
 This streak of rough weather is a cruel, cruel thing, a horrible weather monster, guarding the east, keeping small ships from passing. Vancouver Island is concealed behind it, uncaring. "What can we do to appease you? OH great streak?" It doesn't answer. Well, it answers the only way it can I suppose, with lashes of rain and gusts of wind. Maybe it intends to let us through, and we are misunderstanding each other? As different sorts of beings often do, being dissimilar in every way.
 
-I am eager, scared to see how this develops. 40 knots of wind isn't a big deal for most vessels, and it isn't for us either, technically, but it can get dangerous if the wind blows that strongly for hours and hours, then the sea has plenty of time and inertia to grow into something terrible. In Japanese, the word for waves is "nami", they call waves "nami usagi", or "rabbit waves". This is a perfect way to describe the ocean, full of rabbits waves.
+I am eager, scared to see how this develops. 74 km/h (40 kn) of wind isn't a big deal for most vessels, and it isn't for us either, technically, but it can get dangerous if the wind blows that strongly for hours and hours, then the sea has plenty of time and inertia to grow into something terrible. In Japanese, the word for waves is "nami", they call waves "nami usagi", or "rabbit waves". This is a perfect way to describe the ocean, full of rabbits waves.
 
 \newpage
 
@@ -1286,8 +1319,8 @@ I am eager, scared to see how this develops. 40 knots of wind isn't a big deal f
 
 ![](img/july12.jpg "Pendulum")
 
-    Distance covered: 52 nm
-    Distance to Victoria: 2948 nm
+    Daily progress: 93 km (52 nm)
+    Distance to Victoria: 5,460 km (2948 nm)
 
 ##### 0100
 We checked the weather. Bad, bad news, the streak is still there, and its brought friends. We're not sure where to position ourselves to avoid it, as it is MASSIVE. Getting nearer to the Pacific High would be ideal, but it is impossible with the time we have, the wind doesn't allow for much either. One option is to keep heaving to, but this will push us deeper into the system. Our boat might be fine, we might also get battered — no way to know. Another option, is to head a few degrees north, where it will be a tad calmer, but the winds there will switch to the east and there's a chance we'll get sucked back in. There's a calm forming north of that area that we can sneak into, but we fear the waves generated by the system that will enter that area, heaving to in a calm is impossible, and we'd have to take the sails down and do the mad pendulum dance.
@@ -1303,9 +1336,9 @@ The gloom bug is strong today isn't it? You let it in! Why'd you do that? It's e
 I slept so, so deep. My sleep has been light these past 24 hours, sensitive to any and every sound and twitch of the boat. I don't have trouble napping usually, but it's been rough. I'm glad I was able to get some rest, as I feel better now, more relaxed.
    
 ##### 1200
-Devine took the wheel at 9h30, after checking the weather and seeing a safer spot for us up north, though it means hand-steering in shit conditions for a while to get there. The waves from yesterday's winds are still here, mountainous and persistent. He steered for some time, while I made *pâté chinois* (recipe, p.136) for dinner. He hove-to as we ate it, warm inside. Then 1 hour later, off he goes again to steer for another 3 hours. We only need to go 30 nm to avoid a bad spell of weather south. Then, we'll have lighter winds to continue to head north to hopefully avoid Wednesday's flare-up. We hope to get some days of reasonable winds after that to make it past the Turn Off. It's close, so close, but we cannot go east, not yet.
+Devine took the wheel at 9h30, after checking the weather and seeing a safer spot for us up north, though it means hand-steering in shit conditions for a while to get there. The waves from yesterday's winds are still here, mountainous and persistent. He steered for some time, while I made *pâté chinois* (recipe, p.136) for dinner. He hove-to as we ate it, warm inside. Then 1 hour later, off he goes again to steer for another 3 hours. We only need to go 55 km (30 nm) to avoid a bad spell of weather south. Then, we'll have lighter winds to continue to head north to hopefully avoid Wednesday's flare-up. We hope to get some days of reasonable winds after that to make it past the Turn Off. It's close, so close, but we cannot go east, not yet.
 
-It is definitely discouraging to not work towards our goal because of strong winds, but we've got no choice, it is the safest thing to do. Sometimes, the long way is the best way, detours and all. After that, we have 1500 nm to the opening to the Strait of Juan de Fuca. With what we've done already, it doesn't seem like much, but if we keep getting flare-ups like this it will amount to many more miles. It is best not to count detours.
+It is definitely discouraging to not work towards our goal because of strong winds, but we've got no choice, it is the safest thing to do. Sometimes, the long way is the best way, detours and all. After that, we have 2,778 km (1500 nm) to the opening to the Strait of Juan de Fuca. With what we've done already, it doesn't seem like much, but if we keep getting flare-ups like this it will amount to many more miles. It is best not to count detours.
 
 I'm in a better mood than yesterday, as we've got a plan. Having a plan feels better than idling, waiting for the storm to come. We hope that this bad streak will be a distant memory, as we glide on a corridor of smooth, fresh winds all the way home!  
 
@@ -1325,8 +1358,8 @@ Devine comes in for some hot chocolate. A mix of cocoa powder, kinako powder (ro
 
 ![](img/july13.jpg "Pendulum")
 
-    Distance covered: 84 nm
-    Distance to Victoria: 3014 nm
+    Daily progress: 155 km (84 nm)
+    Distance to Victoria: 5,582 km (3014 nm)
 
 ##### 0000
 We hove to for the night, bypassing some weather lying east of us. With the system that's coming, it's a good idea to rest up anyway. We're going to need energy to face the waves, winds and cold.
@@ -1353,7 +1386,7 @@ I want to have a good course always, I should know better. I know with sailing y
 The gloom bug isn't here to stay, it's not all I have on my mind, there is also gnocchi banging around in here. Well, the idea of gnocchi. We've nearly reached the Turn Off, nearly... but fuck it, we're eating those stupid potato lovelies TODAY. We'll be hitting that milestone in the night, so it doesn't matter when today, technically. Potato pillows, in my mouth cave....TODAY.
    
 ##### 1400
-We are ZOOMING! Devine unfurled the jib entirely and we are GOnortheast! Riding those wave beasts like a surfboard! Last I looked, we were riding at 6-7 knots? Whoa. The wind is set to lessen tonight, if this morning'd weather forecast holds. We're trying to skirt past the top of this low, but it might catch up. For now, our speed is good, but I hope it doesn't increase suddenly in the night as a full jib is difficult to furl. It isn't hard to furl normally, but the furler is a bit stiff these days. The anchor damaged the barrel, it made a dent to accompany the one we already had, and it is harder to furl because there is less room in the barrel for a fully-coiled line. We want to fix this, to get the dent out, but the weather these days doesn't permit much. We're still waiting for a good time to fill the diesel tank, an operation that requires no rain and no saltwater spray. We've got half a tank, not bad, but we need to feed it. Calcifer needs its special juice.
+We are ZOOMING! Devine unfurled the jib entirely and we are GOnortheast! Riding those wave beasts like a surfboard! Last I looked, we were riding at 11-13 km/h (6-7 kn)? Whoa. The wind is set to lessen tonight, if this morning'd weather forecast holds. We're trying to skirt past the top of this low, but it might catch up. For now, our speed is good, but I hope it doesn't increase suddenly in the night as a full jib is difficult to furl. It isn't hard to furl normally, but the furler is a bit stiff these days. The anchor damaged the barrel, it made a dent to accompany the one we already had, and it is harder to furl because there is less room in the barrel for a fully-coiled line. We want to fix this, to get the dent out, but the weather these days doesn't permit much. We're still waiting for a good time to fill the diesel tank, an operation that requires no rain and no saltwater spray. We've got half a tank, not bad, but we need to feed it. Calcifer needs its special juice.
    
 ##### 1700
 The wind increased, instead of lessening, that, and rain. A LOT of rain. Not a very pleasant evening. High winds is one thing, but it's hellish when combined with rain. We are both very tired tonight. Our sleeping shifts were disrupted by the flapping of sails as we let Pino steer southeast a while. I went out to correct the course, but did not last long. I can only stand being out for for short periods of time in these conditions. Two hours is forever in outside time.
@@ -1364,14 +1397,14 @@ The wind increased, instead of lessening, that, and rain. A LOT of rain. Not a v
 
 ![](img/july14.jpg "rain")
 
-    Distance covered: 85 nm
-    Distance to Victoria: 3065 nm
+    Daily progress: 157 km (85 nm)
+    Distance to Victoria: 5,676 km (3065 nm)
 
 #### 0000
 Rose with the sun, and went outside to steer us northeast. Wind has lessened, I guess yesterday's calmer weather was delayed to today. Waves are big but round, manageable.
    
 ##### 0230
-Devine wakes up, we have oatmeal and coffee as we check the weather. We make the decision to keep going northeast, what we saw advised this decision. I go back out and steer some more, unfurling the jib to 100%. Pino glides at 7 knots. Perfect. It would be even better without rain though! Can't have it all.
+Devine wakes up, we have oatmeal and coffee as we check the weather. We make the decision to keep going northeast, what we saw advised this decision. I go back out and steer some more, unfurling the jib to 100%. Pino glides at 12 km/h (7 kn). Perfect. It would be even better without rain though! Can't have it all.
    
 ##### 0630
 Devine makes lunch, garlic pasta with shredded nori. I park Pino and get inside, peeling off my many layers, wet on the outside and gradually dry inside. I was wearing 2 sweaters, 1 fleece, foul weather pants, oil skin pants, foul weather jacket, rain jacket overtop... wet gloves, hat. I wasn't cold wearing this, though I dread having to go to the toilet. I usually delay it, waiting until the very last moment before going, then I yell: "PRAIRIE-DOGGING!" and run inside, beat my way out of my prison of fabric and race to the head.
@@ -1395,8 +1428,8 @@ The wind increased, a lot. We were a bit over-canvassed. Devine begrudgingly goe
 
 ![](img/july15.jpg "dance")
 
-    Distance covered: 106 nm
-    Distance to Victoria: 3158 nm
+    Daily progress: 196 km (106 nm)
+    Distance to Victoria: 5,849 km (3158 nm)
 
 ##### 0400
 We've resumed forwardness. The waves are up but we've got to continue as another system is trailing behind and will surely catch up if we stay put. These systems all want to waltz with Pino, but Pino is sick to death of it.
@@ -1411,7 +1444,7 @@ Devine switches foul-weather suits, wearing his bright red one. Dry clothes atta
 ##### 1430
 We heave to for dinner, as we both need a break. We have a glass of red wine plus *nutritional yeast kishimen* (recipe, p.134), a good meal day. I made peanut butter glass noodles with tofu, dried daikon and potato for lunch.
 
-The waves are still with us, and the wind has turned a bit. We're forced to hand steer downwind, not my favourite. We'll be outside tonight, pushing hard to make it to a safe zone, as per usual, more weather approaches. We'll make it out of the first bad patch, but the second is wide. We're nearing the 1250 nm mark to the Juan de Fuca Strait, we cannot get there fast enough. Sometimes we wish we had a giant dial aboard, counting our miles covered and what we have left to do, a colorful, ridiculous thing with little doors to open for each big milestone, like opening a door on a christmas calendar, but with lotus roots and beer as prizes.
+The waves are still with us, and the wind has turned a bit. We're forced to hand steer downwind, not my favourite. We'll be outside tonight, pushing hard to make it to a safe zone, as per usual, more weather approaches. We'll make it out of the first bad patch, but the second is wide. We're nearing the 2,315 km (1250 nm) mark to the Juan de Fuca Strait, we cannot get there fast enough. Sometimes we wish we had a giant dial aboard, counting our miles covered and what we have left to do, a colorful, ridiculous thing with little doors to open for each big milestone, like opening a door on a christmas calendar, but with lotus roots and beer as prizes.
    
 ##### 2100
 Dall's porpoises came by brieftly today, white-bellied lovelies. We could see them, leaping out of the water from afar. They had a lot of air time! Wish they'd stayed longer.
@@ -1426,8 +1459,8 @@ I motored for 2 hours on my first shift to charge our batteries, we need to do i
 
 ![](img/july16.jpg "spluh")
 
-    Distance covered: 117 nm
-    Distance to Victoria: 3251 nm
+    Daily progress: 217 km (117 nm)
+    Distance to Victoria: 6,021 km (3251 nm)
 
 ##### 0100
 I steer outside, as there is no fog or rain. Devine too shared in this delight last night. We both saw stars twinkling brightly in the sky. Stars. It's been a while! For a moment, it was like being in the South Pacific again, with a good wind, calm seas and a perfect show of lights overhead. We would see this every night, but it never lost its novelty. When I saw them in the sky tonight, along with the moon, I smiled. I felt better.
@@ -1448,7 +1481,7 @@ Devine is asleep. I am steering outside under a proper sun?! With a blue clearin
 A ship called "Cosco America" passes south of us, I resist the urge to radio in to ask for Clif Bars, nutritional yeast and olives. "You want us to fill your boat with olives?" To which we say. "Buried in kalamatas yes that's right."
    
 ##### 1500
-We eat the last of the cornmeal with kimchi and soybeans. I will miss eating this. Devine prepares it so well! We heave to to eat it in bed, sharing our "1250 nm to Vancouver Island" can of Yebisu beer!
+We eat the last of the cornmeal with kimchi and soybeans. I will miss eating this. Devine prepares it so well! We heave to to eat it in bed, sharing our "2,315 km (1250 nm) to Vancouver Island" can of Yebisu beer!
    
 ##### 2100
 Calm night, not too cold out there as there is neither rain nor fog. Dolphins startled me in the night as I sat outside on watch. Day dolphins are a gift, night dolphins are scary, as I cannot see them. All I hear is a sudden: "SPLUH!" sound as they surface, a sound which I am never ready for.
@@ -1459,8 +1492,8 @@ Calm night, not too cold out there as there is neither rain nor fog. Dolphins st
 
 ![](img/july17.jpg "waves")
 
-    Distance covered: 118 nm
-    Distance to Victoria: 3335 nm
+    Daily progress: 218 km (118 nm)
+    Distance to Victoria: 6,176 km (3335 nm)
 
 ##### 0000
 Light comes early now, on Japan time. We have oatmeal, as we are both starving. I go to bed right after. I used to hate sleeping after eating, but on this trip I just don't care, I meet my needs and that's it.
@@ -1485,8 +1518,8 @@ The wind was supposed to increase, it hasn't. This could mean many things, that 
 
 ![](img/july18.jpg "hungry")
 
-    Distance covered: 113 nm
-    Distance to Victoria: 3407 nm
+    Daily progress: 209 km (113 nm)
+    Distance to Victoria: 6,310 km (3407 nm)
 
 ##### 0400
 There is is, the wind! It is very fresh and the waves are quick, they like to knock us around, see how much we can stand. "SO do you still like the Pacific Ocean?! Huh? HUh?! How 'bout... NOW!" the rabbit waves say. Such rude rabbits, can't they see we're tired?
@@ -1500,7 +1533,7 @@ Devine wakes up, staring at me from his bunk. "HUNGRY." He was hungry before he 
 At this point in the trip, I've reached maximum annoyance with this ocean, made worst by my own hunger, accumulated tiredness and the fact that I don't have anymore clean pants to wear. I've got to choose the pair that stinks the least, or the one that is the least damp. Tough choice. My fleece has an odor in it that I can't stand, I smell it every hour of every day, it smells old, damp and well-worn. I keep wearing it though, just like I keep wearing the same pair of blue wool socks, as they're what's keeping me warm. I shook the salt crystals out of them, then back on my feet they went! Devine's been wearing the same pants since the start. All our clothes are looking past their best, 39 days of cold and wet sailing will do that. It's actually been 40 days, but since we've experienced July 1st twice I like to substract that day, it makes me feel good to pretend we haven't reached 40 yet.
    
 ##### 1200
-We open our 1000 nm to Vancouver Island prize, the bag of renkon (lotus root) preserved in a sweet soy sauce. It is SUCH a delicious mix, glad we got it, because at this point in the trip we're doing poorly on the fresh vegetable front. We have a few white potatoes left, that's it!
+We open our 1,852 km (1000 nm) to Vancouver Island prize, the bag of renkon (lotus root) preserved in a sweet soy sauce. It is SUCH a delicious mix, glad we got it, because at this point in the trip we're doing poorly on the fresh vegetable front. We have a few white potatoes left, that's it!
 
 Now, we're down to 3 digits! This is definitely worth celebrating! We ate the renkon with soft tofu, short grain white rice (sushi rice) with bits of shredded nori, accompanied by a glass of red wine and some dekopon yokan (orange-flavored red bean cake) for desert. After dinner, I went to steer, then I switched places with Devine for 1 hour so I could have a break before my first long shift starts.
    
@@ -1513,8 +1546,8 @@ Very tame winds and seas tonight, I keep over-steering because of how calm it is
 
 ![](img/july19.jpg "sleep")
 
-    Distance covered: 110 nm
-    Distance to Victoria: 3476 nm
+    Daily progress: 204 km (110 nm)
+    Distance to Victoria: 6,437 km (3476 nm)
 
 ##### 0000
 All my shifts were hard, spent fighting sleep. It is hard to fight such a determined opponent. Every chance it gets, it creeps up on me, and robs me of my wakefulness. With nothing to focus my eyes on, it is quite hard to keep entertained. The sun rises in the last 2 hours of my last shift, it'll be easier then to ward off the sandman. I am looking forward to more than 2h30 hours of consecutive sleep, but after 40 days of travel, I am impressed we can keep our energy up. On the 28-day transit to Nuku Hiva, both of us were hallucinating at night, constantly near the end. We don't suffer from this now because the days are long. Many hours of darkness makes it difficult to keep sane.
@@ -1522,7 +1555,7 @@ All my shifts were hard, spent fighting sleep. It is hard to fight such a determ
 ##### 0300
 Oatmeal time! Seems like we'll have enough oats for the entire trip after all, I am glad, as I don't care to eat anything else in the morning. When it comes to breakfast, I am a creature of habit, and it looks as though I've converted Devine (he normally favors cereal).
 
-We download the weather, coffee in hand. We're southeast of a bad streak of weather, riding alongside in calmer winds. We are making good speed and don't have to worry about being over-canvassed. We'll be going along this streak for the next two days, then it looks like a patch of calmer weather approaches. Devine changed the GRIB file coordinates yet again so we could see the wind on the west coast of Canada. It's nice to finally see what's brewing in this region! The wind here circles the Pacific High, going south, to southwest, west then North along the coast. We are about 880 nm from the entrance to the Juan de Fuca Strait, and it is crazy to think that we are so close! I'm still waiting for something bad to happen, something that will keep us from our goal. It is almost too crazy to be true. Land, and not just any land, home, where we started from in August 2016. I'm both excited and scared.
+We download the weather, coffee in hand. We're southeast of a bad streak of weather, riding alongside in calmer winds. We are making good speed and don't have to worry about being over-canvassed. We'll be going along this streak for the next two days, then it looks like a patch of calmer weather approaches. Devine changed the GRIB file coordinates yet again so we could see the wind on the west coast of Canada. It's nice to finally see what's brewing in this region! The wind here circles the Pacific High, going south, to southwest, west then North along the coast. We are about 1,630 km (880 nm) from the entrance to the Juan de Fuca Strait, and it is crazy to think that we are so close! I'm still waiting for something bad to happen, something that will keep us from our goal. It is almost too crazy to be true. Land, and not just any land, home, where we started from in August 2016. I'm both excited and scared.
    
 ##### 0600
 We make soba with renkon (lotus root) left-over from last night, as yet again, we are hungry, insatiable sea beasts! We eat well enough, I don't understand why our stomachs are so demanding. Boredom? Maybe. The motion of the boat is constant, and we are awake for much longer in a day, it's possible that this is why we're hungry, always. Also, our legs are always sore, from standing, from shifting our weight back and forth all day.
@@ -1541,7 +1574,7 @@ Clouds are rolling in, the low is catching up! Things are good though, for now, 
 ##### 2230
 Ah, morning at near eleven, I like that the sun rises at this time. The night was uneventful, with Pino steering itself on increasing winds and seas. We've managed to bypass a lot of bad weather these past few days, not sure can avoid this system entirely, but for now we're placed well to it, and even if we get sucked into it the winds should not get too high. In this point of sail though, we get tossed around a lot, with waves hitting our side.
 
-We're almost below 800 nm to the Vancouver Island entrance. I hope that we won't come at a time a gale forms along the coast, it is possible, and we'll plan for it, but wouldn't it be nice to arrive somewhere in lighter winds? Our experience thus far, arriving anywhere, is coming in full speed into a protected cove, atoll, port etc, exhausted due to days of boisterous weather. Wouldn't it be amazing to break that pattern?
+We're almost below 1,482 km (800 nm) to the Vancouver Island entrance. I hope that we won't come at a time a gale forms along the coast, it is possible, and we'll plan for it, but wouldn't it be nice to arrive somewhere in lighter winds? Our experience thus far, arriving anywhere, is coming in full speed into a protected cove, atoll, port etc, exhausted due to days of boisterous weather. Wouldn't it be amazing to break that pattern?
 
 \newpage
 
@@ -1551,8 +1584,8 @@ We're almost below 800 nm to the Vancouver Island entrance. I hope that we won't
 
 ![](img/july20.jpg "sobatoss")
 
-    Distance covered: 125 nm
-    Distance to Victoria: 3566 nm
+    Daily progress: 213 km (125 nm)
+    Distance to Victoria: 6,604 km (3566 nm)
 
 ##### 0300
 Today, as Anja from Robusta would say, we are being tossed around like a soba. The weather caught up, and we are getting some good waves and gusts of wind. Our speed is good, carrying us rapidly toward our goal. The wind is supposed to come out of the northeasttonight, been a while since it came from that direction. This bitch of a system will also leave behind a few bald spots of wind in the area, some of which we may not be able to avoid. Doing some good northing is difficult, as we don't want to end up in one of the larger bald spots later, we've only got a few degrees left to do in that direction. Currently, we're at the latitude of Cape Disappointment, north of the Columbia river in Washington. Ah, Cape Disappointment, lying north of Cape Expectation. A grey bumpy day awaits Pino and crew today.
@@ -1563,7 +1596,7 @@ We make kuromame kiri mochi (rice cake with black beans) with canned kimchi and 
 We continue readings of Cyberiad, an activity we look forward to everyday, where we wander into the imagination of another, offering some respite from our own as we spend plenty of time in our own heads. We've done a lot of thinking in this trip, now we need to start doing. Our thinking quotas have been spent.
    
 ##### 1030
-I make *soumen (wheat noodles) with a lentil sauce* (recipe, p.140) and served with a sweet potato I found! It had fallen out of the basket where I store them under the sink. Glad I found it, as its sweetness lends itself well to the dish, I'm glad I found it now instead of later, rotten and oozing in the bilge. Later, we share our 750 nm to Vancouver Island Yebisu as I continue to read Cyberiad.
+I make *soumen (wheat noodles) with a lentil sauce* (recipe, p.140) and served with a sweet potato I found! It had fallen out of the basket where I store them under the sink. Glad I found it, as its sweetness lends itself well to the dish, I'm glad I found it now instead of later, rotten and oozing in the bilge. Later, we share our 1,389 km (750 nm) to Vancouver Island Yebisu as I continue to read Cyberiad.
 
 Pino isn't driving itself well today, Devine is on watch, making sure we stay on course. He is sitting in the companionway stairs, and I'd prefer he stay up there as he is farting up a storm — as am I, actually. Not sure what it is we ate that is causing it, but it does not stop! We are trapped in a capsule of stink, we shoot smelly bullets at all hours, and without warning.
    
@@ -1579,14 +1612,14 @@ Boisterous night, as the weather flared up momentarily. It's going to die off by
 
 ![](img/july21.jpg "downwind")
 
-    Distance covered: 84 nm
-    Distance to Victoria: 3621 nm
+    Daily progress: 155 km (84 nm)
+    Distance to Victoria: 6,712 km (3621 nm)
 
 ##### 0200
 The wind is not down yet, and some light fog has set in. Pino is devouring degrees eastward, and has been for the past 5 days. It feels good to be moving, but progress also means that we have to work harder. We are more attentive to shifts in the wind, to the size of the waves... it is overall more exhausting.
 
 ##### 0500
-A calm lies ahead, but we might be able to sail through and past it, as our speed is good. We need a calm to run Calcifer though, to charge our batteries. Calms are a great time to do this. The wind is looking good for the next few days, provided we aren't becalmed. Yesterday we did record speeds, running through 2 1/2 degrees in 24 hours. The coast of Vancouver Island lies ahead, with just under 650 nm left to reach the Juan de Fuca entrance buoy. I might just get my wish of a calm entrance, we'll see (and hope) that the weather holds. We'll hit 140°W soon, meaning that it'll be time to open yet another door on our milestone dial. The prize? PANCAKES! Pancakes with maple syrup we've been saving. JOY. Our overall morale is good, but we have a lot of ups and downs in a single day, we get frustrated when the jib flails when Pino oversteers north, when the jib sheet blocks bang on deck and when unwashed dishes rattle in the sink.
+A calm lies ahead, but we might be able to sail through and past it, as our speed is good. We need a calm to run Calcifer though, to charge our batteries. Calms are a great time to do this. The wind is looking good for the next few days, provided we aren't becalmed. Yesterday we did record speeds, running through 2 1/2 degrees in 24 hours. The coast of Vancouver Island lies ahead, with just under 1,204 km (650 nm) left to reach the Juan de Fuca entrance buoy. I might just get my wish of a calm entrance, we'll see (and hope) that the weather holds. We'll hit 140°W soon, meaning that it'll be time to open yet another door on our milestone dial. The prize? PANCAKES! Pancakes with maple syrup we've been saving. JOY. Our overall morale is good, but we have a lot of ups and downs in a single day, we get frustrated when the jib flails when Pino oversteers north, when the jib sheet blocks bang on deck and when unwashed dishes rattle in the sink.
 
 Our arrival is becoming real, this is what we hold onto, what pushes us to keep steering in shitty conditions, what animates our tired bodies and minds. We're at day 42, but everything previous to this day already feels alien, like the time we spent in Shimoda, and previously in Minamiise — were we really there? Then I look at our sailing track and pause. "Did we really sail all that?" It was a crazy plan before we left, it is crazy to be in the thick of it, and it is insane to think that it will end. My brain still has trouble believing that this passage CAN end. This has been our reality for what feels like... forever, stuck in our little fog world. Land is coming into focus now in my head, it is becoming less phantasmic. The fabled land beyond the fog of war.
 
@@ -1608,23 +1641,23 @@ The calm is here, it's caught up to us. We stopped motoring early on, as we down
 
 ![](img/july22.jpg "cassowary")
 
-    Distance covered: 45 nm
-    Distance to Victoria: 3648 nm
+    Daily progress: 83 km (45 nm)
+    Distance to Victoria: 6,756 km (3648 nm)
 
 ##### 0200
-We got some good wind for 1 hour, then off it went again, I guess it didn't feel like staying. We make pancakes and maple syrup to celebrate passing 140°W. Cooking while becalmed is easy, and it means we can spend time together. At this point though, I'd rather we spend time together in a harbor, but what can I do, really? The weather determines all. It is funny to see that most of the area has wind, most of it except for a small patch... around Pino. It looks like the ocean wants to keep us around a little while longer. "I can be calm and tame, see? SEE?! Do you still like me?"
+We got some good wind for 1 hour, then off it went again, I guess it didn't feel like staying. We make pancakes withFheav maple syrup to celebrate passing 140°W. Cooking while becalmed is easy, and it means we can spend time together. At this point though, I'd rather we spend time together in a harbor, but what can I do, really? The weather determines all. It is funny to see that most of the area has wind, most of it except for a small patch... around Pino. It looks like the ocean wants to keep us around a little while longer. "I can be calm and tame, see? SEE?! Do you still like me?"
 
 Do we still like the ocean? Yes, of course we still like it, we've spent too much time in it as of late, but we'll always love it. During this trip, we'd often ask ourselves, why do we do this? Why put ourselves through this crazy sailing across a vast ocean business? We don't really know why, but when we left Canada with Pino to go south, we knew we'd be taking it back home afterwards, that was a promise we'd made. No matter what, Pino would come back with us. We're a team, and we're closing this circle together.
 
 ##### 1300
-What to say about today... calm days are torture when this close to our goal. The waves are slow but frequent, tossing us around. The calm, according to this morning's weather, will stay until this evening, 6 long hours away. I tried steering with the 2-3 knots of wind there was, but it is too much work for too little reward. Devine is reading Akira, while I sit outside, watching the horizon for ripples in the water. My patience meter depleted, I went inside to clean the dishes dirtied from dinner. I made rice with soybeans (canned), topped with a sweet and sour sauce, sauteed with some dried seaweed and 1/2 the potato from yesterday. We're eating a lot of beans these days, it was a staple on this trip, eaten in the form of soybeans, dry tofu, silken tofu and kuro mame, yokan, kinako powder. Looks like this day will consist mostly of sleeping, reading and waiting for wind. People on land complained of boredom during Coronavirus quarantine, well, they'd go stir-crazy on a voyage like this. This is quarantine on steroids. There is no internet, not enough power to watch films all day, not enough books to read, limited water and food... and a look outside our window offers nothing but grey.
+What to say about today... calm days are torture when this close to our goal. The waves are slow but frequent, tossing us around. The calm, according to this morning's weather, will stay until this evening, 6 long hours away. I tried steering with the 5 km/h (2-3 kn) of wind there was, but it is too much work for too little reward. Devine is reading Akira, while I sit outside, watching the horizon for ripples in the water. My patience meter depleted, I went inside to clean the dishes dirtied from dinner. I made rice with soybeans (canned), topped with a sweet and sour sauce, sauteed with some dried seaweed and 1/2 the potato from yesterday. We're eating a lot of beans these days, it was a staple on this trip, eaten in the form of soybeans, dry tofu, silken tofu and kuro mame, yokan, kinako powder. Looks like this day will consist mostly of sleeping, reading and waiting for wind. People on land complained of boredom during Coronavirus quarantine, well, they'd go stir-crazy on a voyage like this. This is quarantine on steroids. There is no internet, not enough power to watch films all day, not enough books to read, limited water and food... and a look outside our window offers nothing but grey.
 
 I've noticed I've always got one word stuck in my head, a new one everyday that I repeat like a mantra. The word stays with me, especially when I'm too tired to think. Today's word is "flummoxed", yesterday's was "cassowary". Not all words are as great as these, a week ago I kept repeating the phrase "tits up", tirelessly. Maybe this is my brain's way of dealing with boredom. Repetition. Keeping the space filled with words leave little room for anxiety to take root.
 
 Today, I re-packed our ditch bag, the current bag grew a bit of mold as it lay under the space where we'd hang our wet clothes. I pulled out what I thought to be a large dry bag, thought it would serve as a good replacement. I rolled it out once to look at it, but never tried to pack anything into it, I'd noticed then how long it was and thought it would be perfect for this. I assumed it had as much girth as it had length — far from! I put two big items in, and noticed how narrow it was, and so instead of bulging outward it grew skyward. With all the items packed in, it was no wider than a soccer ball, but reached up to my waist, like a long, awkward, slender worm. I named it: "The lumpy sausage". Now everytime I look at it, I can't stop laughing.
 
 ##### 2300
-The wind returned! I switched the sails (as they were on the wrong side) and we sped off! The wind started fast, blowing at a good 13-15 knots — perfect. Well, it would have been perfect if I hadn't looked at AIS to see that there was a large cargo ship heading straight for us, running on the same longitude. SHIT, I thought. Diverting southward seemed dumb as it was angling more that way, so I tightened the sheets and went as close to the wind as I could. It was enough to steer us 1 nm north of it. I saw its lights as it passed us, relieved and thankful for AIS, it saves us a lot of time and anxiety. It's easy to see their course and to divert appropriately ahead of time.
+The wind returned! I switched the sails (as they were on the wrong side) and we sped off! The wind started fast, blowing at a good 24 km/h (13 kn) — perfect. Well, it would have been perfect if I hadn't looked at AIS to see that there was a large cargo ship heading straight for us, running on the same longitude. SHIT, I thought. Diverting southward seemed dumb as it was angling more that way, so I tightened the sheets and went as close to the wind as I could. It was enough to steer us 1.852 km (1 nm) north of it. I saw its lights as it passed us, relieved and thankful for AIS, it saves us a lot of time and anxiety. It's easy to see their course and to divert appropriately ahead of time.
 
 The rest of the night was uneventful, we are zooming forward, beating into the wind and waves. Last night was especially cold though, even with two sleeping bags I was frozen. Now, I sit at the chart table, fleece and puffy jackets on, tuque, scarf and foul-weather pants and I feel better, especially too since I've just finished a bowl of warm oats.
 
@@ -1634,8 +1667,8 @@ The rest of the night was uneventful, we are zooming forward, beating into the w
 
 ![](img/july23.jpg "Lumpy sausage")
 
-    Distance covered: 109 nm
-    Distance to Victoria: 3699 nm
+    Daily progress: 202 km (109 nm)
+    Distance to Victoria: 6,850 km (3699 nm)
 
 ##### 0400
 Beautiful sailing today, so far! The wind is coming out of the north, Pino is self-steering to the northeast in direction of Vancouver Island. The sky is blue in part, but as before... it is cold! I doubled up my leggings with another pair I found, and slipped on another sweater for a total of 3, plus scarf and tuque. It is always cooler inside the boat, as it retains much humidity.
@@ -1649,7 +1682,7 @@ Devine prepared all meals today, with lunch consisting of one-pot pasta, cooked 
 
 Today was very quiet, with Devine doing a lot of writing and reading, and me drawing, keeping watch outside and sleeping. I was very sleepy today, so sleepy I nearly fell asleep while steering from the companionway stairs. I took 2 naps, on top of the 5 hours I get per night. I think the reason I may be tired is because we've been shifting hours around, delaying the time our night watches start as the night is coming earlier and earlier as we go east. Days of calm also mess up our sleeping schedule, as we don't adhere to strict rules, we sleep whenever. My body demands a steady sleeping schedule to function, something that is hard to come by on a passage. We're looking forward to sleeping a full night together in the same bunk, it's been too long, I crave both the rest and companionship.
 
-Tonight promises winds of 10-15 knots, smooth, easy sailing. We made it under 500 nm, now THAT is exciting! We've got maybe 4 1/2 days left, if the wind holds! We finally switched away from Japan time to Vancouver time, now hours of the day feel more normal.
+Tonight promises winds of 18-28 km/h (10-15 kn), smooth, easy sailing. We made it under 926 km (500 nm), now THAT is exciting! We've got maybe 4 1/2 days left, if the wind holds! We finally switched away from Japan time to Vancouver time, now hours of the day feel more normal.
 
 \newpage
 
@@ -1657,8 +1690,8 @@ Tonight promises winds of 10-15 knots, smooth, easy sailing. We made it under 50
 
 ![](img/july24.jpg "tired")
 
-    Distance covered: 104 nm
-    Distance to Victoria: 3773 nm
+    Daily progress: 193 km (104 nm)
+    Distance to Victoria: 6,987 km (3773 nm)
 
 ##### 0400
 The trip's accumulated tiredness has pounced on me, its kicked me in the head and left me writhing on the ground in a pool of patheticness. Its attack triggered many, many emotions.
@@ -1675,14 +1708,14 @@ That's all I have to say for today, as my brain is mush and I haven't got the en
 
 ![](img/july25.jpg "soup")
 
-    Distance covered: 99 nm
-    Distance to Victoria: 3832 nm
+    Daily progress: 183 km (99 nm)
+    Distance to Victoria: 7,097 km (3832 nm)
 
 ##### 0400
 Passed a lighted buoy to the north, been a while since we've crossed structures that aren't other ships. Steering was hard at times, last night the wind gave us forwardness, which we need, but it was hard on the hands. Downwind sailing requires a lot of focus too, making it even harder. Devine is in the habit of making miso soup during his night shifts, for warmth and to calm his stomach. I still rely on small slices of Clif Bars, it gives me enough energy to go through 3 hours of steering in the dark.
 
 ##### 0930
-We have coffee later today, as Devine is too sleepy to wait. At this time my body craves the liquid, to revive my flesh and to warm my blood, which is icy cold. We are lizard people in need of sun. He woke up around 9h30, and was happy to announce that he'd already pre-ground the beans and that the coffee would find its way to me sooner. YES. I'd already downloaded the weather then, seeing more light winds in our future. We'll do our best to stay patient, but it is tough, as we are lying 310 nm away from the entrance buoy. So close! We've got fuel, but want to keep it. We have a small allowance to cross narrow calms and to charge our batteries.
+We have coffee later today, as Devine is too sleepy to wait. At this time my body craves the liquid, to revive my flesh and to warm my blood, which is icy cold. We are lizard people in need of sun. He woke up around 9h30, and was happy to announce that he'd already pre-ground the beans and that the coffee would find its way to me sooner. YES. I'd already downloaded the weather then, seeing more light winds in our future. We'll do our best to stay patient, but it is tough, as we are lying 574 km (310 nm) away from the entrance buoy. So close! We've got fuel, but want to keep it. We have a small allowance to cross narrow calms and to charge our batteries.
 
 ##### 1400
 We put on Watchmen, gawked at the cinematography. It's nice to be distracted from sailing, for once. We needed to have these little movie marathons, it makes our world feel normal. We take breaks to peek outside now and again, as the sky is freakin' gorgeous! The clouds are puffy and dark on the horizon, but there are none above us. We haven't had fog in a while, very glad for clear days of full visibility, it helps brighten our mood. Because the seas are calm, I decided to make a small batch of pitas.
@@ -1696,8 +1729,8 @@ We watch Kiki's delivery service while eating kare. Wind is still at our backs, 
 
 ![](img/july26.jpg "reading")
 
-    Distance covered: 50 nm
-    Distance to Victoria: 3868 nm
+    Daily progress: 93 km (50 nm)
+    Distance to Victoria: 7,153 km (3868 nm)
 
 ##### 0300
 Devine has been devouring books. He finished Dante's Purgatorio, Don Quixote and is now nearly done with One Straw Revolution. It is rare nowadays for us to have so many consecutive hours of "no plans", "no work" and "no social obligations", it is too easy to go through books, but I also suspect that Devine is a fast reader. He spends his entire night shifts standing on the companionway stairs, kindle in hand, rope in the other. His brain must be whirring hard because he ate two pitas last night.
@@ -1708,10 +1741,10 @@ We have a foot pump in the galley, with a pedal pushing against the pump to draw
 ##### 1100
 Afer coffee, comes soba. Devine prepares soba for lunch with wasabi and soy meat. We cook them in so little water that they absorb it all. It results in soba covered in a gooey secretion that soba masters would shame us for, but we're okay with it, it tastes delicious and there is no waste. Soba masters don't have to worry about water, we have a good excuse.
 
-We've got 210 nm left. We've awakened Calcifer so we could motor through a calm to get past 130°W, where the wind is scheduled to return. There is a mean system forming in the ocean a few days from now, and we don't want to be in it. We're done having storms chase us. It is nice today, with calm seas, a warm sun and clear skies. We're sitting outside, getting some Vitamin D while trying to picture the outline of Vancouver Island in the distance. At times at sea, we see cloud patterns on the horizon that look like land, like mountains. It is too easy to trick our brains into believing there's actual land there, it's easy to warp our sense of space. We haven't seen land in 47 days, maybe it's easy to do because our brains long for the sight of land, for the shadows of great snowy peaks rising in the east. Soon, soon. In the meantime, we've got to watch for traffic. The Juan de Fuca Strait is a busy sea way, though after navigating the east coast of Japan I can't say I'm too worried, instead of 100 targets we'll get 20 and that is fine.
+We've got 389 km (210 nm) left. We've awakened Calcifer so we could motor through a calm to get past 130°W, where the wind is scheduled to return. There is a mean system forming in the ocean a few days from now, and we don't want to be in it. We're done having storms chase us. It is nice today, with calm seas, a warm sun and clear skies. We're sitting outside, getting some Vitamin D while trying to picture the outline of Vancouver Island in the distance. At times at sea, we see cloud patterns on the horizon that look like land, like mountains. It is too easy to trick our brains into believing there's actual land there, it's easy to warp our sense of space. We haven't seen land in 47 days, maybe it's easy to do because our brains long for the sight of land, for the shadows of great snowy peaks rising in the east. Soon, soon. In the meantime, we've got to watch for traffic. The Juan de Fuca Strait is a busy sea way, though after navigating the east coast of Japan I can't say I'm too worried, instead of 100 targets we'll get 20 and that is fine.
 
 ##### 2020
-We reached 130°W and put Calcifer to sleep around 1600. A bank of fog rolled in, and right back out, we're glad it didn't decide to stick around as we are really enjoying the fair weather we've been having, it's like being fully awake. Fog dulls your senses. The wind is returning gradually, we are cruising along slowly. It is easy to sail on little wind when there are no waves. Wavelets are the best. Cruising at 4 knots with a full jib and double-reefed main. We don't have to keep it reefed but at this point in the trip we are lazy, and besides, our speed is good. We've got 180 nm left! Soon we'll be aligned with the top of Vancouver Island!!!
+We reached 130°W and put Calcifer to sleep around 1600. A bank of fog rolled in, and right back out, we're glad it didn't decide to stick around as we are really enjoying the fair weather we've been having, it's like being fully awake. Fog dulls your senses. The wind is returning gradually, we are cruising along slowly. It is easy to sail on little wind when there are no waves. Wavelets are the best. Cruising at 7 km/h (4 kn) with a full jib and double-reefed main. We don't have to keep it reefed but at this point in the trip we are lazy, and besides, our speed is good. We've got 333 km (180 nm) left! Soon we'll be aligned with the top of Vancouver Island!!!
 
 We are watching The Incredibles 2 this evening, with some popcorn! A little treat is nice every now and then. We're going to watch it until our night shifts behind at 2100. Things should be smooth tonight, here's hoping we make good speed and get there fast.
 
@@ -1723,8 +1756,8 @@ We are watching The Incredibles 2 this evening, with some popcorn! A little trea
 
 ![](img/july27.jpg "tired")
 
-    Distance covered: 59 nm
-    Distance to Victoria: 3910 nm
+    Daily progress: 109 km (59 nm)
+    Distance to Victoria: 7,241 km (3910 nm)
 
 ##### 0400
 Realized that the GRIB files I downloaded yesterday were lower resolution weather, and did not rightly show the severity and extent of the weather running along the coast of British Columbia. Upon seeing the detailed forecast this morning, we triple-reefed the main and braced for impact. The weather was horrible. We got huge waves, lots of wind and thick, thick fog. I was very discouraged, disheartened with what lay between us and our goal, yet another monster on the ocean, one my body and mind were just not up to facing. We were both sad, and angry for a while. We sat inside wishing it'd all end now. Then a group of dolphins appeared in the fog. A large group! Devine saw them swimming around the boat, they kept us company for a long while. We could hear them chatting through the hull, like several squeaky toys were being squeezed underwater. Everytime I heard a squeak it made me smile, it made us feel better and gave us the courage to push on. Thank you dolphins for being there with us, as always.
@@ -1738,17 +1771,17 @@ Because of the very bad weather, and because it will be our last night in the Pa
 
 ![](img/july28.jpg "land")
 
-    Distance covered: 109 nm
-    Distance to Victoria: 3981 nm
+    Daily progress: 202 km (109 nm)
+    Distance to Victoria: 7,373 km (3981 nm)
 
 ##### 0300
 Beautiful night. Winds are calm now, as we have left the bad patch of weather behind. I can see the stars! Also, the bioluminescence in the water is crazy! Every wave splashing stirs up an explosion of sparking green light. We feel better now, as we survived yet another hard moment. The coast lies ahead, we are near but can't see its outline yet.
 
 ##### 0800
-"LAND!" Devine screams at me as I sleep. "LAND!" I scream back at him, sitting up in the bed. It's land! It's here! It's REAL. We are almost home! Except, the wind has died, and we are motoring. We've got a full tank plus an extra can, we'll be good to make it to Victoria with this. We hope to sail part of the way though, wind permitting. The entrance buoy is 20 nm away! Then, we're that much closer to Victoria Harbour — another big milestone. Shipping is heavy, especially as we near the buoy, but it is easy to plan with AIS. We do our best to stay out of their way.
+"LAND!" Devine screams at me as I sleep. "LAND!" I scream back at him, sitting up in the bed. It's land! It's here! It's REAL. We are almost home! Except, the wind has died, and we are motoring. We've got a full tank plus an extra can, we'll be good to make it to Victoria with this. We hope to sail part of the way though, wind permitting. The entrance buoy is 37 km (20 nm) away! Then, we're that much closer to Victoria Harbour — another big milestone. Shipping is heavy, especially as we near the buoy, but it is easy to plan with AIS. We do our best to stay out of their way.
 
 ##### 1200
-We are passing the entrance buoy and the Swiftsure Bank. The current is against us, but it is supposed to switch soon and we'll have 1 knot with us. We continue to motor as we lie in the path of ships, we need to steer further to clear the busy lanes.
+We are passing the entrance buoy and the Swiftsure Bank. The current is against us, but it is supposed to switch soon and we'll have 2 km/h (1 knot) with us. We continue to motor as we lie in the path of ships, we need to steer further to clear the busy lanes.
 
 We can see land on both sides! The day is perfect, just perfect. Well, it would be perfect if there was wind! Devine makes soba and serves it with our last tetra-pak of soft tofu.
 
@@ -1758,7 +1791,7 @@ We see something moving in the water a good distance away — a sailboat? No. Th
 Meanwhile, a jet traces line in the sky, a whale-watching boat zooms around us, making our AIS go crazy, there are little fishing boats bobbing around near the Swiftsure Bank too. It is so busy here, and ALIVE. It feels good to be somewhere lively again, so, so good.
 
 ##### 1400
-The wind came back and we can sail! We're doing a good 5 knots, cruising alongside the shipping channel. We finally made it out, away from the threat of these behemoths. It looks like we'll arrive in Victoria Harbour tomorrow morning, with yet another night spent on the water. It's fine, but it looks like it'll be spent in obscurity as there is fog coming. Glad it stayed away for most of the day, granting us an amazing view of the coast. I make dessert pancakes, using up the rest of our maple syrup.
+The wind came back and we can sail! We're doing a good 9 km/h (5 kn), cruising alongside the shipping channel. We finally made it out, away from the threat of these behemoths. It looks like we'll arrive in Victoria Harbour tomorrow morning, with yet another night spent on the water. It's fine, but it looks like it'll be spent in obscurity as there is fog coming. Glad it stayed away for most of the day, granting us an amazing view of the coast. I make dessert pancakes, using up the rest of our maple syrup.
 
 ##### 1900
 Devine makes spaghetti aioli for dinner, we drink matcha afterwards and watch The Royal Tenenbaums. We take turns looking outside, keeping watch. The fog has only set on the south side of the Strait, on the American side. The wind is still good, we're running downwind. We close the jib and run under main alone.
@@ -1769,11 +1802,11 @@ Devine makes spaghetti aioli for dinner, we drink matcha afterwards and watch Th
 
 ![](img/july29.jpg "soup")
 
-    Distance covered: 4545 nm
-    Distance to Victoria: 79 nm
+    Daily progress: 146 km (79 nm)
+    Distance to Victoria: 8,417 km (4545 nm)
 
 ##### 0200
-The wind has increased a lot, we ran at 6 knots under a reefed main all evening, but as we neared Sooke the current turned against us, in strength! To go forward, we had to use the iron wind. Calcifer helped us go forward, but it felt like pushing through jelly. We had trouble making it around the Race Rocks lighthouse. Its light lay ahead, and we weren't getting past it. Devine was steering outside, and I was in the doorway, telling him to go south or north, zigzagging to work our way east as going straight on was not possible with this current. I was directing him because we had a very narrow corridor to work with, with Race Rocks to the north, and a busy shipping channel lane to the south. I had me eyes on both Navionics and AIS. As we lay south of the lighthouse, 5 cargo ships were moving in the lane south of us, back to back to back. I couldn't believe the timing of it. If no one had been there, we could have used that space, to tack out to avoid the worst of the current which is stronger near the lighthouse. This wasn't an option tonight.
+The wind has increased a lot, we ran at 11 km/h (6 kn) under a reefed main all evening, but as we neared Sooke the current turned against us, in strength! To go forward, we had to use the iron wind. Calcifer helped us go forward, but it felt like pushing through jelly. We had trouble making it around the Race Rocks lighthouse. Its light lay ahead, and we weren't getting past it. Devine was steering outside, and I was in the doorway, telling him to go south or north, zigzagging to work our way east as going straight on was not possible with this current. I was directing him because we had a very narrow corridor to work with, with Race Rocks to the north, and a busy shipping channel lane to the south. I had me eyes on both Navionics and AIS. As we lay south of the lighthouse, 5 cargo ships were moving in the lane south of us, back to back to back. I couldn't believe the timing of it. If no one had been there, we could have used that space, to tack out to avoid the worst of the current which is stronger near the lighthouse. This wasn't an option tonight.
 
 Because of the difficult conditions and our imminent arrival, we both skipped sleep, knowing we'd be in a harbour soon and could rest then.
 
