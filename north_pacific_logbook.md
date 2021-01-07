@@ -549,7 +549,7 @@ The wind turned and rose to a pleasant strength. Sailing is nice now, the waves 
 Had early ramen, as both of us were very, very hungry. This may be because we've only been eating 1-2 small meals a day. It was so good. Both of us craved this salty, spicy dish.
    
 ##### 1100
-Devine cleaned mold from the walls. The umeshu has left stains all over everything. We cleaned up most of it on the day of the accident, but we keep finding patches. Behind the radar, in the cracks of the navigation table, on the ceiling etc. We've no way of warming or airing the cabin currently, as all of the hatches have to stay shut because of salt water spray. Now that we no longer have a dodger, keeping the companionway door shut is even more important. Like a lion in the brush, hunting prey, the rabbit waves keep low until a window opens, and then... they POUNCE!
+Devine cleaned mold from the walls. The umeshu has left stains all over everything. We cleaned up most of it on the day of the accident, but we keep finding patches. Behind the radar, in the cracks of the navigation table, on the ceiling etc. We've no way of warming or airing the cabin currently, as all of the hatches have to stay shut because of salt water spray. Now that we no longer have a dodger, keeping the companionway door shut is even more important. Like a lion in the brush, hunting prey, the rabbit waves keep low until a window opens, and then... they pounce!
 
 My ribs hurt a lot today. I took an Ibuprofen to quiet the pain, which comes and goes. I sleep in a seated position most times, and I try not to lift anything heavy.
 
@@ -577,28 +577,28 @@ The sky is blue? I seemed to have forgotten that it could ever be that color. It
 ##### 1000
 The seas and winds have lessened somewhat, and the sky is still blue?! We're reminded then of what sailing is normally like. It is usually pleasant, and done in fair weather. Yes, this is what it's supposed to be like.
 
-We cooked some *Japanese curry* (p. 145) for lunch. The wind is coming out of the southwest, with us drifting eastward.
+We cooked some *Japanese curry* (see recipes) for lunch. The wind is coming out of the southwest, with us drifting eastward.
    
 ##### 1400
-We did it, we reached 165°E! A milestone in our trip! We hope the weather will improve in the coming weeks, as I don't think we can stomach weathering low after low after low like this. The wind is still the same. I removed my tuque and enjoyed the sun, my hair was tuque-shaped underneath, flat on the top with a cowlick in the front. "I look like TinTin." I said, smiling. Devine looks bright and happy today, as am I, happy enough to make jokes and to have silly thoughts.
+We did it, we reached 165°E! A milestone in our trip! We hope the weather will improve in the coming weeks, as I don't think we can stomach weathering low after low after low like this. The wind is still the same. I removed my tuque and enjoyed the sun, my hair was tuque-shaped underneath, flat on the top with a sharp cowlick in the front. "I look like TinTin." I said, smiling. Devine looks bright and happy today, as am I, happy enough to make jokes, happy enough to return a smile.
    
 ##### 1400
-Cooked dinner of *pasta salad with mustard dressing* (see recipes) and ate the last 2 pieces of fresh fruit, 2 ruby red grapefruits. When we eat more, it means the weather is good and that we too, are feeling good.
+Cooked dinner of *pasta salad with mustard dressing* (see recipes) and ate the last of our fresh fruit, 2 ruby red grapefruits. When we eat more, it means the weather is good and that we too, are feeling good.
 
-Forecast is promising, but GRIB files in this area are not always accurate. This morning showed winds in the 28-29 km/h (5-20 knot) range, but we had 55 km/h (30 kn). Usually, people say the weather is either 9 km/h (5 kn) more, or less than forecasted, but out here there is a difference of 18 km/h (10 kn). There is better weather ahead, at least — well, we hope. We are happy to leave this forsaken area behind. We're running with a full jib and double-reefed main. Our paranoia with the weather is still strong, full main just isn't going to happen in this trip.  
+Forecast is promising, but GRIB files in this area are not always accurate. This morning showed winds in the 9-37 km/h (5-20 knot) range, but we had 55 km/h (30 kn). Usually, people say the weather is either 9 km/h (5 kn) more, or less than forecasted, but out here there is a difference of 18 km/h (10 kn). There is better weather ahead, at least — well, we hope. We are happy to leave this forsaken area behind. We're running with a full jib and double-reefed main. Our paranoia with the weather is still strong, full main just isn't going to happen in this trip.  
 
 ##### 2100
 Quiet night at sea. Saw some stars! It's been a while. We're sailing southeast with light rain on the horizon, just in time for Devine's shift HE HE HE HE.
 
 # Squalls
 
-Squalls bring sudden high winds and rain in passing. They usually blow in the 20 to 30-plus knot range and last an average of 20-40 minutes. They usually transit an area fast, and are easy to spot in the distance. Big puffy cumulonimbus clouds, with dark bottoms and a skirt of rain.
+Squalls bring sudden high winds and rain in passing. They usually blow in the 20 to 30-plus knot range and last an average of 20-40 minutes. They usually transit an area fast, and are easy to spot in the distance. Big puffy cumulonimbus clouds, with dark bottoms and a skirt of rain. In the day, wavelets mark their approach. 
 
-They are cunning, as they do not move with the prevailing winds, no, they move at an angle! Worse, is that they can affect a boat even when a good distance away. We used to go out of our way to avoid them, but we learned to keep to our path, and to just make sure we're ready when they do come. Being ready for a squall, means to not be overcanvassed, and if the wind is too strong, bear off and wait until it is gone, that is all there is too it. 
+Squalls do not move with the prevailing winds, but at an angle to them, and can affect a boat even when a good distance away. Whenever we would see a suspicious formation on the horizon, we'd keep our eyes on it to track its progress, to see if our paths would cross. If it came close, we alter course to aim for its periphery, as it is better than going straight through it. We also reduce sail, to lessen its effects. When the squall arrives and is too strong, we bear off and wait until it is gone, before resuming our path. 
 
-When sailing at night, as mentioned before, we like to reef the main, and this is especially important in areas prone to squalls. In the South Pacific, sailing with prevailing winds, we always put in a reef before dark, no matter what. This proved to be wise. 
+Reefing the mainsail before dark is especially important in areas prone to squalls. It ensures that the person on-watch isn't overwhelmed, and that the person off-watch can sleep well. The squalls can be visible at night too, especially if the moon is full and bright. We'd look for dark spots on the horizon, and try and see if we could see the sky underneath it them or not. If we couldn't, it mean the cloud had rain underneath it, and that it was likely a squall. Seeing a cloud moving contrary to the prevailing wind is also a good indicator.
 
-In the doldrums we've often used them to move forward, like a ship in space, using the gravity of a nearby planet to propel ourselves on. We used to fear these systems, but when becalmed, we came to revere them, and eventually, we started chasing them. 
+The doldrums is an area where prevailing winds converge, creating an area of perpetual calms. In such places we used squalls to move forward, effectively becoming storm chasers. We chased squalls for wind, but also for water. On long passages, water is not hard to come by when there are squalls around. We always make sure to have a bucket on deck to attach to the end of the boom to collect it.
 
 * * *
 
@@ -614,7 +614,7 @@ In the doldrums we've often used them to move forward, like a ship in space, usi
     Distance to Victoria: 5,630 (3040 nm)
 
 ##### 0300
-Blue skies for today, what a gift! Devine overslept because the phone died, and there was no alarm to wake him. I drove for 4 hours straight, and it felt undending. We feel that way often, even for short 2-hour shifts. We're steering and it feels as though it's been hours and hours. Then we see the time, and it's only been 30 minutes? There ought to be a ring in Dante's hell like this, where time is warped, where the clock says it is 0233 but it never, ever changes. Or sometimes it does change, to 0234, but then somehow it rolls back to 0233?! Our brains must have hallucinated the change, surely!
+Blue skies for today — what a gift! Devine overslept because the phone died, and there was no alarm to wake him. I drove for 4 hours straight, and it felt undending. We feel that way often, even for short 2-hour shifts. We're steering and it feels as though it's been hours and hours. Then we see the time, and it's only been 30 minutes? There ought to be a ring in Dante's hell like this, where time is warped, where the clock says it is 0233 but it never, ever changes. Or sometimes it does change, to 0234, but then somehow it rolls back to 0233?! Our brains must have hallucinated the change, surely!
    
 ##### 0800
 We have instant coffee with oatmeal. The wind is still out of the west, offering good smooth sailing and gentle seas.
@@ -622,9 +622,7 @@ We have instant coffee with oatmeal. The wind is still out of the west, offering
 ##### 0800
 Took sleeping bags out to dry, also found more mold covering a variety of objects. The pans under the sink had coffee from the recent spillage that we forgot to clean up, and that developed into mold. The papers inside the navigation table also harbor an advanced civilization of rotted matter. We want to keep our charts anyway though, as we might need them as back up. They are moist and full of spots and stains, handling them without tearing them up is difficult. We hung them over the lee cloths, to try and get them to dry but we both know that won't happen.
 
-We had *soba* (see recipes) for lunch, the smell was enough to cover up the one emanating from the rotten charts.
-
-To be truly rid of it, we'd have to exorcize the rot demons out of them.
+We had *soba* (see recipes) for lunch, the smell was enough to cover up the one emanating from the rotten charts. To be truly rid of it, we'd have to exorcize the rot demons out of them.
    
 ##### 1600
 We have our first happy hour of the trip! We've completed one third of the trip, and celebrated with a glass of red wine. We left Japan with many cartons of Japanese wine, of varying sweetness. Carton wine tends to be sweeter, but we found one brand that wasn't! Robusta made it to half the distance to Dutch Harbor, and they too celebrated this grand event. They are close, but we still don't see them on AIS. They are north of us, maybe we'll catch up? We turned northeastward at 166°E, we'll be skirting not so great weather to escape another — such is life out here! We do out best to position ourselves well to the weather, but that is not always possible.
@@ -666,7 +664,7 @@ Devine decided to heave-to after Pino got knocked around by two waves. They'd ha
 ##### 1730
 I noticed our heave-to was behaving strangely... the main was flapping and causing its halyard to slap the mast. That isn't supposed to happen in a heave-to, the main is supposed to be full of air, unmoving. I quizzed Devine about it, asking about how the main was positioned, the tiller too, as I could not understand why this was happening. Devine was too tired to give me answers.
 
-Annoyed with the noise, I went out to see. I noticed that the tiller was lashed to the wrong side. This was confirmation of just how tired Devine was, he usually doesn't get this wrong. I went outside and lashed it to the other side. No more sounds, and the main was well-positioned. I stayed outside for a bit to make sure everything is okay. I went back in and looked at the sleeping Devine, the one I share this tiny cocoon with. This one needs his rest. I'll keep watch for a while.
+Annoyed with the noise, I went out to see. I noticed that the tiller was lashed to the wrong side. This was confirmation of just how tired Devine was, he usually doesn't get this wrong. I went outside and lashed it to the other side. No more sounds, and the main was well-positioned. I stayed outside for a bit to make sure everything is okay. I went back in and looked at the sleeping Devine, the one that I love most, and share this tiny cocoon on the ocean with. This one needs his rest. I'll keep watch for a while.
 
 \newpage
 
@@ -693,6 +691,28 @@ Coffee time. Devine woke up and served up a cup. The coffee helped revive me. We
 We make instant ramen. I crave ramen a lot these days, but everytime I eat some I get a stomach ache. I made a point of avoiding packet ramen for many years, but at sea I try not to deny my body what it craves. We didn't buy too many at least, and when we run out it'll be ramen detox time. We'll work that MSG out of our systems, somehow.
 
 We have some crystallized ginger for dessert. Our produce is looking past its best. We've got a 3/4 cabbage that is okay, 9 carrots, with a few starting to look tired, a daikon that is getting spotty, and 1/2 an eggplant. Our potatoes and onions are looking good. We've also got some preserved lotus roots, and many other dried vegetables, but we're keeping those for later.
+
+# Plant-based diet
+
+For the past 7 years, we have followed a plant-based diet for health, ethical and environmental reasons. Appropriately planned plant-based diets are healthful, nutritionally adequate, and may provide health benefits in the prevention and treatment of certain diseases.
+
+Planning provisions ahead is important, a lot of the places may not have specialty items like nutritional yeast, miso, dried legumes, dried beans, quality wholegrain flour, flax seeds and B12 supplements (see annex for ingredient descriptions). If planning to spend time in countries where these aren't available, we stock up ahead of time, based on how much of each we typically eat in a week.
+
+We keep a lot of shelf-stable tofu aboard, a product that is a source of calcium (makes sure it is calcium-set) and protein. We use tofu to make sauces and sautees. For iodine, we carry iodized salt and seaweed (wakame or nori). Other essentials, like omega-6 (LA, linoleic acid), are found in pumpkin seeds and sunflower seeds, while omega-3 (ALA, alpha-linoleic acid) are available in linseed and chia seeds.
+
+Staples like oats and flour are found everywhere, varying in price and quality. There will always be fresh vegetables available, but the selection can be poor at times. Carrying dried versions of these foods, like dried peas or daikon, can help in a bind. We also preserve food whenever possible. 
+
+> "You don’t need to be an expert to preserve food, or any fancy technology. Just a container, some salt, and trust in the world of bacteria and fungi." — A. Vansintjan, 2017.
+
+Lacto-fermentation is easy to do, requiring only vegetables, salt and water—no canning, refrigeration or fancy equipement is necessary. We make sauerkraut, and other pickled vegetables (carrots, beet root, garlic etc). There are many other ways to preserve vegetables, like nuka (japanese technique) and with miso. Fermentated foods are nutritious, unlike canned foods. As Alex Lewin, author of *Real Food Fermentation and Kombucha, Kefir, and Beyond*, said: "With canning you kill all of the microbes and seal it hermetically. With fermentation you invite the microbes you want and don’t let in the ones you don’t. Fermentation is diplomacy and canning is a massacre."
+
+Below is a list of rules that we go by, when choosing what to eat:
+
+    1. Eat varied foods. Biodiversity in the diet means less monoculture in the fields.
+    2. Pay more. Spend more for foods grown or raised less intensively and with more care, eat less.
+    3. Eat mostly plants. Especially leafy greens. Cook, and if you can, plant a garden or sprout seeds and legumes.
+    4. Avoid processed foods.
+    5. Eat local seasonal ingredients. It's cheaper, and better for the planet.
    
 ##### 1000
 The wind is lessening, but isn't gone yet. Devine is reading Ursula Le Guin's "The Dispossessed", while steering with a line from the companionway stairs. I just woke up from a an hour-long nap, feeling refreshed. We got a message from Robusta, complaining about the waves. Yep, the waves yesterday were shit. Our positions on the live tracker are updating again, thanks to Devine's dad. 
@@ -876,6 +896,10 @@ Why am I always hungry?! After coffee comes lunch, I guess both of us eat breakf
 We did the food inventory, Pino's stores are looking good! We have enough variety to ensure nutritive and fun meals. This is reassuring. There is food everywhere aboard, it's hard to know the state of things until we start counting though. All of the slow days we've had worried me, wondering if we'd have enough if our sail really did take 2 months. I'm happy to say that we're okay on that front. It's been 20 days and we're going through our stores at a good pace.
 
 Wind is invariably weak, coming out of the east.   
+
+# Food storage
+
+Keeping grains and legumes whole extends their shelf-life, but many whole grains (rice, quinoa, pasta, oats, barley, corn and wheatberries) are ground-zero for insect infestations. 
 
 ##### 1730
 Wandered into yet, another patch of calm. This is better than beating or running into high winds though. It's too bad that our options are too much wind or none at all.
