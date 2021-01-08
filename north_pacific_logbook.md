@@ -696,7 +696,7 @@ We have some crystallized ginger for dessert. Our produce is looking past its be
 
 For the past 7 years, we have followed a plant-based diet for health, ethical and environmental reasons. Appropriately planned plant-based diets are healthful, nutritionally adequate, and may provide health benefits in the prevention and treatment of certain diseases.
 
-Planning provisions ahead is important, a lot of the places may not have specialty items like nutritional yeast, miso, dried legumes, dried beans, quality wholegrain flour, flax seeds and B12 supplements (see annex for ingredient descriptions). If planning to spend time in countries where these aren't available, we stock up ahead of time, based on how much of each we typically eat in a week.
+Planning provisions ahead is important, a lot of the places may not have specialty items like nutritional yeast, miso, dried legumes, dried beans, quality wholegrain flour, flax seeds and B12 supplements (see Pino's pantry for ingredient descriptions). If planning to spend time in countries where these aren't available, we stock up ahead of time, based on how much of each we typically eat in a week.
 
 We keep a lot of shelf-stable tofu aboard, a product that is a source of calcium (makes sure it is calcium-set) and protein. We use tofu to make sauces and sautees. For iodine, we carry iodized salt and seaweed (wakame or nori). Other essentials, like omega-6 (LA, linoleic acid), are found in pumpkin seeds and sunflower seeds, while omega-3 (ALA, alpha-linoleic acid) are available in linseed and chia seeds.
 
@@ -715,12 +715,12 @@ Below is a list of rules that we go by, when choosing what to eat:
     5. Eat local seasonal ingredients. It's cheaper, and better for the planet.
    
 ##### 1000
-The wind is lessening, but isn't gone yet. Devine is reading Ursula Le Guin's "The Dispossessed", while steering with a line from the companionway stairs. I just woke up from a an hour-long nap, feeling refreshed. We got a message from Robusta, complaining about the waves. Yep, the waves yesterday were shit. Our positions on the live tracker are updating again, thanks to Devine's dad. 
+The wind is lessening, but isn't gone yet. Devine is reading Ursula Le Guin's The Dispossessed, while steering with a line from the companionway stairs. I just woke up from a an hour-long nap, feeling refreshed. We got a message from Robusta, complaining about the waves. Yep, the waves yesterday were shit. Our positions on the live tracker are updating again, thanks to Devine's dad. 
 
 Morgan and Douglas, from Tumbleweed, messaged us to report an issue with our track, saying it was not updating (since the 17th). We were concerned that people would think we'd died, or had serious issues. It is fixed now! We're glad. We're lucky to have such good land support, people to tell us if our path is broken, to help us with weather or to give us moral support from afar.
    
 ##### 1030
-My ribs still hurt, as I never have enough time to rest to allow them to heal. The motion of the boat makes that extra difficult. When I sleep, I sit still, with cushions wedged under my back. I'm glad I can steer the boat but worry about making it worse, as I am very accident prone.
+My ribs still hurt, as I never have enough time to rest to allow them to heal. The motion of the boat makes that extra difficult. When I sleep, I sit still, with cushions wedged under my back. I'm glad I can steer the boat but worry about making it worse, as I am very accident-prone.
 
 We've got our share of bumps and bruises! Devine has got splinters in his fingers, I'm not sure how that happened? He's got a bruised knee, from the knockdown, and we both have random aches, callusses on our hands etc.
 
@@ -743,7 +743,7 @@ It is cold outside, we steer from inside, pulling ropes between the washboards. 
     Distance to Victoria: 5,174 km (2794 nm)
 
 ##### 0200
-Red sky at sunrise. How does that saying go again? "Red sky in the morn', sailors' forlorn." It is difficult view this as a threat, as we've come to expect big heavy weather in this area. I don't feel tired from my shift, seems like I got enough sleep... for once. I am steering north, the wind doesn't permit much else. We're steering clear of a system passing below us. I'd like to make more easting but that won't be possible today. 
+Red sky at sunrise. How does that saying go again? "Red sky in the morn', sailors' forlorn." It is difficult to view this as a threat, as we've come to expect big heavy weather in this area. I don't feel tired from my shift, seems like I got enough sleep... for once. I am steering north, the wind doesn't permit much else. We're steering clear of a system passing below us. I'd like to make more easting but that won't be possible today. 
 
 ##### 0500
 Devine brings me a bowl of warm oatmeal! So comforting. We try to save on propane as much as possible as our tanks are smaller, it's why I've been eating cold oats for the past 10 days. I wanted to keep gas for higher, colder latitudes.
@@ -755,7 +755,7 @@ We are still on our first 5 kg tank, so far, so good.
 ##### 0800
 Devine awakens, serves up coffee and checks the weather, as is our usual morning routine! After today, we should get some good wind to go east. We got a message from Robusta, saying the Pacific High is appearing on Monday. That is very good news, as we need it to get further east. They are close, but still too far to see them on AIS.
 
-Devine started reading "Canticle for Lebowitz", having finished "The Dispossessed". 
+Devine started reading Canticle for Lebowitz, having finished The Dispossessed. 
 
 ##### 0900
 Devine slips on a fresh pair of socks! We've been wearing the same pair for a while as we don't have an infinite supply, nor do we want to use up our water to wash them. I alternate between two pairs of wool socks. My 3rd favourite pair I was wearing when I was swept overboard, they are dry but full of salt. They need to spend time outside, for the wind to shake the salt out of them for a few hours. We might start using water more frugally once we reach our second milestone, at 45°N 159°W.
@@ -780,7 +780,7 @@ Devine is making *cornpone* (see recipes) for dinner! We thought we had cornmeal
 ##### 0230
 Finally seeing the wind turn, a little more towards the north. This permits us to do more easting. We need to keep heading that way to catch some of that sweet Pacific High breeze! The wind we've got is from a passing low, as usual, and won't last, but at this point we'll take what we can get.
 
-We're steering from inside, as it is getting colder. Devine found a sweet spot with ropes that permits us to do little do no steering tonight.
+We're steering from inside, as it is getting colder. Devine found a sweet spot with ropes that permits us to do little to no steering tonight.
    
 ##### 5h30
 Pino is bashing to weather. The waves aren't too crazy, but I worry about them still. Pino's bow slams into the sea every now and then, and I can hear the anchor rattling. I hope I tied it down well this time, as retrieving it now would be dangerous. We are pointing east right now. I never thought we'd have to chase storms to get wind. Walking inside is difficult, we have to move carefully. Going to the bathroom is an interesting experience when bashing, since ours is at the bow. It's hard to focus on our business when we struggle to keep our butts down and bodies straight.
@@ -813,7 +813,7 @@ Maybe I got my wish? A calm is in our future. We were supposed to have a good br
 ##### 0900
 Seas are tame today. We are heading east northeast. The wind is supposed to die gradually. We are running with a full jib, and are trying to catch all the puffs of air. A low is coming from the west and we want to make as much headway as possible to avoid it. We are doing good speed, we reached 175°E and are 2 days away from reaching 180°W. The sky is grey, but the solar panel is doing a good job still! We're thankful for that, as it means we don't need to turn on the engine as often.
 
-Both of us slept soundly last night, we steered from the companionway stairs again and kept our heading to the east. We don't have weather yet, as we're having trouble getting a good signal. We will try again soon.
+Both of us slept soundly last night, we steered from the companionway stairs again and kept our easterly heading. We don't have weather yet, as we're having trouble getting a good signal. We will try again soon.
 
 We are 19 days out of Japan.
 
@@ -821,7 +821,7 @@ We are 19 days out of Japan.
 We were able to download weather. It looks like the low will pass north of us — that is good news! The wind also died, we are bobbing in the waves, which are thankfully not too large. It seems like we'll be in a no-wind zone for a while. Devine is outside emptying old soy bean oil out of a plastic bag. During the knockdown a bottle of cooking oil shot out of the fridge and landed in the port side settee cushion, filling it with oil. Lacking time and patience, we stuffed the cushion in a large plastic bag and the oil has been draining out of it since that time. It is hard to clean these cushions, getting oil out of foam will be no easy task, and neither of us are willing to spend time on this. It's a shitty, shitty job. Quiet times at sea are the best time to take care of such tasks, things we normally ignore, though I think that the cushion will be quarantined until we reach land.
 
 ##### 1500
-The wind is very light. We take time to do tasks on deck. We removed the anchor, finally, and stowed it below in the v-berth, buried in blankets and other soft things. The anchor locker overtop will keep it from moving around. Bashing into waves with a heavy anchor makes a racket inside, and we were afraid of further damaging the headsail furler. This happened once already while we were in Nanaimo in 2016. Our anchor banged on the dock and dented the barrel of the furler, it also bent the anchor pin.
+The wind is very light. We take time to do tasks on deck. We removed the anchor, finally, and stowed it below in the v-berth, buried in blankets and other soft things. The anchor locker overtop will keep it from moving around. Bashing into waves with a heavy anchor makes a racket inside, and we were afraid of further damaging the headsail furler.
 
 We flipped the jib sheets around as we'd noticed some chafe, we also added tape to places they commonly lay up against. Devine tightened some halyard so they'd stop banging on the mast, and we cleaned solar connections from salt and added lanolin to protect them from corrosion.
 
@@ -850,24 +850,22 @@ Devine is sleeping hard, and I am outside, steering still. The wind has settled 
 We had early oatmeal, as we were very hungry this morning. Cold night, had many layers on but was still cold!
 
 ##### 0600
-Woke up to find Devine asleep on watch, kindle in hand. He let me sleep longer but couldn't stay awake himself. Not a big deal, as Pino is not going very fast... although, we were going southeast. I corrected the course and made coffee. We sat outside, talking about our readings. Devine disliked "The incredible tide" and its religious undertones, Miyazaki's "Future Boy Conan" is so much better. I started reading "Solaris", and I really like it so far.
+Woke up to find Devine asleep on watch, Kindle in hand. He let me sleep longer but couldn't stay awake himself. Not a big deal, as Pino is not going very fast... although, we were going southeast. I corrected the course and made coffee. We sat outside, talking about our readings. Devine disliked *The incredible tide* and its religious undertones, Miyazaki's *Future Boy Conan* is better. I started reading *Solaris*, and I really like it so far.
    
 ##### 1000
-We woke up Calcifer, as it is time to charge the batteries! Since we are becalmed, it'll also provide some forwardness. We each had a short nap, we're both very tired today. Whenever we go nap we fall asleep almost instantly, and waking up is very, very difficult. It may be because in hectic times, we are more alert and don't allow our bodies and minds to fully relax. We've had many times like this recently.
+We woke up Calcifer, as it is time to charge the batteries! Since we are becalmed, it'll also provide some forwardness. We each had a short nap, we're both very tired today. Whenever we go nap we fall asleep almost instantly, and waking up is very, very difficult. It may be because in hectic times, we are more alert and don't allow our bodies and minds to fully relax. We've had many moments like this recently.
 
-After waking, I read "The Long Way" by Bernard Moitessier aloud to Devine. It's comforting to have our thoughts echoed in his, somehow we feel less alone. The sea scares everyone.
+After waking, I read *The Long Way* by Bernard Moitessier aloud to Devine. It's comforting to have our thoughts echoed in his, somehow we feel less alone. The sea scares everyone.
    
 ##### 1400
-We put Calcifer to sleep, goodnight Cal!
+We put Calcifer to sleep, goodnight buddy!
 
-Then, we make *savory pancakes* (see recipes), same recipe as regular pancakes, except that I use water instead of soy buttermilk. I like to use pancakes as quick-bread whilst sailing. The pancakes act as a sidedish to *soybean hummus* (see recipes), carrots and daikon. The daikon had some nasty bits but I cut them off, and the rest was eatable, mild, but good enough by our standards. We had a glass of wine afterwards, as two albatrosses circled our boat, landing closer and closer everytime.
+Then, we make *savory pancakes* (see recipes), same recipe as regular pancakes, except that I use water instead of soy buttermilk. I like to make pancakes as quick-bread whilst sailing. The pancakes act as a sidedish to *soybean hummus* (see recipes), carrots and daikon. The daikon had some nasty bits but the rest was eatable, mild, but good enough by our standards. We had a glass of wine afterwards, as two albatrosses circled our boat, landing closer and closer everytime.
 
 They kept their distance at first, but now they come right near, checking us out, and allowing us to see their striking features more clearly. We named the more daring of the two "Bowie", because of the dark colouring around its eyes, which is very glamorous indeed. Everytime we look outside we see Bowie there, paddling next to the boat, having no trouble keeping up. Love ya Bowie, you're keeping us well entertained.
    
 ##### 1530
 We have 2 carrots left, a length of daikon, 2 lotus roots, about 10 sweet potatoes and as many regular potatoes. We have 8 onions and 1/2 bulb of garlic. We should have bought more garlic. In the end while stocking up, this staple escaped our minds. We departed Japan so suddenly that we forgot a few key things. Ah well, we'll manage without, we have garlic powder that we can use as a backup.
-
-We dumped a 10 liter bin of freshwater into the main tank.
    
 ##### 2230
 The wind is rising from the east, we're self-steering toward the north. The wind should turn gradually to the south, which will permit us to resume our easterly course. We have a full jib and double-reefed main.
@@ -899,10 +897,24 @@ Wind is invariably weak, coming out of the east.
 
 # Food storage
 
-Keeping grains and legumes whole extends their shelf-life, but many whole grains (rice, quinoa, pasta, oats, barley, corn and wheatberries) are ground-zero for insect infestations. 
+Purchasing food in bulk is ideal for long passages, but if these items are not stored properly, they'll turn rancid or spawn insects, and you'll have wasted both precious calories and money. To avoid both insects and rancidity, it is important to learn how to store food properly, in air-tight glass jars or food-safe plastic bins, away from light and moisture.
+
+**Containers.** Aboard Pino, we carry a lot of glass jars of different sizes, and large plastic food-safe bins. We like to use plastic bins designed for drinking water to store grains and other dried goods, like legumes and rice. Food-grade plastics are identified by the recycling number on the bottom. 1, 2, 4 and 5 are food-grade, but also to check to see if they are *food-safe*.
+
+People are surprised when they find out how much glass we have onboard, in their mind glass and boats don't go together. After 5 years of hard sailing all of our jars are intact. Even the large 5 L jar of umeshu that jumped out of the fridge did not break, in fact, only the plastic lid did—that jar is an excellent quality. Glass does not leach anything into the food, and does not rust (although the lids might). We've swapped our metallic canning lids for plastic ones. On passage, we store glass jars on a shelf that is exactly their height, the jars are packed in tight with little wiggling room. The shelf below houses larger jars, and again, offers little wiggle room. Packing glass in tight-fitting spaces is key to prevent accidents. When the jars are full of food, the weight helps keep them well-seated, and secure. We also keeps jars in settee lockers, in that spaces we use old socks as protective sleeves. Had we patience and time, we'd knit beautiful covers for them.
+
+**Light.** Our storage shelves have a fabric curtain to protect them from light. For example, the B12 in nutritional yeast is light-sensitive, protecting it from the elements will ensure that it retains its nutritive value.
+
+**Keeping food separate.** We keep food purchased in bulk in separate jars. Keeping some types of grains, or dried goods separate helps to avoid problems, like weevils. If one batch is contaminated, the other might be fine. If the infested food is in a solid, and air-tight container, the hatched insects can't escape to infect other food in your boat.
+
+**Oxygen.** The presence of oxygen decreases the storage life of food and causes oxidative deterioration, and under the right conditions insects can spawn. An easy way to remove oxygen from a container, is to use oxygen absorbers. In Japan, many items in stores come with dessicants. Overtime, we've amassed many and re-use them. Everytime you open a jar for a serving of grains, oxygen comes in which hastens spoilage. For this reason, we like to keep the bulk of our food in smaller jars instead of larger containers.
+
+Weevil-prone items include flours, cereal, rice, quinoa, pasta, oats, barley, corn and wheatberries. 
+
+* * *
 
 ##### 1730
-Wandered into yet, another patch of calm. This is better than beating or running into high winds though. It's too bad that our options are too much wind or none at all.
+Wandered into another patch of calm. This is better than beating or running into high winds. It's too bad that our options are too much wind or none at all.
 
 A quiet ocean isn't the worse thing, as there is much to enjoy. Our neighbours the Pacific white-sided dolphins came to see us 3 times today. Because the sea was flat, we could hear them coming from far away. They are a most welcome sight. No matter how bad I'm feeling, their visit always perks me right up! Bowie left to look for food, we're left with the cackling storm petrels for company.
 
@@ -921,33 +933,33 @@ Sometimes sailing feels like witchcraft. There was hardly any wind before, Pino 
     Distance to Victoria: 4,539 km (2451 nm)
 
 ##### 0600
-Devine got up earlier today, he did not feel the need to nap in his last 3-hour shift. He stayed up with me, had a 2nd breakfast — like a proper hobbit — and made REAL coffee. We've been having instant as it is easier to manage in rough seas, but now we're running out of the easy stuff so we don't have a choice. Devine pre-ground beans yesterday for this morning, he may continue to grind more ahead of time to make sure it's never too bothersome to prepare.
+Devine got up earlier today, he did not feel the need to nap in his last 3-hour shift. He stayed up with me, had a 2nd breakfast — like a proper hobbit — and made REAL coffee, from BEANS! We've been having instant as it is easier to manage in rough seas, but now we're running out of the easy stuff. Devine pre-ground beans yesterday for this morning, he may continue to grind more ahead of time to make sure it's never too bothersome to prepare.
 
-The wind is light, but good, we are making headway and will likely reach 180°W this afternoon. JOY. Then, we'll be moving toward our big halfway milestone of 4,074 km (2200 nm). With how things are currently, this trip will take longer than 45 days, but no matter, we're in the good season and left Japan early enough that we can have many more slow days. The seas are flat today, making it easy to move on light airs. We have to go northeast to keep with the wind, there is another no wind area southeast of us that we have to be careful to avoid. Robusta is behind us, it is not easy for them to go north, as the weather there is awful right now.  
+The wind is light, but good, we are making headway and will likely reach 180°W this afternoon. Then, we'll be moving toward our big halfway milestone of 4,074 km (2200 nm). With how things are currently, this trip will take longer than 45 days, but no matter, we're in the good season and left Japan early enough that we can have many more slow days. The seas are flat today, making it easy to move on light airs. We have to go northeast to keep with the wind, there is another no-wind area southeast of us that we have to be careful to avoid. Robusta is behind us, it is not easy for them to go north, as the weather there is awful right now.  
 
 ##### 0800
-Devine makes *soba* (see recipes) with wasabi, accompanied by a dipping sauce — fancy! The weather is calm enough for us to handle both a bowl of noodles and a dipping bowl. He also added konyakku (konjac), a block we found yesterday while doing inventory. We didn't know if it would be good to eat, as it was past its best before date, but it was perfect! I will miss konyakku, it is delicious as sashimi.
+Devine makes *soba* (see recipes) with wasabi, accompanied by a dipping sauce —fancy! The weather is calm enough for us to handle both a bowl of noodles and a dipping bowl. He also added konyakku (konjac), a block we found yesterday while doing inventory. We didn't know if it would be good to eat, as it was past its best before date, but it was perfect! I will miss konyakku, it is delicious as sashimi.
 
-Konyakku is the food made from the corm of the Konjac plant, the meat is processed into a jelly-like substance. It is typically mottled grey, brown-ish, and springy in consistency. It doesn't taste like much, but has a vague salty flavor, with a slightly fishy taste and smell (from the seaweed powder added to it). It is valued more for its texture than flavor.
+Konyakku is the food made from the corm of the Konjac plant, the meat is processed into a jelly-like substance. It is typically mottled grey, brown-ish, and springy in consistency. It has a vague salty flavor, with a slightly fishy taste and smell (from the seaweed powder added to it). In Japan, it is valued more for its texture than flavor.
 
-I've come to value the texture of food because of my time living in Japan, anything that is chewy, or slimy, I found, was really fun to eat. 
+I've come to value the texture of food because of my time living in Japan, anything chewy, or slimy, whether it be nattou (fermented soybeans), okra or yamaimo (Japanese mountain yam).
 
 ##### 1030
 I made pitas, not for a meal but to snack on. I'm glad the weather allows for this kind of messy cooking. The wind is good, we are pushing northeast. The sea is calm, the sun is bright and the sky is clear. We're gliding at 9-11 km/h (5-6 kn).
    
 ##### 1200
-The dolphins are back! They swam with Pino for a good hour. We love watching their dorsal fins cut through the water, the shine of their backs gleaming in the sun. Once in a while, a row of them all jump out together, prefectly synchronized in a neat line. It looks like a glitch in the Matrix — almost too perfect. It's hard to be sad when dolphins are near. Now, if only Bowie would swing by to say hello.
+The dolphins are back! They swam with Pino for a good hour. We love watching their dorsal fins cut through the water, the shine of their backs gleaming in the sun. Once in a while, a row of them all jump out together, prefectly synchronized in a neat line. It looks like a glitch in the Matrix—almost too perfect. It's hard to be sad when dolphins are near. Now, if only Bowie would swing by to say hello.
 
 ##### 1400
 We are so close to 180°W, to one of our big milestones! Crazy how much progress we make with good wind. Marking our position on the chart is more exciting when there is enough distance between points.
 
-We have an early glass of red wine to celebrate our near victory. We sip it as I continue to read "The Long Way" by Moitessier to Devine. The sun is warm and being outside is so damn pleasant!
+We have an early glass of red wine to celebrate our near victory. We sip it as I continue to read *The Long Way* by Moitessier to Devine. The sun is warm and being outside is so damn pleasant!
 
 ##### 1500
-I make *Japanese curry* (see recipes), or "kare", a staple on Pino. It's a dish that I can always finish, even when not hungry. We both have a kare stomach. I used up the last carrot to make it. Now, our fresh vegetable bin is near empty, occupied by a quarter daikon and two preserved lotus roots.
+I make *Japanese curry* (see recipes), or *kare*, a staple on Pino. It's a dish that I can always finish, even when not hungry. We both have a kare stomach. I used up the last carrot to make it. Now, our fresh vegetable bin is near empty, occupied by a quarter daikon and two preserved lotus roots.
 
 ##### 1730
-WOOHOO! We made it past 180°W! We are officially in the Western Pacific! Exciting! This also means that we get to experience July 1st twice, as we are going back a day — funny how that works. It's nice to see degrees going down. We have a long way to go still to reach our destination which lies at 123°W, but it's a start, and we've got to appreciate little victories. Tomorrow morning, we'll celebrate this passing with pancakes and maple syrup, we'll open our last can of delicious liquid gold.
+WOOHOO! We made it past 180°W! We are officially in the Western Pacific! Exciting! This also means that we get to experience July 1st twice, as we are going back a day—funny how that works. It's nice to see degrees going down. We have a long way to go still to reach our destination which lies at 123°W, but it's a start, and we've got to appreciate little victories. Tomorrow morning, we'll celebrate this passing with pancakes and maple syrup, we'll open our last can of delicious liquid gold.
 
 ##### 2100
 Devine makes miso soup, and eats a pita, I can smell the food as I am sleeping and its making me hungry. My dreams are interweaved with this scent. Giant pita people with dresses of cascading miso.
@@ -955,7 +967,7 @@ Devine makes miso soup, and eats a pita, I can smell the food as I am sleeping a
 ##### 2200
 Awoke for my watch, Devine is at the navigation table, reading and wrapped up in blankets. It is very cold tonight. I slip on my foul weather gear even though I've no plans to go outside. The set keeps me warm. I've got my warmest clothes on underneath too. I make myself a bowl of cereal to quiet my stomach, although in truth, I'd prefer something salty. My body craves salt at sea, it seems it isn't enough to be pickled from the outside, my insides demand the same treatment.
 
-I wash my face every few days to remove the accumulation of salt, my face feels smooth, and as do the tips of my fingers? Our bodies don't get rinsed often, as we are conserving water. We wash whenever we change clothes, which on this trip isn't terribly often. Sea life puts us on a different beat, I like it, but I do miss hot showers and our little room heater. It's a shame our Espar diesel heater is broken, but again, even if it wasn't I doubt we'd have enough power to sustain its use, as it is coldest when the power it at its lowest. Tomorrow is our scheduled time to wake Calcifer so we can charge our batteries. Our neighbour under the stairs is doing well, and did not think the knockdown bothersome — good.
+I wash my face every few days to remove the accumulation of salt, my face feels smooth, and as do the tips of my fingers? Our bodies don't get rinsed often, as we are conserving water. We wash whenever we change clothes, which on this trip isn't terribly often. Sea life puts us on a different beat, I like it, but I do miss hot showers and our little room heater. It's a shame our Espar diesel heater is broken, but again, even if it wasn't I doubt we'd have enough power to sustain its use, as it is coldest when the power it at its lowest. Tomorrow is our scheduled time to wake Calcifer so we can charge our batteries. Our neighbour under the stairs is doing well, and did not think the knockdown bothersome—good.
 
 ##### 2230
 Calm, calm. We've drifted into another no-wind desert, a rift between two systems that is 185 km (100 nm) wide. We thought we could keep Pino under light wind, following the southern edge of a system, but it is difficult to know for sure where the wind ends. No forecast is that accurate. Because of this, planning is difficult.
@@ -981,26 +993,20 @@ We make *pancakes and maple syrup* (see recipes) to celebrate our passing of 180
 
 Calm, calm, calm. Flat calm. Silvery, rippleless seas. We drifted last night until 4 h this morning, then turned on the iron wind to charge the batteries and to give ourselves a false sense of progress. Our dolphin family came to say hello today, we saw their outlines perfectly in calm waters. We felt guilty to be motoring with them around, I imagine the sound must be deafening underwater. Devine charged the Nikon yesterday and was able to take footage of our sea family.
 
-As we drifted in quiet waters this morning, I saw a strange creature pulsing in the water, it looked like a creature that had been turned inside out, translucent and pinkish. It had multiple bulbous protrusions. The ocean feels alien with such things living in it. We dubbed these strangelings "mimoids", like the manifestations in Solaris.
+As we drifted in quiet waters this morning, I saw a strange creature pulsing in the water, it looked like a creature that had been turned inside out, translucent and pinkish. It had multiple bulbous protrusions. The ocean feels alien with such things living in it. We dubbed these strangelings *mimoids*, like the manifestations in *Solaris*.
 
 Devine went up the mast to the first spreader to fix a light that had broken off, it was hanging by its wires. Devine feared that one day it would fall and smack us in the head. He secured it with tape, a good temporary fix. He was happy to come back down, even after only being up there for 5 minutes, as the bosun's chair was giving him a hell of a wedgie. "Ahh! My balls!" Dev whined as I helped him down.
    
 ##### 0700
-I've been doodling a lot at night, drawing silly cartoons. My peanut people doodles keep me busy, it is therapeutic. Humor is a good way to deal with stress. It's something I did too when working at an animation studio in Japan. My computer was garbage and crashed constantly, between reboots I'd draw cartoons, featuring my derpy computer. It helped diffuse my anger and made working there bearable.
+I've been doodling a lot at night, drawing silly cartoons. My peanut people doodles keep me busy, it is therapeutic. Humor is a good way to deal with stress. It's something I did too when working at an animation studio in Japan. My computer was garbage and crashed constantly, between reboots I'd draw cartoons, featuring my shitty computer. It helped diffuse my anger and made working there bearable.
    
 ##### 0800
-Devine made a glass noodle (potato noodles) stir-fry for lunch, using spices, our preserved lotus root and half a daikon. He also added bits of dried tofu. We love adding this type of tofu to meals as they soak up all the flavor. After lunch, Devine and I napped hard in succession. The sea is calm, with a swell coming out of the east. No wind, well... if one can call the occasional puff of air wind. We are pointing Pino's bow east, into the swell. I sing some Deathcab For Cutie as I steer...
-
-> "I wish we could open our eyes, to see in all directions at the same time.
-> Oh what a beautiful view, if you were never aware of what was around you.
-> And it is true what you said, that I live like a hermit in my own head
-> But when the sun shines again,
-> I'll pull the curtains and blinds to let the light in—"
+Devine made a glass noodle (potato noodles) stir-fry for lunch, using spices, our preserved lotus root and half a daikon. He also added bits of dried tofu. We love adding this type of tofu to meals as they soak up all the flavor. After lunch, Devine and I napped hard in succession. The sea is calm, with a swell coming out of the east. No wind, well, if one can call the occasional puff of air wind. We are pointing Pino's bow east, into the swell. I sing some *Deathcab For Cutie* as I steer...
 
 Something I do when my brain is too tired to brainstorm projects, or when it doesn't want to dwell on memories past, or on a future when land is near.
    
 ##### 1000
-Pino clumsily wanders into a patch of resting Shearwaters. They are such skittish things. Even if we steer clear they still run, feet and wings flapping as they try and get away. Sometimes they dive underwater. I saw one do this today, but it must have been confused because it resurfaced even closer to us, and in a panic it took to the air, feet splashing and wings lifting water as it took off. These birds don't like us at all.
+Pino clumsily wanders into a patch of resting shearwaters. They are such skittish things. Even if we steer clear they still run, feet and wings flapping as they try and get away. Sometimes they dive underwater. I saw one do this today, but it must have been confused because it resurfaced even closer to us, and in a panic it took to the air, feet splashing and wings lifting water as it took off. These birds don't like us at all.
 
 ##### 1300
 Time to continue to read "The Long Way". I read aloud, snacking on peanuts with a glass of red wine. We are still on Japan time, deciding that we both liked a 0200 sunrise and a 1700 sunset. 1300 is 1600, the time before we make dinner. These days we start our evening shifts at 1700, as to make the most out of daylight hours. We're glad for long summer days, short nights are more pleasant as it doesn't get too cold. Robusta sent us a message, they are aiming for Dutch Harbor now and report the air being much cooler. Anja wonders how we'll cope with the cold without heating. We don't really know, but we'll figure something out. At the worse, we'll wear our sleeping bags?
