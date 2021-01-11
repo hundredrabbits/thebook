@@ -106,18 +106,6 @@ We download the weather, it is the same as yesterday, but it looks like the wind
 
 Today, we are both sea sick.
 
-# Seasickness
-
-People often ask us if we get sea sick, and we say that yes, we feel sea sick at the start of every trip.
-
-On the first day, we both become ill and grumpy. The early symptoms of sea sickness include a headache, a reduced appetite, and a morose view on things. Our inner ears fight our eyes, both are determined to convince the brain of their version of reality. This incongruity, if allowed to persist, will trigger vomitting. In our 5 years of sailing, we've managed to keep our food and fluids inside, where they belong. 
-
-The first 2 days of every offshore trip are the hardest. We whine a lot, profess to hate sailing, and question why we do it at all. Then on the 3 rd day our inner ears adjust, our brains adapt and learn the rhythm of the boat, and sailing is fun again! Although, we've met sailors that are not so lucky, cursed with seasickness that persists for the entirety of their trip, and yet, they continue to sail. It's remarkable, really. 
-
-The best thing to do to not get sea sick, is to stay outside, and to keep your mind off the motion of the boat. Going indoors for a long time, say, to retrieve an item from a locker, is the number one trigger for us. What do we do when seasick? We take turns steering the boat, keep our eyes on the horizon and take in some fresh air. When steering, we can anticipate the movement of the boat, which allows our brain (and eyes) to re-calibate.
-
-*  *  *  *
-
 ##### 1200
 We napped hard, then awoke and decided that we should try and cook something. Neither of us feel like eating onigiri (see recipes), we regret making so many as we aren't sure we can eat them. They were our go-to snack when in Japan. Onigiri is made from white sticky rice formed into triangular or cylindrical shapes and often wrapped in nori (seaweed). They can served as is, with salt as seasoning, or with a filling like pickled plums, kombu or salted fish. The salty and sour fillings act as a natural preservative. We love onigiri, but today we have no appetite.
 
@@ -132,6 +120,18 @@ Our main sail didn't used to have a third reef, we had a new one made in New Zea
 
 ##### 1800
 We eat chips as a snack, as we are not hungry for a full dinner. Everything tastes weird? It's like our taste buds are on LSD. The only thing that goes down easy is salty foods.
+
+# Seasickness
+
+People often ask us if we get sea sick, and we say that yes, we feel sea sick at the start of every trip.
+
+On the first day, we both become ill and grumpy. The early symptoms of sea sickness include a headache, a reduced appetite, and a morose view on things. Our inner ears fight our eyes, both are determined to convince the brain of their version of reality. This incongruity, if allowed to persist, will trigger vomitting. In our 5 years of sailing, we've managed to keep our food and fluids inside, where they belong. 
+
+The first 2 days of every offshore trip are the hardest. We whine a lot, profess to hate sailing, and question why we do it at all. Then on the 3 rd day our inner ears adjust, our brains adapt and learn the rhythm of the boat, and sailing is fun again! Although, we've met sailors that are not so lucky, cursed with seasickness that persists for the entirety of their trip, and yet, they continue to sail. It's remarkable, really. 
+
+The best thing to do to not get sea sick, is to stay outside, and to keep your mind off the motion of the boat. Going indoors for a long time, say, to retrieve an item from a locker, is the number one trigger for us. What do we do when seasick? We take turns steering the boat, keep our eyes on the horizon and take in some fresh air. When steering, we can anticipate the movement of the boat, which allows our brain (and eyes) to re-calibate.
+
+*  *  *  
 
 \newpage
 
@@ -151,14 +151,6 @@ We have peanut butter toast with slices of banana on top for breakfast. One hand
 
 We've reduced the jib, as there is a very strong breeze. Pino's gliding under steady 50 km/h (27 kn) winds. 
 
-# Kuroshio 
-
-The Kuroshio, or black current, is a high-temperature, high-salinity warm current that is dark blue color as is implied by its name and has a transparency of more than 30 m (98 feet). Its flow rate is 4-5 kmh (2-3 kn) on the average and reaches up to 7-9 kmh (4 to 5 kn). The Kuroshio is weaker in summer and autumn and stronger in winter and spring. It it roughly 200 km wide, and it flows strong up to 1,800 km from Japan, and for this reason, carries a lot of Japanese floating seaweed into the Eastern Pacific.
-
-Tracking the Kurushio gave us a free ride, adding sometimes two or three knots to our speed. But coming out of Shimoda, we underestimated the strength of this current. As soon as we passed Oshima Island, the current began to pull us northward, even with our bow pointed east. 
-
-*  *  *  *
-
 The Kuroshio pushed us higher than we wanted. We are at 36°N, and it is worrisome, as we knew it was safer to stay under 35°N. The wind above that line tends to be stronger. Robusta was at 33°N, upon exiting Shimoda they took a more southerly route, I wish we'd done the same. 
 
 ##### 1100
@@ -170,28 +162,20 @@ Devine made a salad for lunch to try and use up some of our uglier produce. The 
 ##### 1300
 We watched seabirds pirouetting in the distance, they've no problem in this wind. Their movements are sharp and fast. We don't know what kind of bird they are, they're brown with a white stomach. It's at times like these, that I wish we had a book to identify sea birds. We've seen a great variety in the last 5 years. There is always a certain excitement with sailing into different waters, wondering what kind of birds or sea life we'll find when we get there.
 
-# Our friends the birds
-
-In Mexico, we glimpsed frigatebirds. They soar continously, seemingly immobile in the sky, their tails and wings giving them a distinctive 'W' silhouette in flight. They sleep in flight, as they only use one hemisphere of the brain at a time. An incredible adaptation. It is perhaps best that we can't do this, as deep sleep is the only refuge of the brain in humans obssessed with productivity. It's like with salarymen in Japan, if the trains ran all night instead of stopping at 0000 or 0100, they would never leave their desks.
-
-In the Western Pacific, near the equator, there were boobys. These birds have a reputation for not being very smart because they like to land on ships, and early mariners would eat them. Calling them stupid though is hardly fair, as it is in their nature to be trusting. Human beings, being cruel and opportunistic, are not worthy of their trust. A red-footed booby landed on Pino once, and spent the night with us. Had we not chased it away though, it would have covered a solar panel in putrid discharges.
-
-In Fiji, I glimpsed the most beautiful bird I'd ever seen, a Fiji parrotfinch, with blackish feathering on its chin becoming dark blue on the lower throat and turquoise on the upper breast before fading into the bright green of the underparts. Coming from Canada, we don't have brightly-colored birds like these. I saw it on a walk on the island, perched in a tree, its colours drew my eye and I could not  look away. This bird had bewitched me, and did not know it. It went about its business, staying for a short time before flying off to enrapture other unsuspecting humans. 
-
-Since we started sailing, I have become a bird nerd. Watching them brings me joy. Attention restoration theory says that people can concentrate better, and were less stressed after spending time in nature, or even looking at scenes of nature. We have found this to be true for us, and observing birds has played a big part in it. 
-
-Humans possess an innate tendency to seek connections with nature and other forms of life, is is thought to be rooted in our biology (Biophilia hypothesis). Observing nature, whether it be from a window out on a garden, or during a walk in the park, or from the deck of a ship, brings us joy, and this positive psychological effect increases as the perceived biodiversity of the landscape increases. 
-
-This to say, we can only gain from protecting nature. We live in a time when much of it is under threat. Nature will always give, but it is up to us to learn to take less, and to protect it from the greedy.
-
-* * *
-
 We've noticed the automatic bilge pump keeps going off, we think there's a leak below the waterline, if so, that is worrisome. We tried to find where it was, but found nothing. None of the thru-hulls are leaking. I also checked the hose connections, nada! I suspect it may be the rudder post that is leaking, but for now it is impossible to look as I'd have to get into the cockpit locker, which is full of water bins and other heavy gear. For now, we try and check the bilge often, pumping the water out by hand every 2 hours or so. We have two manual bilge pumps, one in the cockpit and another in the cabin under the sink. The automatic bilge pump doesn't empty the bilge entirely, as it sits on a little stand above the lowest point, but the manual pump tube touches the bottom and does a better job of sucking up the majority of the water. If anything, the automatic pump serves as an alarm.
 
 We installed a second manual bilge pump in the cabin while in New Zealand. We thought having a second, more powerful pump aboard could be useful in storm conditions. If necessary, we can pump water out while inside the cabin. On a boat, redundancy is key. 
 
 ##### 1700
 Made spaghetti with eggplant and green peppers for dinner. It is still hard to finish food, so we started making smaller portions to avoid waste. Both of us are still plagued with weird tastebuds. Sweet is too sweet, veggies are bland.
+
+# Kuroshio 
+
+The Kuroshio, or black current, is a high-temperature, high-salinity warm current that is dark blue color as is implied by its name and has a transparency of more than 30 m (98 feet). Its flow rate is 4-5 kmh (2-3 kn) on the average and reaches up to 7-9 kmh (4 to 5 kn). The Kuroshio is weaker in summer and autumn and stronger in winter and spring. It it roughly 200 km wide, and it flows strong up to 1,800 km from Japan, and for this reason, carries a lot of Japanese floating seaweed into the Eastern Pacific.
+
+Tracking the Kurushio gave us a free ride, adding sometimes two or three knots to our speed. But coming out of Shimoda, we underestimated the strength of this current. As soon as we passed Oshima Island, the current began to pull us northward, even with our bow pointed east. 
+
+*  *  *
 
 \newpage
 
@@ -245,7 +229,15 @@ Everything inside is wet, the floors are slippery with water, and our foul-weath
 
 We eat two small meals per day, but aren't low on energy. The terrible weather has a way of keeping us focused, when there is danger we become superhuman. We need less sleep, less food...less everything. Don't know how long we can sustain this though.
 
+##### 1200
+The wind has calmed, but the rain has not. Wish they'd left together to give us some time to dry off. The weather doesn't care about our damp clothing and water-logged bones.
+
+##### 1500
+Devine makes gnocchi. I managed to finish off my entire bowl — this is a good sign! The wind is supposed to change tonight, and we hope that the waves die down with them.
+
 # Sailing at night
+
+We used to fear sailing at night, but now we look forward to it. It is a time we use to think, to read, listen to podcasts, or music (weather permitting). Traffic in the dark is easier to see, their lights visible at a great distance. On clear, moonless nights at sea, we see a beautiful tapestry of lights overhead. The Milky Way used to be visible from everywhere in the world, but light pollution has robbed city-dwellers of this grand spectacle. Also, depending on where we are in the world there is bioluminescence, the boat leaves trails of sparkling green as it glides in the water. One night while sailing to Los Angeles, I saw bright ghostly shapes in the water. Dolphins. I could see them perfectly, as the bioluminescence marked their position in the water. 
 
 Before we start our night shifts, we usually put in a reef. A smaller sail will slow us down, but we don't care to have the most sail up always, our main concern is our safety. Our rule is that if we think about maybe reefing a sail, we do it. 
 
@@ -254,12 +246,6 @@ Another important rule, is to never reef at night. Everything is harder to do in
 Since we started sailing, we have stuck to the same pattern for night shifts. One sleeps between 1900 and 2100, then sails between 2100 and 2400, then goes back to sleep from 2400 until 0300, and then goes back to the wheel between 0300 and 0600. 3 hours on, and 3 hours off. Some sailors prefer longer shifts, doing 4-5 hours at a time. We prefer shorter shifts, because we get tired easy, and 3 hours, when tired, feels unending. 
 
 * * *
-
-##### 1200
-The wind has calmed, but the rain has not. Wish they'd left together to give us some time to dry off. The weather doesn't care about our damp clothing and water-logged bones.
-
-##### 1500
-Devine makes gnocchi. I managed to finish off my entire bowl — this is a good sign! The wind is supposed to change tonight, and we hope that the waves die down with them.
 
 \newpage
 
@@ -390,26 +376,6 @@ The sun came and stayed with us for an hour, not long enough to dry anything, bu
    
 ##### 1200
 We tacked back to the northeast to dodge some weather. It is raining again now, we drive from the cabin using a set of long ropes, since we no longer have a dodger to hide under.
-
-# Self-steering
-
-This is one of the reasons we converted the boat from wheel to tiller. We tied two ropes to the tiller, that lead over to blocks attack to the toerail, and that we lead up into companionwaydoor. We glance at the compass now and again, to see if we're still on track, and make adjustments by pulling on either rope. We do this when the wind isn't strong enough for Pino to self-steer, or when we are motoring. 
-
-We are big fans of the shock-cord sailing, which consists of using a set of ropes, sails, shock cords and blocks to self-steer a boat, without the need for a windvane. 
-
-The easiet point of sail is when beating into the wind. We lash the tiller in place using ropes, then trim the sails and the boat will stay on a relatively straight course. We make small adjustments when necessary. To allow for more variation, we like to tie a line to the tiller (we have some two cam cleats to quickly jam the line), than to a bike tube on the toe rail. We used a bike tube because it's what we had, and we found it more stretchy than shock cord. We adjust the tension by releasing the line from the cam cleat, or tightening it. Wrapping a line about the tiller is also fine, but make more turns if the wind is strong. We add extra turns even with a cam cleat, as a precaution.
-
-"This system works because the tiller, held slightly to windward, is trying to steer the boat down. Every time the boat sails down, the mainsail catches the wind and tries to pull the boat back up again. When the boat heads up the mainsail will luff and will stop pulling the boat upwards and the tiller will steer the boat down again." (A. Evans)
-
-There are different methods of self-steering when running, or reaching. The 'storm-jib system' is used when close hauled to a broad reach, and is also a dependable, long-term solution for self-steering without a windvane. If set correctly, it's possible to leave it as is, for hours and days in any condition.
-
-On the passage from Tonga to New Zealand, we ran into our friend, and solo-sailor Josh on his 8.8 m (29 ft) boat Maistral. It is rare to come across other sailors at sea, and it is even more rare to meet a sailor that is also your friend. We met Josh while in Mexico, his plans were similar to ours, to sail through the South Pacific and over to New Zealand. His outboard motor died early on, but he continued his trip anyway, learning self-steering techniques as he did. When we met him on the ocean, we could see that he had 3 sails up. Maistral was a sloop, like ours, but also had a poled-out storm-jib just forward of the headsail. We did not understand what we were looking at then, but the image never left our minds. Then, we found a book by Andrew Evans, talking about the 'poled-out storm-jib system'.
-
-The storm jib system only requires a few feet of surgical tubing (or bike tubing), a storm jib (or stay sail) and two snatch blocks. I will not explain these techniques in too much detail, as Andrew does it much better in his short (and free) booklet. 
-
-Learning to sail without complex systems is essential, not just for singlehanders, but also for couples. An overeliance on gadgetry can be dangerous, especially at sea, where there is no one to help when things go wrong. 
-
-* * *
    
 ##### 1400
 We make *pate chinois* (see recipes) for lunch.
@@ -417,6 +383,19 @@ We make *pate chinois* (see recipes) for lunch.
 Then, we napped hard, then beat to weather with a good easterly heading. We are now 1,974 km (1066 nm) from Japan, we're nearing the 165°E mark that indicates our turn northward. When you sail east to Alaska or to the Pacific Northwest, you've got to go east until you hit that mark, otherwise you run the risk of staying in the path of typhoons. 
 
 We keep getting strong winds. Every 2 days a big system runs us over. Considering what happened yesterday, we decided that we would heave to as often as we needed to. This trip is a long one, and we need to keep our energy up. 
+   
+##### 1700
+Put boat into heave to again to eat a dinner of *soy bean hummus* (see recipes), carrots and vegetables. We don't normally heave to to eat meals, but we stopped for an hour just to relax, and to spend some time together. 
+   
+##### 1800
+We started night shifts ahead of time today, as it is getting darker earlier. We had good winds pushing us southeast. We received a message from Robusta, they are doing well, and are 556 km (300 nm) away from us. They cannot send messages often, as they have issues with their radio.
+
+##### 2000
+I couldn't sit on either the high, or the low side during my night shifts. I was scared. Scared of being swept up again. I sat on the cockpit floor, moving the tiller with ropes from there. I did not think that yesterday's event had affected me adversely, but it has... everytime I hear a wave rushing up to us, my heart would leap into my throat, and my legs would turn to jelly. Big waves have the same effect, but worse. I would get panicky, with cold sweat at my back. 
+
+Whenever my brain has a chance to idle, I go back to the event. I keep trying to re-live the moment, re-playing the memory over and over again, making corrections, as a director might do when editing a film. I find myself trying to view the scene from a different camera, frustrated with the limited first-person footage I've got. I want to view the scene from afar so I can see the wave, to see the size of it, and to figure out if I could have done things differently. I don't want to think about this, but the memory comes anyway, uninvited.
+
+This is going to be a long, long trip, as we are not done seeing big waves.
 
 # Heaving to
 
@@ -433,20 +412,6 @@ It's a technique that is worth mastering, as it could save your boat, and your l
 Our boat, with its fin keel, heaves to well enough. Slowing the boat does cost time, but our safety is important. We've got plenty of time to get to Canada. We are so glad that the rig suffered no damage, we were lucky. Pino is a good, strong boat, we knew when we bought it, and we know it now. 
 
 * * *
-   
-##### 1700
-Put boat into heave to again to eat a dinner of *soy bean hummus* (see recipes), carrots and vegetables. We don't normally heave to to eat meals, but we stopped for an hour just to relax, and to spend some time together. 
-   
-##### 1800
-We started night shifts ahead of time today, as it is getting darker earlier. We had good winds pushing us southeast. We received a message from Robusta, they are doing well, and are 556 km (300 nm) away from us. They cannot send messages often, as they have issues with their radio.
-
-##### 2000
-I couldn't sit on either the high, or the low side during my night shifts. I was scared. Scared of being swept up again. I sat on the cockpit floor, moving the tiller with ropes from there. I did not think that yesterday's event had affected me adversely, but it has... everytime I hear a wave rushing up to us, my heart would leap into my throat, and my legs would turn to jelly. Big waves have the same effect, but worse. I would get panicky, with cold sweat at my back. 
-
-Whenever my brain has a chance to idle, I go back to the event. I keep trying to re-live the moment, re-playing the memory over and over again, making corrections, as a director might do when editing a film. I find myself trying to view the scene from a different camera, frustrated with the limited first-person footage I've got. I want to view the scene from afar so I can see the wave, to see the size of it, and to figure out if I could have done things differently. I don't want to think about this, but the memory comes anyway, uninvited.
-
-This is going to be a long, long trip, as we are not done seeing big waves.
-
 \newpage
 
 #### June 19th
@@ -691,28 +656,6 @@ Coffee time. Devine woke up and served up a cup. The coffee helped revive me. We
 We make instant ramen. I crave ramen a lot these days, but everytime I eat some I get a stomach ache. I made a point of avoiding packet ramen for many years, but at sea I try not to deny my body what it craves. We didn't buy too many at least, and when we run out it'll be ramen detox time. We'll work that MSG out of our systems, somehow.
 
 We have some crystallized ginger for dessert. Our produce is looking past its best. We've got a 3/4 cabbage that is okay, 9 carrots, with a few starting to look tired, a daikon that is getting spotty, and 1/2 an eggplant. Our potatoes and onions are looking good. We've also got some preserved lotus roots, and many other dried vegetables, but we're keeping those for later.
-
-# Plant-based diet
-
-For the past 7 years, we have followed a plant-based diet for health, ethical and environmental reasons. Appropriately planned plant-based diets are healthful, nutritionally adequate, and may provide health benefits in the prevention and treatment of certain diseases.
-
-Planning provisions ahead is important, a lot of the places may not have specialty items like nutritional yeast, miso, dried legumes, dried beans, quality wholegrain flour, flax seeds and B12 supplements (see Pino's pantry for ingredient descriptions). If planning to spend time in countries where these aren't available, we stock up ahead of time, based on how much of each we typically eat in a week.
-
-We keep a lot of shelf-stable tofu aboard, a product that is a source of calcium (makes sure it is calcium-set) and protein. We use tofu to make sauces and sautees. For iodine, we carry iodized salt and seaweed (wakame or nori). Other essentials, like omega-6 (LA, linoleic acid), are found in pumpkin seeds and sunflower seeds, while omega-3 (ALA, alpha-linoleic acid) are available in linseed and chia seeds.
-
-Staples like oats and flour are found everywhere, varying in price and quality. There will always be fresh vegetables available, but the selection can be poor at times. Carrying dried versions of these foods, like dried peas or daikon, can help in a bind. We also preserve food whenever possible. 
-
-> "You don’t need to be an expert to preserve food, or any fancy technology. Just a container, some salt, and trust in the world of bacteria and fungi." — A. Vansintjan, 2017.
-
-Lacto-fermentation is easy to do, requiring only vegetables, salt and water—no canning, refrigeration or fancy equipement is necessary. We make sauerkraut, and other pickled vegetables (carrots, beet root, garlic etc). There are many other ways to preserve vegetables, like nuka (japanese technique) and with miso. Fermentated foods are nutritious, unlike canned foods. As Alex Lewin, author of *Real Food Fermentation and Kombucha, Kefir, and Beyond*, said: "With canning you kill all of the microbes and seal it hermetically. With fermentation you invite the microbes you want and don’t let in the ones you don’t. Fermentation is diplomacy and canning is a massacre."
-
-Below is a list of rules that we go by, when choosing what to eat:
-
-    1. Eat varied foods. Biodiversity in the diet means less monoculture in the fields.
-    2. Pay more. Spend more for foods grown or raised less intensively and with more care, eat less.
-    3. Eat mostly plants. Especially leafy greens. Cook, and if you can, plant a garden or sprout seeds and legumes.
-    4. Avoid processed foods.
-    5. Eat local seasonal ingredients. It's cheaper, and better for the planet.
    
 ##### 1000
 The wind is lessening, but isn't gone yet. Devine is reading Ursula Le Guin's The Dispossessed, while steering with a line from the companionway stairs. I just woke up from a an hour-long nap, feeling refreshed. We got a message from Robusta, complaining about the waves. Yep, the waves yesterday were shit. Our positions on the live tracker are updating again, thanks to Devine's dad. 
@@ -732,6 +675,38 @@ We had *kiri mochi* (see recipes) with diced cabbage and julienned carrots for d
 
 ##### 1900
 It is cold outside, we steer from inside, pulling ropes between the washboards. We're going northeast, in light winds.
+
+# Plant-based diet
+
+For the past 7 years, we have followed a plant-based diet for health, ethical and environmental reasons. Appropriately planned plant-based diets are healthful, nutritionally adequate, and may provide health benefits in the prevention and treatment of certain diseases.
+
+Planning provisions ahead is important, a lot of the places may not have specialty items like nutritional yeast, miso, dried legumes, dried beans, quality wholegrain flour, flax seeds and B12 supplements (see Pino's pantry for ingredient descriptions). If planning to spend time in countries where these aren't available, we stock up ahead of time, based on how much of each we typically eat in a week.
+
+We keep a lot of shelf-stable tofu aboard, a product that is a source of calcium (makes sure it is calcium-set) and protein. We use tofu to make sauces and sautees. For iodine, we carry iodized salt and seaweed (wakame or nori). Other essentials, like omega-6 (LA, linoleic acid), are found in pumpkin seeds and sunflower seeds, while omega-3 (ALA, alpha-linoleic acid) are available in linseed and chia seeds.
+
+Staples like oats and flour are found everywhere, varying in price and quality. There will always be fresh vegetables available, but the selection can be poor at times. Carrying dried versions of these foods, like dried peas or daikon, can help in a bind. We also preserve food whenever possible. 
+
+> "You don’t need to be an expert to preserve food, or any fancy technology. Just a container, some salt, and trust in the world of bacteria and fungi." — A. Vansintjan, 2017.
+
+Lacto-fermentation is easy to do, requiring only vegetables, salt and water—no canning, refrigeration or fancy equipement is necessary. We make sauerkraut, and other pickled vegetables (carrots, beet root, garlic etc). There are many other ways to preserve vegetables, like nuka (japanese technique) and with miso. Fermentated foods are nutritious, unlike canned foods. As Alex Lewin, author of *Real Food Fermentation and Kombucha, Kefir, and Beyond*, said: "With canning you kill all of the microbes and seal it hermetically. With fermentation you invite the microbes you want and don’t let in the ones you don’t. Fermentation is diplomacy and canning is a massacre."
+
+Below is a list of rules that we go by, when choosing what to eat:
+
+**Eat varied foods.** Biodiversity in the diet means less monoculture in the fields.
+
+**Pay more.** Spend more for foods grown or raised less intensively and with more care, eat less.
+
+**Eat mostly plants.** Especially leafy greens. 
+
+**Avoid processed foods.** 
+
+**Eat local seasonal ingredients.** It's cheaper, and better for the planet.
+
+**Cook instead of eating out.** 
+
+**Plant a garden.** Or sprout seeds and legumes.
+
+* * *
 
 \newpage
 
@@ -870,6 +845,26 @@ We have 2 carrots left, a length of daikon, 2 lotus roots, about 10 sweet potato
 ##### 2230
 The wind is rising from the east, we're self-steering toward the north. The wind should turn gradually to the south, which will permit us to resume our easterly course. We have a full jib and double-reefed main.
 
+# Self-steering
+
+This is one of the reasons we converted the boat from wheel to tiller. We tied two ropes to the tiller, that lead over to blocks attack to the toerail, and that we lead up into companionwaydoor. We glance at the compass now and again, to see if we're still on track, and make adjustments by pulling on either rope. We do this when the wind isn't strong enough for Pino to self-steer, or when we are motoring. 
+
+We are big fans of the shock-cord sailing, which consists of using a set of ropes, sails, shock cords and blocks to self-steer a boat, without the need for a windvane. 
+
+The easiet point of sail is when beating into the wind. We lash the tiller in place using ropes, then trim the sails and the boat will stay on a relatively straight course. We make small adjustments when necessary. To allow for more variation, we like to tie a line to the tiller (we have some two cam cleats to quickly jam the line), than to a bike tube on the toe rail. We used a bike tube because it's what we had, and we found it more stretchy than shock cord. We adjust the tension by releasing the line from the cam cleat, or tightening it. Wrapping a line about the tiller is also fine, but make more turns if the wind is strong. We add extra turns even with a cam cleat, as a precaution.
+
+"This system works because the tiller, held slightly to windward, is trying to steer the boat down. Every time the boat sails down, the mainsail catches the wind and tries to pull the boat back up again. When the boat heads up the mainsail will luff and will stop pulling the boat upwards and the tiller will steer the boat down again." (A. Evans)
+
+There are different methods of self-steering when running, or reaching. The 'storm-jib system' is used when close hauled to a broad reach, and is also a dependable, long-term solution for self-steering without a windvane. If set correctly, it's possible to leave it as is, for hours and days in any condition.
+
+On the passage from Tonga to New Zealand, we ran into our friend, and solo-sailor Josh on his 8.8 m (29 ft) boat Maistral. It is rare to come across other sailors at sea, and it is even more rare to meet a sailor that is also your friend. We met Josh while in Mexico, his plans were similar to ours, to sail through the South Pacific and over to New Zealand. His outboard motor died early on, but he continued his trip anyway, learning self-steering techniques as he did. When we met him on the ocean, we could see that he had 3 sails up. Maistral was a sloop, like ours, but also had a poled-out storm-jib just forward of the headsail. We did not understand what we were looking at then, but the image never left our minds. Then, we found a book by Andrew Evans, talking about the 'poled-out storm-jib system'.
+
+The storm jib system only requires a few feet of surgical tubing (or bike tubing), a storm jib (or stay sail) and two snatch blocks. I will not explain these techniques in too much detail, as Andrew does it much better in his short (and free) booklet. 
+
+Learning to sail without complex systems is essential, not just for singlehanders, but also for couples. An overeliance on gadgetry can be dangerous, especially at sea, where there is no one to help when things go wrong. 
+
+* * *
+
 \newpage
 
 # Week 4 
@@ -895,6 +890,16 @@ We did the food inventory, Pino's stores are looking good! We have enough variet
 
 Wind is invariably weak, coming out of the east.   
 
+##### 1730
+Wandered into another patch of calm. This is better than beating or running into high winds. It's too bad that our options are too much wind or none at all.
+
+A quiet ocean isn't the worse thing, as there is much to enjoy. Our neighbours the Pacific white-sided dolphins came to see us 3 times today. Because the sea was flat, we could hear them coming from far away. They are a most welcome sight. No matter how bad I'm feeling, their visit always perks me right up! Bowie left to look for food, we're left with the cackling storm petrels for company.
+
+We moved closer to 180°W, we are at 178°E, here's hoping for wind returning later today so we can finally cross that invisible line! We noticed today that one of our spreader lights was broken, our espar heater too has issues... Pino is going to need a lot of love and attention after this trip is over.  
+
+##### 2230
+Sometimes sailing feels like witchcraft. There was hardly any wind before, Pino was bobbing stupidly in the water as I sat inside, waiting. I got tired of the motion and of the sails beating about, so I went outside to steer. Devine reduces the jib in periods of calm to reduce chafe, but keeps a tiny 'scarf' to ease the back and forth pendulum motion from waves. I felt tiny, irregular puffs of wind so I unfurled the jib and pointed us east. Perfect. Wind filled the sails and we started to go forward? It was like presenting the full jib created movement, the wind awaking with it. I was amazed, and started dancing in the cockpit, happy to be moving forward in a favourable direction! Hope the wind stays with us, if so... we'll cross 180°W! Maybe the school of dolphins from before pitied us and returned to pull us on — ah, what good friends!
+
 # Food storage
 
 Purchasing food in bulk is ideal for long passages, but if these items are not stored properly, they'll turn rancid or spawn insects, and you'll have wasted both precious calories and money. To avoid both insects and rancidity, it is important to learn how to store food properly, in air-tight glass jars or food-safe plastic bins, away from light and moisture.
@@ -912,16 +917,6 @@ People are surprised when they find out how much glass we have onboard, in their
 Weevil-prone items include flours, cereal, rice, quinoa, pasta, oats, barley, corn and wheatberries. 
 
 * * *
-
-##### 1730
-Wandered into another patch of calm. This is better than beating or running into high winds. It's too bad that our options are too much wind or none at all.
-
-A quiet ocean isn't the worse thing, as there is much to enjoy. Our neighbours the Pacific white-sided dolphins came to see us 3 times today. Because the sea was flat, we could hear them coming from far away. They are a most welcome sight. No matter how bad I'm feeling, their visit always perks me right up! Bowie left to look for food, we're left with the cackling storm petrels for company.
-
-We moved closer to 180°W, we are at 178°E, here's hoping for wind returning later today so we can finally cross that invisible line! We noticed today that one of our spreader lights was broken, our espar heater too has issues... Pino is going to need a lot of love and attention after this trip is over.  
-
-##### 2230
-Sometimes sailing feels like witchcraft. There was hardly any wind before, Pino was bobbing stupidly in the water as I sat inside, waiting. I got tired of the motion and of the sails beating about, so I went outside to steer. Devine reduces the jib in periods of calm to reduce chafe, but keeps a tiny 'scarf' to ease the back and forth pendulum motion from waves. I felt tiny, irregular puffs of wind so I unfurled the jib and pointed us east. Perfect. Wind filled the sails and we started to go forward? It was like presenting the full jib created movement, the wind awaking with it. I was amazed, and started dancing in the cockpit, happy to be moving forward in a favourable direction! Hope the wind stays with us, if so... we'll cross 180°W! Maybe the school of dolphins from before pitied us and returned to pull us on — ah, what good friends!
 
 \newpage
 
@@ -1027,6 +1022,22 @@ The breeze is still with us, the sky is overcast now though, it is much cooler o
 Light winds, Pino is self-steering to the southeast, sometimes we can nudge it back to east with ropes. It started to drizzle, so I went inside. We're moving at a low 5 km/h (2.5 kn). It is difficult to find motivation to adjust sails in the rain and in the dark. I'm doing what I can from inside, hoping the breeze won't leave, it just might as the current forecast calls for zero winds in this area—and yet? The sun cannot rise fast enough. I am tired today, and hoping the brightness of the day will kick that out of me.
 
 I feel bad because I dropped a glass jar onto Devine's bony side while reaching for a snack in the dark. He was not pleased with me.
+
+# Birds and nature
+
+Since we started sailing, I have become a bird nerd. Watching them brings me joy. **Attention restoration theory** says that people can concentrate better, and were less stressed after spending time in nature, or even looking at scenes of nature. We have found this to be true for us, and observing birds has played a big part in it. 
+
+Humans possess an innate tendency to seek connections with nature and other forms of life, is is thought to be rooted in our biology (Biophilia hypothesis). Observing nature, whether it be from a window out on a garden, during a walk in the park, or from the deck of a ship, brings us joy, and this positive psychological effect increases as the perceived biodiversity of the landscape increases. 
+
+In Mexico, we glimpsed frigatebirds. They soar continously, seemingly immobile in the sky, their tails and wings giving them a distinctive 'W' silhouette in flight. They sleep in flight, as they only use one hemisphere of the brain at a time. An incredible adaptation. It is perhaps best that humans can't do this, as deep sleep is the only refuge of the brain in those obssessed with productivity. It's like with salarymen in Japan, if the trains ran all night instead of stopping at 0000 or 0100, they would never leave their desks.
+
+In the Western Pacific, near the equator, there were boobys. These birds have a reputation for not being very smart because they like to land on ships, and early mariners would eat them. Calling them stupid though is hardly fair, as it is in their nature to be trusting. Human beings, being cruel and opportunistic, are not worthy of their trust. A red-footed booby landed on Pino once, and spent the night with us. Had we not chased it away though, it would have covered a solar panel in putrid discharges.
+
+In Fiji, I glimpsed the most beautiful bird I'd ever seen, a Fiji parrotfinch, with blackish feathering on its chin becoming dark blue on the lower throat and turquoise on the upper breast before fading into the bright green of the underparts. Coming from Canada, we don't have brightly-colored birds like these. I saw it on a walk on the island, perched in a tree, its colours drew my eye and I could not  look away. This bird had bewitched me, and did not know it. It went about its business, staying for a short time before flying off to enrapture other unsuspecting humans. 
+
+This to say, we can only gain from protecting nature. We live in a time when much of it is under threat. Nature will always give, but it is up to us to learn to take less, and to protect it from the greedy.
+
+* * *
 
 \newpage
 
@@ -1271,6 +1282,11 @@ A lesson in this trip, is that any metal, piece of electronic or paper product w
 The chart that I use to mark our position everyday has a lot more mold now, but we keep using it, as it's all we've got. There are little black dots all over it, and any mark we make using a marker pen bleeds out. We've got to use a ball point pen to keep our positions on the map readable.
 
 We have a box of electronics and wires that we use everyday, which houses the Iridium and Devine's old IPhone (and corresponding wires). Everytime we use them, we put them back into their box afterward to protect them. We've also added a pack of dessicant to minimize moisture. We keep the logbook and some other important notebooks in a plastic bag with more dessicants, we'd hate to lose the content of these books, which contain notes on future projects, drawings etc.
+   
+##### 2200
+At this point, the GRIB files are so old that there is no way to know whether there is still a patch of bad weather ahead or not. The wind is definitely increasing, but remains manageable. We keep our course east, with little to no adjustments. I am inside, wrapped in a blanket, and gaze outside every 20 minutes or so, the time it takes for a ship to catch up. I also check AIS often. I look at Navionics too, although there is little point in checking our progress every hour, it is better to check a the end of the day. We measure our advancements from 0900-2100, as 0900 was the time we departed from Shimoda. It is strange to think that we were in Japan, that we made it, had a lovely time there, and left. I almost don't believe it, and I know I'll likely think the same of this passage. Some things we do are just too crazy, even for me to believe. A small plastic boat sailing around the Pacific.
+
+I'd rather be here than on a plane though, that much is sure, as I hate to be bombarded with advertisements. Visiting an airport is an attack on the senses, a place of masterful trickery, where you are made to walk through rows of gifts shops, perfume stands, jewelers... the only way to have peace and quiet is to go to a paid lounge. Quiet and comfort comes with a price tag, only to those who can pay. If you're tight on cash, all you can do is endure. It's crazy to think that people thought it a good idea to do this, who would design such a space? Such a world centered not on the well-being of people, but on how well they can trick them into spending. It is like this was designed by beings who've no idea what humans need, by creatures who have no empathy. That episode of *Black Mirror* where people run on treadmills for money, and pay not to see ads in their rooms, feels all too true while in airports.
 
 # Computers at sea
 
@@ -1281,11 +1297,6 @@ Leaving a port with spare parts is a good tactic, but leaving with backup PCs is
 When parts fail on our boat we repair them, and we do the same for our PCs. Nowadays it is commonplace to trash a device when it stops working, contributing to the growing problem of e-waste in the world. Replacing broken components is important, as manufacturing a new PC makes a far bigger ecological footprint than manufacturing a new replacement part.
 
 * * *
-   
-##### 2200
-At this point, the GRIB files are so old that there is no way to know whether there is still a patch of bad weather ahead or not. The wind is definitely increasing, but remains manageable. We keep our course east, with little to no adjustments. I am inside, wrapped in a blanket, and gaze outside every 20 minutes or so, the time it takes for a ship to catch up. I also check AIS often. I look at Navionics too, although there is little point in checking our progress every hour, it is better to check a the end of the day. We measure our advancements from 0900-2100, as 0900 was the time we departed from Shimoda. It is strange to think that we were in Japan, that we made it, had a lovely time there, and left. I almost don't believe it, and I know I'll likely think the same of this passage. Some things we do are just too crazy, even for me to believe. A small plastic boat sailing around the Pacific.
-
-I'd rather be here than on a plane though, that much is sure, as I hate to be bombarded with advertisements. Visiting an airport is an attack on the senses, a place of masterful trickery, where you are made to walk through rows of gifts shops, perfume stands, jewelers... the only way to have peace and quiet is to go to a paid lounge. Quiet and comfort comes with a price tag, only to those who can pay. If you're tight on cash, all you can do is endure. It's crazy to think that people thought it a good idea to do this, who would design such a space? Such a world centered not on the well-being of people, but on how well they can trick them into spending. It is like this was designed by beings who've no idea what humans need, by creatures who have no empathy. That episode of *Black Mirror* where people run on treadmills for money, and pay not to see ads in their rooms, feels all too true while in airports.
 
 \newpage
 
@@ -1298,20 +1309,6 @@ I'd rather be here than on a plane though, that much is sure, as I hate to be bo
 
 ##### 0000
 I realized something tonight, that I had not checked the fuse for the sailing instruments. After the big wave hit, I'd just assumed the wind meter had died, but it HASN'T! The fuse blew out! I switched the fuse (same rating) with the one from the steaming light, and it WORKS! WOW. That, is AWESOME! I turned the switch on and heard the familiar beeping as it sprang back to life! Though, we don't really need it? We've been sailing without it for nearly 3 weeks now. It's definitely not an essential part of our boat, but still, I'm glad it's working.  
-
-# The burden of electronics
-
-Nowadays, sailboats come with more and more electronics, created to free sailors of the burden of effort and time. In truth, these modern conveniences don't save us anything, and they take more than they give. Proprietary hardware and miniaturized systems prevents people from attempting repairs themselves, it turns users into consumers, effectively binding them to services on land. Throughout our travels, we've met many sailors stuck in port for weeks and weeks, waiting for replacement parts from companies overseas. 
-
-Systems that use few, standard moving parts are reliable, easy to inspect and repair. Choosing standard hardware ensures that users will find a particular part to satisfy a particular need wherever they might be located. When replacements parts are available, it is easy for users to make their own repairs. 
-
-Making so-called inconvenient choices, like baking your own bread, or splicing a rope yourself, exposes us to a risk of frustration and failure, but there is much to gain from doing these things. "These are the noninstrumental activities that help to define us. They reward us with character because they involve an encounter with meaningful resistance." (Tim Wu, 2018) 
-
-There is an allure to high-tech systems, as they are easy to use, but the taste for convenience begets more convenience. The more toys you own, the more chance they will break or get in the way. Off-loading tasks isn’t wicked, but when you can't get drinking water because the water pressure isn't working, it is easy to see the problem with such systems. 
-
-Our boat has no refrigeration, hot water, water pressure, windlass or autopilot, which minimizes opportunities for breakages, costs less, while preventing a significant drain on Pino's batteries. 
-
-* * *
 
 ##### 0500
 The wind is strong and steady, still on the same northeast course. In 1 hour, we'll reach the 3,704 km (2000 nm) milestone we set on Navionics. Then, it's 833 km (450 nm) to the Turn Off. We call the Turn Off the place where we can turn and aim straight for the entrance to the Juan de Fuca Strait—looking forward to that! I think we even have a small milestone before that, celebrating the fact that we can see our position along with Vancouver Island on the same chart. Little milestones keep us happy, they keep us busy.
@@ -1357,6 +1354,20 @@ These ramen are making me crazy thirsty yo, I can't stop drinking water.
 The wind has freshened a little, I can tell by the sounds the boat is making. Pino rounds up and rights itself again after big waves toss it off course. This won't last though, we're pushing on as winds will lighten by morning. On watch, we do checks outside often, but with more wind comes a risk of getting a salt water shower. We open the companionway hatch quickly, hope for the best, and glance all around. Lights? No? Yes? No! Good. Get back inside, close the hatch. No spray—phew! Earlier tonight, Devine wasn't so lucky, he opened the hatch, stuck his head out and SPLASH! Not a wave washing over, thankfully, but a spray, just enough for a light evening pickling.
 
 I bought boxes of snack bars in Japan before leaving, as filler for our ditch bag but also as a night time snack. A few weeks ago, we started rationing them so they'd last till our arrival in Canada. Devine cut them into 6 pieces and placed the slices in a jar for easy access. In the beginning, we were wolfing down entire bars, initially out of hunger, then out of boredom, then as a way to keep awake. We try and be more reasonable now, we get 3 slices per night, each. 
+
+# The burden of electronics
+
+Nowadays, sailboats come with more and more electronics, created to free sailors of the burden of effort and time. In truth, these modern conveniences don't save us anything, and they take more than they give. Proprietary hardware and miniaturized systems prevents people from attempting repairs themselves, it turns users into consumers, effectively binding them to services on land. Throughout our travels, we've met many sailors stuck in port for weeks and weeks, waiting for replacement parts from companies overseas. 
+
+Systems that use few, standard moving parts are reliable, easy to inspect and repair. Choosing standard hardware ensures that users will find a particular part to satisfy a particular need wherever they might be located. When replacements parts are available, it is easy for users to make their own repairs. 
+
+Making so-called inconvenient choices, like baking your own bread, or splicing a rope yourself, exposes us to a risk of frustration and failure, but there is much to gain from doing these things. "These are the noninstrumental activities that help to define us. They reward us with character because they involve an encounter with meaningful resistance." (Tim Wu, 2018) 
+
+There is an allure to high-tech systems, as they are easy to use, but the taste for convenience begets more convenience. The more toys you own, the more chance they will break or get in the way. Off-loading tasks isn’t wicked, but when you can't get drinking water because the water pressure isn't working, it is easy to see the problem with such systems. 
+
+Our boat has no refrigeration, hot water, water pressure, windlass or autopilot, which minimizes opportunities for breakages, costs less, while preventing a significant drain on Pino's batteries. 
+
+* * *
 
 \newpage
 
@@ -1457,18 +1468,6 @@ We are nearing the Turn Off, it is 255 km (138 nm) away! Then, it's GNOCCHI TIME
 Time for another freak out moment! I was steering outside, waves were okay, manageable, than overtime there would come trains of waves, sweeping in threes, each one larger than the next. This is common on the ocean, but I was also getting cross waves. While I steered through the first set of threes, another set would come and hit Pino at an angle. I freaked out because of the size and ferocity of the crosswaves, with some peaking way high, above the lifeline. "Not again." My legs are noodles. J'ai des jambes en nouilles. My legs could barely hold me up. I wanted to heave-to then, but I had to wait for the threes to pass. Once they did pass, I *parked* Pino and hurried inside, finding Devine reading quietly on the starboard side settee. "You okay?" he asks me. When I park the boat, it is usually because things aren't okay. I went to lie next to him and shook for hours as he tried to calm me. Devine decided to try and steer, and did so for a while but stopped as the crosswaves were too much, even for him. We decided to heave-to for the night to let this awful weather pass.
 
 Devine made pasta, I ate it while half asleep. Today's stress robbed me of rest. We shared a can Yebisu beer too, to make sure I'd get knocked right out.
-
-# Coping with stress
-
-Sailing is pleasant most times, but after long periods at sea in foul weather, or in calms, feeling cold, hungry and tired, it is normal to experience some anxiety.
-
-Much stress in sailing comes as a result of poor performance, when becalmed, plagued by lights winds for days and days. We experienced this early in the trip. We were both obssessed with finding wind, which resulted in greater mental exhaustion and emotional instability. In such moments, having another person with you to talk things out with helps, but the best medicine is sleep. Stress due to lack of wind is worsened by lack of rest. 
-
-> "Uncertain waits are longer than known, finite waits." (David Maister, “The psychology of waiting lines” 1985)
-
-Drawing silly cartoons kept me calm on this trip, and continues to make me laugh. Laughter is a good way to increase endorphins to your brain, while reducing stress hormones. Keeping a journal is another good stress reducer. Writing things down can help keep your mind uncluttered. Reading books together also offered a good distraction.
-
-* * *
    
 ##### 1700
 Everytime we near a milestone, we hit a wall, whether it comes in the form of a calm or strong weather. There is always something, and this time is no different. We are at a wall, with big weather all around, and ahead. These walls are, for the moment, impassable, keeping us and our destination apart. The Turn Off lies ahead, but a patch of very strong winds bars the way, reaching far north and south. We'll check the weather tomorrow morning, to decide if we should go, or wait. It's possible the weather will lessen, but it can also get worst.
@@ -1476,6 +1475,18 @@ Everytime we near a milestone, we hit a wall, whether it comes in the form of a 
 This streak of rough weather is a cruel, cruel thing, a horrible weather monster, guarding the east, keeping small ships from passing. Vancouver Island is concealed behind it, uncaring. "What can we do to appease you? OH great streak?" It doesn't answer. Well, it answers the only way it can I suppose, with lashes of rain and gusts of wind. Maybe it intends to let us through, and we are misunderstanding each other? As different sorts of beings often do, being dissimilar in every way.
 
 I am eager, scared to see how this develops. 74 km/h (40 kn) of wind isn't a big deal for most vessels, and it isn't for us either, technically, but it can get dangerous if the wind blows that strongly for hours and hours, then the sea has plenty of time and inertia to grow into something terrible. In Japanese, the word for waves is *nami*, we've often heard the term *nami usagi*, or *rabbit waves*. This is a perfect way to describe the ocean, full of rabbits waves.
+
+# Coping with stress
+
+Sailing is pleasant most times, but after long periods at sea in foul weather, or in calms, feeling cold, hungry and tired, it is normal to experience some anxiety.
+
+Much stress in sailing comes as a result of poor performance, when becalmed, plagued by lights winds for days and days. We experienced this early in the trip. We were both obssessed with finding wind, and with it came greater mental exhaustion and emotional instability. In such moments, having another person with you to talk things out with helps, but the best medicine is sleep. Stress due to lack of wind is worsened by lack of rest. 
+
+> "Uncertain waits are longer than known, finite waits." (David Maister, “The psychology of waiting lines” 1985)
+
+Drawing silly cartoons kept me calm on this trip, and continues to make me laugh. Laughter is a good way to increase endorphins to your brain, while reducing stress hormones. Keeping a journal is another good stress reducer. Writing things down can help keep your mind uncluttered. Reading books together also offered a good distraction.
+
+* * *
 
 \newpage
 
@@ -1603,20 +1614,6 @@ We've resumed forwardness. The waves are up but we've got to continue as another
 The rain has let up, we don't know how long that'll last but we'll enjoy it for now. I know Devine is, as he is not as rain-ready as I am. He has no rain boots, as they became too leaky early in the trip, and his foulies lost their waterproofness. Our foul weather gear does keep wetness out, a little, but often doesn't dry fast enough... and even if dry inside, it feels moist because of the damp outer shell.
 
 We have coffee, warm oatmeal and I step outside to steer us along.
-
-# Foul-weather gear
-
-> "The modern oilskin garment was developed by Edward Le Roy, in 1898. Le Roy used worn-out sailcloth painted with a mixture of linseed oil and wax to produce a waterproof garment suitable to be worn on deck in foul-weather conditions."
-
-Oilskins and other traditionally 'waxed' clothing, used to be the main-stay of sailors, they would last a lifetime if their owners put enough love and work into them. Nowadays, foul-weather gear is made from synthetics treated with Durable Water Repellent (DWR), and requires the same amount care and attention. Other types include flexible PVC-coated synthetics. All have their pros and cons, but few can rival the breathable qualities of Le Roy's process. 
-
-When we started sailing, we both purchased a full set of foul-weather gear. An expensive set, a bib and jacket. We found that these kept us dry and warm initially, but overtime, they lost their durable water repellent coating, and we found ourselves sitting in puddles often. The water would wet our butts, and seep inside to wet the rest. A wet butt is terrible on long trips, as it irritates the skin and can leave painful bruises. 
-
-Synthetic DWR-coated foulies need to be re-treated often to maintain water-repellency. Affected garments can be treated with a 'spray-on' or 'wash-in' treatment. It is possible to wetproof clothing yourself, the process is simple, and is a good option for those who don't want to reply on marine stores and their products.
-
-Zippers on clothes are also exposed to the elements, making damage and corrosion difficult to avoid. We found that even plastic zippers will freeze up from too much salt buildup. Applying a lubricant can aid minimize blockages, in a bind use a chap-stick.
-
-After long, salty trips, we usually rinse our gear with plenty of freshwater to remove salt crystals. We use old tooth brushes to scrub deposits from zippers. Failing to do this, will make deteriorate your expensive gear, very, very fast.
    
 ##### 0700
 Devine switches foul-weather suits, wearing his bright red one. Dry clothes attact rain, I tell him to be careful. He steers, I am indoors, getting ready to rinse off my hair for the second time in this long, long trip. I waited as I did not know if we'd be getting rain, and it seemed frivolous. Now that we have some extra water, hell, I SPLURGED. Washing your hair isn't splurging, I know, but such is life on long, seemingly unending ocean passages.
@@ -1632,6 +1629,22 @@ Dall's porpoises came by brieftly today, white-bellied lovelies. We could see th
 I'm doing my best to stay upbeat, but I am getting worn down by all this grey weather and oncoming storms, I might be feeling this way because I am tired, I've had trouble getting deep sleep. I didn't sleep well last night because of AIS beeping, warning us of a ship. Then after that, the wind died and the jib was flapping rudely. We always wait a little before furling it, as sometimes the wind comes right back. It did return, but it was weak and we had to furl it after all.
 
 I motored for 2 hours on my first shift to charge our batteries, we need to do it often these days, as cloudy skies don't permit our panels to draw from the sun. Once in a while, we get a fog sun, a bright diffused halo in the sky. That is the most sun this part of the ocean will ever grant us. Fog sun works with our panel, I did not expect that.
+
+# Foul-weather gear
+
+> "The modern oilskin garment was developed by Edward Le Roy, in 1898. Le Roy used worn-out sailcloth painted with a mixture of linseed oil and wax to produce a waterproof garment suitable to be worn on deck in foul-weather conditions."
+
+Oilskins and other traditionally 'waxed' clothing, used to be the main-stay of sailors, they would last a lifetime if their owners put enough love and work into them. Nowadays, foul-weather gear is made from synthetics treated with Durable Water Repellent (DWR), and requires the same amount care and attention. Other types include flexible PVC-coated synthetics. All have their pros and cons, but few can rival the breathable qualities of Le Roy's process. 
+
+When we started sailing, we both purchased a full set of foul-weather gear. An expensive set, a bib and jacket. We found that these kept us dry and warm initially, but overtime, they lost their durable water repellent coating, and we found ourselves sitting in puddles often. The water would wet our butts, and seep inside to wet the rest. A wet butt is terrible on long trips, as it irritates the skin and can leave painful bruises. 
+
+Synthetic DWR-coated foulies need to be re-treated often to maintain water-repellency. Affected garments can be treated with a 'spray-on' or 'wash-in' treatment. It is possible to wetproof clothing yourself, the process is simple, and is a good option for those who don't want to reply on marine stores and their products.
+
+Zippers on clothes are also exposed to the elements, making damage and corrosion difficult to avoid. We found that even plastic zippers will freeze up from too much salt buildup. Applying a lubricant can aid minimize blockages.
+
+After long, salty trips, we usually rinse our gear with plenty of freshwater to remove salt crystals. We use old tooth brushes to scrub deposits from zippers. Failing to do this, will make deteriorate your expensive gear, very, very fast.
+
+* * *
 
 \newpage
 
