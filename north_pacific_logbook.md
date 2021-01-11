@@ -123,13 +123,13 @@ We eat chips as a snack, as we are not hungry for a full dinner. Everything tast
 
 # Seasickness
 
-People often ask us if we get sea sick, and we say that yes, we feel sea sick at the start of every trip.
+People often ask us if we get sea sick, and yes, we do feel sea sick at the start of every trip.
 
-On the first day, we both become ill and grumpy. The early symptoms of sea sickness include a headache, a reduced appetite, and a morose view on things. Our inner ears fight our eyes, both are determined to convince the brain of their version of reality. This incongruity, if allowed to persist, will trigger vomitting. In our 5 years of sailing, we've managed to keep our food and fluids inside, where they belong. 
+On the first day, we both become ill and grumpy. The early symptoms of sea sickness include a headache, a reduced appetite, and a morose view of things. Our inner ears fight our eyes, both are determined to convince the brain of their version of reality. This incongruity, if allowed to persist, will trigger vomitting. 
 
-The first 2 days of every offshore trip are the hardest. We whine a lot, profess to hate sailing, and question why we do it at all. Then on the 3 rd day our inner ears adjust, our brains adapt and learn the rhythm of the boat, and sailing is fun again! Although, we've met sailors that are not so lucky, cursed with seasickness that persists for the entirety of their trip, and yet, they continue to sail. It's remarkable, really. 
+The first 2 days are the hardest. We whine a lot, profess that we hate sailing, and begin questioning why we've ever even decided to leave the dock. Then on the third day, our inner ears adjust, our brains adapt and learn the rhythm of the boat, and sailing gets fun again! Although, we've met sailors that are not so lucky, cursed with constant seasickness that persists for the entirety of their trips, and yet, they continue to sail. 
 
-The best thing to do to not get sea sick, is to stay outside, and to keep your mind off the motion of the boat. Going indoors for a long time, say, to retrieve an item from a locker, is the number one trigger for us. What do we do when seasick? We take turns steering the boat, keep our eyes on the horizon and take in some fresh air. When steering, we can anticipate the movement of the boat, which allows our brain (and eyes) to re-calibate.
+The best advices we got against seasick, is to stay outside, and to keep your mind off the motion of the boat. Going indoors to retrieve an item from a locker, is the number one trigger for seasickness. To alleviate the symptoms we take turns steering the boat, keep our eyes on the horizon and take in some fresh air. When steering, we can anticipate the movement of the boat, which allows our brain to re-calibate with our eyes.
 
 *  *  *  
 
@@ -171,9 +171,9 @@ Made spaghetti with eggplant and green peppers for dinner. It is still hard to f
 
 # Kuroshio 
 
-The Kuroshio, or black current, is a high-temperature, high-salinity warm current that is dark blue color as is implied by its name and has a transparency of more than 30 m (98 feet). Its flow rate is 4-5 kmh (2-3 kn) on the average and reaches up to 7-9 kmh (4 to 5 kn). The Kuroshio is weaker in summer and autumn and stronger in winter and spring. It it roughly 200 km wide, and it flows strong up to 1,800 km from Japan, and for this reason, carries a lot of Japanese floating seaweed into the Eastern Pacific.
+The Kuroshio, or black current, is a high-temperature, high-salinity dark blue warm current that has a transparency of more than 30 m (98 feet). Its flow rate is 4-5 kmh (2-3 kn) on the average and reaches up to 7-9 kmh (4 to 5 kn). The Kuroshio is weaker in the summer and autumn, but stronger in the winter and spring. It it roughly 200 km wide, and it flows up to 1,800 km from Japan, carrying a lot of Japanese seaweed into the Eastern Pacific.
 
-Tracking the Kurushio gave us a free ride, adding sometimes two or three knots to our speed. But coming out of Shimoda, we underestimated the strength of this current. As soon as we passed Oshima Island, the current began to pull us northward, even with our bow pointed east. 
+Sailing along with the Kurushio gave us a free ride, adding sometimes two or three knots to our speed. But coming out of Shimoda, we underestimated its strength. As soon as we passed Oshima Island, the current began to pull us northward, even with our bow pointing east. 
 
 *  *  *
 
@@ -237,7 +237,7 @@ Devine makes gnocchi. I managed to finish off my entire bowl — this is a good 
 
 # Sailing at night
 
-We used to fear sailing at night, but now we look forward to it. It is a time we use to think, to read, listen to podcasts, or music (weather permitting). Traffic in the dark is easier to see, their lights visible at a great distance. On clear, moonless nights at sea, we see a beautiful tapestry of lights overhead. The Milky Way used to be visible from everywhere in the world, but light pollution has robbed city-dwellers of this grand spectacle. Also, depending on where we are in the world there is bioluminescence, the boat leaves trails of sparkling green as it glides in the water. One night while sailing to Los Angeles, I saw bright ghostly shapes in the water. Dolphins. I could see them perfectly, as the bioluminescence marked their position in the water. 
+We used to be afraid of sailing at night, but now we look forward to it. It is the perfect time time to think, to read, listen to podcasts, or music (weather permitting). Traffic in the dark is easier to see, their lights visible at a great distance. On clear, moonless nights at sea, we see a beautiful tapestry of lights overhead. The Milky Way used to be visible from everywhere in the world, but light pollution has robbed city-dwellers of this grand spectacle. Also, depending on where we are in the world there is bioluminescence, the boat leaves sparkling green trail as it glides through the water. One night while sailing to Los Angeles, I saw bright ghostly shapes in the water. Dolphins. I could see them perfectly, as the bioluminescence marked their position in the water. 
 
 Before we start our night shifts, we usually put in a reef. A smaller sail will slow us down, but we don't care to have the most sail up always, our main concern is our safety. Our rule is that if we think about maybe reefing a sail, we do it. 
 
