@@ -116,7 +116,7 @@ Despite not being hungry, we ate raw snap peas as a snack. The texture was weird
 ##### 1700
 We check the weather again. We don't normally check it twice a day as it eats up data, but the weather was changing so fast...! We wanted to know what was going on. We're glad we looked, as the wind was set to increase by a lot. If we hadn't checked, we might not have set the second reef point in our mainsail. The last thing we want in this ocean is to have too much canvas up. Shaking out a reef is easier than putting one in during high winds.
 
-Our main sail didn't used to have a third reef, we had a new one made in New Zealand and asked to include this in its design. We're glad we did. 
+Our mainsail didn't used to have a third reef, we had a new one made in New Zealand and asked to include this in its design. We're glad we did. 
 
 ##### 1800
 We eat chips as a snack, as we are not hungry for a full dinner. Everything tastes weird? It's like our taste buds are on LSD. The only thing that goes down easy is salty foods.
@@ -237,11 +237,11 @@ Devine makes gnocchi. I managed to finish off my entire bowl — this is a good 
 
 # Sailing at night
 
-We used to be afraid of sailing at night, but now we look forward to it. It is the perfect time time to think, to read, listen to podcasts, or music (weather permitting). Traffic in the dark is easier to see, their lights visible at a great distance. On clear, moonless nights at sea, we see a beautiful tapestry of lights overhead. The Milky Way used to be visible from everywhere in the world, but light pollution has robbed city-dwellers of this grand spectacle. Also, depending on where we are in the world there is bioluminescence, the boat leaves sparkling green trail as it glides through the water. One night while sailing to Los Angeles, I saw bright ghostly shapes in the water. Dolphins. I could see them perfectly, as the bioluminescence marked their position in the water. 
+We used to be afraid of sailing at night, but now we look forward to it. It is the perfect time to think, to read, listen to podcasts, or music. Traffic in the dark is easier to see, their lights visible from a great distance. On clear, moonless nights at sea, we see a beautiful tapestry of lights overhead. Depending on where we are in the world there is bioluminescence in the water, the boat leaves a sparkling green trail as it glides through the water. One night while sailing toward Los Angeles, I saw brightly colored ghosts in the water, dolphins. I could see them perfectly, as they drew a path of bioluminescence behind them. 
 
-Before we start our night shifts, we usually put in a reef. A smaller sail will slow us down, but we don't care to have the most sail up always, our main concern is our safety. Our rule is that if we think about maybe reefing a sail, we do it. 
+Before we start our night shifts, we usually reef the mainsail. A smaller sail will slow us down, but our main concern is safety. The rule is that if the wind rises enough to have us question wether we should reef or not, we do it. 
 
-Another important rule, is to never reef at night. Everything is harder to do in the dark. We have done it before, with success, but the issue is that it means waking up your partner, robbing them of their precious sleep. Can't we reef a sail alone? Yes, we could, but that would break another rule:  never wander on deck in the dark alone, even with a tether. In all, we schedule maneuvers while there is still some light out.
+Another important rule, is to never reef at night. Everything is harder to do in the dark. We have done it before, with success, but the issue is that it means waking up your partner, robbing them of their precious sleep. Can't we reef a sail alone? Yes, we could, but that would break another rule:  never wander on deck in the dark alone, even with a tether. Therefore, we plan to always do our last maneuvers of the day while there is still some light out, as the cost of speed.
 
 Since we started sailing, we have stuck to the same pattern for night shifts. One sleeps between 1900 and 2100, then sails between 2100 and 2400, then goes back to sleep from 2400 until 0300, and then goes back to the wheel between 0300 and 0600. 3 hours on, and 3 hours off. Some sailors prefer longer shifts, doing 4-5 hours at a time. We prefer shorter shifts, because we get tired easy, and 3 hours, when tired, feels unending. 
 
@@ -399,17 +399,17 @@ This is going to be a long, long trip, as we are not done seeing big waves.
 
 # Heaving to
 
-Heaving-to is a technique in sailing, it is a way of slowing a sailing vessel's forward progress, as well as fixing the tiller and sail positions so that the vessel doesn't need steering. It consists of turning to tack through the wind, without releasing the jibsheet. The mainsail will self-tack to the other side, but the jib is held aback. When the jib's belly curves inward, the tiller (or rudder) should be aligned with it, as if trying to tack back again. It's necessary to lash the tiller so the rudder can't move again. Without the power of the jib, the boat can't go forward and will stop. It is easy to do, and all aboard should learn to do it.
+Heaving-to is a sailing technique, it's a way of slowing down your vessel, as well as fixing the tiller and sail positions so that the vessel doesn't need steering. It consists of turning to tack through the wind, without releasing the jibsheet. The mainsail will self-tack to the other side, but the jib is held aback. When the jib's belly curves inward, the tiller (or rudder) should be aligned with it, as if trying to tack back again. It's necessary to lash the tiller so the rudder can't move again. Without the power of the jib, the boat can't go forward and will stop. It is easy to do, and all aboard should learn to do it.
 
-Breaking a heave to involves unlashing the tiller, and releasing the windward jibsheet, then hauling in the leeward sheet. 
+Breaking a heave-to involves unlashing the tiller, and releasing the windward jibsheet before hauling in the leeward sheet. 
 
-We liked to refer to heaving to as 'parking' the boat. We practiced this technique years ago in Canada, and again a few times in the South Pacific. Practicing it in calm waters is very different than in storm-like conditions, but the technique is the same.
+We liked to refer to heaving-to as 'parking' the boat. We practiced this technique years ago in Canada, and again a few times in the South Pacific. Practicing it in calm waters is very different than in storm-like conditions, but the technique is the same.
 
-The first time we did it at sea, was on the sail from Mexico to the Marquesas. It was early in the morning, I was outside, steering in the cockpit. The sky was grey, overcast, and I could see lightning. Then, without warning, the wind rose from a comfortable 28 km/h (15 kn) to 74 km/h (40 kn). We had a full-jib and main, I couldn't hold the tiller. The sudden wind increase woke up Devine, and together we decided to heave to, to let the weather pass. We did it again while sailing from New Zealand to Fiji. We left Opua in early June, the wind stayed with us for two days, but then died entirely. We awoke Calcifer, to try and work our way past 30°S, as we were south of that line, and that a front was coming from the west. Fronts south of 30°S tend to pack a punch. Our little engine couldn't take us far enough, we were in a 'nowhere to run, nowhere to hide' situation. The system rolled in, bringing winds of 74 km/h (40+ kn) and big seas. We hove-to, and again, waited. 
+The first time we did it at sea, was on the sail from Mexico to the Marquesas. It was early in the morning, I was outside, steering in the cockpit. The sky was grey, overcast, and I could see lightning. Then, without warning, the wind rose from a comfortable 28 km/h (15 kn) to 74 km/h (40 kn). We had a full-jib and main, I couldn't hold the tiller. The sudden wind increase woke up Devine, and together we decided to heave-to, and let the weather pass. 
 
-It's a technique that is worth mastering, as it could save your boat, and your life, and in difficult times, it gives you time to rest. We should have been heaving to instead of running with the weather yesterday, if we had been, Pino would not have been overwhelmed. 
+It's a technique worth mastering, as it could save your boat, and your life, and in difficult times, it gives you time to rest or to cook. We should have been heaving-to instead of running with the weather yesterday, if we had been, Pino would not have been overwhelmed. 
 
-Our boat, with its fin keel, heaves to well enough. Slowing the boat does cost time, but our safety is important. We've got plenty of time to get to Canada. We are so glad that the rig suffered no damage, we were lucky. Pino is a good, strong boat, we knew when we bought it, and we know it now. 
+Our boat, with its fin keel, heaves-to well enough. Slowing the boat does cost time, but our safety is important. We've got plenty of time to get to Canada. We are so glad that the rig suffered no damage, we were lucky. Pino is a good, strong boat, we knew when we bought it, and we know it now. 
 
 * * *
 \newpage
@@ -557,13 +557,13 @@ Quiet night at sea. Saw some stars! It's been a while. We're sailing southeast w
 
 # Squalls
 
-Squalls bring sudden high winds and rain in passing. They usually blow in the 20 to 30-plus knot range and last an average of 20-40 minutes. They usually transit an area fast, and are easy to spot in the distance. Big puffy cumulonimbus clouds, with dark bottoms and a skirt of rain. In the day, wavelets mark their approach. 
+Squalls bring sudden high winds and rain in passing. They usually blow at around 25 knots and last around 30 minutes. They usually transit through an area quickly, and are easy to see from a distance. Big puffy cumulonimbus clouds, with dark bottoms and a skirt of rain. 
 
-Squalls do not move with the prevailing winds, but at an angle to them, and can affect a boat even when a good distance away. Whenever we would see a suspicious formation on the horizon, we'd keep our eyes on it to track its progress, to see if our paths would cross. If it came close, we alter course to aim for its periphery, as it is better than going straight through it. We also reduce sail, to lessen its effects. When the squall arrives and is too strong, we bear off and wait until it is gone, before resuming our path. 
+Squalls do not move with the prevailing winds, but at an angle to them, and can affect a boat even when a good distance away. Whenever we would see a suspicious formation on the horizon, we'd keep our eyes on it to track its progress, to see if our paths would cross. If it came close, we'd alter course to aim for its periphery, as it is better than going straight through it. We'd also reduce sail, to lessen its effects. If the squall arrives and is too strong, we bear off and wait for it to pass. 
 
-Reefing the mainsail before dark is especially important in areas prone to squalls. It ensures that the person on-watch isn't overwhelmed, and that the person off-watch can sleep well. The squalls can be visible at night too, especially if the moon is full and bright. We'd look for dark spots on the horizon, and try and see if we could see the sky underneath it them or not. If we couldn't, it mean the cloud had rain underneath it, and that it was likely a squall. Seeing a cloud moving contrary to the prevailing wind is also a good indicator.
+Reefing the mainsail before dark is especially important in areas prone to squalls. It ensures that the person on watch isn't overwhelmed, and that the person off watch can sleep well. Squalls can be visible at night too, especially if the moon is full and bright. We'd look for dark spots on the horizon, and try and see if we could see the sky underneath it them or not. If we couldn't, it mean the cloud had rain underneath it, and that it was likely a squall. A cloud moving contrary to the prevailing wind is also a good indicator of an approaching squall.
 
-The doldrums is an area where prevailing winds converge, creating an area of perpetual calms. In such places we used squalls to move forward, effectively becoming storm chasers. We chased squalls for wind, but also for water. On long passages, water is not hard to come by when there are squalls around. We always make sure to have a bucket on deck to attach to the end of the boom to collect it.
+The doldrums is an area where prevailing winds converge, creating an area of perpetual calms. In such places we used squalls to move forward, effectively becoming storm chasers. We chased squalls for wind and for water. On long passages, water is not hard to come by when there are squalls around. We always make sure to have a bucket on deck to attach to the end of the boom to collect it.
 
 * * *
 
@@ -676,19 +676,17 @@ We had *kiri mochi* (see recipes) with diced cabbage and julienned carrots for d
 ##### 1900
 It is cold outside, we steer from inside, pulling ropes between the washboards. We're going northeast, in light winds.
 
-# Plant-based diet
-
-For the past 7 years, we have followed a plant-based diet for health, ethical and environmental reasons. Appropriately planned plant-based diets are healthful, nutritionally adequate, and may provide health benefits in the prevention and treatment of certain diseases.
+# Preserving Food
 
 Planning provisions ahead is important, a lot of the places may not have specialty items like nutritional yeast, miso, dried legumes, dried beans, quality wholegrain flour, flax seeds and B12 supplements (see Pino's pantry for ingredient descriptions). If planning to spend time in countries where these aren't available, we stock up ahead of time, based on how much of each we typically eat in a week.
 
-We keep a lot of shelf-stable tofu aboard, a product that is a source of calcium (makes sure it is calcium-set) and protein. We use tofu to make sauces and sautees. For iodine, we carry iodized salt and seaweed (wakame or nori). Other essentials, like omega-6 (LA, linoleic acid), are found in pumpkin seeds and sunflower seeds, while omega-3 (ALA, alpha-linoleic acid) are available in linseed and chia seeds.
+We keep a lot of shelf-stable tofu aboard, a good source of calcium when calcium-set, and of protein. We use tofu to make sauces and sautees. For iodine, we carry iodized salt and seaweed (wakame or nori). Other essentials, like omega-6 (LA, linoleic acid), are found in pumpkin seeds and sunflower seeds, while omega-3 (ALA, alpha-linoleic acid) are available in linseed and chia seeds.
 
-Staples like oats and flour are found everywhere, varying in price and quality. There will always be fresh vegetables available, but the selection can be poor at times. Carrying dried versions of these foods, like dried peas or daikon, can help in a bind. We also preserve food whenever possible. 
+Staples like oats and flour are found everywhere. There will always be fresh vegetables available, but the selection can be poor at times. Carrying dried versions of these foods, like dried peas or daikon, can help in a bind. We also preserve food whenever possible. 
 
 > "You don’t need to be an expert to preserve food, or any fancy technology. Just a container, some salt, and trust in the world of bacteria and fungi." — A. Vansintjan, 2017.
 
-Lacto-fermentation is easy to do, requiring only vegetables, salt and water—no canning, refrigeration or fancy equipement is necessary. We make sauerkraut, and other pickled vegetables (carrots, beet root, garlic etc). There are many other ways to preserve vegetables, like nuka (japanese technique) and with miso. Fermentated foods are nutritious, unlike canned foods. As Alex Lewin, author of *Real Food Fermentation and Kombucha, Kefir, and Beyond*, said: "With canning you kill all of the microbes and seal it hermetically. With fermentation you invite the microbes you want and don’t let in the ones you don’t. Fermentation is diplomacy and canning is a massacre."
+Lacto-fermentation is easy to do, requiring only vegetables, salt and water. We make sauerkraut, and other pickled vegetables (carrots, beet root, garlic etc). There are many other ways to preserve vegetables, like nuka (japanese technique) and with miso. Fermentated foods are nutritious, unlike canned foods. As Alex Lewin, author of *Real Food Fermentation and Kombucha, Kefir, and Beyond*, said: "With canning you kill all of the microbes and seal it hermetically. With fermentation you invite the microbes you want and don’t let in the ones you don’t. Fermentation is diplomacy and canning is a massacre."
 
 Below is a list of rules that we go by, when choosing what to eat:
 
@@ -847,9 +845,7 @@ The wind is rising from the east, we're self-steering toward the north. The wind
 
 # Self-steering
 
-This is one of the reasons we converted the boat from wheel to tiller. We tied two ropes to the tiller, that lead over to blocks attack to the toerail, and that we lead up into companionwaydoor. We glance at the compass now and again, to see if we're still on track, and make adjustments by pulling on either rope. We do this when the wind isn't strong enough for Pino to self-steer, or when we are motoring. 
-
-We are big fans of the shock-cord sailing, which consists of using a set of ropes, sails, shock cords and blocks to self-steer a boat, without the need for a windvane. 
+One of the reasons we converted the boat from wheel to tiller was to simplify self-steering. We are big fans of the shock-cord sailing, which consists of using a set of ropes, sails, shock cords and blocks to self-steer a boat, without the need for a windvane. 
 
 The easiet point of sail is when beating into the wind. We lash the tiller in place using ropes, then trim the sails and the boat will stay on a relatively straight course. We make small adjustments when necessary. To allow for more variation, we like to tie a line to the tiller (we have some two cam cleats to quickly jam the line), than to a bike tube on the toe rail. We used a bike tube because it's what we had, and we found it more stretchy than shock cord. We adjust the tension by releasing the line from the cam cleat, or tightening it. Wrapping a line about the tiller is also fine, but make more turns if the wind is strong. We add extra turns even with a cam cleat, as a precaution.
 
@@ -902,15 +898,15 @@ Sometimes sailing feels like witchcraft. There was hardly any wind before, Pino 
 
 # Food storage
 
-Purchasing food in bulk is ideal for long passages, but if these items are not stored properly, they'll turn rancid or spawn insects, and you'll have wasted both precious calories and money. To avoid both insects and rancidity, it is important to learn how to store food properly, in air-tight glass jars or food-safe plastic bins, away from light and moisture.
+Purchasing food in bulk is ideal for long passages, but if these items are not stored in air-tight glass jars or food-safe plastic bins, away from light and moisture, they'll turn rancid or spawn insects. 
 
 **Containers.** Aboard Pino, we carry a lot of glass jars of different sizes, and large plastic food-safe bins. We like to use plastic bins designed for drinking water to store grains and other dried goods, like legumes and rice. Food-grade plastics are identified by the recycling number on the bottom. 1, 2, 4 and 5 are food-grade, but also to check to see if they are *food-safe*.
 
-People are surprised when they find out how much glass we have onboard, in their mind glass and boats don't go together. After 5 years of hard sailing all of our jars are intact. Even the large 5 L jar of umeshu that jumped out of the fridge did not break, in fact, only the plastic lid did—that jar is an excellent quality. Glass does not leach anything into the food, and does not rust (although the lids might). We've swapped our metallic canning lids for plastic ones. On passage, we store glass jars on a shelf that is exactly their height, the jars are packed in tight with little wiggling room. The shelf below houses larger jars, and again, offers little wiggle room. Packing glass in tight-fitting spaces is key to prevent accidents. When the jars are full of food, the weight helps keep them well-seated, and secure. We also keeps jars in settee lockers, in that spaces we use old socks as protective sleeves. Had we patience and time, we'd knit beautiful covers for them.
+People are surprised when they find out how much glass we have onboard, in their mind glass and boats don't go together. After 5 years of hard sailing all of our jars are intact. Even the large 5 L jar of umeshu that jumped out of the fridge did not break, in fact, only the plastic lid did. Glass does not leach anything into the food, and does not rust (although the lids might). We've swapped our metallic canning lids for plastic ones. On passage, we store glass jars on a shelf that is exactly their height, the jars are packed in tight with little wiggling room. The shelf below houses larger jars, and again, offers little wiggle room. Packing glass in tight-fitting spaces is key to prevent accidents. When the jars are full of food, the weight helps keep them well-seated, and secure. We also keeps jars in settee lockers, in that spaces we use old socks as protective sleeves. 
 
 **Light.** Our storage shelves have a fabric curtain to protect them from light. For example, the B12 in nutritional yeast is light-sensitive, protecting it from the elements will ensure that it retains its nutritive value.
 
-**Keeping food separate.** We keep food purchased in bulk in separate jars. Keeping some types of grains, or dried goods separate helps to avoid problems, like weevils. If one batch is contaminated, the other might be fine. If the infested food is in a solid, and air-tight container, the hatched insects can't escape to infect other food in your boat.
+**Keeping food separate.** We keep food purchased in bulk in separate jars. Keeping some types of grains, or dried goods separate helps to avoid problems, like weevils. If one batch is contaminated, the other might be fine. If the infested food is in a solid, and air-tight container, the hatched insects can't escape to infect other containers.
 
 **Oxygen.** The presence of oxygen decreases the storage life of food and causes oxidative deterioration, and under the right conditions insects can spawn. An easy way to remove oxygen from a container, is to use oxygen absorbers. In Japan, many items in stores come with dessicants. Overtime, we've amassed many and re-use them. Everytime you open a jar for a serving of grains, oxygen comes in which hastens spoilage. For this reason, we like to keep the bulk of our food in smaller jars instead of larger containers.
 
@@ -1025,17 +1021,17 @@ I feel bad because I dropped a glass jar onto Devine's bony side while reaching 
 
 # Birds and nature
 
-Since we started sailing, I have become a bird nerd. Watching them brings me joy. **Attention restoration theory** says that people can concentrate better, and were less stressed after spending time in nature, or even looking at scenes of nature. We have found this to be true for us, and observing birds has played a big part in it. 
+Since we started sailing, I have become a bird nerd, watching them brings me joy. **Attention restoration theory** says that people can concentrate better, and were less stressed after spending time in nature, or even looking at scenes of nature. We have found this to be true for us, and observing birds has played a big part in it. 
 
 Humans possess an innate tendency to seek connections with nature and other forms of life, is is thought to be rooted in our biology (Biophilia hypothesis). Observing nature, whether it be from a window out on a garden, during a walk in the park, or from the deck of a ship, brings us joy, and this positive psychological effect increases as the perceived biodiversity of the landscape increases. 
 
-In Mexico, we glimpsed frigatebirds. They soar continously, seemingly immobile in the sky, their tails and wings giving them a distinctive 'W' silhouette in flight. They sleep in flight, as they only use one hemisphere of the brain at a time. An incredible adaptation. It is perhaps best that humans can't do this, as deep sleep is the only refuge of the brain in those obssessed with productivity. It's like with salarymen in Japan, if the trains ran all night instead of stopping at 0000 or 0100, they would never leave their desks.
+In Mexico, we glimpsed frigatebirds. They soar continously, seemingly immobile in the sky, their tails and wings giving them a distinctive 'W' silhouette in flight. They sleep in flight, as they only use one hemisphere of the brain at a time. An incredible adaptation. It is perhaps best that humans can't do this, as deep sleep is the only refuge of the brain in those obssessed with productivity. 
 
-In the Western Pacific, near the equator, there were boobys. These birds have a reputation for not being very smart because they like to land on ships, and early mariners would eat them. Calling them stupid though is hardly fair, as it is in their nature to be trusting. Human beings, being cruel and opportunistic, are not worthy of their trust. A red-footed booby landed on Pino once, and spent the night with us. Had we not chased it away though, it would have covered a solar panel in putrid discharges.
+In the Western Pacific, near the equator, there were boobys. These birds have a reputation for not being very smart because they like to land on ships, and early mariners would eat them. Calling them stupid though is hardly fair, as it is in their nature to be trusting. Human beings, being cruel and opportunistic, are not worthy of their trust. A red-footed booby landed on Pino once, and spent the night with us. Had we not chased it away though, it would have covered our solar panel with its putrid discharges.
 
-In Fiji, I glimpsed the most beautiful bird I'd ever seen, a Fiji parrotfinch, with blackish feathering on its chin becoming dark blue on the lower throat and turquoise on the upper breast before fading into the bright green of the underparts. Coming from Canada, we don't have brightly-colored birds like these. I saw it on a walk on the island, perched in a tree, its colours drew my eye and I could not  look away. This bird had bewitched me, and did not know it. It went about its business, staying for a short time before flying off to enrapture other unsuspecting humans. 
+In Fiji, I glimpsed the most beautiful bird I'd ever seen, a Fijian parrotfinch, with blackish feathering on its chin becoming dark blue on the lower throat and turquoise on the upper breast before fading into the bright green of the underparts. I saw it on a walk on the island, perched in a tree, its colours drew my eye and I could not look away. This bird had bewitched me, and did not know it. It went about its business, staying for a short time before flying off to enrapture other unsuspecting humans. 
 
-This to say, we can only gain from protecting nature. We live in a time when much of it is under threat. Nature will always give, but it is up to us to learn to take less, and to protect it from the greedy.
+We live in a time when much of it is under threat. Nature will always give, but it is up to us to learn to take less, and to protect it from the greedy.
 
 * * *
 
@@ -1204,9 +1200,9 @@ Sometimes though, I grow tired of resting. I am restless to sail, to move forwar
 
 # Water
 
-It's easy to forget that water is not inexhaustible when it flows so readily by the turn of the tap. Living on a boat certainly helps to develop a deeper connection to this precious resource. Depending on where you are, you'll have to treat it, catch it, carry it or pay for it.
+It's easy to forget that water is not inexhaustible when it flows so readily out of the tap. Living on a boat certainly helps to develop a deeper connection to this precious resource. Depending on where you are, you'll have to treat it, catch it, carry it or pay for it.
 
-Our main freshwater tank has 170 L (45 gal US), we also have a smaller 50 L secondary tank. On passages, we carry 3 extra 20 L (5 gal US) jerry ans of water, enough to sustain two people for a few more weeks than the length of our trip. To conserve water, our sink faucet is operated with a foot pump, where each push draws out 60 ml of water. We crossed paths with a boat who had an incident with their main freshwater supply. 805 km (500 mi) away from shore, they found salt water in their one and only freshwater tank. The crew had to drink the water from coconuts for 5 days. Having separate bins makes for a more resilient system, if salt gets into one tank, it won’t corrupt the entirety of your supplies. A sure way of preventing contamination, is to check all o-rings and tanks for leaks before leaving.
+Our main freshwater tank has 170 L (45 gal US), we also have a smaller 50 L secondary tank. On passages, we carry 3 extra 20 L (5 gal US) jerry cans of water, enough to sustain two people for a few more weeks than the length of our trip. To conserve water, our sink faucet is operated with a foot pump, where each push draws out 60 ml of water. We crossed paths with a boat who had an incident with their main freshwater supply. 805 km (500 mi) away from shore, they found salt water in their one and only freshwater tank. The crew had to drink the water from coconuts for 5 days. Having separate bins makes for a more resilient system, if salt gets into one tank, it won’t corrupt the entirety of your supplies. A sure way of preventing contamination, is to check all o-rings and tanks for leaks before leaving.
 
 We chose not to have a desalinator aboard Pino, and have managed well without it. It's a device that is expensive, high maintenance and power-hungry.
 
@@ -1357,11 +1353,11 @@ I bought boxes of snack bars in Japan before leaving, as filler for our ditch ba
 
 # The burden of electronics
 
-Nowadays, sailboats come with more and more electronics, created to free sailors of the burden of effort and time. In truth, these modern conveniences don't save us anything, and they take more than they give. Proprietary hardware and miniaturized systems prevents people from attempting repairs themselves, it turns users into consumers, effectively binding them to services on land. Throughout our travels, we've met many sailors stuck in port for weeks and weeks, waiting for replacement parts from companies overseas. 
+Nowadays, sailboats come with an increasing number of complicated electronics. In truth, these modern conveniences don't save us anything, and they take more than they give. Proprietary hardware and miniaturized systems prevents people from attempting repairs themselves, it turns users into consumers, effectively binding them to services on land. Throughout our travels, we've met many sailors stuck in port for weeks and weeks, waiting for replacement parts from companies overseas. 
 
-Systems that use few, standard moving parts are reliable, easy to inspect and repair. Choosing standard hardware ensures that users will find a particular part to satisfy a particular need wherever they might be located. When replacements parts are available, it is easy for users to make their own repairs. 
+Systems that use few standard moving parts are more reliable, easier to inspect and repair. Choosing standard hardware ensures that users will find a particular part to satisfy a particular need wherever they might be located. When replacements parts are available, it is easy for users to make their own repairs. 
 
-Making so-called inconvenient choices, like baking your own bread, or splicing a rope yourself, exposes us to a risk of frustration and failure, but there is much to gain from doing these things. "These are the noninstrumental activities that help to define us. They reward us with character because they involve an encounter with meaningful resistance." (Tim Wu, 2018) 
+Making so-called inconvenient choices, like baking your own bread, or splicing a rope yourself, exposes us to a risk of frustration and failure, but there is much to gain from doing these things. "These are the non-instrumental activities that help to define us. They reward us with character because they involve an encounter with meaningful resistance." (Tim Wu, 2018) 
 
 There is an allure to high-tech systems, as they are easy to use, but the taste for convenience begets more convenience. The more toys you own, the more chance they will break or get in the way. Off-loading tasks isn’t wicked, but when you can't get drinking water because the water pressure isn't working, it is easy to see the problem with such systems. 
 
@@ -1409,7 +1405,9 @@ The night is smooth, so far. We are staying ahead of the weather, pretending it 
 
 # Catching rain
 
-Rain catchment is a good way to top-up your tanks. We set up buckets under the main, and pour them into Jerrycans when full. It is easier to catch water at anchor, when we can set up a tarp that empties into a container. At sea, the wind catches into the tarp and is ineffective. Some sailors block out areas on deck, and have the water flow directly into their main tank. We don’t recommend doing that unless your deck is free of trapped dirt, or that you’ve got a good filtration system. While the rain itself might be safe to drink, it carries dirt or whatever may be on your tarp, or deck. And depending on where you are, the rain may have environmental pollutants mixed in. For these reasons, we recommend using rainwater for purposes other than drinking and cooking. If you are to drink it, it’s important to boil it first for at least 1 minute, or to run it through a good two-step filtration system. The rain at sea is likely safe, devoid of pollutants, but the same can't be said of some anchorages. In the Majuro in the Marshall Islands, the lagoon was full of floating fish-processing factories, spitting smoke out 24/7. 
+Rain catchment is a good way to top-up your tanks. We set up buckets under the mainsail, and pour them into Jerrycans when they are full. It is easier to catch water at anchor, when we can set up a tarp that empties into a container. At sea, the wind catches into the tarp and is ineffective. Some sailors block out areas up on deck, and have the water flow directly into their main tank. We don’t recommend doing that unless your deck is free of trapped dirt, or that you’ve got a good filtration system. While the rain itself might be safe to drink, it carries dirt or whatever may be on your tarp, or deck. And depending on where you are, the rain may have environmental pollutants mixed in. 
+
+We recommend using rainwater for purposes other than drinking and cooking. If you are to drink it, it’s important to boil it first, or to run it through a good filtration system. The rain at sea is likely safe, devoid of pollutants, but the same can't be said of some anchorages. In the Majuro in the Marshall Islands, the lagoon was full of floating fish-processing factories, spitting smoke all day and night. 
 
 Even if you don’t plan on drinking it, it’s a good idea to treat the water you catch. The easiest way to do this is to add chlorine bleach to your supply. This is something we’ve done, and continue to do. The suggested ratio of chlorine to water is 2 drops bleach for 1.15 L. The above ratios are for bleach containing 5.25% Sodium Hypochlorite. This amount depends on the concentration, the ratios will be different for 5.25% than for 8% chlorine bleach (1 drop: 1.15 L). Only use regular, unscented chlorine bleach products that are suitable for disinfection and sanitization, as indicated on the label. A good way to remember these ratios, is this saying:
 
