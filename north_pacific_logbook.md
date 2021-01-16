@@ -9,6 +9,14 @@ rights: © 2020 HundredRabbits, CC BY-NC
 
 \newpage
 
+![](img/mapleft.jpg "leftmap")
+
+\newpage
+
+![](img/mapright.jpg "rightmap")
+
+\newpage
+
 ## About us
 
 We found Pino on Vancouver Island in the spring of 2016, a Yamaha 33 sailboat. At that moment, we knew of Yamaha for their keyboards and motorcycles, not their sailboats. After a bit of research, we learned that between 1976 and 1985 Yamaha did build and export sailboats to the Pacific Northwest. The boats had the reputation of being sturdy and were therefore often used in sailing schools. Pino happened to be the right price and size.
@@ -1995,7 +2003,7 @@ Devine makes spaghetti aioli for dinner, we drink matcha afterwards and watch Th
 
 #### July 29th
 
-![](img/july29.jpg "soup")
+![](img/july29.jpg "arrival")
 
     Daily progress: 146 km (79 nm)
     Distance to Victoria: 8,417 km (4545 nm)
@@ -2054,6 +2062,8 @@ We'll end this story by thanking our land crew, Morgan, Douglas and Devine's dad
 
 # Closing words
 
+![](img/family.png)
+
 If you ask us why we decided to go sailing, we don't think we could give you a straight answer. Even the authors of our sailing manuals cannot explain what might compel anyone to do it, even after being made aware of the many perils of an ocean. Why would anyone do something with a very real risk of not making it back to shore, and furthermore, for no obvious reward?
 
 It seems unjustifiable, or at least masochistic, that a person would wilfully put themselves through potential misadventures for fame and curiosity alone, mountain climbers might echo these feelings although we don't know any with whom we can verify this. And so, perhaps we do these things in the name of freedom, freedom to practice direct experience (with all that entails. Discomfort, pain, hunger and so on), here we shall name this calling to live deliberately, using Thoreau's words.
@@ -2074,15 +2084,13 @@ In the name of security, a modern citizen will be thoroughly handled. A modern c
 
 We have seen the non-participation to the throughput mechanisms of society labeled as escapism, but we look at it in reverse where one escapes by being apart from nature. An illusory sense of dominion and domestication of nature might make one think of it as a place where one can escape to, and this is re-enforced when seen through the lense of a synthetic protective layer of proxies and simulations, but the protective layer doesn't curve outward upon nature, but inward upon the individual. And that is absolute escapism.
 
-We believe that one can use nature's indifference as a reminder of the actual fortitude of their being, to learn of one's own true capacity for resilience when communing with nature — Ideas altogether at odds with modern stories, or an invitation to be part of something.
+We believe that one can use nature's indifference as a reminder of the actual fortitude of their being, to learn of one's own true capacity for resilience when communing with nature—ideas altogether at odds with modern stories, or an invitation to be part of something.
 
 > "Modern man requires more and more comfort both at home and in the car. Sailors, too, want more comfort in their cruisers, but comfort cannot be combined with simplicity. And when life is no longer simple, it loses both beauty and joy." (Sven Yrvind, 2017) 
 
 Thank you for reading.
 
 \newpage
-
-![](img/pantry.jpg)
 
 # Pino's pantry
 
@@ -2162,7 +2170,7 @@ Below is a list of items that we had aboard Pino on the passage from Japan to Ca
 
 > Mirin adds sweetness to dishes, it helps tenderize, and add luster to foods while masking unwanted flavors.
 
-### Oils
+#### Oils
 
 > Our preferred cooking oil is olive, but we also carry roasted sesame oil to flavour rice, and to use as a base for vinaigrettes.
 
@@ -2182,9 +2190,9 @@ Below is a list of items that we had aboard Pino on the passage from Japan to Ca
 
 \newpage
 
-![](img/cooking.jpg)
-
 # Recipes
+
+![](img/pantry.jpg)
 
 \newpage
 
@@ -2314,9 +2322,7 @@ Chili flakes              5 g
 
 Mix 60 g (1/4 cup) peanut butter, 20 ml (1 1/2 tbsp) soy sauce, 10 g (2 tsp) sugar, 10 g (2 tsp) cornstarch, 5 g (1 tsp) garlic powder, 5 g grated ginger root and 5 g (1 tsp) curry powder. Then, add 60 ml (1/4 cup) water, and mix until well incorporated. 
 
-Cook rice noodles according to package instructions. Drain, set aside.
-
-Soak dry tofu in water. When soft, drain and squeeze water out. Cut into cubes.
+Cook rice noodles according to package instructions. Drain, set aside. Soak dry tofu in water. When soft, drain and squeeze water out. Cut into cubes.
 
 In a pan, heat some oil at high heat. When hot, add 1 clove of minced garlic, and 5 g (1 tsp) chili flakes. Cook for 30 seconds. Add the 2 cm of cubed daikon, and 1 small cubed sweet potato. Cook until the sweet potato is soft. 
 
