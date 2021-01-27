@@ -97,7 +97,7 @@ We are flying! Pino is happy to be moving again, and as are we.
 ##### 1430
 We saw porpoises in the water! It's been too long! They came for a bow-riding session. We missed them. Winds are coming out of the southwest, at a good strength of 22-28 km/h (12-15 kn), with Pino doing 15 km/h (8 kn). For lunch, we had inari pouches (rice-stuffed tofu pockets), a meal we'd purchased at MaxValue the night before. Not cooking on the first day is nice, neither of us are sea sick, but going below is still difficult and can easily trigger it. We stay outside instead, enjoying the good wind, weather and sun.
 
-Devine is reading "The mushrooom at the end of the world", while I steer us east. We tried hailing Robusta on the VHF, but got no answer, either they're too far or their radio isn't on.
+Devine is reading The Mushrooom at the End of the World, while I steer us east. We tried hailing Robusta on the VHF, but got no answer, either they're too far or their radio isn't on.
 
 ##### 1700
 The wind rises to 37 km/h (20 kn). We slip into our foul-weather skins as we don't want to wet our clothes. We won't be doing laundry in this trip, so keeping clothes dry is crucial.
@@ -1292,13 +1292,15 @@ At this point, the GRIB files are so old that there is no way to know whether th
 
 I'd rather be here than on a plane though, that much is sure, as I hate to be bombarded with advertisements. Visiting an airport is an attack on the senses, a place of masterful trickery, where you are made to walk through rows of gifts shops, perfume stands, jewellers. The only way to have peace and quiet is to go to a paid lounge. Quiet and comfort comes with a price tag, only to those who can pay. If you're tight on cash, all you can do is endure. It's crazy to think that people thought it a good idea to do this, who would design such a space? Such a world centred not on the well-being of people, but on how well they can trick them into spending. It is like this was designed by beings who've no idea what humans need, by creatures who have no empathy. That episode of *Black Mirror* where people run on treadmills for money, and pay not to see ads in their rooms, feels all too true while in airports.
 
-# Computers at sea
+# Computers
 
 Computers are subject to water intrusion and saltwater corrosion, but with some care they can survive in a normal marine environment. We solved most of the problems by cleaning external connections often, and by storing them in a sealed box with some desiccants after each use. The parts that fail the most are power connectors, external connections and batteries.
 
 Leaving a port with spare parts is a good tactic, but leaving with backup PCs is even better. There are many good inexpensive computers on the market, like notebook processors (Pinebook, EeeBook) and single-board computers (Raspberry Pis, Pine64). We carry 3 extra Raspberry Pi computers as backups to our main laptops, as they are inexpensive and small. These computers run on lower voltage, which lower overall power consumption. By consuming less power, the system will be less expensive to run, but more importantly, it will run much longer on existing battery technology.
 
 When parts fail on our boat we repair them, and we do the same for our PCs. Nowadays it is commonplace to trash a device when it stops working, contributing to the growing problem of e-waste in the world. Replacing broken components is important, as manufacturing a new PC makes a far bigger ecological footprint than manufacturing a new replacement part.
+
+At sea, our computers don't see much action, as we spend enough time glued to them while in port. 
 
 * * *
 
@@ -1379,11 +1381,11 @@ Our boat has no refrigeration, hot water, water pressure, windlass or autopilot,
     Distance to Victoria: 5,297 km (2860 nm)
 
 ##### 0700
-Been turning radar on more often, as there is no break to this fog. We don't leave it on, as it is a power-sucker. This, paired with AIS is essential out here. I can imagine that it wasn't crucial during Moitessier and Lin & Larry Pardey's time, as there was less shipping. Now, I see targets everyday, as cargo is circling the globe from one port to the next. I don’t like to think about what is carried from port to port. Are these goods essential? Probably not. More game consoles, action figures and items made of cheap plastic. 
+Been turning radar on more often, as there is no break to this fog. We don't leave it on, as it is a power-sucker. This, paired with AIS is essential out here. I can imagine that it wasn't crucial during Moitessier and Lin & Larry Pardey's time, as there was less shipping. Now, I see targets everyday, as cargo is circling the globe from one port to the next. I don’t like to think about what they carry, as it would likely make me sad. Essential goods? Probably not.
 
-The modern economy is like a balloon, hellbent on expanding, obsessed with growth, and ignoring its own structural limits. It can’t stretch to infinity, just like our own planet has a finite number of resources. Extracting materials from the earth without limit, or care, will destroy us all. Moitessier talks about overdevelopment in his book The Long Way, and the need to stop satisfying false needs, false joys, to instead focus on preserving nature. We must do this, because it is what matters most, and we cannot hope to be happy without it. In the words of author, activist and philosopher Wendell Berry, “We need a 'new economy,' one that is founded on thrift and care, on saving and conserving, not on excess and waste.”
+Moitessier talks about overdevelopment in his book The Long Way, and the need to stop satisfying false needs, false joys, to instead focus on preserving nature. We must do this, because it is what matters most. In the words of author, activist and philosopher Wendell Berry, “We need a 'new economy,' one that is founded on thrift and care, on saving and conserving, not on excess and waste.” I keep these words close, as they offer comfort when I feel overwhelmed by today's consumerist culture.
 
-Pino is gliding at a reasonable 8 km/h (4.5 kn), heading northeast. The winds will shift to the southwest tomorrow, and will increase. If it gets too wild we will heave-to. I've no desire to take risks anymore, not for speed anyway. As I am writing this, the fog cleared ahead. Look at that horizon line! What-a-BEAUTY! Never thought I'd miss the sight of it this much. I will not last, but for now I'll take it, it is here, it is pleasant and I am happy. The world just got a lot sharper, a relief for my eyes.
+Pino is gliding at a reasonable 8 km/h (4.5 kn), heading northeast. The winds will shift to the southwest tomorrow, and will increase. If it gets too wild we will heave-to. I've no desire to take risks anymore, not for speed anyway. As I am writing this, the fog cleared ahead. Look at that horizon line! Never thought I'd miss the sight of it this much. I will not last, but for now I'll take it, it is here, it is pleasant and I am happy. The world just got a lot sharper, a relief for my eyes.
    
 ##### 0800
 We're still on the same propane tank, I am surprised we haven't run out yet. Our backup tank is still full, strapped to the aft rail. I decided not to bake on this trip to save on gas, and it makes a big difference. I hope that when we run out, that the weather will be mild, as it is a pain to hook up. I make stove top pitas now and then, but because I cook each one in a cast iron pan with a lid it cooks faster, saving us precious fuel. In general, our meals are done after 10 minutes of cooking, with the flame burning hottest in the first 3-5 minutes. Most meals I cook with a lid, after that, at a low setting. Glad my efforts to conserve fuel have paid off, and that it doesn't affect the quality of our meals.
