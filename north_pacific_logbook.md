@@ -1329,26 +1329,25 @@ Our boat has no refrigeration, hot water, water pressure, windlass or autopilot,
     Distance to Victoria: 5,297 km (2860 nm)
 
 ##### 0700
-Been turning radar on more often, as there is no break to this fog. We don't leave it on, as it is a power-sucker. This, paired with AIS is essential out here. I can imagine that it wasn't crucial during Moitessier and Lin & Larry Pardey's time, as there was less shipping. Now, I see targets everyday, as cargo is circling the globe from one port to the next. I don’t like to think about what they carry, as it would likely make me sad. Essential goods? Probably not.
+Been turning radar on more often, as there is no break to this fog. We don't leave it on, as it is a power-sucker. This, paired with AIS is essential out here. I can imagine that it wasn't crucial during Moitessier and Lin & Larry Pardey's time, as there was less shipping. Now, I see targets everyday, as cargo is circling the globe from one port to the next. 
 
-Moitessier talks about overdevelopment in his book The Long Way, and the need to stop satisfying false needs, false joys, to instead focus on preserving nature. We must do this, because it is what matters most. In the words of author, activist and philosopher Wendell Berry, “We need a 'new economy,' one that is founded on thrift and care, on saving and conserving, not on excess and waste.” I keep these words close, as they offer comfort when I feel overwhelmed by today's consumerist culture.
+##### 0800
 
 Pino is gliding at a reasonable 5 kn, heading northeast. The winds will shift to the southwest tomorrow, and will increase. If it gets too wild we will heave-to. I've no desire to take risks anymore, not for speed anyway. As I am writing this, the fog cleared ahead. Look at that horizon line! Never thought I'd miss the sight of it this much. I will not last, but for now I'll take it, it is here, it is pleasant and I am happy. The world just got a lot sharper, a relief for my eyes.
-   
-##### 0800
+
 We're still on the same propane tank, I am surprised we haven't run out yet. Our backup tank is still full, strapped to the aft rail. I decided not to bake on this trip to save on gas, and it makes a big difference. I hope that when we run out, that the weather will be mild, as it is a pain to hook up. I make stove top pitas now and then, but because I cook each one in a cast iron pan with a lid it cooks faster, saving us precious fuel. In general, our meals are done after 10 minutes of cooking, with the flame burning hottest in the first 3-5 minutes. Most meals I cook with a lid, after that, at a low setting. Glad my efforts to conserve fuel have paid off, and that it doesn't affect the quality of our meals.
    
 ##### 0900
-Creatures of habit, we prepared cornpone (see recipes) with kimchi, and canned corn—that's right, double corn! We crave this dish a lot these days. For dessert, we had the rest of the chocolate cake with some strawberry jam as a topping. I made some while in Shima Yacht Harbor in Mie. Fruits are expensive in Japan, but Kako brought us to a fresh market in Matsusaka and we found cheap tubs of strawberries there.
+Creatures of habit, we prepared *cornpone* (see recipes) with kimchi, and canned corn—that's right, double corn. We crave this dish a lot these days. For dessert, we had the rest of the chocolate cake with some strawberry jam as a topping. I made some while in Shima Yacht Harbor in Mie. Fruits are expensive in Japan, but Kako brought us to a fresh market in Matsusaka and we found cheap tubs of strawberries there.
 
-Tonight, we will prepare hummus (see recipes) and stove top bread. We don't have fresh vegetables to eat with it, but it's okay. I'll also be using garlic powder instead of fresh cloves, as we only have 1/2 a bulb left. I'll hate myself forever for not buying more fresh garlic. 1/2 bulb is really no garlic at all, when many our recipes use up to 6 cloves—I am not kidding. 
+Tonight, we will prepare *soybean hummus* (see recipes) and stove top bread. We don't have fresh vegetables to eat with it, but it's okay. I'll also be using garlic powder instead of fresh cloves, as we only have 1/2 a bulb left. I'll hate myself forever for not buying more fresh garlic. 1/2 bulb is really no garlic at all, when many our recipes use up to 6 cloves—I am not kidding. 
    
 ##### 1500
 Quiet afternoon on Pino Island. The waves are down, making it more pleasant to move around inside. I just awoke Calcifer, for a short 2-hour charging session. Our batteries are doing well, we found that charging them for 2 hours, with another 2-hour session 12 hours later helped them perform better. Despite being constantly engulfed in fog, our solar is able to charge our batteries.
 
-I ate fermented radish that Kako gave us before leaving, she gave us two jars, plus two others of raggyo, small onions preserved in soy sauce and vinegar. We also prepared garlic miso. It's an amazing recipe and is easy to prepare, it consists of peeled garlic cloves with the tips cut off, buried in miso and left to ferment for 1 month. It is delicious, and not overly spicy, or salty.
+I ate fermented radish that Kako gave us before leaving, she gave us two jars, plus two others of rakkyo, small onions preserved in soy sauce and vinegar. We also prepared garlic miso. It's an amazing recipe and is easy to prepare, it consists of peeled garlic cloves with the tips cut off, buried in miso and left to ferment for 1 month. It is delicious, and not overly spicy, or salty.
 
-The wind will rise tonight as the low passes over us. It won't be as strong as what we had near Japan, but we'll be careful anyway. We're doing good speed, rapidly approaching our next milestone The Turn Off. It is 685 km (370 nm) away, not too far. Devine added other milestones in-between, to make things exciting. We'll likely cross the 3,241 km (1750 nm) left mark in the coming day. Captain Ninj is pleased with our progress, "the gnocchi—" he says, "—it is near! SOON the potato pillows will enter your mouth caves!" Yes Captain Ninj, and we will be happy when they do.
+The wind will rise tonight as the low passes over us. It won't be as strong as what we had near Japan, but we'll be careful anyway. We're doing good speed, rapidly approaching our next milestone The Turn Off. It is 685 km (370 nm) away, not too far. Devine added other milestones in-between, to make things exciting. We'll likely cross the 3,241 km (1750 nm) left mark in the coming day. Captain Ninj is pleased with our progress, "the gnocchi—" he says, "—it is near! Soon the potato pillows will enter your mouth caves!" Yes Captain Ninj, and we will be happy when they do.
    
 ##### 2200
 This is officially the longest sailing trip we've ever done, 2 days ago we passed our record of 28 days to the Marquesas, from Mexico. Already then, we had this passage in mind, as it is much longer, but also inevitable if we want to go to Japan and back home. The passage to the Marquesas had better weather, consistent winds and assured rain because of squalls. The passage to Canada has been an entirely different experience, we thought that rain would be a frequent visitor but it has largely avoided us, especially when we need it the most. We collected water once, not since. We've no real way of measuring what is left in our main tank, but with the extra 50 L we added, it will extend its use for sure. If we are careful, we can go 1 1/2 months on this tank. Our extra Jerry cans total 70 L. I'd like to keep these for cooking and as drinking water.
@@ -1357,17 +1356,19 @@ With 3,334 km (1800 nm) left, being careful is essential. We don't know what cou
 
 The night is smooth, so far. We are staying ahead of the weather, pretending it won't catch up. I realized today that I stopped dreaming? Seems like they stopped when the wind returned. I've got a more active mind during bouts of calms. With the winds we've had yesterday and today, those calms feel like a distant dream. Not sure we've seen the last of the calm calms, I could never say anything like that with confidence, not out here.
 
-# Catching rain
+# Indebted to the future
 
-< “I think that a boat big enough to carry lots of food and spares could circle the globe several times, relying only on rain." — Bernard Moitessier
+We don’t like to think about what cargo ships carry, as it would likely make us sad. Essential goods? Probably not. Every material object is a potential burden, in terms of the physical and mental space they occupy. Even when it passes out of our hands, whether it is sold, passed down, or donated, the object still exists, while many more are manufactured.
 
-Rain catchment is a good way to top-up your tanks. We set up buckets under the mainsail, and pour them into Jerry cans when they are full. It is easier to catch water at anchor, when we can set up a tarp that empties into a container. At sea, the wind catches into the tarp and is ineffective. Some sailors block out areas up on deck, and have the water flow directly into their main tank. We don’t recommend doing that unless your deck is free of trapped dirt, or that you’ve got a good filtration system. While the rain itself might be safe to drink, it carries dirt or whatever may be on your tarp, or deck. And depending on where you are, the rain may have environmental pollutants mixed in. 
+In his book *The Long Way*, Moitessier talks about the need to stop satisfying false needs, false joys, to instead focus on preserving nature. Caring for the earth is our most worthy responsibility, we have to cherish what we have and foster its renewal. In the words of author, activist and philosopher Wendell Berry: “We need a 'new economy,' one that is founded on thrift and care, on saving and conserving, not on excess and waste.”
 
-We recommend using rainwater for purposes other than drinking and cooking. If you are to drink it, it’s important to boil it first, or to run it through a good filtration system. The rain at sea is likely safe, devoid of pollutants, but the same can't be said of some anchorages. In the Majuro in the Marshall Islands, the lagoon was full of floating fish-processing factories, spitting smoke all day and night. We collected rain water there, but never did drink it.
+We are by no means perfect. Devine & I have contributed our share of waste in the past, we have burdened others with objects when we 'reduced' our own lives to fit onto a boat. I am still burdened with their memory. Today, we put a lot of thought into the things that we buy. Do we really need it? Can we get a longer-lasting version of this item? If it's a broken item, can we repair it? 
 
-Even if you don’t plan on drinking it, it’s a good idea to treat the water you catch. The easiest way to do this is to add chlorine bleach to your supply. This is something we’ve done, and continue to do. The suggested ratio of chlorine to water is 2 drops bleach for 1.15 L. The above ratios are for bleach containing 5.25% Sodium Hypochlorite. This amount depends on the concentration, the ratios will be different for 5.25% than for 8% chlorine bleach (1 drop: 1.15 L). Only use regular, unscented chlorine bleach products that are suitable for disinfection and sanitization, as indicated on the label. A good way to remember these ratios, is this saying:
+It is easier to replace than repair, but there is always an associated cost, whether it be **money**, to get the new item, or to buy parts to repair it, or **time**, as it takes time to make a repair and to gather parts. Then, if we choose to buy something that is long-lasting, that is made of better, high-quality materials, the initial cost is always much higher and acquiring such an item becomes a privilege reserved for moneyed people. An economy based on growth and profit will never encourage thrift and care, as it is contrary to the system, and in that way, we are stuck.
 
-“You must be 21 to drink." 2 drops bleach per 1 L (1 qt) water, easy to remember. Note that 1 qt is slightly less than 1 L.
+I don't blame people for choosing easy off-the-shelf options, as our system encourages it, while making repair and thrift difficult and unnattractive. But things will have to change, because today's pleasures are debited to the future, paid not in money, but in waste and misery. A decision that was easy to make today, will be an inconvenience to someone, somewhere, later.
+
+> "This curious world we inhabit is more wonderful than convenient; more beautiful than it is useful; it is more to be admired and enjoyed than used." — Henry David Thoreau
 
 * * *
 
@@ -1381,23 +1382,34 @@ Even if you don’t plan on drinking it, it’s a good idea to treat the water y
     Distance to Victoria: 5,447 km (2941 nm)
 
 ##### 0630
-A ship is passing north of us, we're angling east to not cross its path. Had a good restful night, no drama, and we like it that way. We passed the 3,241 km (1750 nm) left milestone, and so we treat ourselves to *soba* (see recipes), complete with dipping sauce and our bag of special toppings from Aoki: flavored takenoko (young bamboo). Ahead, lies our bigger milestone: The Turn Off. It is 500 km (270 nm) ahead. I can't believe our progress! The weather has not hit us yet, but it is coming! No signs of a calm ahead either. OH JOY OH JOY! If we can continue at this pace, we might arrive in 49 days—now that would be something!
+A ship is passing north of us, we're angling east to not cross its path. Had a good restful night, no drama, and we like it that way. We passed the 3,241 km (1750 nm) left milestone, and so we treat ourselves to *soba* (see recipes), complete with dipping sauce and our bag of special toppings from Aoki: flavored takenoko (young bamboo). Ahead, lies our bigger milestone: The Turn Off. It is 500 km (270 nm) ahead. I can't believe our progress! The weather has not hit us yet, but it is coming! No signs of a calm ahead either. If we can continue at this pace, we might arrive in 49 days—now that would be something!
 
 Fog is ever-present, but with a bit of sun shining through. It isn't too cold, even at night. We sit at the navigation table with a sleeping bag, and with it we are comfortable. Robusta is near Dutch Harbor, maybe they've arrived already. We got no message saying so today, we'll miss exchanging emails with our *schnaubees*.
    
 ##### 1330
-Quiet morning aboard Pino. We started doing readings of Cyberiad by Stanislaw Lem. Devine's read it many times already, but thought it would be nice to re-visit it together. It provided many hours of fun. It is such a good read, a great mix of humor and sci-fi. He is a versatile writer, I'm amazed to see the difference in writing styles between that and something like Solaris. Cyberiad is more casual, more humorous, but still manages to retain its complexity. Amazing read.
+Quiet morning aboard Pino. We started doing readings of *Cyberiad* by Stanislaw Lem. Devine's read it many times already, but thought it would be nice to re-visit it together. It provided many hours of fun. It is such a good read, a great mix of humor and sci-fi. He is a versatile writer, I'm amazed to see the difference in writing styles between that and something like *Solaris*. *Cyberiad* is more casual, more humorous, but still manages to retain its complexity. Amazing read.
 
-The fog parted today as we were chatting, glass of red wine in hand. I peeked outside and just... laughed! I felt such joy at being able to see far ahead. It's had to describe what I felt. Such unbridled joy! It is such a relief to see the world and ocean with such precision, clarity and color. You don’t quite realized how much you love something until you’re deprived of it for extended periods. 
+The fog parted today as we were chatting, glass of red wine in hand. I peeked outside and just... laughed! I felt such joy at being able to see far ahead. It's had to describe what I felt. Such unbridled joy! It is such a relief to see the world and ocean with such precision, clarity and color. You don’t quite realize how much you like something until you’re deprived of it for extended periods. 
 
-Devine is making *garlic, nori and chili flake pasta* (see recipes) for dinner. We're using up our last onion, and the bulb of garlic is thinning out. These ingredients usually go last, but the potatoes are still plentiful. Staples in Canada, like carrots, onions and potatoes, are things that are cheap and easy to buy in large quantities, but not in Japan! Yellow onions were sold in packs of 3, and were expensive. The carrots too were sold in 3's. Expensive. Why 3?! It's possible that the price of a larger bag would deter Japanese buyers, as in general, produce there is costly. At least, Japanese groceries stock many great items like dried tofu (koya dofu), kiri mochi (rice cakes), fu (wheat gluten blocks), preserved lotus root, dried seaweed, dried mushrooms etc.
+Devine is making *garlic, nori and chili flake pasta* (see recipes) for dinner. We're using up our last onion, and the bulb of garlic is thinning out. These ingredients usually go last, but the potatoes are still plentiful. Staples in Canada, like carrots, onions and potatoes, are things that are cheap and easy to buy in large quantities, but not in Japan! Yellow onions were sold in packs of 3, and were expensive. The carrots too were sold in threes. Expensive. Why 3?! It's possible that the price of a larger bag would deter Japanese buyers, as in general, produce there is costly. At least, Japanese groceries stock many great items like dried tofu (koya dofu), kirimochi (rice cakes), fu (wheat gluten blocks), preserved lotus root, dried seaweed, dried mushrooms etc.
    
 ##### 1400
 The wind is rising out of the southwest. We have to hand-steer to keep with the waves. It's been a while since we've steered outside at night. It was very cold, made colder by the lingering moisture in the air. It clung to our clothes, wool hats and gloves. After our shifts, we'd huddle under a pile of sleeping bags to try and warm ourselves as quickly as possible, to fall asleep as quickly as possible. I'd curl up into a ball, to try and accumulate warmth fast. Sleep doesn't come when I am cold.
    
 ##### 0000
-Saw a ship on AIS called KDDI Cable Infinity. It's one of those vessels that lay internet cables in the ocean! On AIS, it warned ships of its limited manoeuvrability, and to stay 1.852 km (1 nm) away. Funny to encounter a ship like this here, they certainly aren't working in the best of conditions, as the seas and winds are high. The fog too, is thick and laced with rain. On one hand, they're here for work, cause they've been asked to be here, but we're a *pleasure craft* and we’ve only ourselves to blame for being out here.
+Saw a ship on AIS called KDDI Cable Infinity. It's one of those vessels that lay internet cables in the ocean! On AIS, it warned ships of its limited manoeuvrability, and to stay 1.852 km (1 nm) away. Funny to encounter a ship like this here, they certainly aren't working in the best of conditions, as the seas and winds are high. The fog too, is thick and laced with rain. They're here for work, cause they've been asked to be here, but we have only ourselves to blame.
 
+# Catching rain
+
+< “I think that a boat big enough to carry lots of food and spares could circle the globe several times, relying only on rain." — Bernard Moitessier
+
+Rain catchment is a good way to top-up your tanks. We set up buckets under the mainsail, and pour them into Jerry cans when they are full. It is easier to catch water at anchor, when we can set up a tarp that empties into a container. At sea, the wind catches into the tarp and is ineffective. Some sailors block out areas up on deck, and have the water flow directly into their main tank. We don’t recommend doing that unless your deck is free of trapped dirt, or that you’ve got a good filtration system. While the rain itself might be safe to drink, it carries dirt or whatever may be on your tarp, or deck. And depending on where you are, the rain may have environmental pollutants mixed in. 
+
+We recommend using rainwater for purposes other than drinking and cooking. If you are to drink it, it’s important to boil it first, or to run it through a good filtration system. The rain at sea is likely safe, devoid of pollutants, but the same can't be said of some anchorages. In the Majuro in the Marshall Islands, the lagoon was full of floating fish-processing factories, spitting smoke all day and night. We collected rain water there, but never did drink it.
+
+Even if you don’t plan on drinking it, it’s a good idea to treat the water you catch. The easiest way to do this is to add chlorine bleach to your supply. This is something we’ve done, and continue to do. The suggested ratio of chlorine to water is 2 drops bleach for 1.15 L. The above ratios are for bleach containing 5.25% Sodium Hypochlorite. This amount depends on the concentration, the ratios will be different for 5.25% than for 8% chlorine bleach (1 drop: 1.15 L). Only use regular, unscented chlorine bleach products that are suitable for disinfection and sanitization, as indicated on the label. A good way to remember these ratios, is this saying: “You must be 21 to drink." 2 drops bleach per 1 L (1 qt) water, easy to remember. Note that 1 qt is slightly less than 1 L.
+
+* * *
 \newpage
 
 #### July 11th
@@ -1428,7 +1440,7 @@ Every time we near a milestone, we hit a wall, whether it comes in the form of a
 
 This streak of rough weather is a cruel, cruel thing, a horrible weather monster, guarding the east, keeping small ships from passing. Vancouver Island is concealed behind it, uncaring. "What can we do to appease you? Oh great streak?" It doesn't answer—well, it answers the only way it can I suppose, with lashes of rain and gusts of wind. Maybe it intends to let us through, and we are misunderstanding each other? As different sorts of beings often do, being dissimilar in every way.
 
-I am eager, scared to see how this develops. 74 km/h (40 kn) of wind isn't a big deal for most vessels, and it isn't for us either, technically, but it can get dangerous if the wind blows that strongly for hours and hours, then the sea has plenty of time and inertia to grow into something terrible. In Japanese, the word for waves is *nami*, we've often heard the term *nami usagi*, or *rabbit waves*. This is a perfect way to describe the ocean, full of rabbits waves.
+I am eager, scared to see how this develops. 74 km/h (40 kn) of wind isn't a big deal for most vessels, and it isn't for us either, technically, but it can get dangerous if the wind blows that strongly for hours and hours, then the sea has plenty of time and inertia to grow into something terrible. In Japanese, the word for waves is *nami*, we've often heard the term *nami usagi*, or *rabbit waves*. This is a perfect way to describe the ocean, full of **rabbits waves**.
 
 # Coping with stress
 
@@ -1477,7 +1489,7 @@ Collected a bit of water with the umbrella system, which I poured into the press
 As for the diesel, we're at 1/2 a tank currently, with 3 extra Jerry cans, totalling 60 L. We've used Calcifer sparingly in this trip, only to charge batteries, hardly ever for forwardness and we will continue to do this. We tried to time our charging sessions with calms, to help us move along, and also because it's better to motor in calms than in rough weather. The engine doesn't like being tossed around, neither do we. We want to have enough diesel to motor through the Strait of Juan de Fuca, and into Victoria Harbour. Distances will seem so small once—if—we get in sheltered waters, with everything being a day sail away! Ah, the dream! 
 
 ##### 1600
-Devine comes in for some hot chocolate. A mix of cocoa powder, kinako powder (roasted soybean powder) and sugar—yum! Warm, and comforting. Devine downs it in a second, and then falls asleep. I watch him doze off, as I struggle to finish mine, as it is very, very sweet.
+Devine comes in for some hot chocolate. A mix of cocoa powder, kinako powder (roasted soybean powder) and sugar. Warm, and comforting. Devine downs it in a second, and then falls asleep. I watch him doze off, as I struggle to finish mine, as it is very, very sweet.
 
 \newpage
 
@@ -1502,7 +1514,7 @@ I heave-to again so we can look at the weather together over coffee. We need to 
 ##### 0530
 Rain on my shift, I have an extra coat on but I'm already freezing. Devine has fewer layers but seems fine? It is entirely possible that he just complains less. A jet of water aft of Pino startled me, looking back I saw a sei whale! It was so close! Swimming just 5 m (16 ft) off our stern. I saw the shine of its grey back, and its upright dorsal fin as it dove back under. I shriek, as I tend to do when faced with large creatures, both out of awe and and fear. I thought it had gone, but then it re-surfaced again on the starboard side, just as close as before. What do I do? Shriek again of course! 
 
-"WHOA! This whale is crazy!" I shouted. Then it dove back under, and came back even closer, commanding awe. I couldn't believe it. "AH! You crazy beautiful thing! What ARE you doing?" I saw its face that time, as if it was checking me out. Unlike the Sphinx, it did not pose a riddle, I saw its eye and mouth before it rolled back into the water, disappearing forever that time. The whale glided effortlessly through the ocean, dwarfing Pino and crew in its path. I steered away to make sure I wouldn't cross it again. 
+"This whale is crazy!" I shouted. Then it dove back under, and came back even closer, commanding awe. I couldn't believe it. "AH! You crazy beautiful thing! What ARE you doing?" I saw its face that time, as if it was checking me out. Unlike the Sphinx, it did not pose a riddle, I saw its eye and mouth before it rolled back into the water, disappearing forever that time. The whale glided effortlessly through the ocean, dwarfing Pino and crew in its path. I steered away to make sure I wouldn't cross it again. 
 
 My 2-hour shift went by real slow, after that event. It's possible that it felt like forever because I had an incredible urge to pee, that's what I get for downing my coffee so quickly.
    
@@ -1510,14 +1522,14 @@ My 2-hour shift went by real slow, after that event. It's possible that it felt 
 The joy of hiding in the sleeping bags. My shift ended and I am inside, trying to warm up, head and body covered in downy-goodness. I appreciate my time in this bunk so much more when it is freezing out there. I can feel my hands and feet warming. Venturing outside the covers means instantaneous cold. No thanks. I am hiding right now, in my warm fort. It is over 80% humidity in the cabin, and the hygrometer does not lie. 
    
 ##### 1100
-My patience is short. The conditions out there aren't terrible, but self-steering is not happening. If we let Pino have its way, it would steer us southeast, not good. I tried various ways of getting it to keep to the east, or the northwest, but no. After a while I just lost it. It might be because we've been out here a while, or that the grey fog we're in is getting to me, but it is HARD. All days are HARD. I'm trying to stay optimistic, because after all, we eat well, the wind is mostly okay and we've got each other. I wish I didn't default to moroseness. Devine's presence helps though, at least there's that. When I lose all will to steer, he volunteers and goes, rain or shine. If I was in a better mood, and that he felt downtrodden I'd likely do the same, but these days it falls onto him.
+My patience is short. The conditions out there aren't terrible, but self-steering is not happening. If we let Pino have its way, it would steer us southeast, not good. I tried various ways of getting it to keep to the east, or the northwest, but no. After a while I just lost it. It might be because we've been out here a while, or that the grey fog we're in is getting to me, but it is **hard**. All days are **hard**. I'm trying to stay optimistic, because after all, we eat well, the wind is mostly okay and we've got each other. I wish I didn't default to moroseness. Devine's presence helps though, at least there's that. When I lose all will to steer, he volunteers and goes, rain or shine. If I was in a better mood, and that he felt downtrodden I'd likely do the same, but these days it falls onto him.
 
 I want to have a good course always, I should know better. I know with sailing you can't always point where you want. The path to our destination will never be a straight line, it'll curve, zig zag and sometimes overlap itself. You can't be in a hurry. I know all of this, but I still think it, like my brain is ignoring wisdom on purpose to torture me.
 
 The gloom bug isn't here to stay, it's not all I have on my mind, there is also gnocchi banging around in here. Well, the idea of gnocchi. We've nearly reached the Turn Off, nearly, but screw it! We're eating those stupid potato lovelies today. We'll be hitting that milestone in the night, so it doesn't matter when today, technically. Potato pillows, in my mouth cave today.
    
 ##### 1400
-We are zooming! Devine unfurled the jib entirely, and we are going northeast! Riding those rabbit waves like a surfboard! Last I looked, we were riding at 11-13 km/h (6-7 kn)? Whoa. The wind is set to lessen tonight, if this morning's weather forecast holds. We're trying to skirt past the top of this low, but it might catch up. For now, our speed is good, but I hope it doesn't increase suddenly in the night as a full jib is difficult to furl. It isn't hard to furl normally, but the furler is a bit stiff these days. The anchor damaged the barrel, it made a dent to accompany the one we already had, and it is harder to furl because there is less room in the barrel for a fully-coiled line. We want to fix this, to get the dent out, but the weather these days doesn't permit much. We're still waiting for a good time to fill the diesel tank, an operation that requires no rain and no saltwater spray. We've got half a tank—not bad.
+We are zooming! Devine unfurled the jib entirely, and we are going northeast! Riding those rabbit waves like a surfboard! Last I looked, we were riding at 6-7 kn? Whoa. The wind is set to lessen tonight, if this morning's weather forecast holds. We're trying to skirt past the top of this low, but it might catch up. For now, our speed is good, but I hope it doesn't increase suddenly in the night as a full jib is difficult to furl. It isn't hard to furl normally, but the furler is a bit stiff these days. The anchor damaged the barrel, it made a dent to accompany the one we already had, and it is harder to furl because there is less room in the barrel for a fully-coiled line. We want to fix this, to get the dent out, but the weather these days doesn't permit much. We're still waiting for a good time to fill the diesel tank, an operation that requires no rain and no saltwater spray. We've got half a tank—not bad.
    
 ##### 1700
 The wind increased, instead of lessening, that, and rain. A LOT of rain. Not a very pleasant evening. High winds is one thing, but it's hellish when combined with rain. We are both very tired tonight. Our sleeping shifts were disrupted by the flapping of sails as we let Pino steer southeast a while. I went out to correct the course, but did not last long. I can only stand being out for for short periods of time in these conditions. Two hours is forever in outside time.
@@ -1535,18 +1547,18 @@ The wind increased, instead of lessening, that, and rain. A LOT of rain. Not a v
 Rose with the sun, and went outside to steer us northeast. Wind has lessened, I guess yesterday's calmer weather was delayed to today. Waves are big but round, manageable.
    
 ##### 0230
-Devine wakes up, we have oatmeal and coffee as we check the weather. We make the decision to keep going northeast, what we saw advised this decision. I go back out and steer some more, unfurling the jib to 100%. Pino glides at 12 km/h (7 kn). Perfect. It would be even better without rain though! Can't have it all.
+Devine wakes up, we have oatmeal and coffee as we check the weather. We make the decision to keep going northeast, what we saw advised this decision. I go back out and steer some more, unfurling the jib to 100%. Pino glides at 7 kn. Perfect. It would be even better without rain though! Can't have it all.
    
 ##### 0630
 Devine makes lunch, garlic pasta with shredded nori. I park Pino and get inside, peeling off my many layers, wet on the outside and gradually dry inside. I was wearing 2 sweaters, 1 fleece, foul weather pants, oil skin pants, foul weather jacket, rain jacket over top, wet gloves, hat. I wasn't cold wearing this, though I dread having to go to the toilet. I usually delay it, waiting until the very last moment before going inside, I beat my way out of my prison of fabric and race to the head.
    
 ##### 1200
-I make *kiri mochi with soft tofu and kimchi* (see recipes) for dinner. I opened the pack of special kiri mochi, sliced thin with kuromame (black beans) in it. SO GOOD. We did not heave to to eat, as we wanted to keep making progress. We ate in turns.
+I make *kiri mochi with soft tofu and kimchi* (see recipes) for dinner. I opened the pack of special kiri mochi, sliced thin with kuromame (black beans) in it. We did not heave to to eat, as we wanted to keep making progress. We ate in turns.
 
 Rain is consistent. I set up a bucket under the main to catch some extra water for washing dishes. We've not yet touched our extra 70 L.
    
 ##### 1400
-Read Cyberiad aloud to Devine, cup of wine in hand, celebrating nothing and anything. Read two shorts, which made me laugh out loud a few times. It is beautifully absurd, told in a very clever way. Now I understand why it's one of Devine's favorite books.
+Read *Cyberiad* aloud to Devine, cup of wine in hand, celebrating nothing and anything. Read two shorts, which made me laugh out loud a few times. It is beautifully absurd, told in a very clever way. Now I understand why it's one of Devine's favorite books.
 
 I go outside to transfer the collected water from bucket to bin. It filled half of a 10 L bin. Halfway into the trip, I wished for rain, now I wish it'd stop. Everything inside is moist, or thoroughly wet. I've got 2 dry and clean dish towels left. Must use these sparingly. The bowls cannot be allowed to air-dry, as they won't anyway, and will develop rot.
    
@@ -1573,12 +1585,12 @@ We have coffee, warm oatmeal and I step outside to steer us along.
 Devine switches foul-weather suits, wearing his bright red one. Dry clothes attract rain, I tell him to be careful. He steers, I am indoors, getting ready to rinse off my hair for the second time in this long, long trip. I waited as I did not know if we'd be getting rain, and it seemed frivolous. Now that we have some extra water, hell, I splurged. Washing your hair isn't splurging, I know, but such is life on long, seemingly unending ocean passages.
    
 ##### 1430
-We heave-to for dinner, as we both need a break. We have a glass of red wine plus *nutritional yeast kishimen* (see recipes), a good meal day. For lunch, I made glass noodles with a peanut butter sauce, along with some sauteed tofu, dried daikon and potato as toppings.
+We heave-to for dinner, as we both need a break. We have a glass of red wine plus *nutritional yeast kishimen* (see recipes), a good meal day. For lunch, I made glass noodles with a peanut butter sauce, along with some sauteed tofu, dried daikon and potatoes as toppings.
 
 The waves are still with us, and the wind has turned a bit. We're forced to hand-steer downwind—not my favorite. We'll be outside tonight, pushing hard to make it to a safe zone, as per usual, more weather approaches. We'll make it out of the first bad patch, but the second is wide. We're nearing the 2,315 km (1250 nm) mark to the Juan de Fuca Strait, we cannot get there fast enough. Sometimes we wish we had a giant dial aboard, counting our miles covered and what we have left to do, a colorful, ridiculous thing with little doors to open for each big milestone, like opening a door on a christmas calendar, but with lotus roots and beer as prizes.
    
 ##### 2100
-Dall's porpoises came by briefly today, white-bellied friends. We could see them, leaping out of the water from afar. They had a lot of air time! Wish they'd stayed longer.
+Dall's porpoises came by briefly today, white-bellied friends. We could see them, leaping out of the water from afar. Wish they'd stayed longer.
 
 I'm doing my best to stay upbeat, but I am getting worn down by all this grey weather and oncoming storms, I might be feeling this way because I am tired, I've had trouble getting deep sleep. I didn't sleep well last night because of AIS beeping, warning us of a ship. Then after that, the wind died and the jib was flapping rudely. We always wait a little before furling it, as sometimes the wind comes right back. It did return, but it was weak and we had to furl it after all.
 
@@ -1649,10 +1661,10 @@ Light comes early now, on Japan time. We have oatmeal, as we are both starving. 
 Coffee time, and weather checking. The dance of storms continues, our partner will swoop us up tonight. We'll reduce sail before that happens. The wind turned not long after coffee, weakening from west to south, bringing plenty of rain.
 
 ##### 0700
-The wind has lessened, rain has stopped. We unfurl the jib again, adding to our speed. Devine makes soba with wasabi for lunch, we eat in turns. Then I read two shorts from Cyberiad aloud to Devine. The wind is good and permits Devine to steer well enough from inside. Thankful for this moment of brief calm where we can do things together, to keep our minds off the ocean and the weather.
+The wind has lessened, rain has stopped. We unfurl the jib again, adding to our speed. Devine makes soba with wasabi for lunch, we eat in turns. Then I read two shorts from *Cyberiad* aloud to Devine. The wind is good and permits Devine to steer well enough from inside. Thankful for this moment of brief calm where we can do things together, to keep our minds off the ocean and the weather.
    
 ##### 1400
-Japanese curry (see recipe) for dinner! Yep, we still have a ton of these and we are not tired yet. I used up our 2 last sweet potatoes, some dried radish, dried tofu and soy bits. Glad that we brought 3x900 g of TVP (see pino's pantry), and 10 packs of dried tofu (with 5 per pack), this stuff adds bulk to our meals, filling us right up. We have a glass of wine, and enjoy it for a short hour before I go back to steer Pino along.
+Japanese curry (see recipe) for dinner! Yep, we still have a ton of these and we are not tired yet. I used up our 2 last sweet potatoes, some dried radish, dried tofu and soy bits. Glad that we brought 3x900 g of TVP (see pino's pantry), and 10 packs of kouya-doufu (dried tofu, 5 per pack), this stuff adds bulk to our meals, filling us right up. We have a glass of wine, and enjoy it for a short hour before I go back to steer Pino along.
 
 We've been pushing hard these past few days, doing as much distance as we can to position ourselves well to the weather. It has paid off, but it is exhausting, as these systems don't stop coming, ever. At least we are dry, there is little rain and it isn't overly cold.
    
@@ -1680,9 +1692,9 @@ Devine wakes up, staring at me from his bunk. "Hungry!." He was hungry before he
 At this point in the trip, I've reached maximum annoyance with this ocean, made worst by my own hunger, accumulated tiredness and the fact that I don't have anymore clean pants to wear. I've got to choose the pair that stinks the least, or the one that is the least damp. Tough choice. My fleece has an odor in it that I can't stand, I smell it every hour of every day, it smells old, damp and well-worn. I keep wearing it though, just like I keep wearing the same pair of blue wool socks, as they're what's keeping me warm. I shook the salt crystals out of them, then back on my feet they went! Devine's been wearing the same pants since the start. All our clothes are looking past their best, 39 days of cold and wet sailing will do that. It's actually been 40 days, but since we've experienced July 1st twice I like to subtract that day, it makes me feel good to pretend we haven't reached 40 yet.
    
 ##### 1200
-We open our '1,852 km (1000 nm) to Vancouver Island' prize, the bag of sliced renkon (lotus root) preserved in a sweet soy sauce. It is such a delicious mix, glad we got it, because at this point in the trip we're doing poorly on the fresh vegetable front. We have a few white potatoes left, that's it.
+We open our "1,852 km (1000 nm) to Vancouver Island" prize, the bag of sliced renkon (lotus root) preserved in a sweet soy sauce. It is such a delicious mix, glad we got it, because at this point in the trip we're doing poorly on the fresh vegetable front. We have a few white potatoes left, that's it.
 
-Now, we're down to 3 digits! This is definitely worth celebrating! We ate the renkon with soft tofu, short grain white rice (sushi rice) with bits of shredded nori, accompanied by a glass of red wine and some dekopon yokan (orange-flavored red bean cake) for desert. After dinner, I went to steer, then I switched places with Devine for 1 hour so I could have a break before my first long shift starts.
+We ate the renkon with soft tofu, short grain white rice (sushi rice) with bits of shredded nori, accompanied by a glass of red wine and some dekopon yokan (orange-flavored red bean cake) for desert. After dinner, I went to steer, then I switched places with Devine for 1 hour so I could have a break before my first long shift starts.
    
 ##### 2200
 Very tame winds and seas tonight, I keep over-steering because of how calm it is, causing the jib to flap and the jib sheet blocks to knock around noisily on deck. Even with this noise, which occurs every 15 minutes, Devine doesn't wake. I over-steer because I am tired, it is hard to focus. My movements are jerky, lacking in precision. I'm too tired to brainstorm, all I've got is the muted sounds of a calm ocean, a sound that can lull you to sleep in a second if you're not careful.
@@ -1700,7 +1712,7 @@ Very tame winds and seas tonight, I keep over-steering because of how calm it is
 All my shifts were hard, spent fighting sleep. It is hard to fight such a determined opponent. Every chance it gets, it creeps up on me, and robs me of my wakefulness. With nothing to focus my eyes on, it is quite hard to keep entertained. The sun rises in the last 2 hours of my last shift, it'll be easier then to ward off the sandman. I am looking forward to more than 2h30 hours of consecutive sleep, but after 40 days of travel, I am impressed we can keep our energy up. On the 28-day transit to Nuku Hiva, both of us were hallucinating at night, constantly near the end. We don't suffer from this now because the days are long. Many hours of darkness makes it difficult to keep sane.
    
 ##### 0300
-Oatmeal time! Seems like we'll have enough oats for the entire trip after all, I am glad, as I don't care to eat anything else in the morning. When it comes to breakfast, I am a creature of habit, and it looks as though I've converted Devine (he normally favors cereal).
+Oatmeal time. Seems like we'll have enough oats for the entire trip after all, I am glad, as I don't care to eat anything else in the morning. When it comes to breakfast, I am a creature of habit, and it looks as though I've converted Devine (he normally favors cereal).
 
 We download the weather, coffee in hand. We're southeast of a bad streak of weather, riding alongside in calmer winds. We are making good speed and don't have to worry about being over-canvassed. We'll be going along this streak for the next two days, then it looks like a patch of calmer weather approaches. Devine changed the GRIB file coordinates yet again so we could see the wind on the west coast of Canada. It's nice to finally see what's brewing in this region! The wind here circles the Pacific High, clockwise. We are about 1,630 km (880 nm) from the entrance to the Juan de Fuca Strait, and it is crazy to think that we are so close! I'm still waiting for something bad to happen, something that will keep us from our goal. It is almost too crazy to be true. Land, and not just any land, home, where we started from in August 2016. I'm both excited and scared.
    
@@ -1708,7 +1720,7 @@ We download the weather, coffee in hand. We're southeast of a bad streak of weat
 We make soba with renkon (lotus root) left-over from last night, as yet again, we are hungry, insatiable sea beasts! We eat well enough, I don't understand why our stomachs are so demanding. Boredom? Maybe. The motion of the boat is constant, and we are awake for much longer in a day, it's possible that this is why we're hungry, always. Also, our legs are always sore, from standing, from shifting our weight back and forth all day.
    
 ##### 0800
-THE SUN. THE SKY. Today is the day we've been waiting for, a calm day of full bright sun with clear skies! We bring clothes outside to dry, foul-weather gear, cushions and shoes. While taking things out, we discovered many more patches of mold. A gym bag we found was covered in green moss—ick! We found two wooden plates, also fuzzy. Today's day of sun turned into operation clean-up. I cleaned the mold off the cabin walls with white vinegar, wiped moisture from under the cushions and left dishtowels out to dry on the lifelines.
+The sun. The sky. Today is the day we've been waiting for, a calm day of full bright sun with clear skies! We bring clothes outside to dry, foul-weather gear, cushions and shoes. While taking things out, we discovered many more patches of mold. A gym bag we found was covered in green moss. We found two wooden plates, also fuzzy. Today's day of sun turned into operation clean-up. I cleaned the mold off the cabin walls with white vinegar, wiped moisture from under the cushions and left dishtowels out to dry on the lifelines.
 
 Pino was a turn-key boat when we bought it, and 5 years of hard sailing have turned it into a project boat.
    
@@ -1716,7 +1728,7 @@ Pino was a turn-key boat when we bought it, and 5 years of hard sailing have tur
 We're starting night shifts earlier today, to try and delay the sunrise hour to a more reasonable time. Because of this, I prepared lunch earlier, I made deconstructed pâté chinois (see recipes), using up 2 white potatoes out of 5. We still have plenty of cans, not the most nutritious of foods, but it’s better than nothing. Our locker is FULL of soy beans though, I bought extra so we could continue to prepare soybean hummus in BC.
 
 ##### 1400
-Clouds are rolling in, the low is catching up! Things are good, for now, as we can self-steer. Devine is reading *The care and feeding of the offshore crew* by Lin Pardey for the hundredth time, and I'm checking the manual for our Yanmar engine. I noticed it was leaking oil, a fairly new development, and I'm not sure why? I wiped the oil off, and we'll test it to see if it happens again. With a clean area under the engine, it'll be easier to see where the leak is coming from.
+Clouds are rolling in, the low is catching up! Things are good, for now, as we can self-steer. Devine is reading *The Care and Feeding of the Offshore Crew* by Lin Pardey for the hundredth time, and I'm checking the manual for our Yanmar engine. I noticed it was leaking oil, a fairly new development, and I'm not sure why? I wiped the oil off, and we'll test it to see if it happens again. With a clean area under the engine, it'll be easier to see where the leak is coming from.
    
 ##### 2230
 Ah, morning at near eleven, I like that the sun rises at this time. The night was uneventful, with Pino steering itself on increasing winds and seas. We've managed to bypass a lot of bad weather these past few days, not sure can avoid this system entirely, but for now we're placed well to it, and even if we get sucked into it the winds should not get too high. In this point of sail though, we get tossed around a lot, with waves hitting our side.
@@ -1740,7 +1752,7 @@ Today, as Anja from Robusta would say, we are being tossed around like a soba. T
 ##### 0600
 We make kuromame kiri mochi (rice cake with black beans) with kimchi and soft tofu for lunch. Wished I'd bought more of this brand of mochi. Because it is sliced thinly, it cooks fast, and has a nice texture and taste. The company making it is called "usagi mochi" (rabbit rice cakes), their logo features an illustration of two rabbits pounding mochi and it is too perfect!
 
-We continue readings of Cyberiad, an activity we look forward to everyday, where we wander into the imagination of another, offering some respite from our own as we spend plenty of time in our own heads. We've done a lot of thinking in this trip, now we need to start doing. Our thinking quotas have been spent.
+We continue readings of *Cyberiad*, an activity we look forward to everyday, where we wander into the imagination of another, offering some respite from our own as we spend plenty of time in our own heads. We've done a lot of thinking in this trip, now we need to start doing. Our thinking quotas have been spent.
    
 ##### 1030
 I make *soumen (wheat noodles) with a lentil sauce* (see recipes) and served with a sweet potato I found! It had fallen out of the basket where I store them under the sink. Glad I found it, as its sweetness lends itself well to the dish, I'm glad I found it now instead of later, rotten and oozing in the bilge. There is nothing worse than rotten potato smell. Later, we share our “1,389 km (750 nm) to Vancouver Island Yebisu” as I continue to read Cyberiad.
@@ -1799,16 +1811,16 @@ We got some good wind for 1 hour, then off it went again, I guess it didn't feel
 Do we still like the ocean? Yes, of course we still like it, we've spent too much time in it as of late, but we'll always love it. During this trip, we'd often ask ourselves, why do we do this? Why put ourselves through this crazy sailing across a vast ocean business? We don't really know why, but when we left Canada with Pino to go south, we knew we'd be taking it back home afterwards, that was a promise we'd made. No matter what, Pino would come back with us. We're a team, and we're closing this circle together.
 
 ##### 1300
-What to say about today. Calm days are torture when this close to our goal. The waves are slow but frequent, tossing us around. The calm, according to this morning's weather, will stay until this evening, 6 long hours away. I tried steering with the 5 km/h (2-3 kn) of wind there was, but it is too much work for too little reward. Devine is reading Akira, while I sit outside, watching the horizon for ripples in the water. My patience meter depleted, I went inside to clean the dishes dirtied from dinner. I made rice with soybeans, topped with a sweet and sour sauce, sauteed with some dried seaweed and 1/2 the potato from yesterday. We're eating a lot of beans these days, it was a staple on this trip, eaten in the form of soybeans, dry tofu, silken tofu, kuromame, yokan and kinako powder. 
+What to say about today. Calm days are torture when this close to our goal. The waves are slow but frequent, tossing us around. The calm, according to this morning's weather, will stay until this evening, 6 long hours away. I tried steering with the 2-3 kn of wind there was, but it is too much work for too little reward. Devine is reading *Akira* by Katsuhiro Otomo, while I sit outside, watching the horizon for ripples in the water. My patience meter depleted, I went inside to clean the dishes dirtied from dinner. I made rice with soybeans, topped with a sweet and sour sauce, sauteed with some dried seaweed and 1/2 the potato from yesterday. We're eating a lot of beans these days, it was a staple on this trip, eaten in the form of soybeans, kouya-doufu tofu, silken tofu, kuromame, yokan and kinako powder. 
 
-Looks like this day will consist mostly of sleeping, reading and waiting for wind. People on land complained of boredom during their Coronavirus quarantine, well, they'd go stir-crazy on a voyage like this. This is quarantine on steroids. There is no internet, not enough power to watch films all day, not enough books to read, limited water and food... and a look outside our window offers nothing but grey.
+Looks like this day will consist mostly of sleeping, reading and waiting for wind. People on land complained of boredom during their Coronavirus quarantine, well, they'd go stir-crazy on a voyage like this. This is quarantine on steroids. There is no internet, not enough power to watch films all day, not enough books to read, limited water and food, and a look outside our window offers nothing but grey.
 
 I've noticed I've always got one word stuck in my head, a new one everyday that I repeat like a mantra. The word stays with me, especially when I'm too tired to think. Today's word is “flummoxed”, yesterday's was “cassowary”. Not all words are as great as these, a week ago I kept repeating the phrase “tits up”, tirelessly. Maybe this is my brain's way of dealing with boredom. Repetition. Keeping the space filled with words leave little room for anxiety to take root.
 
 Today, I re-packed our ditch bag, the current canvas bag grew a bit of mold as it lay under the space where we'd hang our wet clothes. I pulled out what I thought to be a large dry bag, thought it would serve as a good replacement. I rolled it out once to look at it, but never tried to pack anything into it, I'd noticed then how long it was and thought it would be perfect for this. I assumed it had as much girth as it had length—far from! I put two big items in, and noticed how narrow it was, and so instead of bulging outward it grew skyward. With all the items packed in, it was no wider than a soccer ball, but reached up to my waist, like a long, awkward, slender worm. I named it “the lumpy sausage”. Now every time I look at it, I can't stop laughing.
 
 ##### 2300
-The wind returned! I switched the sails (as they were on the wrong side) and we sped off! The wind started fast, blowing at a good 24 km/h (13 kn)—perfect. Well, it would have been perfect if I hadn't looked at AIS to see that there was a large cargo ship heading straight for us, running on the same longitude. Damn! I thought. Diverting southward seemed dumb as it was angling more that way, so I tightened the sheets and went as close to the wind as I could. It was enough to steer us 1.852 km (1 nm) north of it. I saw its lights as it passed us, relieved and thankful for AIS, it saves us a lot of time and anxiety. It's easy to see their course and to divert appropriately ahead of time.
+The wind returned! I switched the sails (as they were on the wrong side) and we sped off! The wind started fast, at a moderate breeze—perfect. Well, it would have been perfect if I hadn't looked at AIS to see that there was a large cargo ship heading straight for us, running on the same longitude. *Damn*, I thought. Diverting southward seemed dumb as it was angling more that way, so I tightened the sheets and went as close to the wind as I could. It was enough to steer us 1.852 km (1 nm) north of it. I saw its lights as it passed us, relieved and thankful for AIS, it saves us a lot of time and anxiety. It's easy to see their course and to divert appropriately ahead of time.
 
 The rest of the night was uneventful, we are zooming forward, beating into the wind and waves. Last night was especially cold though, even with two sleeping bags I was frozen. Now, I sit at the chart table, fleece and puffy jackets on, tuque, scarf and foul-weather pants and I feel better, especially too since I've just finished a bowl of warm oats.
 
@@ -1824,16 +1836,16 @@ The rest of the night was uneventful, we are zooming forward, beating into the w
 ##### 0400
 Beautiful sailing today, so far! The wind is coming out of the north, Pino is self-steering to the northeast in direction of Vancouver Island. The sky is blue in part, but as before, it is cold. I doubled up my leggings with another pair I found, and slipped on another sweater for a total of 3, plus scarf and tuque. It is always cooler inside the boat, as it retains much humidity.
 
-Devine is taking notes on his computer, while I've just awoken from a post-coffee nap. We're going to prepare lunch soon! We're in the habit of always discussing what we'll be cooking while having coffee, we look at the state of our ingredients and plan based on that. We still have plenty of canned kimchi, a few cans of corn, 1 of potato and plenty of beans. We still have a jar of dried radish, which I'm really thankful for! The daikon adds variety and texture to our meals. I found one full bag of kiri mochi, a nice surprise as I thought we'd finished them all. Our supplies have definitely dwindled, but did so at a reasonable pace.
+Devine is taking notes on his computer, while I've just awoken from a post-coffee nap. We're going to prepare lunch soon! We're in the habit of always discussing what we'll be cooking while having coffee, we look at the state of our ingredients and plan based on that. We still have plenty of kimchi, lots of corn, 1 of potato and plenty of beans. We still have a jar of dried radish, which I'm really thankful for! The daikon adds variety and texture to our meals. I found one full bag of kiri mochi, a nice surprise as I thought we'd finished them all. Our supplies have definitely dwindled, but did so at a reasonable pace.
 
-We've been lighting candles at night, to keep the inside of the cabin lit while not disturbing whoever is asleep. We've gone through most of our collection, but still have 1 long one, which we'll use up tonight, and 3 little ones that only last 3 hours each. We need more candles aboard. The lighting is soothing, pleasant, and uses no power. Devine found a clever way to set up the tall ones, in a way that they won't fall over. They sit on a plate on the gimballed stove, secured by two pot holders.
+We've been lighting candles at night, to keep the inside of the cabin lit while not disturbing whoever is asleep. We've gone through most of our collection, but still have 1 long one, which we'll use up tonight, and 3 little ones that only last 3 hours each. We need more candles aboard. The lighting is soothing, pleasant, and uses no power. Devine found a clever way to set up the tall ones, in a way that they stay upright. They sit on a plate on the gimballed stove, secured by two pot holders.
 
 ##### 2000
-Devine prepared all meals today, with lunch consisting of one-pot pasta, cooked in very little water with all of the ingredients mixed in (chilies, soy bits, olive oil, garlic). The water and flavor is absorbed by the noodles, there is no waste and it's very, very good, especially if topped by shredded nori. Dinner was a stir-fried rice dish with kimchi, soft tofu and corn. We finished the last of the chocolate cake too.
+Devine prepared all meals today, with lunch consisting of one-pot pasta, cooked in very little water with all of the ingredients mixed in (chilies, TVP, olive oil, garlic). The water and flavor is absorbed by the noodles, there is no waste and it's very, very good, especially if topped by shredded nori. Dinner was a *stir-fried rice dish with kimchi* (see recipes), soft tofu and corn. We finished the last of the chocolate cake too.
 
 Today was very quiet, with Devine doing a lot of writing and reading, and me drawing, keeping watch outside and sleeping. I was very sleepy today, so sleepy I nearly fell asleep while steering from the companionway stairs. I took 2 naps, on top of the 5 hours I get per night. I think the reason I may be tired is because we've been shifting hours around, delaying the time our night watches start as the night is coming earlier and earlier as we go east. Days of calm also mess up our sleeping schedule, as we don't adhere to strict rules, we sleep whenever. My body demands a steady sleeping schedule to function, something that is hard to come by on a passage. We're looking forward to sleeping a full night together in the same bunk, it's been too long, I crave both rest and companionship.
 
-Tonight promises winds of 18-28 km/h (10-15 kn), smooth, easy sailing. We made it under 926 km (500 nm), now THAT is exciting! We've got maybe 4 1/2 days left, if the wind holds! We finally switched away from Japan time to Vancouver time, now hours of the day feel more normal.
+Tonight promises a moderate breeze, smooth, easy sailing. We made it under 926 km (500 nm), now THAT is exciting! We've got maybe 4 1/2 days left, if the wind holds! We finally switched away from Japan time to Vancouver time, now hours of the day feel more normal.
 
 \newpage
 
@@ -1872,7 +1884,7 @@ We have coffee later today, as Devine is too sleepy to wait. At this time my bod
 We put on Watchmen, gawked at the cinematography. It's nice to be distracted from sailing, for once. We needed to have these little movie marathons, it makes our world feel normal. We take breaks to peek outside now and again, as the sky is gorgeous! The clouds are puffy and dark on the horizon, but there are none above us. We haven't had fog in a while, very glad for clear days of full visibility, it helps brighten our mood. Because the seas are calm, I decided to make a small batch of pitas.
 
 ##### 1800
-We watch Kiki's delivery service while eating Japanese curry. Wind is still at our backs, we're doing good speed and think we might be able to bypass that coming patch of calm. It's weird to stare ahead and to think that Vancouver Island is out there, that it'll appear on the horizon soon. It's okay to start thinking in 'whens' now, rather than in 'maybes' and 'ifs'. We are arriving. It's happening. Looking at our track is strange, I remember doing it but it is surreal. It's strange to have the past, present and future in focus.
+We watch Kiki's Delivery Service while eating Japanese curry. Wind is still at our backs, we're doing good speed and think we might be able to bypass that coming patch of calm. It's weird to stare ahead and to think that Vancouver Island is out there, that it'll appear on the horizon soon. It's okay to start thinking in 'whens' now, rather than in "maybes" and "ifs". We are arriving. It's happening. Looking at our track is strange, I remember doing it but it is surreal. It's strange to have the past, present and future in focus.
 
 \newpage
 
@@ -1884,10 +1896,10 @@ We watch Kiki's delivery service while eating Japanese curry. Wind is still at o
     Distance to Victoria: 7,153 km (3868 nm)
 
 ##### 0300
-Devine has been devouring books. He finished Dante's Purgatorio, Don Quixote and is now nearly done with One-Straw Revolution. It is rare nowadays for us to have so many consecutive hours of no plans, no work and no social obligations, it is too easy to go through books, but I also suspect that Devine is a fast reader. He spends his entire night shifts standing on the companionway stairs, Kindle in hand, rope in the other. His brain must be whirring hard because he ate two pitas last night.
+Devine has been devouring books. He finished Dante's *Purgatorio*, Cervante's *Don Quixote* and is now nearly done with *One-Straw Revolution* by Masanobu Fukuoka. It is rare nowadays for us to have so many consecutive hours of no plans, no work and no social obligations, it is too easy to go through books, but I also suspect that Devine is a fast reader. He spends his entire night shifts standing on the companionway stairs, Kindle in hand, rope in the other. His brain must be whirring hard because he ate two pitas last night.
 
 ##### 0600
-We have a foot pump in the galley, with a pedal pushing against the pump to draw out water. One of the two pegs securing the pedal to the pump broke yesterday—not an easy fix. We have a spare pedal, but the fitting requires removing both the intake and outtake hoses, not very convenient. It is hard to do a good seal, as the hoses are old, and this late into the trip I don't want to risk losing any water due to leaks. I did a temporary fix, with a rope wrapping around the top of the pedal to a pipe running underneath it, this helps keep the broken peg down, and I also added tape pulling the pedal forward to even it out. It's working well, so far! Let's hope it holds.
+We have a foot pump in the galley, with a pedal pushing against the pump to draw out water. One of the two pegs securing the pedal to the pump broke yesterday—not an easy fix. We have a spare pedal, but the fitting requires removing both the intake and outtake hoses, not very convenient. It is hard to do a good seal, as the hoses are old, and this late into the trip I don't want to risk losing any water due to leaks. I did a temporary fix, with a rope wrapping around the top of the pedal to a pipe running underneath it, this helps keep the broken peg down, and I also added tape pulling the pedal forward to even it out. It's working well so far, let's hope it holds.
 
 ##### 1100
 After coffee, comes soba. Devine prepares soba for lunch with wasabi and TVP. We cook them in so little water that they absorb it all. It results in soba covered in a gooey secretion that soba masters would shame us for, but we're okay with it, it tastes delicious and there is no waste. Soba masters don't have to worry about water, we have a good excuse.
@@ -1895,7 +1907,7 @@ After coffee, comes soba. Devine prepares soba for lunch with wasabi and TVP. We
 We've got 389 km (210 nm) left. We've awakened Calcifer so we could motor through a calm to get past 130°W, where the wind is scheduled to return. There is a mean system forming in the ocean a few days from now, and we don't want to be in it. We're done having storms chase us. It is nice today, with calm seas, a warm sun and clear skies. We're sitting outside, getting some Vitamin D while trying to picture the outline of Vancouver Island in the distance. At times at sea, we see cloud patterns on the horizon that look like land, like mountains. It is too easy to trick our brains into believing there's actual land there, it's easy to warp our sense of space. We haven't seen land in 47 days, maybe it's easy to do because our brains long for the sight of land, for the shadows of great snowy peaks rising in the east. Soon, soon. In the meantime, we've got to watch for traffic. The Juan de Fuca Strait is a busy sea way, though after navigating the east coast of Japan I can't say I'm too worried, instead of 100 targets we'll get 20 and that is fine.
 
 ##### 2020
-We reached 130°W and put Calcifer to sleep around 1600. A bank of fog rolled in, and right back out, we're glad it didn't decide to stick around as we are really enjoying the fair weather we've been having, it's like being fully awake. Fog dulls your senses. The wind is returning gradually, we are cruising along slowly. It is easy to sail on little wind when there are no waves. Wavelets are the best. Cruising at 7 km/h (4 kn) with a full jib and double-reefed main. We don't have to keep it reefed but at this point in the trip we are lazy, and besides, our speed is good. We've got 333 km (180 nm) left! Soon we'll be aligned with the top of Vancouver Island!!!
+We reached 130°W and put Calcifer to sleep around 1600. A bank of fog rolled in, and right back out, we're glad it didn't decide to stick around as we are really enjoying the fair weather we've been having, it's like being fully awake. Fog dulls your senses. The wind is returning gradually, we are cruising along slowly. It is easy to sail on little wind when there are no waves. Wavelets are the best. Cruising at 4 kn with a full jib and double-reefed main. We don't have to keep it reefed but at this point in the trip we are lazy, and besides, our speed is good. We've got 333 km (180 nm) left! Soon we'll be aligned with the top of Vancouver Island!!!
 
 We are watching The Incredibles 2 this evening, with some popcorn! A little treat is nice every now and then. We're going to watch it until our night shifts behind at 2100. Things should be smooth tonight, here's hoping we make good speed and get there fast.
 
@@ -1929,10 +1941,10 @@ Because of the very bad weather, and because it will be our last night in the Pa
 Beautiful night. Winds are calm now, as we have left the bad patch of weather behind. I can see the stars! Also, the bio luminescence in the water is crazy! Every wave splashing stirs up an explosion of sparkling green light. We feel better now, as we survived yet another hard moment. The coast lies ahead, we are near but can't see its outline yet.
 
 ##### 0800
-"LAND!" Devine screams at me as I sleep. "LAND!" I scream back at him, sitting up in the bed. It's land! It's here! It's REAL. We are almost home! Except, the wind has died, and we are motoring. We've got a full tank plus an extra can, we'll be good to make it to Victoria with this. We hope to sail part of the way though, wind permitting. The entrance buoy is 37 km (20 nm) away! Then, we're that much closer to Victoria Harbour—another big milestone. Shipping is heavy, especially as we near the buoy, but it is easy to plan with AIS. We do our best to stay out of their way.
+"**LAND!**" Devine screams at me as I sleep. "**LAND!**" I scream back at him, sitting up in the bed. It's land! It's here! It's REAL. We are almost home! Except, the wind has died, and we are motoring. We've got a full tank plus an extra can, we'll be good to make it to Victoria with this. We hope to sail part of the way though, wind permitting. The entrance buoy is 37 km (20 nm) away! Then, we're that much closer to Victoria Harbour—another big milestone. Shipping is heavy, especially as we near the buoy, but it is easy to plan with AIS. We do our best to stay out of their way.
 
 ##### 1200
-We are passing the entrance buoy and the Swiftsure Bank. The current is against us, but it is supposed to switch soon and we'll have 2 km/h (1 knot) with us. We continue to motor as we lie in the path of ships, we need to steer further to clear the busy lanes.
+We are passing the entrance buoy and the Swiftsure Bank. The current is against us, but it is supposed to switch soon and we'll have 1 kn with us. We continue to motor as we lie in the path of ships, we need to steer further to clear the busy lanes.
 
 We can see land on both sides! The day is perfect, just perfect. Well, it would be perfect if there was wind! Devine makes soba and serves it with our last Tetra-pak of soft tofu.
 
@@ -1942,7 +1954,7 @@ We see something moving in the water a good distance away—a sailboat? No. Ther
 Meanwhile, a jet traces line in the sky, a whale-watching boat zooms around us, making our AIS go crazy, there are little fishing boats bobbing around near the Swiftsure Bank too. It is so busy here, and alive. It feels good to be somewhere lively again, so, so good.
 
 ##### 1400
-The wind came back and we can sail! We're doing a good 9 km/h (5 kn), cruising alongside the shipping channel. We finally made it out, away from the threat of these behemoths. It looks like we'll arrive in Victoria Harbour tomorrow morning, with yet another night spent on the water. It's fine, but it looks like it'll be spent in obscurity as there is fog coming. Glad it stayed away for most of the day, granting us an amazing view of the coast. I make dessert pancakes, using up the rest of our maple syrup.
+The wind came back and we can sail! We're doing a good 5 kn, cruising alongside the shipping channel. We finally made it out, away from the threat of these behemoths. It looks like we'll arrive in Victoria Harbour tomorrow morning, with yet another night spent on the water. It's fine, but it looks like it'll be spent in obscurity as there is fog coming. Glad it stayed away for most of the day, granting us an amazing view of the coast. I make dessert pancakes, using up the rest of our maple syrup.
 
 ##### 1900
 Devine makes spaghetti aioli for dinner, we drink matcha afterwards and watch The Royal Tenenbaums. We take turns looking outside, keeping watch. The fog has only set on the south side of the Strait, on the American side. The wind is still good, we're running downwind.
@@ -1957,7 +1969,7 @@ Devine makes spaghetti aioli for dinner, we drink matcha afterwards and watch Th
     Distance to Victoria: 8,417 km (4545 nm)
 
 ##### 0200
-The wind has increased a lot, we ran at 11 km/h (6 kn) under a reefed main all evening, but as we neared Sooke the current turned against us, in strength! To go forward, we had to use the iron wind. Calcifer helped us go forward, but it felt like pushing through jelly. We had trouble making it around the Race Rocks lighthouse. Its light lay ahead, and we weren't getting past it. Devine was steering outside, and I was in the doorway, telling him to go south or north, zigzagging to work our way east as going straight on was not possible with this current. I was directing him because we had a very narrow corridor to work with, with Race Rocks to the north, and a busy shipping channel lane to the south. I had my eyes on both Navionics and AIS. As we lay south of the lighthouse, 5 cargo ships were moving in the lane south of us, back to back to back. I couldn't believe the timing of it. If no one had been there, we could have used that space, to tack out to avoid the worst of the current which is stronger near the lighthouse. This wasn't an option tonight.
+The wind has increased a lot, we ran at 11 km/h (6 kn) under a reefed main all evening, but as we neared Sooke the current turned against us, in strength! To go forward, we had to use the iron wind. Calcifer helped us go forward, but it felt like pushing through jelly. We had trouble making it around the Race Rocks Lighthouse. Its light lay ahead, and we weren't getting past it. Devine was steering outside, and I was in the doorway, telling him to go south or north, zigzagging to work our way east as going straight on was not possible with this current. I was directing him because we had a very narrow corridor to work with, with Race Rocks to the north, and a busy shipping channel lane to the south. I had my eyes on both Navionics and AIS. As we lay south of the lighthouse, 5 cargo ships were moving in the lane south of us, back to back to back. I couldn't believe the timing of it. If no one had been there, we could have used that space, to tack out to avoid the worst of the current which is stronger near the lighthouse. This wasn't an option tonight.
 
 Because of the difficult conditions and our imminent arrival, we both skipped sleep, knowing we'd be in a harbour soon and could rest then.
 
@@ -2044,97 +2056,65 @@ Thank you for reading.
 
 At sea, cooking is an activity that divides our days, and that has the greatest effect on our energy level and happiness. We take turns cooking in the galley, Devine prepares lunch and I, dinner. When the weather's bad, or that one of us lacks inspiration, one may choose to prepare both meals in a day, but overall, it's a task we prefer to share.
 
-Below is a list of items that we had aboard Pino on the passage from Japan to Canada, followed by recipes that were mentioned earlier in the book.
+Below is a list of the more cryptic items we had aboard Pino on the passage from Japan to Canada, followed by recipes that were mentioned earlier in the book.
 
 #### Textured vegetable protein (TVP)
 
-> TVP is a soy product, made from defatted soy flour that's been cooked under pressure, and then dried. It is a shelf stable product that comes in a variety of shapes, ranging from tiny pellets to large nuggets. Aboard Pino, we prefer the smaller grind, as it doesn't use up as much volume in a jar. We use it instead of mince meat in spagehtti sauces, sheperd's pie or tacos. 
+> TVP is a soy product, made from defatted soy flour that's been cooked under pressure, and then dried. It is a shelf stable product that comes in a variety of shapes, ranging from tiny pellets to larger nuggets. Aboard Pino, we prefer the smaller grind, as it doesn't use up as much volume in a jar. We use it instead of mince meat in spagehtti sauces, sheperd's pie or tacos. 
 
 #### Nori
 
-> Nori is an edible species of red algea. It has a strong flavor, and is often used in dried sheets to wrap sushi. Dried sheets of seaweed are made by a shredding and rack-drying process that resembled papermaking. Nori sheets should be kept in an air-tight container because they can easily absorb water from the air.
+> Nori is an edible species of red algea. It has a strong flavor, and is often used in dried sheets to wrap sushi. Dried sheets of seaweed are made by a shredding and rack-drying process that resembled papermaking. Nori sheets should be kept in an air-tight container because they can easily absorb water from the air. We like to use it as a garnish on many dishes.
 
-> It is also a garnish or flavoring in noodle preparations and soups. 
+#### Kouya-doufu
 
-#### Koya-dofu
-
-> Koya-dofu is freeze-dried tofu. The variety sold in stores is made with soy, coagulants, and baking soda. It resembles a hard sponge, and needs to be re-hydrated for 5 minutes, and then firmly pressed before use. It can be ground into tofu meal and flour. This tofu kept us fed on this trip, we bought many boxes and had many left-over in the end. Tetra-pak tofu was hard to come by in Japan, and this was a welcomed replacement.
+> Kouya-doufu is freeze-dried tofu. The variety sold in stores is made with soy, coagulants, and baking soda. It resembles a hard sponge, and needs to be re-hydrated for 5 minutes, and then firmly pressed before use. It can be ground into tofu meal and flour. This type of tofu kept us fed on this trip, we bought many boxes and had many left over in the end. Tetra-pak tofu was hard to come by in Japan, and this was a welcomed replacement.
 
 > Japan has a long history of freezing foods that contain a large amount of water, then thawing and drying them to remove all moisture to produce a lightweight, dehydrated food with a long shelf life. This practice is said to have originated on Mt. Koya:
 
-> "According to undocumented legend, it was developed by a Shingon priest named Mokujiki Shonin, who succeeded Kakkai-sonja. He obtained large amounts of soybeans from the head Shingon temple and encouraged each of the mountain temples to make their own tofu, miso, and shoyu. In order to preserve some of the frozen tofu until the spring equinox, he developed a system for drying it as follows. Firm tofu was frozen outdoors in the snow on cold windy nights, allowed to stand on shelves in a shed for 5-15 days at temperatures below freezing, thawed in warm water and pressed lightly to expel the melted ice, then dried in the shed using heat from charcoal braziers. (W. Shurtleff et.at A. Aoyagi, 2004)"
-
-#### Peanut butter
-
-> A spread made from dry-roasted peanuts without added sugar or oils are preferable. We enjoy making our own using our food chopper (meat grinder), running the peanuts twice to get a smooth texture. Roasted, unsalted red-skinned peanuts yield the best flavor and texture. 
-
-> Peanut butter is a rich source of protein, we always keep a jar in our ditch bag. Consuming it regularly on a passage helps keep our energy levels high.
-
-> Additive-free peanut butter in Japan is difficult to find, or it is very expensive. For the passage to Canada, I also bought nerigoma (tahini). It is available in most grocery stores in 100 g jars, or in large bags of 1 kg. In japan, they also stock kuro nerigoma (black sesame pasta), which has a deeper, more complex flavor, but like peanut butter, some varieties have added sugar. Look for jars with 100% sesame as the sole ingredient.
+> "According to undocumented legend, it was developed by a Shingon priest named Mokujiki Shonin, who succeeded Kakkai-sonja. He obtained large amounts of soybeans from the head Shingon temple and encouraged each of the mountain temples to make their own tofu, miso, and shoyu. In order to preserve some of the frozen tofu until the spring equinox, he developed a system for drying it as follows. Firm tofu was frozen outdoors in the snow on cold windy nights, allowed to stand on shelves in a shed for 5-15 days at temperatures below freezing, thawed in warm water and pressed lightly to expel the melted ice, then dried in the shed using heat from charcoal braziers." (W. Shurtleff et.at A. Aoyagi, 2004)
 
 #### Kombu dashi
 
 > Dashi is a soup stock and essential condiment in Japanese cuisine. Dashi contains one or two ingredients, and is often made from konbu (dried kelp), katsuoboshi (dried bonito flakes), shiitake (mushrooms), iriko/niboshi (dried anchovies/sardines) or a combination of these. Dashi creates a sweet, savoury umami flavor.
 
-> Dashi is used as a broth base for Japanese hot pot dishes, simmered dishes, noodle soups, it's also used as a seasoning liquid (for rice). Konbu dashi is the easiest stock to make, it has a subtle taste and is often mixed with shiitake dashi. The mushrooms used to make shiitake dashi are used for cooking.
+> Dashi is used as a broth base for Japanese hot pot dishes, simmered dishes, noodle soups, it's also used as a seasoning liquid (for rice). Konbu dashi is the easiest stock to make, it has a subtle taste and is often mixed with shiitake mushroom dashi. 
 
-> We carry kombu dashi granules aboard Pino, as a way to quickly flavor dishes. The alternative is to buy strips of dried kombu strips and to soak them in hot water. The seaweed flavor leeches into the liquid, which can then be used to flavor foods. On a boat, using whole konbu isn't ideal. Using granules is the next best thing. In grocery stores, they are usually sold in small indivually-wrapped packages. I bought a larger 500g bag of granules, which solved the packaging issue.
+> We carry kombu dashi granules aboard Pino, as a way to quickly flavor dishes. The alternative is to buy strips of dried kombu strips and to soak them in hot water. The seaweed flavor leeches into the liquid, which we use to flavor foods. On a boat, using whole konbu isn't ideal. Using granules is the next best thing. In grocery stores, they are usually sold in small indivually-wrapped packages. I bought a larger 500 g bag of granules, which solved the packaging issue.
 
 #### Miso
 
-> Miso is a traditional Japanese seasoning produced by fermenting soybeans with both salt and koji (fungus Aspergillus oryzae) and sometimes with rice, barley and seaweed. Miso is salty, but it's flavor and aroma depends on the ingredients used or the fermentation process. There is a wide variety of Japanese miso, it is typically classified by grain type (barley, buckwheat, rice etc), color (white, brown, black & red), taste (sweet, salty, earthy, fruity etc) and background (where it's from). The most common miso flavor categories are: Shiromiso (white), Akamiso (red) and Awasemiso (mixed). Generally speaking, the darker the color, the longer it’s been fermented and the stronger it will taste Miso is a rich source of protein. 
+> Miso is a traditional Japanese seasoning produced by fermenting soybeans with both salt and koji (fungus aspergillus oryzae) and sometimes with rice, barley and seaweed. Miso is salty, but it's flavor and aroma depends on the ingredients used or the fermentation process. There is a wide variety of Japanese miso, it is typically classified by grain type (barley, buckwheat, rice etc), color (white, brown, black & red), taste (sweet, salty, earthy, fruity etc) and background (where it's from). The most common miso flavor categories are: Shiromiso (white), Akamiso (red) and Awasemiso (mixed). Generally speaking, the darker the color, the longer it’s been fermented and the stronger it will taste Miso is a rich source of protein. 
 
 > The type we use in recipes, is a white, rice-based miso, that is sweet and earthy. White miso is excellent in soy bean hummus. We also carry a darker variety, a black miso that is very intense, but very good. The darker kind is used for dipping sauces and soups.
 
 > We prepare miso soup often on passages, especially when hungry during night-shifts. Just 1 tbsp in some hot water, with some dried wakame, makes for a comforting, and satisfying snack. Miso will lose its flavor if cooked for too long, so it is best to add it toward the end of the cooking process.
 
-#### Garlic powder
-
-> Garlic powder is dehydrated garlic. It is used in recipes where moisture content is key. 1/8th of a teaspoon of garlic powder equals one fresh garlic clove. To make garlic powder, the cloves are peeled and sliced, and then heated to a temperature of between 150-160°C to remove all moisture. The dehydrated garlic is then sliced, chopped and ground into a powder.
-
-> Garlic powder was a useful alternative to the fresh variety while in the South Pacific, as it was difficult to find. It's good when mixed into smooth sauces.
-
 #### Nutritional yeast
 
-> Nutritional yeast is a deactivated yeast, sold as yellow flakes or powder. It has a cheesy, nutty taste and flavor, and some fortified varieties are a good source of B12. 
+> Nutritional yeast is a deactivated yeast, sold as yellow flakes or powder. It has a cheesy, nutty taste and flavor, and some fortified varieties are a good source of B12. Its often confused with brewer’s yeast, but the two are distinct. Nutritional yeast adds a lot of depth and flavor to a variety of dishes, and acts as a dry, shelf-stable replacement for cheese. Nutritional yeast wasn't easy to come by in Japan, but we left New Zealand with plenty in stock. 
 
-> Nutritional yeast is often confused with brewer’s yeast, but the two are distinct. Brewer’s yeast is aptly named, as it was initially offered as a byproduct of the beer brewing industry. Nutritional yeast adds a lot of depth and flavor to a variety of dishes, and acts as a dry, shelf-stable replacement for cheese.
-
-> Nutritional yeast isn't easy to come by in Japan, but we left New Zealand with plenty in stock. Store in a dark, dry environment, as B12 is sensitive to both moisture and light.
+> Store the nutritional yeast flakes in a dark, dry environment, as B12 is sensitive to both moisture and light.
 
 #### Chickpea flour
 
-> Chickpea flour — also known as besan, channa dal or gram flour — is made from ground raw, or roasted chickpeas. Roasted varieties has more flavor, while the raw variety is bitter. Chickpea flour has a higher protein content than other flours.
-
-> This type of flour has a long shelf life due to the low-moisture, and low-fat content. Chickpea flour has a texture and taste that is ideal for savoury pancakes and omelettes. When mixed with an equal volume of water, it can be used as an egg replacement.
+> Chickpea flour—also known as besan, channa dal or gram flour—is made from ground raw, or roasted chickpeas. Roasted varieties has more flavor, while the raw variety is bitter. Chickpea flour has a higher protein content than other flours. This type of flour has a long shelf life due to the low-moisture, and low-fat content. Chickpea flour has a texture and taste that is ideal for savoury pancakes and omelettes. When mixed with an equal volume of water, it makes a convincing egg replacement.
 
 > Chickpea flour and besan flour are both made from chickpeas, but chickpea flour is more coarse and requires more water than besan. This should be taken into account when cooking.
 
 #### Mirin
 
-> Mirin is a condiment in Japanese cuisine. It's a type of rice wine, but with a lower alcohol and higher sugar content than sake. The sugars form naturally during the fermentation process, and are not added.
+> Mirin is a condiment in Japanese cuisine. It's a type of rice wine, but with a lower alcohol and higher sugar content than sake. The sugars form naturally during the fermentation process, and are not added. There are 3 types: Hon mirin (true mirin), which contains about 14% alcohol, second is Shio mirin which has less alcohol (lower than 1.5%) and third is Shin mirin, which has less than 1% alcohol while retaining the same flavor. Mirin adds sweetness to dishes, it helps tenderize, and add luster to foods while masking unwanted flavors.
 
-> There are 3 types: Hon mirin (true mirin), which contains about 14% alcohol, second is Shio mirin which has less alcohol (lower than 1.5%) and third is Shin mirin, which has less than 1% alcohol while retaining the same flavor.
+#### Kirimochi
 
-> Mirin adds sweetness to dishes, it helps tenderize, and add luster to foods while masking unwanted flavors.
+> Kirimochi are rice cakes made from mochigome (short-grain japonica glutinous rice), machines pound the rice into a paste, molds it into shape, before drying and cutting it. Some varieties have added ingredients, like kuromame (Japanese black beans). 
 
-#### Oils
+> Japanese people eat the fresh variety for the New Year and during special events, while the dried, hard version is available year round. There are many ways to cook kirimochi, our favorite way is to pan-fry it on the stove top until puffy and crunchy on the outside. It's delicious when added into soups, or if cooked in the oven. In Japan, kirimochi is served both sweet, with anko (sweet red bean paste) or kinako (roasted soybean paste), and savoury, with soy sauce or other condiments.
 
-> Our preferred cooking oil is olive, but we also carry roasted sesame oil to flavor rice, and to use as a base for vinaigrettes.
+#### Kinako
 
-\newpage
-
-# Tips for cooking at sea
-
-**Cut vegetables small**. When prepping for your meal, cut various vegetables roughly the same size and shape. This will ensure uniform cooking. Cut them small, into cubes or julienned. It takes more time to prep, but uses less fuel.
-
-**Cleavers are useful**. When cooking at sea, we aim to keep things simple and quick. We like to use a vegetable cleaver (a less brutish version of the meat cleaver) to cut food, and to carry cut items to a pot or pan. Because the blade is wide, it's easy to scoop everything off a cutting board in one go. It saves another dish to use the cleaver as a carrying tool, and it saves the time that woud be taken in getting —and cleaning­— a plate.
-
-**Measure ingredients beforehand** The easiest way to cook spice-heavy food was to have everything measured out, and laid out next to the stove in the order it was added to the pot. I place all measured spices into a bowl, mixed in together to minimize dishes, and to create fewer opportunities for multiple dishes to leap off the counter. I usually place it atop my gimbled stove. Scrounging through my pantry looking for bottles of spices and measuring them directly into the dish the moment the recipe called for it, which was both stressful and inefficient. 
-
-**Re-use tools** On passage, we keep two bowls, two forks, two knives, two spoons. Keeping fewer tools will encourage re-using them instead of dirtying those that are clean. 
-
-**Use a pressure cooker** Cooking food with a pressure cooker helps to save fuel, and halves the cooking time of food. 
+> Kinako is roasted soybean flour, it has a deep, nutty flavor. The Japanese use it to make or coat desserts. Some varieties keep the roasted skin which alters the color of the final product. We like to add it to baked goods, it makes a good peanut alternative.
 
 \newpage
 
@@ -2302,12 +2282,12 @@ Optionally, sprinkle with nutritional yeast, and serve with Sambal Oelek (hot sa
 
 \newpage
 
-## Kiri mochi with vegetables
+## Kirimochi with vegetables
 
 Ingredients
 -----------------------   ------------------------ 
 Roasted sesame oil        15 ml
-Kiri mochi                6 blocks
+Kirimochi                 6 blocks
 Black pepper              to taste
 Carrots                   2, julienned
 Cabbage                   1/4 head
@@ -2462,9 +2442,7 @@ Add the cooked rice to the skillet, breaking up the clumps while stirring, and c
 
 ## Japanese curry 
 
-This recipe uses ready-made, store-bought curry bricks, which are concentrated cubes of spices with a thickening agent which creates a thick, spicy sauce when simmmered with water. These bricks are inexpensive, and easy to use on long, ocean passages.
-
-Instead of Kouya-doufu (dry tofu), you can use TVP or 175 g (1/2 of 350 g pack) or jouon tofu (tetra-pak tofu).
+This recipe uses ready-made, store-bought curry bricks, which are concentrated cubes of spices with a thickening agent which creates a thick, spicy sauce when simmmered with water. These bricks are inexpensive, and easy to use on long, ocean passages. Instead of Kouya-doufu (dry tofu), you can use TVP or 175 g (1/2 of 350 g pack) or jouon tofu (tetra-pak tofu).
 
 Ingredients
 -----------------------   ------------------------------
@@ -2564,15 +2542,13 @@ Serve atop of rice, and season with ground sichuan pepper. I normally serve it w
 
 ## Stove-top pitas
 
-In Japan, there are two tetra-pak varieties, o ryouri-muki tofu (firm tofu for cooking), which has a yellow packaging, and kinugoshi toufu (silken tofu) that comes in blue packaging.
-
-Instead of 175 g (1/2 of 350 g pack) of tetra-pak tofu, you can use 2 blocks of Kouya-doufu (dry tofu).
+In Japan, there are two tetra-pak varieties, o ryouri-muki tofu (firm tofu for cooking), which has a yellow packaging, and kinugoshi toufu (silken tofu) that comes in blue packaging. Instead of 175 g (1/2 of 350 g pack) of tetra-pak tofu, you can use 2 blocks of Kouya-doufu (dry tofu).
 
 Ingredients
 -----------------------   ----------------------
 Whole wheat flour         225 g
 Salt                      2.5 g
-Olive oils                60 ml
+Olive oil                 60 ml
 Water                     180 ml
 -----------------------   ----------------------
 
