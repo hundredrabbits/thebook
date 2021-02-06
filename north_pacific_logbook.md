@@ -222,7 +222,7 @@ We both did shorter night shifts because of the weather. Everything inside is we
 We eat two small meals per day, but aren't yet low on energy. The terrible weather has a way of keeping us focused. When there is danger we become superhuman. We need less sleep, less food, less everything. Don't know how long we can sustain this though.
 
 ##### 1200
-The wind has lessened, but the rain has not. Wish they'd left together to give us some time to dry off. The weather doesn't care about our damp clothing and water-logged bones. Devine makes gnocchi. I managed to finish off my entire bowl. This is a good sign! The wind is supposed to change tonight, and we hope that the waves die down with them.
+The wind has lessened, but the rain has not. I wish we'd have time to dry off. The weather doesn't care about our damp clothing and water-logged bones. Devine made gnocchi, and I managed to finish the entire bowl. This is a good sign! The wind is supposed to change tonight, and we hope that the waves die down.
 
 # Sailing at night
 
@@ -330,10 +330,10 @@ We sat on the sticky, wet floor, wide-eyed and thinking: "Did that just happen?"
 "Yea. Okay. Fuck it. Let's do it." I said. If we made it back home to Canada, alive, we'd get married and that try and be content with less. We don't need to cross an ocean to be happy, surely? 
 
 ##### 1100
-Got the boat back in order. We saw the extent of the damage: no more dodger, the wind meter appeared to be dead, no 100-watt solar panel, no back solar panel support, rig is okay, sails are okay, and the engine is okay. We spent the day heaving-to, trying to relax. We made a plan not to panic, and to go forward. It's a long way to anywhere from here, and we've got to keep going, even if it is scary. We've got to keep going. No one is coming to get us out, we have to get ourselves out.
+Got the boat back in order. We surveyed the extent of the damage: we have no more dodger, the wind meter appears to be dead, we also lost our 100-watt solar panel, the rig looks okay so does the engine and the sails. We spent the day heaving-to, trying to calm down. We made a plan not to panic, and to go forward. It's a long way to anywhere from here, and we've got to keep going. No one is coming to get us out, we have to get ourselves out.
 
 ##### 1700
-After cleaning up the cabin, we slept in each other's arms, with alarms on to warn us off coming ships. We don't usually do this, but with both AIS and radar, we felt safe doing it, and anyway, after this ordeal, we needed this time together.
+After cleaning up the cabin, we slept in each other's arms, with alarms to warn us off coming ships. We don't usually do this, but with both AIS and radar, we felt safe.
 
 \newpage
 
@@ -345,9 +345,9 @@ After cleaning up the cabin, we slept in each other's arms, with alarms on to wa
     Distance to Victoria: 6,132 km (3311 nm)
 
 ##### 0400
-Seas are calmer, we broke our heave-to and started sailing again. The winds are light, we're pointing southeast because that is all that this wind permits us to do at the moment. We shake out the third reef, make coffee and have peanut butter toast. 
+Seas are calmer now, we broke our heave-to and started sailing again. The winds are light, we're pointing southeast because that is all that this wind permits us to do at the moment. We shake out the third reef, make coffee and have peanut butter toast. 
 
-We recovered rather quickly from yesterday's event. One of the best things to overcome fear and stress is routine and goal-oriented tasks. Every day we eat, sleep, take note of our position, and check the weather. Every day we do these things, and focus on the day's problems. Yesterday is gone, today is today, and we don't have time to sit with our fears. 
+We recovered rather quickly from yesterday's event. One of the best things to overcome fear and stress is routine and goal-oriented tasks. Every day we eat, sleep, take note of our position, and check the weather. Every day we do these things, and focus on the present. Yesterday is gone, today is today, and we don't have time to sit with our fears. 
 
 The sun came and stayed with us for an hour, not long enough to dry anything, but we're happy it came at all. The sun does wonders for our mood.
    
@@ -361,12 +361,12 @@ We keep getting strong winds. Every 2 days a big system runs us over. Considerin
 ##### 1700
 We put the boat into heave-to again to eat a dinner of *soy bean hummus* (see recipes), carrots and sauteed vegetables. We don't normally heave-to to eat meals, but we stopped for an hour just to relax, and to spend some time together. 
    
-We started night shifts ahead of time today, as it is getting darker earlier. We had good winds pushing us southeast. We received a message from Robusta, they are doing well, and are 556 km (300 nm) away from us. They cannot send messages often, as they have issues with their radio.
+We started night shifts ahead of time today, as it is getting dark earlier. We had good winds pushing us southeast. We received a message from Robusta, they are doing well, and are 556 km (300 nm) away from us. They cannot send messages often, as they have issues with their radio.
 
 ##### 2000
-I couldn't sit on either the high, or the low side during my night shifts. I was scared. Scared of being swept up again. I sat on the cockpit floor, wearing 2 tethers, moving the tiller with ropes from there. I did not think that yesterday's event had affected me adversely, but it has. Everytime I hear a wave rushing up to Pino, my heart leaps into my throat, and my leg turn to jelly. Big waves have the same effect, but worse. I get panicky, with cold sweat at my back. 
+I couldn't sit on either the high, or the low side during my night shifts. I was scared. Scared of being swept up again. I sat on the cockpit floor, wearing 2 tethers, moving the tiller with ropes from there. I did not think that yesterday's event had affected me adversely, but it had. Everytime I hear a wave rushing up to Pino, my heart leaps into my throat, and my leg turn to jelly. Big waves have the same effect, but worse. I get panicky.
 
-Whenever my brain has a chance to idle, I go back to the event. I keep trying to re-live the moment, re-playing the memory over and over again, making corrections, as a director might do when editing a film. I find myself trying to view the scene from a different camera, frustrated with the limited first-person footage I've got. I want to view the scene from afar so I can see the wave, to see the size of it, and to figure out if I could have done things differently. I don't want to think about this, but the memory comes anyway, uninvited.
+Whenever my brain has a chance to idle, I think back to the knockdown. I keep trying to re-live the moment, re-playing the memory over and over again, making corrections, as a director might do when editing a film. I find myself trying to view the scene from a different camera, frustrated with the limited first-person footage I've got. I want to view the scene from afar so I can see the wave, to see the size of it, and to figure out if I could have done things differently. I don't want to think about this, but the memory comes uninvited.
 
 This is going to be a long, long trip, as we are not done seeing big waves.
 
@@ -376,13 +376,13 @@ Heaving-to is a sailing technique, it's a way of slowing down your vessel. It in
 
 Breaking a heave-to involves unlashing the tiller, and releasing the windward jib sheet before hauling in the leeward sheet. 
 
-We liked to refer to heaving-to as 'parking' the boat. We practiced this technique years ago in Canada, and again a few times in the South Pacific. Practicing it in calm waters is very different than in storm-like conditions, but the technique is the same.
+We refer to heaving-to as 'parking' the boat. We practiced this technique years ago in Canada, and again a few times in the South Pacific. Practicing it in calm waters is very different than in storm-like conditions, but the technique is the same.
 
-The first time we did it at sea, was on the sail from Mexico to the Marquesas. It was early in the morning, I was outside steering. The sky was grey, overcast, and I could see lightning. Then, without warning, the wind rose from a comfortable 28 km/h (15 kn) to 74 km/h (40 kn). We had a full-jib and main, I couldn't hold the tiller. The sudden wind increase woke up Devine, and together we decided to heave-to  to let the weather pass. 
+The first time we did it at sea, was on the sail from Mexico to the Marquesas. It was early in the morning, I was outside steering. The sky was grey, overcast, and I could see lightning. Then, without warning, the wind rose from a comfortable 28 km/h (15 kn) to 74 km/h (40 kn). We had a full-jib and main, I couldn't hold the tiller. The sudden wind increase woke up Devine, and together we decided to heave-to to let the weather pass. 
 
-It's a technique worth mastering, as it could save your boat and your life, and in difficult times, it gives you time to rest or to cook. We should have been heaving-to instead of running with the weather yesterday, if we had been, Pino would not have been overwhelmed. 
+It's a technique worth becoming familiar with, as it could save your boat and your life. We should have been heaving-to instead of running with the weather yesterday, if we had been, Pino would not have been overwhelmed. 
 
-Our boat, with its fin keel, heaves-to well enough. As I’ve mentioned before, slowing the boat costs time, but our safety and mental health matter more. We've got plenty of time to get to Canada. We are glad that the rig suffered no damage, we were lucky. Pino is a good, strong boat, we knew when we bought it, and we know it now. 
+Our boat, with its fin keel, heaves-to well, slowing the boat costs time, but our safety and mental health matter more. We've got plenty of time to get to Canada. We are glad that the rig suffered no damage, we were lucky. Pino is a good, strong boat, we thought it was when we bought it, and now, we know it. 
 
 * * *
 \newpage
@@ -395,21 +395,21 @@ Our boat, with its fin keel, heaves-to well enough. As I’ve mentioned before, 
     Distance to Victoria: 6,004 km (3242 nm)
 
 ##### 0400
-Wind has lessened to near nothing. The sails are flapping noisily. We reefed the main to the third point in preparation for tonight, and to restrict its movement. We checked the weather, and it looks like we'll be heaving-to for some time. The coming low will sweep right over us. After it passes, there's a patch of green on the GRIB files? Green patches mean fair weather. Is that even possible in this land of infinite tempest?
+Wind has lessened to almost nothing. The sails are flapping noisily. We reef the main to the third point in preparation for the night shifts. We checked the weather, and it looks like we'll be heaving-to for some time. The coming low will sweep right over us. After it passes, there's a patch of green on the GRIB files? Green patches mean fair weather. Is that even possible in this land of infinite tempest?
 
 ##### 1000
-We found some wind and heading southeast, away from the patch of no-wind. Our goal is to work our way toward to an area with better conditions. This point lies at 165°E, or better yet, 170°E.
+We found some wind and are heading southeast, away from the patch of no-wind. Our goal is to work our way toward to an area with better conditions. This point lies at 165°E, or better yet, 170°E.
 
-We awoke Calcifer, our engine, to charge our batteries, but noticed there was no water coming out of the outtake? We apologized to our neighbour under the stairs, and put it back to sleep. We went below into its chambers to investigate. Recently, in Shimoda, I changed the water pump impeller. I'd noticed it was damaged. It looks like I put it back in the wrong way. I’ve got a spare impeller, but I can't keep making mistakes like this as I heard impellers are hard to come by on the ocean.
+We awoke Calcifer, our engine, to charge our batteries, but noticed there was no water coming out of the outtake? We went below into its chambers to investigate. Recently, in Shimoda, I changed the water pump impeller. I'd noticed it was damaged. It looks like I put it back in the wrong way. I’ve got a spare impeller, but I can't keep making mistakes like this as impellers are hard to come by on the ocean.
    
 ##### 1300
-We ate *sweet and sour lentils* (see recipes) for lunch outside, it started to rain but we stayed there anyway, hiding under an umbrella to eat. We've got little protection from the weather in the cockpit, so we do what we can with what we've got. There is something funny about holding an umbrella while over water.
+We ate *sweet and sour lentils* (see recipes) for lunch outside, it started to rain but we stayed anyway, hiding under an umbrella to eat. We've got little protection from the weather in the cockpit, so we do what we can with what we've got. There is something funny about holding an umbrella while sailing.
 
 ##### 2100
 We heave-to as the wind starts screaming into the rigging. We had trouble heaving-to with both main and jib for some reason? We don't have problems doing this usually. We decide to use the main alone, but also, the jib was hard to furl? What the hell is going on? We'll investigate tomorrow, when the sun comes up and that we can see what we're doing.
   
 ##### 0000
-Can't sleep. I am stressed about the weather, plus the bit of jib we couldn't furl is making a hell of a racket. I slept in the quarter berth, well away from the noise.
+Can't sleep. I am stressed about the weather, plus the bit of jib we couldn't furl is making a racket. I slept in the quarter berth, hiding well away from the noise.
 
 \newpage
 
@@ -426,36 +426,36 @@ Finally went to sleep, as we slid into a calmer area of the passing low. It's ha
 ##### 0400
 I woke up and went on deck to fix whatever was happening with our jib and furler. The seas were still big. Devine added a line to the furler to keep it from spinning, and made a few more turns in the barrel so we could furl the jib in tighter. It worked. By adding more turns to the barrel, we were able to roll it up all the way. This only happens in heavy weather because we have to winch it in to furl it, and because it furls extra tight it requires more turns.
 
-Sometimes I wonder if a hank-on head sail would be better. I know that no system is perfect, and that going to the bow to douse it would not be pleasant either. Both systems have pros and cons, it's just a matter of finding which we want to live with. But, I like the idea of a system with fewer moving parts, as less can go wrong, or break. Just like we opted for simplicity with our software, maybe we'll consider getting rid of the furler should it break. 
+Sometimes I wonder if a hank-on head sail wouldn't be safer. I know that no system is perfect, and that going to the bow to douse it would be unpleasant, but both systems have pros and cons, it's a matter of finding which we want to live with. But, I like the idea of a system with fewer moving parts, as less can break. Just like we opted for simplicity with our software, maybe we'll consider getting rid of the furler should it break. 
    
 ##### 0600
-Made coffee from whole beans! It's a special day! Coffee from beans has a better taste, but takes more effort as we have to grind the beans first. Devine prepared the beans and set the moka pot on the stove, but then a wave came and knocked it over, spilling all of our delicious coffee. The gimballed stove prevents this usually, but the boat rolls, the back and forth motion can knock it over, if say, we're not there to hold it. Our stove has pot clamps, but these only grip the base, and our stovetop coffee maker is just too tall.
+Made coffee from whole beans! It's a special day! Coffee from beans has a better taste, but takes more effort as we have to grind the beans first. Devine prepared the beans and set the moka pot on the stove, but then a wave knocked it over, spilling all of our delicious coffee. The gimballed stove prevents this usually, but the boat rolls, the back and forth motion can knock it over, if say, we're not there to hold it. Our stove has pot clamps, but these only grip the base, and our stovetop coffee maker is tall.
 
-After the accident, Devine was swearing aloud, frustrated. The boat smelled good, but there was coffee all over the floor, at the back of the stove and under it. We make instant coffee instead, as it is better than nothing. Devine is still bitter about the spillage, but downs his cup of instant anyway. We try and imagine an extension for the pot clamps, something we could make that could hold the tall moka pot in place.
+After the accident, Devine was swearing aloud, frustrated. The boat smelled good, but there was coffee all over the floor, at the back of the stove and under it. We make instant coffee instead, as it is better than nothing. Devine is still bitter about the spillage, but downs his cup of instant coffee anyway. We imagine better pot clamps, something we could make that could hold the tall moka pot in place..
    
 ##### 0700
-Devine is reading *Les Glénants*. This is the first book about sailing we’ve read. It was an intimidating first read, as we thought the French sailing terminology was difficult to memorize. We're French speakers, but were mostly familiar with English sailing terms. The word "Bôme" is close to boom, but words like "l’étai" resembled nothing we knew. I'm happy to say that our sailing vocabulary has improved since that time.
+Devine is reading *Les Glénants*. This is the first book about sailing we’ve read. It was an intimidating first read, as we thought the French sailing terminology was difficult to memorize. We're French speakers, but we use English sailing terms. The word "Bôme" is close to boom, but words like "l’étai" resembles nothing we know. I'm happy to say that our sailing vocabulary has improved since we last opened that book.
 
-I am sitting in the quarter berth, still afraid to be rolled over. The quarter berth is the safest place to be in such an event as it is a very restrictive space. We got a message from our friends on the sailboat Tumbleweed today, it feels good to get news from the outside world, as we spend way too much time in our own heads. We first met Morgan and Douglas in Newport Oregon in the US, they too were going to Japan. We travelled together, loosely, through the South Pacific, but they left Japan for Alaska last year.
+I am sitting in the quarter berth, still afraid to be rolled over. The quarter berth is the safest place to be in such an event as it is a very restrictive space. We received a message from our friends on the sailboat Tumbleweed today, it feels good to get news from the outside world, as we spend way too much time in our own heads. We first met Morgan and Douglas in Newport Oregon in the US, they too were going to Japan. We travelled together, loosely, through the South Pacific, but they left Japan for Alaska last year.
 
-Currently, we are more north than we want to be. The weather keeps pushing us that way. We get low after low after low. It feels like being in hell, with the possibility of good weather a distant dream. We'll likely keep heaving-to until Sunday, depending on how the weather develops.
+Currently, we are farther north than we want to be. The weather keeps pushing us that way. We get low, after low, after low. It feels like we're in hell, with good weather being but a distant dream. We'll likely keep heaving-to until Sunday, depending on how the weather develops.
    
 ##### 1200
-We had tomato pasta with green peppers for lunch, served with chocolate and clementines for dessert. Clementines were a gift from our good friends who came to visit us in Shimoda before we left. Food gifts are the best gifts.
+For lunch, we had tomato pasta with green peppers, with chocolate and clementines for dessert. Clementines were a gift from friends who came to visit us in Shimoda before we left. Food gifts are the best gifts.
 
-Every time I eat an orange, I think of the time we spent in Minamiise, a city known for its oranges. There was an orange shop in Gokasho, they had varieties for every season. Our favorite was the Dekopon, an orange hybrid, recognizable by its protruding bump on the top resembling an inverted belly-button. The shop sold orange-flavored deserts, as well as fresh juice, and ice cream in the summer. We'd bike there once a week from our spot in Shima Yacht Harbor. Biting into an orange will always me back to that place. We ate the clementines in silence, savouring every bite, letting memories of Gokasho transit in and out of our minds.
+Whenever I eat an orange, I think of the time we spent in Minamiise, a city reknown for its oranges. There was an orange shop in Gokasho, they had varieties for every season. Our favorite was the Dekopon, an orange hybrid, recognizable by its protruding bump on the top resembling an inverted belly-button. The shop sold orange-flavored deserts, as well as fresh juice, and ice cream in the summer. We'd bike there once a week from our spot in Shima Yacht Harbor. Oranges will always take me back to that place. We ate the clementines in silence, savouring every bite, letting memories of Gokasho transit in and out of our minds.
 
-For now, we are parked in the dead centre of a mean system, waiting things out. Looking at the GRIB files, it's funny to see ourselves positioned in the 'eye' of this storm. The world around us is chaos, yet it is much quieter in our little parking lot on the ocean.
+For now, we are parked at the centre of a mean system, waiting things out. Looking at the GRIB files, it's funny to see ourselves positioned in the 'eye' of this massive storm. The world around us is chaos, yet it is much quieter in our little world on the ocean.
    
 ##### 1400
-The seas have settled, and the wind has died. The forecast changed. We motor east to get out of this patch of no-wind. We also use this time to charge our batteries. Even this far out, at 1,872 km (1011 nm), we still see some of that pesky sargassum seaweed (hondawara in Japanese), the kind that wraps around your prop and fouls it up. We are careful to avoid them, we would not want to dive under the boat to clear it, not out here.
+The seas have settled, and the wind has died. The forecast changed. We motor east to get out of this patch of no-wind. We also use this time to charge our batteries. Even this far out, at 1,872 km (1011 nm), we still see some of that pesky sargassum seaweed (hondawara in Japanese), the kind that wraps around your prop and fouls it up. We are careful to avoid it, we would not want to dive under the boat to clear it, not out here, not in this weather.
    
 ##### 1600
-We stopped motoring and sailed with a reefed jib and main. We don't trust the weather here, better to be cautious with the amount of sail we keep up. The wind is coming out of the west, even if the GRIB files called for no wind. The seas are moderate. We don't know the exact wind strength as our wind meter died after the wave knocked Pino over. We installed telltales at various points around the boat. One of them is hung around a toothbrush, and is the best one we've made? The telltale spins right around loosely, it is sensitive and is perfect to indicate wind direction—also, it makes me laugh.
+We stopped motoring and sailed with a reefed jib and main. We don't trust the weather here, it's best to be cautious with the amount of sail we raise. The wind is coming out of the west, even if the GRIB files called for no wind. The seas are moderate. We don't know the exact strength of the wind as our wind meter died after the wave knocked Pino over. We installed telltales at various points around the boat. One of them is hung around a toothbrush, and is the best one we've made? The telltale spins right around loosely, it is sensitive and is perfect to indicate wind direction—also, it makes me laugh.
 
-A wind meter is useful, but not essential. This isn't the first time that this device has failed us, but we have learned to live without it. 
+A wind meter is useful, but not essential. This device has failed us before, so we have generally learned to live without it. 
 
-Pino is steering itself. We are navigating from inside, checking our heading on the side of the compass from the companionway door. There are zero targets on AIS, different than our 100-target average on Japan's east coast!  
+Pino is steering itself. We are navigating from inside, checking our heading on the side of the compass from the companionway door. There are zero targets on AIS. 
 
 \newpage
 
@@ -470,17 +470,17 @@ Pino is steering itself. We are navigating from inside, checking our heading on 
 Woke up after heaving-to again for the night. The wind rose, and it was too hard to steer. We broke our heave-to and motored east, in calm conditions. Today promises favorable winds. Finally! We have finished all of our Japanese sliced bread. We bought many loaves before leaving, so we'd have something easy to eat in the beginning. Now, we switch to cereal and oatmeal.
 
 ##### 0600
-The wind turned and rose to a pleasant strength. Sailing is nice now, the waves coming from a new direction flatten the monster waves from the previous day, like a giant hand smoothing out wrinkles.
+The wind turned and rose to a pleasant strength. Sailing is nice now, new waves are coming in to flatten the monsterous waves of the previous day, like giant hands smoothing out wrinkles.
 
-Had early ramen, as both of us were very, very hungry. This may be because we've only been eating 1-2 small meals a day. It was so good. Both of us craved this salty, spicy dish.
+We had ramen, both of us were very, very hungry. This may be caused by eating only small meals. It was so good; both of us craved a salty and spicy dish.
    
 ##### 1100
-Devine cleaned mold from the walls. The umeshu has left stains all over everything. We cleaned up most of it on the day of the accident, but we keep finding hidden patches. Behind the radar, in the cracks of the navigation table, on the ceiling etc. We've no way of warming or airing the cabin currently, as all of the hatches have to stay shut because of salt water spray. Now that we no longer have a dodger, keeping the companionway door shut is even more important. Like a lion in the brush, hunting prey, the rabbit waves keep low until a window opens, and then... they pounce!
+Devine cleaned mold off the walls. The exploding bottle of umeshu has left stains all over everything. We cleaned up most of it on the day of the accident, but we keep finding hidden patches. Behind the radar, around the navigation table, on the ceiling etc. We currentl have no way of warming or airing the cabin currently, as all of the hatches have to stay shut because of salt-water spray. And now that we no longer have a dodger, keeping the companionway door shut is even more important. Like a lion in the brush, hunting prey, the rabbit waves keep low until a window opens, and then... they pounce!
 
-My ribs hurt a lot today. I took an Ibuprofen to quiet the pain, which comes and goes. I sleep in a seated position most times, and I try not to lift anything heavy.
+My ribs hurt a lot today. I took a pain killer to quiet the pain, which comes and goes. I sleep in a seated position most times, and I try not to lift anything heavy.
 
 ##### 1900
-Wind rose from the south, with big seas. We reefed the jib, put the third reef in our main. We are wondering if we should heave-to, as the waves are once again, monstrous. The GRIB files were wrong for this area, and we're worried it'll get much worse. We decided to push on, even if steering is challenging. We are at 163°E and want to get past 165°E as soon as possible. 
+The wind rose from the south, with big seas. We reefed the jib, put the third reef in our main. We are wondering if we should heave-to, as the waves are once again, monstrous. The GRIB files were wrong for this area, and we're worried it'll get much worse. We decided to push on, even if steering is challenging. We are at 163°E and want to get past 165°E as soon as possible. 
 
 \newpage
 
