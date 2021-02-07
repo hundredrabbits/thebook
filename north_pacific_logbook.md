@@ -494,34 +494,34 @@ The wind rose from the south, with big seas. We reefed the jib, put the third re
 ##### 0300
 We hove-to as the morning light shone onto the sea, I stared into the depths and felt dizzy. Heaving-to is a good time to figure out if what you're doing is a shit idea, or a shitty shit shit shit idea. 
 
-We download the weather. The wind in this area is very strong. There is promise of lighter winds to the east. Devine gets his foul-weather gear on, and goes outside to steer. Onward to 165°E! Robusta is south of us still, but making some progress to the north. They are mending a sail and going slow.
+We download the weather. The wind in this area is very strong. There is a promise of lighter winds from the east. Devine gets his foul-weather gear on, and goes outside to steer. Onward to 165°E! Robusta is south of us still, but making some progress to the north. They are mending a sail and going slow.
    
 ##### 0600
-The sky is blue? I seemed to have forgotten that it could ever be that color. It suits it better than white, or grey. The waves are still mean, but the sky reflected into them dulls out their teeth. When we get sun, we usually take everything wet out to dry, but today is not a good day for this, as the cockpit is getting a lot of spray. I have a pair of leggings outside that is well-pickled and that just won't dry. We don't want to add to that sorry collection.
+The sky is blue? I seemed to have forgotten that it could ever be that color. The waves are still mean, but the sky reflected into them dulls their teeth. When we get sun, we usually take everything out to dry, but today is not a good day for this, as the cockpit is getting a lot of spray. I have a pair of leggings outside that is well-pickled and that just won't dry. We don't want to add to that sorry collection.
    
 ##### 1000
 The seas and winds have lessened somewhat, and the sky is still blue?! We're reminded then of what sailing is normally like. It is usually pleasant, and done in fair weather. Yes, this is what it's supposed to be like. We cooked some *Japanese curry* (see recipes) for lunch. The wind is coming out of the southwest, with us drifting eastward.
    
 ##### 1400
-We did it, we reached 165°E! A milestone in our trip! We hope the weather will improve in the coming weeks, as I don't think we can stomach weathering low after low after low like this. The wind is still the same. I remove my tuque and enjoy the sun, my hair is tuque-shaped underneath, flat on the top with a sharp cowlick in the front. "I look like TinTin." I said, smiling. Devine looks bright and happy today, as am I, happy enough to make jokes, happy enough to return a smile. My world is infinitely better when Devine smiles.
+We did it, we reached 165°E! A milestone in our trip! We hope the weather will improve in the coming weeks; I don't think we can stomach weathering more onslaught of lows. The wind has not changed. I remove my tuque to enjoy the sun, my hair is tuque-shaped underneath, flat on the top with a sharp cowlick in the front. "I look like TinTin." I said, smiling. Devine looks bright and happy today, as am I, happy enough to make jokes, happy enough to return a smile. My world is infinitely better when Devine smiles.
    
 ##### 1400
 Cooked dinner of *pasta salad with mustard dressing* (see recipes) and ate the last of our fresh fruit, 2 ruby red grapefruits. When we eat more, it means the weather is good and that we too, are feeling good.
 
-Forecast is promising, but GRIB files in this area are not always accurate. This morning's weather was supposed to be a fresh breeze, but we had near gale winds instead. Usually, people say the weather is either 5 kn more, or less than forecasted, but out here there is a difference of 10 kn. There is better weather ahead, at least—well, we hope. We are happy to leave this forsaken area behind. We're running with a full jib and double-reefed main. Our paranoia with the weather is still strong, full main just isn't going to happen in this trip.  
+The forecast is promising, but the GRIB files for this area are not always accurate. This morning's weather was supposed to be a fresh breeze, but we had near gale winds instead. There may be better weather ahead, in any case, we are happy to leave this forsaken area behind. We're running with a full jib and double-reefed main. Our paranoia with the weather is still strong, it seems like we won't be raising the main fully any time soon.
 
 ##### 2100
-Quiet night at sea. Saw some stars! It's been a while. We're sailing southeast with light rain on the horizon, just in time for Devine's shift.
+Quiet night at sea. Saw some stars! It has been a while. We're sailing southeast with a patch of light rain on the horizon, just in time for Devine's shift.
 
 # Squalls
 
 Squalls bring sudden high winds and rain in passing. They usually blow at around 25 kn (46 km/h) and last around 30 minutes. They are easy to see from a distance, big puffy cumulonimbus clouds, with dark bottoms and a skirt of rain. 
 
-Squalls do not move with the prevailing winds, but at an angle to them, and can affect a boat even when a good distance away. Whenever we would see a suspicious formation on the horizon, we'd keep our eyes on it to track its progress, to see if our paths would cross. If it came close, we'd alter course to aim for its periphery, as it is better than going straight through it. We'd also reduce sail, to lessen its effects. If the squall arrived and was too strong, we would bear off and wait for it to pass. 
+Squalls do not move with the prevailing winds, but at an angle to them, and can affect a boat even when a good distance away. Whenever we see a suspicious formation on the horizon, we keep our eyes on it to track its progress, to see if our paths will cross. If it comes close, we alter course to aim for its periphery, as it is better than going straight through it. We also reduce sail, to lessen its effects. If the squall is too strong, we simply bear off and wait for it to pass. 
 
-Reefing the mainsail before dark, as mentioned before, is especially important in areas prone to squalls. It ensures that the person on watch isn't overwhelmed, and that the person off-watch can sleep well. Squalls are visible at night too, especially if the moon is full and bright. We'd look for dark spots on the horizon, and try and see if we could see the sky underneath or not. If we couldn't, it meant the cloud had rain underneath it, and that it was likely a squall. A dark mass moving contrary to the prevailing wind is also a good indicator of an approaching squall.
+Reefing the mainsail before darkness falls is especially important in areas prone to squalls. It ensures that the person on watch isn't overwhelmed, and that the person off-watch can sleep well. Squalls are visible at night too, especially if the moon is full and bright. We look for dark spots on the horizon, and try and see if we can see the sky underneath. If we can't, it meant the cloud has rain underneath it, and it is likely a squall. A dark mass moving contrary to the prevailing wind is also a good indicator of an approaching squall.
 
-The doldrums is an area where prevailing winds converge, creating an area of perpetual calms. In such places we used squalls to move forward, effectively becoming storm chasers. We chased squalls for wind and for water. Water is not hard to come by when there are squalls around. We always make sure to have a bucket on deck to attach to the end of the boom to collect it.
+The doldrums is an area where prevailing winds converge, creating an area of perpetual calms. In such places we use squalls to move forward, effectively becoming storm chasers. We chase squalls for their wind and for their water. Water is not hard to come by when there are squalls around. We always make sure to have a bucket on deck to attach to the end of the boom to collect it.
 
 * * *
 
@@ -537,18 +537,18 @@ The doldrums is an area where prevailing winds converge, creating an area of per
     Distance to Victoria: 5,630 (3040 nm)
 
 ##### 0300
-Blue skies for today—what a gift! Devine overslept because the phone died, and there was no alarm to wake him. I drove for 4 hours straight, and it felt unending. We feel that way often, even for short 2-hour shifts. We're steering and it feels as though it's been hours and hours. Then we see the time, and it's only been 30 minutes? There ought to be a ring in Dante's hell like this, where time is warped, where the clock says it is 0233 but it never, ever changes. Or sometimes it does change, to 0234, but then somehow it rolls back to 0233?! Our brains must have hallucinated the change, surely!
-   
+Blue skies today—what a gift! Devine overslept because the phone died, and there was no alarm to wake him. I drove for 4 hours straight, and it felt unending. We feel that way often, even for short 2-hour shifts. Time goes slow when we're steering for what feels like hours and hours, then, when we look at the time, it has only been 30 minutes. There ought to be a ring in Dante's hell like this, where time is warped, where the clock says it is 0233 but it never, ever changes. Or sometimes it does change, to 0234, but then somehow it rolls back to 0233?! Our brains must have hallucinated the change, surely!
+
 ##### 0800
 We have instant coffee with oatmeal. The wind is still out of the west, offering good smooth sailing and gentle seas.
-   
+
 ##### 0800
-Took sleeping bags out to dry, also found more mold covering a variety of objects. The pans under the sink had coffee from the recent spillage that we forgot to clean up, and that developed into mold. The papers inside the navigation table also harbor an advanced civilization of rotted matter. We want to keep our charts anyway though, as we might need them as back up. They are moist and full of spots and stains, handling them without tearing them up is difficult. We hung them over the lee cloths, to try and get them to dry but we both know that won't happen.
+Took sleeping bags out to dry, also found more mold. The pans under the sink had coffee from the recent spillage that we forgot to clean up completly, and so mold developed. The papers inside the navigation table also harbor an advanced civilization of rotted matter. We want to keep our charts anyway though, as we might need them as back up. They are moist and full of spots and stains, handling them without tearing them up is difficult. We hung them over the lee cloths, to try and get them to dry but we both know that won't happen.
 
 We had *soba* (see recipes) for lunch, the smell was enough to cover up the one emanating from the rotten charts. To be truly rid of it, we'd have to exorcise the rot demons out of them.
-   
+
 ##### 1600
-We have our first happy hour of the trip! We've completed one third of the trip, and celebrated with a glass of red wine. We left Japan with many cartons of Japanese wine, of varying sweetness. Robusta made it to half the distance to Dutch Harbor, and they too celebrated this grand event. They are close, but we still don't see them on AIS. They are north of us, maybe we'll catch up? We turned northeastward at 166°E, we'll be skirting not so great weather to escape another. Such is life out here. We do out best to position ourselves well to the weather, but that is not always possible.
+We have our first happy hour of the trip! We've completed one third of the trip, and celebrated with a glass of red wine. We left Japan with many cartons of Japanese wine, of varying sweetness. Robusta made it to half the distance to Dutch Harbor, and they too celebrated this grand event. They are close, but we still don't see them on AIS. They are north of us, maybe we'll catch up? We turned northeastward at 166°E, we'll be skirting not-so-great weather to escape yet worse weather. Such is life out here, we do our best to position ourselves with the weather.
    
 ##### 2100
 Clear skies, with plenty of stars, but no time to enjoy them as the sea demands our attention. The wind is rising, and will steady at a good strength until dinner time tomorrow.
@@ -566,7 +566,7 @@ Clear skies, with plenty of stars, but no time to enjoy them as the sea demands 
 The seas are big. Very big. My stomach is in knots from worry. I practice *box breathing* to calm myself. Every wave that comes lapping up the hull scares me now. I never did trust the sea, but now I am terrified of its strength and unpredictability.
    
 ##### 0700
-We tried to have coffee outside, but two waves came crashing into the cockpit, spoiling both our cups. No coffee for us today. We'll have to fight these monster waves all day. I worry when I'm out here, but also am concerned for Devine when he's out there. Wind is coming out of the west, strong and steady. The next days should be calmer, although the GRIB files have been known to lie. I went to hide back inside, but I wish I was out there with him. Sometimes I wish we hadn't done this, and that we were somewhere quiet, chatting about projects and sipping something warm, not sitting here, mind racing and fearful that the sea will try and take one of us again.
+We tried to have coffee outside, but big waves came crashing into the cockpit, spoiling both our cups. No coffee for us today. We'll have to fight these monster waves all day. I worry when I'm out here, but also am concerned for Devine when he's out there. Wind is coming out of the west, strong and steady. The next days should be calmer, although the GRIB files have been known to lie. I went to hide back inside, but I wish I was out there with him. Sometimes I wish we hadn't done this, and that we were somewhere quiet, chatting about projects and sipping something warm, not sitting here, mind racing and fearful that the sea will try and take one of us again.
 
 We are crazy fools to be out here, but what other option was there, really? How else could we bring Pino home? It's funny. When the weather is bad, we are fools, but when it's good, we're lucky? The weather has a way of toying with my mind and feelings.
    
@@ -601,13 +601,13 @@ Annoyed with the noise, I went out to see. I noticed that the tiller was lashed 
 ##### 0230
 I got up at first light. The waves had diminished enough, so I got dressed and went outside to steer us out of this hell. I unfurled the jib and steered northeast.
 
-Devine awakens later, and checks the weather. After analyzing the data, we tighten the sheets and inch towards the north. The low should pass underneath us. We need to steer as directly north as we can before the wind dies tonight. Devine is still tired, and goes back to bed.
+Devine awakens later, and checks the weather. After analyzing the data, we tighten the sheets and points us north. The low should pass underneath us. We need to steer as directly north as we can before the wind dies tonight. Devine is still tired, and goes back to bed.
    
 ##### 0500
-Pino's sails are perfectly balanced, and is moving north. We let it do its thing and keep watch. We noticed the tiller bolts got loose after our evening of heaving-to, went to get tools and tightened them up. We ought to put a lock nut there but we can't find one that is the right size. We need to keep an eye on this, wouldn't want it to get completely loose. The tiller handle is delaminating, with the end splitting in two. We added layers of tape to keep the slabs together. Our back up tiller is in the aft locker, if this one breaks we've got other options. Good thing we planned for this.
+Pino's sails are perfectly balanced, and we're moving north. We let it do its thing and keep watch. We noticed the tiller bolts got loose after our evening of heaving-to, went to get tools and tightened them up. We ought to put a lock nut there but we can't find one that is the right size. We need to keep an eye on this, wouldn't want it to get completely loose. The tiller handle is delaminating, with the end splitting in two. We added layers of tape to keep the slabs together. Our back up tiller is in the aft locker, if this one breaks we've got other options. Good thing we planned for this.
 
 ##### 0600
-Coffee time. Devine woke up and served up a cup. The coffee helped revive me. We chatted about the future, me sitting outside and he from the companionway stairs. There's no need for the two of us to be out here in the cold. We talked about being content with less again, a common theme in this trip. Pino is steering itself still, what a champ!
+Coffee time. Devine woke up and served me a cup. The coffee helped to revive me. We chatted about the future, me sitting outside and he from the companionway stairs. There's no need for the two of us to be out here in the cold. We talked about being content with less again, a common theme in this trip. Pino is steering itself still, what a champ!
    
 ##### 0800
 We make instant ramen. I crave ramen a lot these days, but every time I eat some I get a stomach ache. I made a point of avoiding packet ramen for many years, but at sea I try not to deny my body what it craves. We didn't buy too many at least, and when we run out it'll be ramen detox time. We'll work that MSG out of our systems, somehow.
@@ -617,12 +617,12 @@ We have some crystallized ginger for dessert. Our produce is looking past its be
 ##### 1000
 The wind is lessening, but isn't gone yet. Devine is reading Ursula Le Guin's *The Dispossessed*, while steering with a line from the companionway stairs. I just woke up from an hour-long nap, feeling refreshed. We got a message from Robusta, complaining about the waves. Yep, the waves yesterday were bad. Our positions on the live tracker are updating again, thanks to Devine's dad. 
 
-Morgan and Douglas, from Tumbleweed, messaged us to report an issue with our track, saying it was not updating (since the 17th). We were concerned that people would think we'd disappeared, or had serious issues. It is fixed now! We're glad. We're lucky to have such good land support, people to tell us if our path is broken, to help us with weather or to give us moral support from afar.
+Morgan and Douglas, from Tumbleweed, messaged us to report an issue with our track, saying it was not updating (since the 17th). We were concerned that people would think we'd disappeared, or had serious issues. It is fixed now! We're glad. We're lucky to have good land support, people to tell us if our path is broken, to help us with weather or to give us moral support from afar.
    
 ##### 1030
 My ribs still hurt, as I never have enough time to rest to allow them to heal. The motion of the boat makes that extra difficult. When I sleep, I sit still, with cushions wedged under my back. I'm glad I can steer the boat but worry about making it worse, as I am very accident-prone.
 
-We've got our share of bumps and bruises. Devine has got splinters in his fingers, I'm not sure how that happened? He's got a bruised knee, from the wave event, and we both have random aches, calluses on our hands etc. Long passages aren't kind to the body, or the mind.
+We've got our share of bumps and bruises. Devine has splinters in his fingers, I'm not sure how that happened? He's got a bruised knee, from the wave event, and we both have random aches, calluses on our hands etc. Long passages aren't kind to the body, or the mind.
 
 ##### 1400
 Time to refuel. Since the seas are calm, it is a good time to do it. The wind isn't down entirely, but the boat isn't rocking too much. What was supposed to be a 5 minute task turned into an hour-long endeavour. The deck plate cover for the diesel intake was stuck! Neither of us could get it open! We tried a variety of tools, and eventually freed it up. This is my fault, I think, as I recently changed the o-ring to a *slightly* thicker one (it's all i could find). Also, the tool we use to open it fits loosely in the cap, this due to many years of hard use. We emptied one 20 L Jerry can of diesel into the tank.
@@ -635,15 +635,15 @@ It is cold outside, we steer from inside, pulling ropes between the washboards. 
 
 # Food
 
-We spend a lot of time provisioning ahead, because many cities don't carry specialty items like nutritional yeast, miso, dried legumes, dried beans, flax seeds and B12 supplements (see Pino's pantry for ingredient descriptions). Before a big passage, we calculate how much of each ingredient we'll need, based on how much of each we typically eat in a week. First, I make a list of our favorite meals, break down them down into ingredients and add up quantities, then I multiply that by the amount of time we'll spend at sea. Say we typically eat 100 g (1/2 cup) brown lentils once a week and have plans to stock up for 26 weeks, I multiply the number of weeks by 100, which means I'll stock 3 kg (rounded from 2.6 kg).
+We spend a lot of time provisioning ahead, because many cities don't carry specialty items like nutritional yeast, miso, dried legumes, dried beans, flax seeds and B12 supplements (see Pino's pantry for ingredient descriptions). Before a big passage, we calculate how much of each ingredient we'll need, based on how much of each we typically eat in a week. First, I make a list of our favorite meals, break them down into ingredients and their quantities, then I multiply that by the amount of time we'll spend at sea. Say we typically eat 100 g (1/2 cup) brown lentils once a week and have plans to stock up for 26 weeks, I multiply the number of weeks by 100, which means I'll stock 3 kg (rounded from 2.6 kg).
 
-Lentils and legumes are cheap, energy-dense foods. We especially like whole brown lentils, because we can sprout them and cook them into meals. Sprouting them halves the cooking time. Cooking the meal in a pressure cooker further reduces cooking time, while saving precious fuel.
+Energy-dense legumes like lentils are cheap. We especially like whole brown lentils, because we can sprout them and cook them into meals. Sprouting them halves the cooking time. Cooking the meal in a pressure cooker further reduces cooking time, while saving on precious fuel.
 
-We keep a lot of shelf-stable tofu aboard, as it is a good source of calcium (when calcium-set) and protein. For iodine, we carry iodized salt and seaweed (wakame or nori). Other essentials, like omega-6 (LA, linoleic acid), are found in pumpkin seeds and sunflower seeds, while omega-3 (ALA, alpha-linoleic acid) are available in linseed and chia seeds. 
+We keep a lot of shelf-stable tofu aboard, as it is a good source of calcium (when calcium-set) and protein. For iodine, we carry iodized salt and seaweed (wakame or nori). Other essentials, like omega-6 (LA, linoleic acid) we find in pumpkin seeds and sunflower seeds, while omega-3 (ALA, alpha-linoleic acid) are available in linseed and chia seeds. 
 
 Staples like oats, rice and flour are available everywhere, but finding wholegrain versions (brown rice, oat groats and wheatberries) of these ingredients can be difficult. Stocking up large quantities of pre-ground wholegrain flour isn't a good idea, as it will go rancid. It's better to stock up on wheat berries and to grind them yourself with a mill. We crossed paths with the German boat in Fiji who did exactly that. Another way to make dough from wheat berries, is to sprout them. Sprouted wheat berries become soft, easy to grind, which can in turn become dough for your bread when mixed with other ingredients. We carry a small meat grinder on Pino, it's got a simple mechanism, is easy to clean and requires no power, but most importantly, it does a good job of pureeing sprouted grains. Meat grinders are cheaper, and easier to find in Thrift Stores than grain mills.
 
-We always find fresh vegetables, wherever we go. And if going to an island where produce is scarce, best to leave it to the locals, and to arrive with enough provisions. We carry dried peas, mushrooms and daikon, and preserve food—when in a place with plentiful fresh foods—whenever possible. 
+We always find fresh vegetables, wherever we go. And if we're going to an island where produce is scarce, it's best to leave it to the locals, and to arrive with enough provisions. We carry dried peas, mushrooms and daikon, and preserve food—when in a place with plentiful fresh foods—whenever possible. 
 
 > *"You don’t need to be an expert to preserve food, or any fancy technology. Just a container, some salt, and trust in the world of bacteria and fungi." (A. Vansintjan, 2017)*
 
@@ -682,12 +682,12 @@ Below is a list of rules that we go by, when choosing what to eat:
 Red sky at sunrise—how does that saying go again? "Red sky in the morn', sailors' forlorn." It is difficult to view this as a threat, as we've come to expect big heavy weather in this area. I don't feel tired from my shift, seems like I got enough sleep, for once. I am steering north, the wind doesn't permit much else. We're steering clear of a system passing below us. I'd like to make more progress east but that won't be possible today. 
 
 ##### 0500
-Devine brings me a bowl of warm oatmeal! So comforting. We try to save on propane as much as possible as our tanks are smaller, it's why I've been eating cold oats for the past 10 days. I wanted to keep gas for higher, colder latitudes.
+Devine brings me a comforting bowl of warm oatmeal! We try to save on propane as much as possible as our tanks are smaller, it's why I've been eating cold oats for the past 10 days. I wanted to keep gas for higher, colder latitudes.
 
-It was difficult to get foreign tanks filled in Japan. While in Shima Yacht Harbor, we had to buy new Japanese-style tanks because they refused to fill ours—may have been because of their aged appearance, too steampunk. The issue with Japanese tanks is that they are tall and skinny, and only get taller as their volume increases. Our propane locker is made for a short and stout 9 kg (20 lbs) tank, we couldn't fit a Japanese tank of similar volume because of its increased height. Instead, we had to purchase two smaller 5 kg tanks, which wasn't ideal, but better than not having the ability to cook food. We are still on our first tank, so far, so good.
+It was difficult to get foreign tanks filled in Japan. While in Shima Yacht Harbor, we had to buy new Japanese-style tanks because they refused to fill ours—may have been because of their aged, and somewhat steampunk, appearance. The issue with Japanese tanks is that they are tall and skinny, and only get taller as their volume increases. Our propane locker is made for a short and stout 9 kg (20 lbs) tank, we couldn't fit a Japanese tank of a similar volume because of its increased height. Instead, we had to purchase two smaller 5 kg tanks, which wasn't ideal, but better than not having the ability to cook at all. We are still on our first tank, so far, so good.
 
 ##### 0800
-Devine awakens, serves up coffee and checks the weather, as is our usual morning routine! After today, we should get some good wind to go east. We got a message from Robusta, saying the Pacific High is appearing on Monday. Normally, when boats plan to sail to Alaska or the Pacific Northwest, they wait until it appears, because with it, comes the promise of favorable winds. We did not wait for it, and the weather we’re getting now might very well be due to that, but we thought waiting was more dangerous as summer is also typhoon season. We’d sailed in areas of contrary, variable winds before, we figured we could handle it. Indeed, we can do it, but it isn’t easy. 
+Devine awakens, serves us coffee and checks the weather, as is our usual morning routine! After today, we should get some good wind to go east. We got a message from Robusta, saying the Pacific High is appearing on Monday. Normally, when boats plan to sail to Alaska or the Pacific Northwest, they wait until it appears, because with it, comes the promise of favorable winds. We did not wait for it, and the weather we’re getting now might very well be due to that, but we thought waiting was more dangerous as summer is also typhoon season. We’d sailed in areas of contrary, variable winds before, we figured we could handle it. Indeed, we can do it, but it isn’t easy. 
 
 Devine started reading *Canticle for Lebowitz*, having finished *The Dispossessed*. 
 
@@ -695,7 +695,7 @@ Devine started reading *Canticle for Lebowitz*, having finished *The Dispossesse
 Devine slips on a fresh pair of socks. We've been wearing the same pair for a while as we don't have an infinite supply, nor do we want to use up our water to wash them. I alternate between two pairs of wool socks. I was wearing my favorite pair when I fell overboard, they are dry now, but full of salt. I need to hang them outside a while, so the wind can shake the salt out of them. We might start using water more frugally once we reach our second milestone at 45°N 159°W.
    
 ##### 1430
-Wind is coming straight out of the northeast. We can't make any headway, and I am frustrated. I'm afraid it'll be the same deal tomorrow. That passing low sure is a jerk. Pino can only go northwest or southeast, and to us, both options are shit. For now, we steer northwest. Might be better to heave-to than to tack back and forth between two points. I drink a ginger ale, while angry. Devine wakes up, he is hungry, very hungry, but also tired? Conflicting needs.
+Wind is coming straight out of the northeast. We can't make any headway, and I am frustrated. I'm afraid it'll be the same deal tomorrow. That passing low sure is a jerk. Pino can only go northwest or southeast, and to us, both options are crap. For now, we steer northwest. Might be better to heave-to than to tack back and forth between two points. I angrily drink a ginger ale. Devine wakes up, he is hungry, very hungry, but also tired? Conflicting needs.
 
 If the wind had a face I'd punch it. 
 
@@ -712,7 +712,7 @@ Devine is making *cornpone* (see recipes) for dinner. We opened a vacuum-sealed 
     Distance to Victoria: 5,065 km (2735 nm)
 
 ##### 0230
-Finally seeing the wind turn a little more towards the north. This permits us to do go east. We need to keep heading that way to catch some of that sweet Pacific High breeze! The wind we've got is from a passing low, as usual, and won't last, but at this point we'll take what we can get.
+Finally seeing the wind turn a little more towards the north, permiting us to do go east. We need to keep heading that way to catch some of that sweet Pacific High breeze! The wind we've got is from a passing low, as usual, and won't last, but at this point we'll take what we can get.
 
 We're steering from inside, as it is getting colder. Devine found a sweet spot with ropes that permits us to do little to no steering tonight.
    
@@ -723,11 +723,11 @@ Pino is bashing to weather. The waves aren't too crazy, but I worry about them s
 We saw a cargo ship named Scorpion on AIS. It is 7 km (4 nm) south of us. A rare occurrence. We've got an alarm set for ships that come near, it only rang twice so far while on the open sea. Last time it rang, there was a trawler passing south, near enough that we could make out its faint outline in distance, and we could hear its engine too. Otherwise, there is no one within 89 km (48 nm) of us. Land is much further than this. We'll be passing the western tip of the Aleutians soon, the more miles we put between the opening to the Bering Sea and us the better. We were pointing to it for the better part of yesterday, and it was scaring the shit out of me.
    
 ##### 1230
-We are pointing northeast, bashing still. The wind hasn't lessened much, but it is supposed to as the day goes on. I am nervous, and I don't know what to do with myself today. I read a little, slept a little. We're doing good speed but bashing is a very stressful experience. Buckets of salt water splash up on deck as the bow keeps diving into waves.
+We are bashing northeast. The wind hasn't lessened much, but is supposed to as the day goes on. I am nervous, and I don't know what to do with myself today. I read a little, sleep a little. We're doing good speed but bashing is stressful. Buckets of salt water splash up on deck as the bow keeps diving into waves.
 
-I noticed some wear on the foot of the head sail, but I've no clue when I'll be able to go up there to patch it up. The weather is still too rough. I hope the jib will hold up, it has so far but it's old, very old. I've no doubt it'll enjoy a quiet life in British Columbia inland waters, once—no, IF we reach Canada. I can't talk in "whens" or "ifs". It's hard to imagine arriving anywhere when there's this much distance between us and land. British Columbia is a haven on a rough ocean.
+I noticed some wear on the foot of the head sail, but I've no clue when I'll be able to go up there to patch it up. The weather is still too rough. I hope the jib will hold up; it's old, very old. I've no doubt it'll enjoy a quiet life in British Columbia inland waters, once—no, IF we reach Canada. I can't talk in "whens" yet, only "ifs". It's hard to imagine arriving anywhere when there's this much distance between us and land. British Columbia is a haven on a rough ocean.
 
-We had *kiri mochi* (see recipes), carrot and the last of the cabbage for lunch. Our veggie supply is looking sadder, and sadder.
+We had *kiri mochi* (see recipes), carrot and the last of the cabbage for lunch. Our veggie supply is looking sadder by the day.
    
 ##### 1500
 We are still bashing. The sound is very unpleasant from inside the cabin. We got a message from Robusta saying the same. We are definitely going to stow our anchor away when it gets (if it gets) calm enough out there.
