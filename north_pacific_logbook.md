@@ -2583,10 +2583,22 @@ Dates      Events                           Distance (nm)  Days
 2020-07-28 Arrival in Victoria, Canada      4111           51
 ---------- -------------------------------- -------------  ----
 
-# Appendix A
+# Appendix A Recommended readings
 
-Irvind, Sven. With four square meters of sail and one oar. Västervik, Sweden: Yrvind. 2017
+Irvind, Sven. With four square meters of sail and one oar. 2017
 
-Hill, Annie. Voyaging on a small income. Tiller Publishing. 1993
+Hill, Annie. Voyaging on a small income. 1993
+
+Moitessier, Bernard. The Long Way. 1973.
+
+Evans, Andrew. Thoughts, Tips and Techniques for Singlehanded Sailing. 
+
+Berry, Wendell. What Are People For? 1990.
+
+Leopold, Aldo. A Sand County Almanac. 1949.
+
+Simon, Alvah. North To The Night. 1998
+
+# Appendix B
 
 History of Tofu - Page 7". www.soyinfocenter.com. Retrieved 2020-04-23.
