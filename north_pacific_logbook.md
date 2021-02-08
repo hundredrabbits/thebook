@@ -1358,15 +1358,15 @@ The night is smooth, so far. We are staying ahead of the weather, pretending it 
 
 > "This curious world we inhabit is more wonderful than convenient; more beautiful than it is useful; it is more to be admired and enjoyed than used." — Henry David Thoreau
 
-We don’t like to think about what cargo ships on the ocean carry. Overtime, we've come to see every material object as a potential burden, in terms of the physical and mental space they occupy. Even when they pass out of our hands, whether they are sold, passed down, or donated, the objects still exist, while many more are manufactured. In his book *The Long Way*, Moitessier talks about the need to stop satisfying false needs and false joys, to instead focus on preserving nature. Preserving nature is our most worthy responsibility, and isn't compatible with an economy of "full consumption".
+We don’t like to think about what cargo ships on the ocean carry. Overtime, we've come to see every material object as a potential burden, in terms of the physical and mental space they occupy. Even when they pass out of our hands, whether they are sold, passed down, or donated, the objects still exist, while many more are manufactured. In his book *The Long Way*, Moitessier talks about the need to stop satisfying false needs and false joys, to instead focus on preserving nature. Preserving nature is our most worthy responsibility, and isn't compatible with an economy of "full consumption". We can measure the success of a society by the wellbeing and ongoing health of its people, not by what it creates or transforms.
 
 Devine & I have contributed our share of waste in the past, we have burdened others with objects when we reduced our own lives to fit onto a boat. Now, we do our best to avoid new items, and spend time seeking existing alternatives, or repairing broken items whenever possible. It is a challenge, as our for-profit economy doesn't encourage thrift and care, it encourages off-the-shelf solutions, while making repair and thrift difficult, and unnattractive.
 
-The most important resource we have is time, and time is necessary to practice thrift and care. Work is the biggest timesink of all,  taking an ever-larger chunk out of the average person's day. Time did not used to be compartmentalized into work and non-work, "work" was once more intertwined with family, community and play. Now, work pays for outside entertainment, life outside of the workplace has lost vitality and meaning, it has ceased being a means to an end and become an end in itself. An economy that glorifies "work" and "infinite consumption" preaches that leisure is a commodity to be consumed rather than free time to be enjoyed. To gain time, it is necessary to re-create a satisfying home environment that doesn't depend on manufactured goods, or for-profit entertainment. Today's pleasures are debited to the future, paid not in money, but in waste and misery. A purchase that was easy to make today, will be an inconvenience to someone, somewhere, later. 
+Time is necessary to practice thrift and care, but it a scarce resource. Work is the biggest timesink of all, taking an ever-larger chunk out of the average person's day. Time did not used to be compartmentalized into work and non-work, "work" was once more intertwined with family, community and play. Now, work pays for outside entertainment, and life outside of the workplace has lost vitality and meaning, it has ceased being a means to an end and become an end in itself. An economy that glorifies "work" and "infinite consumption" preaches that leisure is a commodity to be consumed rather than free time to be enjoyed. To gain time, it is necessary to build a satisfying home environment that doesn't depend on manufactured goods, or for-profit entertainment. Today's pleasures are debited to the future, paid not in money, but in waste and misery. A purchase that was easy to make today, will be an inconvenience to someone, somewhere, later. 
 
-In all, we have to cherish nature and community, to foster their renewal, and to prioritize thrift and care rather than waste and excess. We cannot measure the health of our society merely by what we create or transform. Ongoing health and wellbeing ought to be a primary function of government. Maintenance and stewardship require something of us, we have responsibilities that lie beyond ourselves and our own profit. The farming phrase, “eyes to acres,” by Wes Jackson, says that in order to run a farm well, someone who has a personal stake in the enterprise needs to be so familiar with the environment, has to be in touch with the little changes that occur everyday. Globalization makes it even harder for corporate agents and governments to practice care, they will not steward land that they don't know, that they have no emotional and personal stake in.
+We have to cherish nature, to foster its renewal, and to prioritize thrift and care rather than waste and excess. Maintenance and stewardship require something of us, we have responsibilities that lie beyond ourselves and our own profit. The farming phrase, “eyes to acres,” by Wes Jackson, an important figure in the international sustainable agriculture movement, says that in order to run a farm well, one has to be familiar with the environment, to be in touch with the little changes that occur everyday. Globalization makes it even harder for corporate agents and governments to practice care, as they will not steward land that they don't know, and that they have no personal stake in.
 
-Conservers like Wendell Berry, Aldo Leopold and Wes Jackson, have suggested that our membership in this world is never free. We, humans, are costly to the world. An article by Gracy Olmstead summed it up well: "To live in place without depleting it, we must also give something back: preserve, love, maintain. We—and thus, also, our government—owe something to the land. Small voices often need big ones to back them up, and if the government doesn’t take up the mantle of stewardship, that vacuum of leadership and care can have devastating consequences."
+Conservationists like Wendell Berry, Aldo Leopold and Wes Jackson, have suggested that our membership in this world is never free. We, humans, are costly to the world. We abuse it. Only when we see land as a community, to which we belong, can we begin to use it with respect and love. There is no other way. 
 
 * * *
 
@@ -1997,25 +1997,15 @@ We look at each other, sitting on deck and admiring the view. "Hey—" I say to 
 
 ![](img/victoria.jpg "Our quarantine dock in Victoria")
 
-We'll end this story by thanking our land crew, Morgan, Douglas and Devine's dad Yves, and those who helped us during our 14-day quarantine period. 
+We'll end this story by thanking our land crew, Morgan, Douglas and Devine's dad Yves. 
 
-> Jason, for doing our laundry and for the take-out food.
+We'd also like to thank those who helped us during our 14-day quarantine period. Jason, for doing our laundry and for the take-out food. Brian, for the extra baking supplies. Cameron, for happy junk foods. Robert, for the fresh produce. Judie & Colin, for the company. Marie, for the pocket wifi, brew and fresh produce.  Karin & Rick, for the ice cream and fresh produce. Colin N., for the mouse. Warren for the fresh produce and beer.
 
-> Brian, for the extra baking supplies. 
+Thank you to our friends on land and sea, who have followed our travels for many years, and that have offered both moral and monetary support. 
 
-> Cameron, for happy junk foods. 
+We emerged from our 14-day quarantine on **August 11th 2020**. When allowed back on land, walking amongst people felt strangely alien. We smirked as we walked, like we had a secret, no one knew we had spent 65 days at sea, or that we'd skipped across the North Pacific in a small plastic boat. 
 
-> Robert, for the fresh produce.
-
-> Judie & Colin, for the company.
-
-> Marie, for the pocket wifi, brew and fresh produce. 
-
-> Karin & Rick, for the icecream and fresh produce.
-
-> Colin N., for the mouse.
-
-> Warren for the fresh produce and beer.
+The rabbits arrived on land, with plans to catch every sunset. It's not because we've seen sunsets a hundred times that they stop being extraordinary.
 
 \newpage
 
@@ -2059,7 +2049,7 @@ Below is a list of the more cryptic items we had aboard Pino on the passage from
 
 #### Textured vegetable protein (TVP)
 
-> TVP is a soy product, made from defatted soy flour that's been cooked under pressure, and then dried. It is a shelf stable product that comes in a variety of shapes, ranging from tiny pellets to larger nuggets. Aboard Pino, we prefer the smaller grind, as it doesn't use up as much volume in a jar. We use it instead of mince meat in spagehtti sauces, sheperd's pie or tacos. 
+> TVP is a soy product, made from defatted soy flour that's been cooked under pressure, and then dried. It is a shelf stable product that comes in a variety of shapes, ranging from tiny pellets to larger nuggets. Aboard Pino, we prefer the smaller grind, as it doesn't use up as much volume in a jar. We use it instead of mince meat in spagehtti sauces, sheperd's pie or tacos. TVP soaks up flavor, and ads bulk to dishes.
 
 #### Nori
 
@@ -2240,7 +2230,7 @@ Ginger root               5 g, grated
 Curry powder              5 g
 Water                     60 ml
 Rice noodles (flat type)  200 g
-Koya-doufu                1 block
+Koya-doufu (dry tofu)     1 block
 Daikon                    2 cm, cubed
 Sweet potato              1 small, or 1/2 large, cubed
 Garlic                    1 clove
