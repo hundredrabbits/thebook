@@ -1,13 +1,17 @@
 ---
-title: Busy doing nothing
-author: Rekka Bellum & Devine Lu Linvega
+title:
+- type: main
+  text: Busy Doing Nothing
+- type: subtitle
+  text: 51 days, from Japan to Canada
+creator:
+- role: author
+  text: by Rekka Bellum and Devine Lu Linvega
+- role: illustrator
+  text: Illustrated by Rekka Bellum
 lang: en-CA
-publisher: Hundredrabbits
-date: 2021-12-01
-rights: © 2021 HundredRabbits, CC BY-NC
+rights: © 2021 Hundredrabbits, CC BY-NC
 ...
-
-\newpage
 
 ![](img/mapleft.jpg "leftmap")
 
@@ -17,7 +21,7 @@ rights: © 2021 HundredRabbits, CC BY-NC
 
 \newpage
 
-## About us
+# About 
 
 We found Pino on Vancouver Island in the spring of 2016, a Yamaha 33 sailboat. At that moment, we knew of Yamaha for their keyboards and motorcycles, not their sailboats. After a bit of research, we learned that between 1976 and 1985 Yamaha did build and export sailboats to the Pacific Northwest. The boats had the reputation of being sturdy and were therefore often used in sailing schools. Pino happened to be the right price and size.
 
@@ -125,7 +129,7 @@ We check the weather again. We don't normally check it twice a day as it eats up
 ##### 1800
 We eat chips as a snack, as we are not hungry for a full dinner. Everything tastes weird? It's like our taste buds are on LSD. The only thing that goes down easy is salty foods.
 
-# Seasickness
+## Seasickness
 
 People often ask us if we get sea sick, and yes, we do feel sea sick at the start of every trip.
 
@@ -165,7 +169,7 @@ We installed a second manual bilge pump in the cabin while in New Zealand. We th
 ##### 1700
 Made spaghetti with eggplant and green peppers for dinner. It is still hard to finish food, so we started making smaller portions to avoid waste. Both of us are still plagued with weird taste buds. Sweet is too sweet, veggies are bland.
 
-# Kuroshio 
+## Kuroshio 
 
 The Kuroshio, or black current, is a high-temperature, high-salinity dark blue warm current that has a transparency of more than 30 m (98 feet). Its flow rate is 4-5 km/h (2-3 kn) on the average and reaches up to 7-9 km/h (4 to 5 kn). The Kuroshio is weaker in the summer and autumn, but stronger in the winter and spring. The current carries a lot of sargassum seaweed into the Eastern Pacific.
 
@@ -224,7 +228,7 @@ We eat two small meals per day, but aren't yet low on energy. The terrible weath
 ##### 1200
 The wind has lessened, but the rain has not. I wish we'd have time to dry off. The weather doesn't care about our damp clothing and water-logged bones. Devine made gnocchi, and I managed to finish the entire bowl. This is a good sign! The wind is supposed to change tonight, and we hope that the waves die down.
 
-# Sailing at night
+## Sailing at night
 
 We used to be afraid of sailing at night, but now we look forward to it. It is the perfect time to think, to read, to listen to podcasts or music. It is easier to see ships in the dark than in the day, their locations are marked with lights. On clear, moonless nights, we see a beautiful tapestry of lights overhead, a show that is becoming less observable in cities because of light pollution. Then, depending on where we are in the world, there is bio-luminescence in the water. Pino leaves a sparkling green trail as it cuts through waves. While sailing toward Los Angeles, we saw ghostly figures in the water. They were dolphins. We could see them perfectly as they left a path of bio-luminescence behind them. 
 
@@ -359,7 +363,7 @@ Beating to weather with a good easterly heading. We are now 1,974 km (1066 nm) f
 We keep getting strong winds. Every 2 days a big system runs us over. Considering what happened yesterday, we decided that we would heave-to as often as we needed to. This trip is a long one, and we need to keep our energy up. 
    
 ##### 1700
-We put the boat into heave-to again to eat a dinner of *soy bean hummus* (see recipes), carrots and sauteed vegetables. We don't normally heave-to to eat meals, but we stopped for an hour just to relax, and to spend some time together. 
+We put the boat into heave-to again to eat a dinner of *soybean hummus* (see recipes), carrots and sauteed vegetables. We don't normally heave-to to eat meals, but we stopped for an hour just to relax, and to spend some time together. 
    
 We started night shifts ahead of time today, as it is getting dark earlier. We had good winds pushing us southeast. We received a message from Robusta, they are doing well, and are 556 km (300 nm) away from us. They cannot send messages often, as they have issues with their radio.
 
@@ -370,7 +374,7 @@ Whenever my brain has a chance to idle, I think back to the knockdown. I keep tr
 
 This is going to be a long, long trip, as we are not done seeing big waves.
 
-# Heaving to
+## Heaving to
 
 Heaving-to is a sailing technique, it's a way of slowing down your vessel. It involves fixing the tiller and sail positions so that the vessel doesn't need steering.  To heave-to, we turn to tack through the wind, without releasing the jib sheet. The mainsail self-tacks to the other side, but the jib is held aback. When the jib's belly curves inward, the tiller (or rudder) should be aligned with it, as if trying to tack back again. It's necessary to lash the tiller so the rudder can't move again. Without the power of the jib, the boat can't go forward and will stop. It is easy to do, and all aboard should learn to do it.
 
@@ -378,11 +382,11 @@ Breaking a heave-to involves unlashing the tiller, and releasing the windward ji
 
 We refer to heaving-to as 'parking' the boat. We practiced this technique years ago in Canada, and again a few times in the South Pacific. Practicing it in calm waters is very different than in storm-like conditions, but the technique is the same.
 
-The first time we did it at sea, was on the sail from Mexico to the Marquesas. It was early in the morning, I was outside steering. The sky was grey, overcast, and I could see lightning. Then, without warning, the wind rose from a comfortable 28 km/h (15 kn) to 74 km/h (40 kn). We had a full-jib and main, I couldn't hold the tiller. The sudden wind increase woke up Devine, and together we decided to heave-to to let the weather pass. 
+The first time we did it at sea, was on the sail from Mexico to the Marquesas. It was early in the morning, I was outside steering. The sky was grey, overcast, and I could see lightning. Then, without warning, the wind rose from a comfortable 15 kn to 40 kn. We had a full-jib and main, I couldn't hold the tiller. The sudden wind increase woke up Devine, and together we decided to heave-to to let the weather pass. 
 
 It's a technique worth becoming familiar with, as it could save your boat and your life. We should have been heaving-to instead of running with the weather yesterday, if we had been, Pino would not have been overwhelmed. 
 
-Our boat, with its fin keel, heaves-to well, slowing the boat costs time, but our safety and mental health matter more. We've got plenty of time to get to Canada. We are glad that the rig suffered no damage, we were lucky. Pino is a good, strong boat, we thought it was when we bought it, and now, we know it. 
+Our boat, with its fin keel, heaves-to well. Slowing the boat costs time, but our safety and mental health matter more. We've got plenty of time to get to Canada. We are glad that the rig suffered no damage, we were lucky. Pino is a good, strong boat, we thought it was when we bought it, and now, we know it. 
 
 * * *
 \newpage
@@ -513,7 +517,7 @@ The forecast is promising, but the GRIB files for this area are not always accur
 ##### 2100
 Quiet night at sea. Saw some stars! It has been a while. We're sailing southeast with a patch of light rain on the horizon, just in time for Devine's shift.
 
-# Squalls
+## Squalls
 
 Squalls bring sudden high winds and rain in passing. They usually blow at around 25 kn (46 km/h) and last around 30 minutes. They are easy to see from a distance, big puffy cumulonimbus clouds, with dark bottoms and a skirt of rain. 
 
@@ -633,7 +637,7 @@ We had *kiri mochi* (see recipes) with diced cabbage and julienned carrots for d
 ##### 1900
 It is cold outside, we steer from inside, pulling ropes between the washboards. We're going northeast, in light winds.
 
-# Food
+## Food
 
 We spend a lot of time provisioning ahead, because many cities don't carry specialty items like nutritional yeast, miso, dried legumes, dried beans, flax seeds and B12 supplements (see Pino's pantry for ingredient descriptions). Before a big passage, we calculate how much of each ingredient we'll need, based on how much of each we typically eat in a week. First, I make a list of our favorite meals, break them down into ingredients and their quantities, then I multiply that by the amount of time we'll spend at sea. Say we typically eat 100 g (1/2 cup) brown lentils once a week and have plans to stock up for 26 weeks, I multiply the number of weeks by 100, which means I'll stock 3 kg (rounded from 2.6 kg).
 
@@ -750,7 +754,7 @@ Seas are tame today. We are heading east northeast. The wind is supposed to die 
 Both of us slept soundly last night, we steered from the companionway stairs again and kept our easterly heading. We don't have weather yet, as we're having trouble getting a good signal. We will try again soon. We are 19 days out of Japan.
 
 ##### 1300
-We were able to download weather. It looks like the low will pass north of us—that is good news! The wind also died. We are bobbing in the waves, which are thankfully not too large. It seems like we'll be in a no-wind zone for a while. Devine is outside emptying old soy bean oil out of a plastic bag. During the wave event a bottle of cooking oil shot out of the fridge and landed in the port side settee cushion, filling it with oil. Lacking time and patience, we stuffed the cushion in a large plastic bag and the oil has been draining out of it since that time. It is hard to clean these cushions, getting oil out of foam is no easy task, and neither of us are willing to spend time on it. It's a messy job. Quiet times at sea are the best time to take care of such tasks, things we normally ignore, though we've both decided that the cushion will be quarantined until we reach land.
+We were able to download weather. It looks like the low will pass north of us—that is good news! The wind also died. We are bobbing in the waves, which are thankfully not too large. It seems like we'll be in a no-wind zone for a while. Devine is outside emptying old soybean oil out of a plastic bag. During the wave event a bottle of cooking oil shot out of the fridge and landed in the port side settee cushion, filling it with oil. Lacking time and patience, we stuffed the cushion in a large plastic bag and the oil has been draining out of it since that time. It is hard to clean these cushions, getting oil out of foam is no easy task, and neither of us are willing to spend time on it. It's a messy job. Quiet times at sea are the best time to take care of such tasks, things we normally ignore, though we've both decided that the cushion will be quarantined until we reach land.
 
 ##### 1500
 The wind is very light. We take time to do tasks on deck. We removed the anchor, finally, and stowed it below in the v-berth, buried in blankets and other soft things. The anchor locker over top will keep it from moving around. Bashing into waves with a heavy anchor makes a racket inside, and we were afraid of further damaging the head sail furler.
@@ -798,7 +802,7 @@ We have 2 carrots left, a length of daikon, 2 lotus roots, about 10 sweet potato
 ##### 2230
 The wind is rising from the east, we're self-steering toward the north. The wind should turn gradually to the south, which will permit us to resume our easterly course. We have a full jib and double-reefed main.
 
-# Self-steering
+## Self-steering
 
 One of the reasons we converted Pino from wheel to tiller was to simplify self-steering. We are big fans of shock-cord sailing, which consists of using a set of ropes, sails, shock cords and blocks to self-steer a boat without the need for a windvane. 
 
@@ -850,7 +854,7 @@ We moved closer to 180°W, we are at 178°E, here's hoping for wind returning la
 ##### 2230
 Sometimes sailing feels like witchcraft. There was hardly any wind before, Pino was bobbing stupidly in the water as I sat inside, waiting. I got tired of the motion and of the sails beating about, so I went outside to steer. Devine reduces the jib in periods of calm to reduce chafe, but keeps a tiny scarf to ease the back and forth pendulum motion from waves. I felt tiny, irregular puffs of wind so I unfurled the jib and pointed us east. Perfect. Wind filled the sails and we started to go forward? It was like presenting the full jib created movement, the wind awaking with it. I was amazed, and started dancing in the cockpit, happy to be moving forward in a favorable direction! Hope the wind stays with us, if so, we'll cross 180°W! Maybe the school of dolphins from before pitied us and returned to pull us on—ah, what good friends!
 
-# Food storage
+## Food storage
 
 Purchasing food in bulk is ideal for long passages, but they’ll spawn insects or turn rancid if they aren’t stored iin air-tight glass jars or food-safe plastic bins, away from light and moisture.
 
@@ -971,7 +975,7 @@ Light winds, Pino is self-steering to the southeast, sometimes we can nudge it b
 
 I feel bad because I dropped a glass jar onto Devine's bony side while reaching for a snack in the dark. He was not pleased with me.
 
-# Birds and nature
+## Birds and nature
 
 Since we started sailing, I have become a bird nerd, watching them brings me joy. **Attention restoration theory** says that people can concentrate better, and were less stressed after spending time in nature, or even looking at scenes of nature. We have found this to be true for us, and observing birds has played a big part in it. 
 
@@ -1150,7 +1154,7 @@ The sea is like melted silver, flat and barely undulating. The fog drifts in and
 
 Sometimes though, I grow tired of resting. I am restless to sail, to move forward. I continue to watch the sea for ripples, but it is as still as ever. It is hard to distinguish the water from the sky, it is dizzying. It is almost as if there is air underneath us. If I were to take a step out, I'd fall, not sink. Devine is sitting at the bow, playing the harmonica, providing a fitting soundtrack. We try and make the best out of difficult situations, conserving food, water, resting our bodies and minds, and being careful not to succumb to the gloom bug. We must never despair.
 
-# Water
+## Water
 
 It's easy to forget that water is not inexhaustible when it flows so readily out of the tap. Living on a boat certainly helps to develop a deeper connection to this precious resource. Depending on where you are, you'll have to treat it, catch it, carry it or pay for it.
 
@@ -1238,7 +1242,7 @@ At this point, the GRIB files are so old that there is no way to know whether th
 
 I'd rather be here than on a plane though, that much is sure, as I hate to be bombarded with advertisements. Visiting an airport is an attack on the senses, a place of masterful trickery, where you are made to walk through rows of gifts shops, perfume stands, jewellers. The only way to have peace and quiet is to go to a paid lounge. Quiet and comfort comes with a price tag, only to those who can pay. If you're tight on cash, all you can do is endure. It's crazy to think that people thought it a good idea to do this, who would design such a space? Such a world centred not on the well-being of people, but on how well they can trick them into spending. It is like this was designed by beings who've no idea what humans need, by creatures who have no empathy. That episode of *Black Mirror* where people run on treadmills for money, and pay not to see ads in their rooms, feels all too true while in airports.
 
-# Computers
+## Computers
 
 Computers are subject to water intrusion and saltwater corrosion, but with some care they can survive in a normal marine environment. We solved most of the problems by cleaning external connections often, and by storing them in a sealed box with some desiccants after each use. The parts that fail the most are power connectors, external connections and batteries.
 
@@ -1303,7 +1307,7 @@ The wind has freshened a little, I can tell by the sounds the boat is making. Pi
 
 I bought boxes of snack bars in Japan before leaving, as filler for our ditch bag but also as a night time snack. A few weeks ago, we started rationing them so they'd last till our arrival in Canada. Devine cut them into 6 pieces and placed the slices in a jar for easy access. In the beginning, we were wolfing down entire bars, initially out of hunger, then out of boredom, then as a way to keep awake. We try and be more reasonable now, we get 3 slices per night, each. 
 
-# The burden of electronics
+## The burden of electronics
 
 Nowadays, sailboats come with an increasing number of complicated electronics. In truth, these modern conveniences don't save us anything, and they take more than they give. Proprietary hardware and miniaturized systems prevents people from attempting repairs themselves, it turns users into consumers, effectively binding them to services on land. Throughout our travels, we've met many sailors stuck in port for weeks and weeks, waiting for replacement parts from companies overseas. 
 
@@ -1354,17 +1358,17 @@ With 3,334 km (1800 nm) left, being careful is essential. We don't know what cou
 
 The night is smooth, so far. We are staying ahead of the weather, pretending it won't catch up. I realized today that I stopped dreaming? Seems like they stopped when the wind returned. I've got a more active mind during bouts of calms. With the winds we've had yesterday and today, those calms feel like a distant dream. Not sure we've seen the last of the calm calms, I could never say anything like that with confidence, not out here.
 
-# Thrift and care
+## Thrift and care
 
 > "This curious world we inhabit is more wonderful than convenient; more beautiful than it is useful; it is more to be admired and enjoyed than used." — Henry David Thoreau
 
-We don’t like to think about what cargo ships on the ocean carry. Overtime, we've come to see every material object as a potential burden, in terms of the physical and mental space they occupy. Even when they pass out of our hands, whether they are sold, passed down, or donated, the objects still exist, while many more are manufactured. In his book *The Long Way*, Moitessier talks about the need to stop satisfying false needs and false joys, to instead focus on preserving nature. Preserving nature is our most worthy responsibility, and isn't compatible with an economy of "full consumption". We can measure the success of a society by the wellbeing and ongoing health of its people, not by what it creates or transforms.
+We don’t like to think about what cargo ships on the ocean carry. Every material object is a potential burden, in terms of the physical and mental space they occupy. Even when they pass out of our hands, whether they are sold, passed down, or donated, the objects still exist, while many more are manufactured. In his book *The Long Way*, Moitessier talks about the need to stop satisfying false needs and false joys, to instead focus on preserving nature. Preserving nature is our most worthy responsibility, and isn't compatible with an economy of "full consumption". We can measure the success of a society by the wellbeing and ongoing health of its people, not by what it creates or transforms.
 
-Devine & I have contributed our share of waste in the past, we have burdened others with objects when we reduced our own lives to fit onto a boat. Now, we do our best to avoid new items, and spend time seeking existing alternatives, or repairing broken items whenever possible. It is a challenge, as our for-profit economy doesn't encourage thrift and care, it encourages off-the-shelf solutions, while making repair and thrift difficult, and unnattractive.
+Devine & I have contributed our share of waste in the past, we have burdened others with objects when we reduced our own lives to fit onto a boat. Now, we do our best to avoid new items, and spend time seeking existing alternatives, or repairing broken items whenever possible. It is a challenge, as our for-profit economy doesn't encourage thrift and care, it promotes off-the-shelf solutions, while making repair and thrift difficult, and unnattractive.
 
-Time is necessary to practice thrift and care, but it a scarce resource. Work is the biggest timesink of all, taking an ever-larger chunk out of the average person's day. Time did not used to be compartmentalized into work and non-work, "work" was once more intertwined with family, community and play. Now, work pays for outside entertainment, and life outside of the workplace has lost vitality and meaning, it has ceased being a means to an end and become an end in itself. An economy that glorifies "work" and "infinite consumption" preaches that leisure is a commodity to be consumed rather than free time to be enjoyed. To gain time, it is necessary to build a satisfying home environment that doesn't depend on manufactured goods, or for-profit entertainment. Today's pleasures are debited to the future, paid not in money, but in waste and misery. A purchase that was easy to make today, will be an inconvenience to someone, somewhere, later. 
+Time is necessary to practice thrift and care, but it a scarce resource. Work is the biggest timesink of all, taking an ever-larger chunk out of the average person's day. Time did not used to be compartmentalized into work and non-work, "work" was once more intertwined with family, community and play. Now, work pays for outside entertainment, and life outside of the workplace has lost vitality and meaning, it has ceased being a means to an end and become an end in itself. An economy that glorifies "work" and "infinite consumption" preaches that leisure is a commodity to be consumed rather than free time to be enjoyed. Today's pleasures are debited to the future, paid not in money, but in waste and misery. A purchase that was easy to make today, will be an inconvenience to someone, somewhere, later. 
 
-We have to cherish nature, to foster its renewal, and to prioritize thrift and care rather than waste and excess. Maintenance and stewardship require something of us, we have responsibilities that lie beyond ourselves and our own profit. The farming phrase, “eyes to acres,” by Wes Jackson, an important figure in the international sustainable agriculture movement, says that in order to run a farm well, one has to be familiar with the environment, to be in touch with the little changes that occur everyday. Globalization makes it even harder for corporate agents and governments to practice care, as they will not steward land that they don't know, and that they have no personal stake in.
+We have to cherish nature, to foster its renewal, and to prioritize thrift and care rather than waste and excess. Maintenance and stewardship require something of us, we have responsibilities that lie beyond ourselves and our own profit. The farming phrase, “eyes to acres,” by Wes Jackson, says that in order to run a farm well, one has to be familiar with the environment, to be in touch with the little changes that occur everyday. Globalization makes it even harder for people to practice care, as they will not steward land that they don't know, and that they have no personal stake in.
 
 Conservationists like Wendell Berry, Aldo Leopold and Wes Jackson, have suggested that our membership in this world is never free. We, humans, are costly to the world. We abuse it. Only when we see land as a community, to which we belong, can we begin to use it with respect and love. There is no other way. 
 
@@ -1397,7 +1401,7 @@ The wind is rising out of the southwest. We have to hand-steer to keep with the 
 ##### 0000
 Saw a ship on AIS called KDDI Cable Infinity. It's one of those vessels that lay internet cables in the ocean! On AIS, it warned ships of its limited manoeuvrability, and to stay 1.852 km (1 nm) away. Funny to encounter a ship like this here, they certainly aren't working in the best of conditions, as the seas and winds are high. The fog too, is thick and laced with rain. They're here for work, cause they've been asked to be here, but we have only ourselves to blame.
 
-# Catching rain
+## Catching rain
 
 > “I think that a boat big enough to carry lots of food and spares could circle the globe several times, relying only on rain." — Bernard Moitessier
 
@@ -1440,7 +1444,7 @@ This streak of rough weather is a cruel, cruel thing, a horrible weather monster
 
 I am eager, scared to see how this develops. Gale force winds isn't a big deal for most vessels, and it isn't for us either, technically, but it can get dangerous if the wind blows hard for hours and hours, then the sea has plenty of time and inertia to grow into something terrible. In Japanese, the word for waves is *nami*, we've often heard the term *nami usagi*, or *rabbit waves*. This is a perfect way to describe the ocean, full of **rabbits waves**.
 
-# Coping with stress
+## Coping with stress
 
 Sailing is pleasant most times, but after long periods at sea in foul weather, or in calms, feeling cold, hungry and tired, it is normal to experience some anxiety.
 
@@ -1553,7 +1557,7 @@ Devine wakes up. We have oatmeal and coffee as we check the weather. Team Pino m
 Devine makes *garlic pasta with shredded nori* (see recipes) for lunch. I park Pino and step inside, peeling off my many layers, wet on the outside and gradually dry inside. I wasn't cold wearing this, though I dread having to go to the toilet. I usually delay it, waiting until the very last moment before going inside, I then wrestle out of my prison of layered fabric and race to the head.
    
 ##### 1200
-I make *kiri mochi with soft tofu and kimchi* (see recipes) for dinner. I opened the pack of special kiri mochi, sliced thin with cooked kuromame (black soy beans) in it. We did not heave-to to eat, as we wanted to keep making progress. We ate in turns.
+I make *kiri mochi with soft tofu and kimchi* (see recipes) for dinner. I opened the pack of special kiri mochi, sliced thin with cooked kuromame (black soybeans) in it. We did not heave-to to eat, as we wanted to keep making progress. We ate in turns.
 
 Rain is consistent. I set up a bucket under the main to catch some extra water for washing dishes. We've not yet touched our extra 70 L.
    
@@ -1596,7 +1600,7 @@ I'm doing my best to stay upbeat, but I am getting worn down by all this grey we
 
 I motored for 2 hours on my first shift to charge our batteries, we need to do it often these days, as cloudy skies don't permit our panels to draw enough from the sun. Once in a while, we get a fog sun, a bright diffused halo in the sky. That is the most sun this part of the ocean will ever grant us. Fog sun works with our panel, I did not expect that.
 
-# Foul-weather gear
+## Foul-weather gear
 
 Modern oilskin garments were developed by Edward Le Roy, in 1898. Le Roy used worn-out sailcloth painted with a mixture of linseed oil and wax to produce a waterproof garment suitable to be worn on deck in foul-weather conditions. 
 
@@ -2017,7 +2021,7 @@ If you ask us why we decided to go sailing, we don't think we could give you a s
 
 It seems unjustifiable, or at least masochistic, that a person would wilfully put themselves through potential misadventures for fame and curiosity alone, mountain climbers might echo these feelings although we don't know any with whom we can verify this. And so, perhaps we do these things in the name of freedom, freedom to practice direct experience (with all that entails. Discomfort, pain, hunger and so on), here we shall name this calling to live deliberately, using Thoreau's words.
 
-### Living by proxies
+## Living by proxies
 
 Smart devices to take away the pain of thinking deep thoughts, social things against the solitude, forever removing ourselves, in exchange for protectedness, for a complete thoughtless socialized inexistence.
 
@@ -2025,7 +2029,7 @@ A creeping numbness might be to blame for our own search of this direct experien
 
 Similarly, one might begin to talk instead of watching talk-shows and to play instead of watching game shows — To value the entire spectrum of sensations as necessary members of the whole that is the deliberate existence, with its potential for failure, awkwardness, loneliness, harm and death included.
 
-### To feel secure
+## To feel secure
 
 Convenience products will protect those living at odds with nature. Novel and fashionable horrors will be popularized to subvert anyone into docility, else new fears will be provided as obedience demands.
 
@@ -2047,15 +2051,15 @@ At sea, cooking is an activity that divides our days, and that has the greatest 
 
 Below is a list of the more cryptic items we had aboard Pino on the passage from Japan to Canada, followed by recipes that were mentioned earlier in the book.
 
-#### Textured vegetable protein (TVP)
+## Textured vegetable protein (TVP)
 
 > TVP is a soy product, made from defatted soy flour that's been cooked under pressure, and then dried. It is a shelf stable product that comes in a variety of shapes, ranging from tiny pellets to larger nuggets. Aboard Pino, we prefer the smaller grind, as it doesn't use up as much volume in a jar. We use it instead of mince meat in spagehtti sauces, sheperd's pie or tacos. TVP soaks up flavor, and ads bulk to dishes.
 
-#### Nori
+## Nori
 
 > Nori is an edible species of red algea. It has a strong flavor, and is often used in dried sheets to wrap sushi. Dried sheets of seaweed are made by a shredding and rack-drying process that resembled papermaking. Nori sheets should be kept in an air-tight container because they can easily absorb water from the air. We like to use it as a garnish on many dishes.
 
-#### Kouya-doufu
+## Kouya-doufu
 
 > Kouya-doufu is freeze-dried tofu. The variety sold in stores is made with soy, coagulants, and baking soda. It resembles a hard sponge, and needs to be re-hydrated for 5 minutes, and then firmly pressed before use. It can be ground into tofu meal and flour. This type of tofu kept us fed on this trip, we bought many boxes and had many left over in the end. Tetra-pak tofu was hard to come by in Japan, and this was a welcomed replacement.
 
@@ -2063,7 +2067,7 @@ Below is a list of the more cryptic items we had aboard Pino on the passage from
 
 > "According to undocumented legend, it was developed by a Shingon priest named Mokujiki Shonin, who succeeded Kakkai-sonja. He obtained large amounts of soybeans from the head Shingon temple and encouraged each of the mountain temples to make their own tofu, miso, and shoyu. In order to preserve some of the frozen tofu until the spring equinox, he developed a system for drying it as follows. Firm tofu was frozen outdoors in the snow on cold windy nights, allowed to stand on shelves in a shed for 5-15 days at temperatures below freezing, thawed in warm water and pressed lightly to expel the melted ice, then dried in the shed using heat from charcoal braziers." (W. Shurtleff et.at A. Aoyagi, 2004)
 
-#### Kombu dashi
+## Kombu dashi
 
 > Dashi is a soup stock and essential condiment in Japanese cuisine. Dashi contains one or two ingredients, and is often made from konbu (dried kelp), katsuoboshi (dried bonito flakes), shiitake (mushrooms), iriko/niboshi (dried anchovies/sardines) or a combination of these. Dashi creates a sweet, savoury umami flavor.
 
@@ -2071,37 +2075,37 @@ Below is a list of the more cryptic items we had aboard Pino on the passage from
 
 > We carry kombu dashi granules aboard Pino, as a way to quickly flavor dishes. The alternative is to buy strips of dried kombu strips and to soak them in hot water. The seaweed flavor leeches into the liquid, which we use to flavor foods. On a boat, using whole konbu isn't ideal. Using granules is the next best thing. In grocery stores, they are usually sold in small indivually-wrapped packages. I bought a larger 500 g bag of granules, which solved the packaging issue.
 
-#### Miso
+## Miso
 
 > Miso is a traditional Japanese seasoning produced by fermenting soybeans with both salt and koji (fungus aspergillus oryzae) and sometimes with rice, barley and seaweed. Miso is salty, but it's flavor and aroma depends on the ingredients used or the fermentation process. There is a wide variety of Japanese miso, it is typically classified by grain type (barley, buckwheat, rice etc), color (white, brown, black & red), taste (sweet, salty, earthy, fruity etc) and background (where it's from). The most common miso flavor categories are: Shiromiso (white), Akamiso (red) and Awasemiso (mixed). Generally speaking, the darker the color, the longer it’s been fermented and the stronger it will taste Miso is a rich source of protein. 
 
-> The type we use in recipes, is a white, rice-based miso, that is sweet and earthy. White miso is excellent in soy bean hummus. We also carry a darker variety, a black miso that is very intense, but very good. The darker kind is used for dipping sauces and soups.
+> The type we use in recipes, is a white, rice-based miso, that is sweet and earthy. White miso is excellent in soybean hummus. We also carry a darker variety, a black miso that is very intense, but very good. The darker kind is used for dipping sauces and soups.
 
 > We prepare miso soup often on passages, especially when hungry during night-shifts. Just 1 tbsp in some hot water, with some dried wakame, makes for a comforting, and satisfying snack. Miso will lose its flavor if cooked for too long, so it is best to add it toward the end of the cooking process.
 
-#### Nutritional yeast
+## Nutritional yeast
 
 > Nutritional yeast is a deactivated yeast, sold as yellow flakes or powder. It has a cheesy, nutty taste and flavor, and some fortified varieties are a good source of B12. Its often confused with brewer’s yeast, but the two are distinct. Nutritional yeast adds a lot of depth and flavor to a variety of dishes, and acts as a dry, shelf-stable replacement for cheese. Nutritional yeast wasn't easy to come by in Japan, but we left New Zealand with plenty in stock. 
 
 > Store the nutritional yeast flakes in a dark, dry environment, as B12 is sensitive to both moisture and light.
 
-#### Chickpea flour
+## Chickpea flour
 
 > Chickpea flour—also known as besan, channa dal or gram flour—is made from ground raw, or roasted chickpeas. Roasted varieties has more flavor, while the raw variety is bitter. Chickpea flour has a higher protein content than other flours. This type of flour has a long shelf life due to the low-moisture, and low-fat content. Chickpea flour has a texture and taste that is ideal for savoury pancakes and omelettes. When mixed with an equal volume of water, it makes a convincing egg replacement.
 
 > Chickpea flour and besan flour are both made from chickpeas, but chickpea flour is more coarse and requires more water than besan. This should be taken into account when cooking.
 
-#### Mirin
+## Mirin
 
 > Mirin is a condiment in Japanese cuisine. It's a type of rice wine, but with a lower alcohol and higher sugar content than sake. The sugars form naturally during the fermentation process, and are not added. There are 3 types: Hon mirin (true mirin), which contains about 14% alcohol, second is Shio mirin which has less alcohol (lower than 1.5%) and third is Shin mirin, which has less than 1% alcohol while retaining the same flavor. Mirin adds sweetness to dishes, it helps tenderize, and add luster to foods while masking unwanted flavors.
 
-#### Kirimochi
+## Kirimochi
 
 > Kirimochi are rice cakes made from mochigome (short-grain japonica glutinous rice), machines pound the rice into a paste, molds it into shape, before drying and cutting it. Some varieties have added ingredients, like kuromame (Japanese black beans). 
 
 > Japanese people eat the fresh variety for the New Year and during special events, while the dried, hard version is available year round. There are many ways to cook kirimochi, our favorite way is to pan-fry it on the stove top until puffy and crunchy on the outside. It's delicious when added into soups, or if cooked in the oven. In Japan, kirimochi is served both sweet, with anko (sweet red bean paste) or kinako (roasted soybean paste), and savoury, with soy sauce or other condiments.
 
-#### Kinako
+## Kinako
 
 > Kinako is roasted soybean flour, it has a deep, nutty flavor. The Japanese use it to make or coat desserts. Some varieties keep the roasted skin which alters the color of the final product. We like to add it to baked goods, it makes a good peanut alternative.
 
@@ -2135,7 +2139,7 @@ Shape into a rough triangle, or ball, with your hands. Press rice firmly, so the
 
 *Yaki Onigiri*: Instead of wrapping the rice ball in nori, alternatively, you can leave it as is, and season the outside with sesame seeds or furikake (Japanese spice mixes). Another option, is to grill the plain rice balls in a lightly-oiled pan until browned and crispy, and to brush the outside with soy sauce. 
 
-*Onigiri with filling*. Add pickled plums (remove the pits), seasoned kombu or steamed edamame (young soy beans). 
+*Onigiri with filling*. Add pickled plums (remove the pits), seasoned kombu or steamed edamame (young soybeans). 
 
 \newpage
 
@@ -2171,7 +2175,7 @@ Serve into two bowls with some chives. Eat wrapped in salad or cabbage leaves, o
 
 Hummus
 -----------------------   ------------------ 
-Soy beans                 300 g (150 g, dry)
+Soybeans                 300 g (150 g, dry)
 Tahini    				  15 ml
 Lemon                     1/2, juiced
 White miso                15 g
@@ -2180,11 +2184,11 @@ Garlic                    4 cloves
 Black pepper              to taste
 -----------------------   ------------------ 
 
-Soak 150 g of dry soy beans (yields 300 g cooked beans) overnight, or for a minimum of 8 h. Then, cook in a pressure cooker for 15 minutes. Strain beans, rinse and transfer to a bowl. Alternately use one 300 g can of soy beans.
+Soak 150 g of dry soybeans (yields 300 g cooked beans) overnight, or for a minimum of 8 h. Then, cook in a pressure cooker for 15 minutes. Strain beans, rinse and transfer to a bowl. Alternately use one 300 g can of soybeans.
 
 Puree the cooked soybeans with 45 ml (3 tbsp) of tahini, the juice of 1/2 a lemon (or some other acidic ingredient), 15 ml (1 tbsp) of white miso and 30 ml (2-3 tbsp) of water. I used a potato masher, but any blending tool will do.
 
-Bring a pan to medium heat, add 15 ml (1 tbsp) of olive oil, then add 4 cloves of chopped garlic. Pan-fry for 2-3 minutes, then add 2 chopped jalapeno peppers and continue to pan-fry for an additional 5 minutes, or until well-cooked. Add mixture overtop of soy bean hummus, and season with black pepper.
+Bring a pan to medium heat, add 15 ml (1 tbsp) of olive oil, then add 4 cloves of chopped garlic. Pan-fry for 2-3 minutes, then add 2 chopped jalapeno peppers and continue to pan-fry for an additional 5 minutes, or until well-cooked. Add mixture overtop of soybean hummus, and season with black pepper.
 
 \newpage
 
