@@ -1,0 +1,14 @@
+---
+title:
+- type: main
+  text: Busy Doing Nothing
+- type: subtitle
+  text: 51 days from Japan to Canada
+creator:
+- role: author
+  text: Rekka Bellum and Devine Lu Linvega
+publisher: Hundredrabbits
+lang: en-CA
+rights: © 2021 Hundredrabbits, CC BY-NC
+table-of-contents: true
+...

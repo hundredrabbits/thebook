@@ -3,7 +3,7 @@ title:
 - type: main
   text: Busy Doing Nothing
 - type: subtitle
-  text: 51 days, from Japan to Canada
+  text: 
 creator:
 - role: author
   text: by Rekka Bellum and Devine Lu Linvega
@@ -139,8 +139,6 @@ The first 2 days are the hardest. We whine a lot, profess that we hate sailing, 
 
 The best advice we got against seasick, is to stay outside, and to keep your mind off the motion of the boat. Going indoors to retrieve an item from a locker, is the number one trigger for seasickness. To alleviate the symptoms we take turns steering the boat, keep our eyes on the horizon and take in some fresh air. When steering, we can anticipate the movement of the boat, which allows our brain to re-calibrate with our eyes.
 
-*  *  *  
-
 \newpage
 
 #### June 11th
@@ -175,11 +173,9 @@ The Kuroshio, or black current, is a high-temperature, high-salinity dark blue w
 
 Sailing along with the Kurushio gave us a free ride, adding sometimes two or three knots to our speed. But coming out of Shimoda, we underestimated its strength. As soon as we passed Oshima Island, the current began to pull us northward, even with our bow pointing east. 
 
-*  *  *
-
 \newpage
 
-##### June 12th
+#### June 12th
 
 ![](img/june12.jpg "rain")
 
@@ -193,7 +189,7 @@ The conditions out here are horrible. We are running with the waves and wind, we
 
 \newpage
 
-##### June 13th
+#### June 13th
 
 ![](img/june13.jpg "daikon")
 
@@ -237,8 +233,6 @@ Before we start our night shifts, we usually reef the mainsail. A smaller sail w
 Another important rule, is to never reef at night. Everything is harder to do in the dark. We have done it before, with success, but the issue is that it means waking up your partner, robbing them of their precious sleep. Can't we reef a sail alone? Yes, we could, but that would break another rule:  never wander on deck in the dark alone, even with a tether. Therefore, we plan to always do our last manoeuvres of the day while there is still some light out, at the cost of speed.
 
 Since we started sailing, we have stuck to the same pattern for night shifts. One sleeps between 1900 and 2100, then sails between 2100 and 2400, then goes back to sleep from 2400 until 0300, and then goes back to the tiller between 0300 and 0600. 3 hours on, and 3 hours off. Some sailors prefer longer shifts, doing 4-5 hours at a time. We prefer shorter shifts, because we get tired easy, and 3 hours, when tired, feels unending. If ever we need more sleep, we take short naps in the day.
-
-* * *
 
 \newpage
 
@@ -387,8 +381,6 @@ The first time we did it at sea, was on the sail from Mexico to the Marquesas. I
 It's a technique worth becoming familiar with, as it could save your boat and your life. We should have been heaving-to instead of running with the weather yesterday, if we had been, Pino would not have been overwhelmed. 
 
 Our boat, with its fin keel, heaves-to well. Slowing the boat costs time, but our safety and mental health matter more. We've got plenty of time to get to Canada. We are glad that the rig suffered no damage, we were lucky. Pino is a good, strong boat, we thought it was when we bought it, and now, we know it. 
-
-* * *
 \newpage
 
 #### June 19th
@@ -527,8 +519,6 @@ Reefing the mainsail before darkness falls is especially important in areas pron
 
 The doldrums is an area where prevailing winds converge, creating an area of perpetual calms. In such places we use squalls to move forward, effectively becoming storm chasers. We chase squalls for their wind and for their water. Water is not hard to come by when there are squalls around. We always make sure to have a bucket on deck to attach to the end of the boom to collect it.
 
-* * *
-
 \newpage
    
 # Week 3
@@ -649,7 +639,7 @@ Staples like oats, rice and flour are available everywhere, but finding wholegra
 
 We always find fresh vegetables, wherever we go. And if we're going to an island where produce is scarce, it's best to leave it to the locals, and to arrive with enough provisions. We carry dried peas, mushrooms and daikon, and preserve food—when in a place with plentiful fresh foods—whenever possible. 
 
-> *"You don’t need to be an expert to preserve food, or any fancy technology. Just a container, some salt, and trust in the world of bacteria and fungi." (A. Vansintjan, 2017)*
+> "You don’t need to be an expert to preserve food, or any fancy technology. Just a container, some salt, and trust in the world of bacteria and fungi." — Aaron Vansintjan
 
 Lacto-fermentation is easy to do, requiring only vegetables, salt and water. We make sauerkraut, and other pickled vegetables (carrots, beet root, garlic etc). There are many other ways to preserve vegetables, like nuka (Japanese technique) and with miso. Fermented foods are nutritious, unlike canned foods. As Alex Lewin, author of *Real Food Fermentation and Kombucha, Kefir, and Beyond* said: "With canning you kill all of the microbes and seal it hermetically. With fermentation you invite the microbes you want and don’t let in the ones you don’t. Fermentation is diplomacy and canning is a massacre." 
 
@@ -657,21 +647,17 @@ Cans can help in a bind, we carry many on Pino, but there are other, better ways
 
 Below is a list of rules that we go by, when choosing what to eat:
 
-**Eat varied foods.** Biodiversity in the diet means less mono-culture in the fields.
+**Eat varied foods.** Biodiversity in the diet means less monoculture in the fields.
 
-**Pay more.** Spend more for foods grown or raised less intensively and with more care, eat less.
+**Pay more.** Spend more for foods grown or raised less intensively and with more care.
 
 **Eat mostly plants.** Especially leafy greens. 
 
-**Avoid processed foods.** Buy base ingredients.
+**Avoid processed foods.** Buy base ingredients. Cook at home.
 
 **Eat local seasonal ingredients.** It's cheaper, and better for the planet.
 
-**Cook instead of eating out.** By cooking at home you control what you ingest, and it costs less.
-
-**Plant a garden.** Or sprout seeds and legumes.
-
-* * *
+**Plant a garden.** Or sprout seeds and legumes. It's a good exercise toward mindfulness. 
 
 \newpage
 
@@ -693,7 +679,7 @@ It was difficult to get foreign tanks filled in Japan. While in Shima Yacht Harb
 ##### 0800
 Devine awakens, serves us coffee and checks the weather, as is our usual morning routine! After today, we should get some good wind to go east. We got a message from Robusta, saying the Pacific High is appearing on Monday. Normally, when boats plan to sail to Alaska or the Pacific Northwest, they wait until it appears, because with it, comes the promise of favorable winds. We did not wait for it, and the weather we’re getting now might very well be due to that, but we thought waiting was more dangerous as summer is also typhoon season. We’d sailed in areas of contrary, variable winds before, we figured we could handle it. Indeed, we can do it, but it isn’t easy. 
 
-Devine started reading *Canticle for Lebowitz*, having finished *The Dispossessed*. 
+Devine started reading *Canticle for Lebowitz* by Walter M. Miller Jr., having finished *The Dispossessed*. 
 
 ##### 0900
 Devine slips on a fresh pair of socks. We've been wearing the same pair for a while as we don't have an infinite supply, nor do we want to use up our water to wash them. I alternate between two pairs of wool socks. I was wearing my favorite pair when I fell overboard, they are dry now, but full of salt. I need to hang them outside a while, so the wind can shake the salt out of them. We might start using water more frugally once we reach our second milestone at 45°N 159°W.
@@ -784,7 +770,7 @@ Clouds bring false hope of wind in passing. Once past us, all air is lifted out 
 Devine is sleeping hard, and I am outside, steering still. The wind has settled into the north, it's easier to steer but I must be there to keep Pino on an easterly course. The sea is settled, the sky, cloudy, but I can see a clearing in the north that will likely catch up, bringing sun and a cloudless sky this afternoon. We had early oatmeal, as we were very hungry this morning. It was a cold night, had many layers on, but could not stay warm.
 
 ##### 0600
-Woke up to find Devine asleep on watch, Kindle in hand. He let me sleep longer but couldn't stay awake himself. Not a big deal, as Pino is not going very fast, although we were going southeast. I corrected the course and made coffee. We sat outside, talking about our readings. Devine disliked *The incredible tide* and its religious undertones, Miyazaki's *Future Boy Conan* is better. I started reading *Solaris*, and I really like it so far.
+Woke up to find Devine asleep on watch, Kindle in hand. He let me sleep longer but couldn't stay awake himself. Not a big deal, as Pino is not going very fast, although we were going southeast. I corrected the course and made coffee. We sat outside, talking about our readings. Devine disliked *The Incredible Tide* by Alexander Key due to its religious undertones and pessimistic worldview, Miyazaki's *Future Boy Conan* is better. I started reading *Solaris*, and I really like it so far.
    
 ##### 1000
 We woke up Calcifer, as it is time to charge the batteries. Since we are becalmed, it'll also provide some forwardness. We each had a short nap, we're both very tired today. Whenever we go nap we fall asleep almost instantly, and waking up is very, very difficult. It may be because in hectic times, we are more alert and don't allow our bodies and minds to fully relax. We've had many moments like this recently.
@@ -808,17 +794,15 @@ One of the reasons we converted Pino from wheel to tiller was to simplify self-s
 
 The easiest point of sail is when beating into the wind. We lash the tiller in place using ropes, then trim the sails and the boat will stay on a relatively straight course. We make small adjustments when necessary. To allow for more variation, we like to tie a line to the tiller (we have two cam cleats fixed to the tiller to quickly jam the line), than to a bike tube on the toe rail. We used a bike tube because it's what we had, and we found it more stretchy than shock cord. We adjust the tension by releasing the line from the cam cleat, or tightening it. Wrapping a line about the tiller is also fine, but if the wind is strong it’s better to make more turns. We add extra turns even with a cam cleat, as a precaution.
 
-> "This system works because the tiller, held slightly to windward, is trying to steer the boat down. Every time the boat sails down, the mainsail catches the wind and tries to pull the boat back up again. When the boat heads up the mainsail will luff and will stop pulling the boat upwards and the tiller will steer the boat down again." (A. Evans)
+> "This system works because the tiller, held slightly to windward, is trying to steer the boat down. Every time the boat sails down, the mainsail catches the wind and tries to pull the boat back up again. When the boat heads up the mainsail will luff and will stop pulling the boat upwards and the tiller will steer the boat down again." — Andrew Evans
 
 There are different methods of self-steering when running, or reaching. The 'storm-jib system' is useful when close-hauled or on a broad reach. It’s a dependable, long-term solution for self-steering. If set correctly, it's possible to leave it as is, for hours and days in any condition.
 
 On the passage from Tonga to New Zealand, we ran into our friend, and solo-sailor Josh on his 8.8 m (29 ft) boat Maistral. It is rare to come across other sailors at sea, and it is even more rare to meet a sailor that also happens to be your friend. We met Josh while in Mexico. His plans were similar to ours, to sail through the South Pacific and over to New Zealand. His outboard motor died early on, but he continued his trip anyway, learning self-steering techniques as he did. When we met him on the ocean, we could see that he had 3 sails up. Maistral was a sloop, like ours, but also had a poled-out storm-jib just forward of the head sail. We did not understand what we were looking at then, but the image never left our minds. Then, we found a book by Andrew Evans, talking about the 'poled-out storm-jib system'.
 
-The storm jib system only requires a few lengths of surgical tubing (or bike tubing), a storm jib (or stay sail) and two snatch blocks. I will not explain these techniques in too much detail, as Andrew does it much better in his short (and free) booklet *Thoughts, Tips and Tactics for Singlehanded Sailing*.
+The storm jib system only requires a few lengths of surgical tubing (or bike tubing), a storm jib (or stay sail) and two snatch blocks. I will not explain these techniques in too much detail, as Andrew Evans does it much better in his short (and free) booklet *Thoughts, Tips and Tactics for Singlehanded Sailing*.
 
 Learning to sail without complex systems is essential, not just for single-handers, but also for couples. An overeliance on gadgetry can be dangerous, especially at sea, where there is no one to help when things go wrong. 
-
-* * *
 
 \newpage
 
@@ -860,17 +844,15 @@ Purchasing food in bulk is ideal for long passages, but they’ll spawn insects 
 
 **Containers.** Aboard Pino, we carry a lot of glass jars of different sizes, and large plastic food-safe bins. We like to use plastic bins designed for drinking water to store grains and other dried goods, like legumes and rice. Food-grade plastics are identifiable by the recycling number on the bottom. 1, 2, 4 and 5 are food-grade, but also to check to see if they are *food-safe*.
 
-Other sailors are surprised when they find out how much glass we carry onboard, in their mind glass and boats don't go together. After 5 years of hard sailing all of our jars are intact. Even the large 5 L jar of umeshu that jumped out of the fridge did not break, in fact, only the plastic lid did. Glass does not leach anything into the food, and does not rust (although the lids might). We've swapped our metallic canning lids for plastic ones. On passage, we store glass jars on a shelf that is exactly their height, the jars are packed in tight with little wiggling room. The shelf below houses larger jars, and again, offers little wiggle room. Packing glass in tight-fitting spaces is key to prevent accidents. When the jars are full of food, the weight helps keep them well-seated, and secure. We also keeps jars in settee lockers, in that spaces we use old socks as protective sleeves. 
+We carry a lot of glass containers aboard Pino. After 5 years of hard sailing all of our jars are intact, even the large 5 L jar of umeshu did not break, only the plastic lid did. Glass does not leach chemicals and does not rust (although the lids might). We've swapped our metallic canning lids for plastic ones. On passages, we store glass jars on a shelf that is exactly their height. The jars have little wiggling room. Packing glass in tight-fitting spaces is key to preventing accidents. When the jars are full, the weight keeps them well-seated and secure. We like to use old socks as sleeves for glass jars stored in the settee lockers.
 
-**Light.** Our storage shelves have a fabric curtain to protect them from light. For example, the B12 in nutritional yeast is light-sensitive, protecting it from the elements will ensure that it retains its nutritive value.
+**Light.** Our storage shelves have a fabric curtain to protect them from light. B12 in nutritional yeast is light-sensitive, protecting it from the elements will ensure that it retains its nutritive value.
 
 **Keeping food separate.** We keep food purchased in bulk in separate jars. Keeping some types of grains, or dried goods separate helps to avoid problems, like weevils. If one batch is contaminated, the other might be fine. If the infested food is in a solid, and air-tight container, the hatched insects can't escape to infect other containers.
 
 **Oxygen.** The presence of oxygen decreases the storage life of food and causes oxidative deterioration, and under the right conditions insects can spawn. An easy way to remove oxygen from a container, is to use oxygen absorbers. In Japan, many items in stores come with desiccants. Overtime, we've amassed many and re-use them. Every time you open a jar for a serving of grains, oxygen comes in which hastens spoilage. For this reason, we like to keep the bulk of our food in smaller jars instead of in larger containers.
 
 Weevil-prone items include flours, cereal, rice, quinoa, pasta, oats, barley, corn and wheat berries. 
-
-* * *
 
 \newpage
 
@@ -988,8 +970,6 @@ In the Western Pacific, near the equator, there were boobys. These birds have a 
 In Fiji, I glimpsed the most beautiful bird I'd ever seen, a Fijian parrotfinch, with blackish feathering on its chin becoming dark blue on the lower throat and turquoise on the upper breast before fading into the bright green of the underparts. I saw it on a walk on the island, perched in a tree, its colors drew my eye and I could not look away. This bird had bewitched me, and did not know it. It went about its business, staying for a short time before flying off to enrapture other unsuspecting humans. 
 
 We live in a time when much of it is under threat. Nature will always give, but it is up to us to learn to take less, and to protect it from the greedy.
-
-* * *
 
 \newpage
 
@@ -1162,8 +1142,6 @@ Our main freshwater tank has 170 L (45 gal US), we also have a smaller 50 L seco
 
 We chose not to have a desalinator aboard Pino, and have managed well without it. It's a device that is expensive, high maintenance and power-hungry.
 
-* * *
-
 \newpage
 
 # Week 5
@@ -1252,8 +1230,6 @@ When parts fail on our boat we repair them, and we do the same for our PCs. Nowa
 
 At sea, our computers don't see much action, as we spend enough time glued to them while in port. 
 
-* * *
-
 \newpage
 
 #### July 8th
@@ -1319,8 +1295,6 @@ There is an allure to high-tech systems, as they are easy to use, but the taste 
 
 Our boat has no refrigeration, hot water, water pressure, windlass or autopilot, which minimizes opportunities for breakages, costs less, while preventing a significant drain on Pino's batteries. 
 
-* * *
-
 \newpage
 
 #### July 9th
@@ -1372,8 +1346,6 @@ We have to cherish nature, to foster its renewal, and to prioritize thrift and c
 
 > "The land ethic simply enlarges the boundaries of the community to include soils, waters, plants, and animals, or collectively: the land. Land ethic changes the role of Homo sapiens from conqueror of the land community to plain member and citizen of it. It implies respect for his fellow-members, and also respect for the community as such." — Aldo Leopold
 
-* * *
-
 \newpage
 
 #### July 10th
@@ -1410,8 +1382,6 @@ We agree with Moitessier. Watermakers are now ubiquitous on bluewater yachts, bu
 We recommend using rainwater for purposes other than drinking and cooking. If you are to drink it, it’s important to boil it first, and to run it through a good filtration system. The rain at sea is likely safe, devoid of pollutants, but the same can't be said of some anchorages. In the Majuro in the Marshall Islands, the lagoon was full of floating fish-processing factories, spitting smoke all day and night. We collected rain water there, but never did drink it.
 
 Even if you don’t plan on drinking it, it’s a good idea to treat the water you catch. The easiest way to do this is to add chlorine bleach to your supply. This is something we’ve done, and continue to do. The suggested ratio of chlorine to water is 2 drops bleach for 1.15 L. The above ratios are for bleach containing 5.25% Sodium Hypochlorite. This amount depends on the concentration, the ratios will be different for 5.25% than for 8% chlorine bleach (1 drop: 1.15 L). Only use regular, unscented chlorine bleach products that are suitable for disinfection and sanitization, as indicated on the label. A good way to remember these ratios, is this saying: “You must be 21 to drink." 2 drops bleach per L (1 qt) water, easy to remember. Note that 1 qt is slightly less than 1 L. Note that adding bleach doesn't remove chemical pollutants.
-
-* * *
 \newpage
 
 #### July 11th
@@ -1455,8 +1425,6 @@ Much stress in sailing comes as a result of poor performance, when becalmed, pla
 If stressed, we like to practice **box breathing**. Box breathing involves doing each of the following steps for 4 seconds: breathing in, holding your breath, breathing out, holding your breath, and repeating it for 5 minutes to get the full effect.
 
 Drawing silly cartoons kept me calm on this trip, and continues to make me laugh. Laughter is a good way to increase endorphins to your brain, while reducing stress hormones. Keeping a journal is another good stress reducer. Writing things down can help keep your mind uncluttered. Reading books together also offered a good distraction.
-
-* * *
 
 \newpage
 
@@ -1613,8 +1581,6 @@ Synthetic DWR-coated foulies require re-treatment to maintain water-repellency. 
 Zippers on clothes are also exposed to the elements, making damage and corrosion difficult to avoid. We found that even plastic zippers will freeze up from too much salt buildup. Applying a lubricant can minimize blockages.
 
 After long, salty trips, we usually rinse our gear with plenty of freshwater to remove salt crystals. We use old tooth brushes to scrub deposits from zippers. Failing to do this, will make deteriorate your expensive gear, very, very fast.
-
-* * *
 
 \newpage
 
@@ -2021,7 +1987,7 @@ If you ask us why we decided to go sailing, we don't think we could give you a s
 
 It seems unjustifiable, or at least masochistic, that a person would wilfully put themselves through potential misadventures for fame and curiosity alone, mountain climbers might echo these feelings although we don't know any with whom we can verify this. And so, perhaps we do these things in the name of freedom, freedom to practice direct experience (with all that entails. Discomfort, pain, hunger and so on), here we shall name this calling to live deliberately, using Thoreau's words.
 
-## Living by proxies
+### Living by proxies
 
 Smart devices to take away the pain of thinking deep thoughts, social things against the solitude, forever removing ourselves, in exchange for protectedness, for a complete thoughtless socialized inexistence.
 
@@ -2029,7 +1995,7 @@ A creeping numbness might be to blame for our own search of this direct experien
 
 Similarly, one might begin to talk instead of watching talk-shows and to play instead of watching game shows — To value the entire spectrum of sensations as necessary members of the whole that is the deliberate existence, with its potential for failure, awkwardness, loneliness, harm and death included.
 
-## To feel secure
+### To feel secure
 
 Convenience products will protect those living at odds with nature. Novel and fashionable horrors will be popularized to subvert anyone into docility, else new fears will be provided as obedience demands.
 
@@ -2039,7 +2005,7 @@ We have seen the non-participation to the throughput mechanisms of society label
 
 We believe that one can use nature's indifference as a reminder of the actual fortitude of their being, to learn of one's own true capacity for resilience when communing with nature—ideas altogether at odds with modern stories, or an invitation to be part of something.
 
-> "Modern man requires more and more comfort both at home and in the car. Sailors, too, want more comfort in their cruisers, but comfort cannot be combined with simplicity. And when life is no longer simple, it loses both beauty and joy." (Sven Yrvind, 2017) 
+> "Modern man requires more and more comfort both at home and in the car. Sailors, too, want more comfort in their cruisers, but comfort cannot be combined with simplicity. And when life is no longer simple, it loses both beauty and joy." — Sven Yrvind
 
 Thank you for reading.
 
@@ -2051,63 +2017,63 @@ At sea, cooking is an activity that divides our days, and that has the greatest 
 
 Below is a list of the more cryptic items we had aboard Pino on the passage from Japan to Canada, followed by recipes that were mentioned earlier in the book.
 
-## Textured vegetable protein (TVP)
+### Textured vegetable protein (TVP)
 
-> TVP is a soy product, made from defatted soy flour that's been cooked under pressure, and then dried. It is a shelf stable product that comes in a variety of shapes, ranging from tiny pellets to larger nuggets. Aboard Pino, we prefer the smaller grind, as it doesn't use up as much volume in a jar. We use it instead of mince meat in spagehtti sauces, sheperd's pie or tacos. TVP soaks up flavor, and ads bulk to dishes.
+TVP is a soy product, made from defatted soy flour that's been cooked under pressure, and then dried. It is a shelf stable product that comes in a variety of shapes, ranging from tiny pellets to larger nuggets. Aboard Pino, we prefer the smaller grind, as it doesn't use up as much volume in a jar. We use it instead of mince meat in spagehtti sauces, sheperd's pie or tacos. TVP soaks up flavor, and ads bulk to dishes.
 
-## Nori
+### Nori
 
-> Nori is an edible species of red algea. It has a strong flavor, and is often used in dried sheets to wrap sushi. Dried sheets of seaweed are made by a shredding and rack-drying process that resembled papermaking. Nori sheets should be kept in an air-tight container because they can easily absorb water from the air. We like to use it as a garnish on many dishes.
+Nori is an edible species of red algea. It has a strong flavor, and is often used in dried sheets to wrap sushi. Dried sheets of seaweed are made by a shredding and rack-drying process that resembled papermaking. Nori sheets should be kept in an air-tight container because they can easily absorb water from the air. We like to use it as a garnish on many dishes
 
-## Kouya-doufu
+### Kouya-doufu
 
-> Kouya-doufu is freeze-dried tofu. The variety sold in stores is made with soy, coagulants, and baking soda. It resembles a hard sponge, and needs to be re-hydrated for 5 minutes, and then firmly pressed before use. It can be ground into tofu meal and flour. This type of tofu kept us fed on this trip, we bought many boxes and had many left over in the end. Tetra-pak tofu was hard to come by in Japan, and this was a welcomed replacement.
+Kouya-doufu is freeze-dried tofu. The variety sold in stores is made with soy, coagulants, and baking soda. It resembles a hard sponge, and needs to be re-hydrated for 5 minutes, and then firmly pressed before use. It can be ground into tofu meal and flour. This type of tofu kept us fed on this trip, we bought many boxes and had many left over in the end. Tetra-pak tofu was hard to come by in Japan, and this was a welcomed replacement.
 
-> Japan has a long history of freezing foods that contain a large amount of water, then thawing and drying them to remove all moisture to produce a lightweight, dehydrated food with a long shelf life. This practice is said to have originated on Mt. Koya:
+Japan has a long history of freezing foods that contain a large amount of water, then thawing and drying them to remove all moisture to produce a lightweight, dehydrated food with a long shelf life. This practice is said to have originated on Mt. Koya:
 
 > "According to undocumented legend, it was developed by a Shingon priest named Mokujiki Shonin, who succeeded Kakkai-sonja. He obtained large amounts of soybeans from the head Shingon temple and encouraged each of the mountain temples to make their own tofu, miso, and shoyu. In order to preserve some of the frozen tofu until the spring equinox, he developed a system for drying it as follows. Firm tofu was frozen outdoors in the snow on cold windy nights, allowed to stand on shelves in a shed for 5-15 days at temperatures below freezing, thawed in warm water and pressed lightly to expel the melted ice, then dried in the shed using heat from charcoal braziers." (W. Shurtleff et.at A. Aoyagi, 2004)
 
-## Kombu dashi
+### Kombu dashi
 
-> Dashi is a soup stock and essential condiment in Japanese cuisine. Dashi contains one or two ingredients, and is often made from konbu (dried kelp), katsuoboshi (dried bonito flakes), shiitake (mushrooms), iriko/niboshi (dried anchovies/sardines) or a combination of these. Dashi creates a sweet, savoury umami flavor.
+Dashi is a soup stock and essential condiment in Japanese cuisine. Dashi contains one or two ingredients, and is often made from konbu (dried kelp), katsuoboshi (dried bonito flakes), shiitake (mushrooms), iriko/niboshi (dried anchovies/sardines) or a combination of these. Dashi creates a sweet, savoury umami flavor.
 
-> Dashi is used as a broth base for Japanese hot pot dishes, simmered dishes, noodle soups, it's also used as a seasoning liquid (for rice). Konbu dashi is the easiest stock to make, it has a subtle taste and is often mixed with shiitake mushroom dashi. 
+Dashi is used as a broth base for Japanese hot pot dishes, simmered dishes, noodle soups, it's also used as a seasoning liquid (for rice). Konbu dashi is the easiest stock to make, it has a subtle taste and is often mixed with shiitake mushroom dashi. 
 
-> We carry kombu dashi granules aboard Pino, as a way to quickly flavor dishes. The alternative is to buy strips of dried kombu strips and to soak them in hot water. The seaweed flavor leeches into the liquid, which we use to flavor foods. On a boat, using whole konbu isn't ideal. Using granules is the next best thing. In grocery stores, they are usually sold in small indivually-wrapped packages. I bought a larger 500 g bag of granules, which solved the packaging issue.
+We carry kombu dashi granules aboard Pino, as a way to quickly flavor dishes. The alternative is to buy strips of dried kombu strips and to soak them in hot water. The seaweed flavor leeches into the liquid, which we use to flavor foods. On a boat, using whole konbu isn't ideal. Using granules is the next best thing. In grocery stores, they are usually sold in small indivually-wrapped packages. I bought a larger 500 g bag of granules, which solved the packaging issue.
 
-## Miso
+### Miso
 
-> Miso is a traditional Japanese seasoning produced by fermenting soybeans with both salt and koji (fungus aspergillus oryzae) and sometimes with rice, barley and seaweed. Miso is salty, but it's flavor and aroma depends on the ingredients used or the fermentation process. There is a wide variety of Japanese miso, it is typically classified by grain type (barley, buckwheat, rice etc), color (white, brown, black & red), taste (sweet, salty, earthy, fruity etc) and background (where it's from). The most common miso flavor categories are: Shiromiso (white), Akamiso (red) and Awasemiso (mixed). Generally speaking, the darker the color, the longer it’s been fermented and the stronger it will taste Miso is a rich source of protein. 
+Miso is a traditional Japanese seasoning produced by fermenting soybeans with both salt and koji (fungus aspergillus oryzae) and sometimes with rice, barley and seaweed. Miso is salty, but it's flavor and aroma depends on the ingredients used or the fermentation process. There is a wide variety of Japanese miso, it is typically classified by grain type (barley, buckwheat, rice etc), color (white, brown, black & red), taste (sweet, salty, earthy, fruity etc) and background (where it's from). The most common miso flavor categories are: Shiromiso (white), Akamiso (red) and Awasemiso (mixed). Generally speaking, the darker the color, the longer it’s been fermented and the stronger it will taste Miso is a rich source of protein. 
 
-> The type we use in recipes, is a white, rice-based miso, that is sweet and earthy. White miso is excellent in soybean hummus. We also carry a darker variety, a black miso that is very intense, but very good. The darker kind is used for dipping sauces and soups.
+The type we use in recipes, is a white, rice-based miso, that is sweet and earthy. White miso is excellent in soybean hummus. We also carry a darker variety, a black miso that is very intense, but very good. The darker kind is used for dipping sauces and soups.
 
-> We prepare miso soup often on passages, especially when hungry during night-shifts. Just 1 tbsp in some hot water, with some dried wakame, makes for a comforting, and satisfying snack. Miso will lose its flavor if cooked for too long, so it is best to add it toward the end of the cooking process.
+We prepare miso soup often on passages, especially when hungry during night-shifts. Just 1 tbsp in some hot water, with some dried wakame, makes for a comforting, and satisfying snack. Miso will lose its flavor if cooked for too long, so it is best to add it toward the end of the cooking process.
 
-## Nutritional yeast
+### Nutritional yeast
 
-> Nutritional yeast is a deactivated yeast, sold as yellow flakes or powder. It has a cheesy, nutty taste and flavor, and some fortified varieties are a good source of B12. Its often confused with brewer’s yeast, but the two are distinct. Nutritional yeast adds a lot of depth and flavor to a variety of dishes, and acts as a dry, shelf-stable replacement for cheese. Nutritional yeast wasn't easy to come by in Japan, but we left New Zealand with plenty in stock. 
+Nutritional yeast is a deactivated yeast, sold as yellow flakes or powder. It has a cheesy, nutty taste and flavor, and some fortified varieties are a good source of B12. Its often confused with brewer’s yeast, but the two are distinct. Nutritional yeast adds a lot of depth and flavor to a variety of dishes, and acts as a dry, shelf-stable replacement for cheese. Nutritional yeast wasn't easy to come by in Japan, but we left New Zealand with plenty in stock. 
 
-> Store the nutritional yeast flakes in a dark, dry environment, as B12 is sensitive to both moisture and light.
+Store the nutritional yeast flakes in a dark, dry environment, as B12 is sensitive to both moisture and light.
 
-## Chickpea flour
+### Chickpea flour
 
-> Chickpea flour—also known as besan, channa dal or gram flour—is made from ground raw, or roasted chickpeas. Roasted varieties has more flavor, while the raw variety is bitter. Chickpea flour has a higher protein content than other flours. This type of flour has a long shelf life due to the low-moisture, and low-fat content. Chickpea flour has a texture and taste that is ideal for savoury pancakes and omelettes. When mixed with an equal volume of water, it makes a convincing egg replacement.
+Chickpea flour—also known as besan, channa dal or gram flour—is made from ground raw, or roasted chickpeas. Roasted varieties has more flavor, while the raw variety is bitter. Chickpea flour has a higher protein content than other flours. This type of flour has a long shelf life due to the low-moisture, and low-fat content. Chickpea flour has a texture and taste that is ideal for savoury pancakes and omelettes. When mixed with an equal volume of water, it makes a convincing egg replacement.
 
-> Chickpea flour and besan flour are both made from chickpeas, but chickpea flour is more coarse and requires more water than besan. This should be taken into account when cooking.
+Chickpea flour and besan flour are both made from chickpeas, but chickpea flour is more coarse and requires more water than besan. This should be taken into account when cooking.
 
-## Mirin
+### Mirin
 
-> Mirin is a condiment in Japanese cuisine. It's a type of rice wine, but with a lower alcohol and higher sugar content than sake. The sugars form naturally during the fermentation process, and are not added. There are 3 types: Hon mirin (true mirin), which contains about 14% alcohol, second is Shio mirin which has less alcohol (lower than 1.5%) and third is Shin mirin, which has less than 1% alcohol while retaining the same flavor. Mirin adds sweetness to dishes, it helps tenderize, and add luster to foods while masking unwanted flavors.
+Mirin is a condiment in Japanese cuisine. It's a type of rice wine, but with a lower alcohol and higher sugar content than sake. The sugars form naturally during the fermentation process, and are not added. There are 3 types: Hon mirin (true mirin), which contains about 14% alcohol, second is Shio mirin which has less alcohol (lower than 1.5%) and third is Shin mirin, which has less than 1% alcohol while retaining the same flavor. Mirin adds sweetness to dishes, it helps tenderize, and add luster to foods while masking unwanted flavors.
 
-## Kirimochi
+### Kirimochi
 
-> Kirimochi are rice cakes made from mochigome (short-grain japonica glutinous rice), machines pound the rice into a paste, molds it into shape, before drying and cutting it. Some varieties have added ingredients, like kuromame (Japanese black beans). 
+Kirimochi are rice cakes made from mochigome (short-grain japonica glutinous rice), machines pound the rice into a paste, molds it into shape, before drying and cutting it. Some varieties have added ingredients, like kuromame (Japanese black beans). 
 
-> Japanese people eat the fresh variety for the New Year and during special events, while the dried, hard version is available year round. There are many ways to cook kirimochi, our favorite way is to pan-fry it on the stove top until puffy and crunchy on the outside. It's delicious when added into soups, or if cooked in the oven. In Japan, kirimochi is served both sweet, with anko (sweet red bean paste) or kinako (roasted soybean paste), and savoury, with soy sauce or other condiments.
+Japanese people eat the fresh variety for the New Year and during special events, while the dried, hard version is available year round. There are many ways to cook kirimochi, our favorite way is to pan-fry it on the stove top until puffy and crunchy on the outside. It's delicious when added into soups, or if cooked in the oven. In Japan, kirimochi is served both sweet, with anko (sweet red bean paste) or kinako (roasted soybean paste), and savoury, with soy sauce or other condiments.
 
-## Kinako
+### Kinako
 
-> Kinako is roasted soybean flour, it has a deep, nutty flavor. The Japanese use it to make or coat desserts. Some varieties keep the roasted skin which alters the color of the final product. We like to add it to baked goods, it makes a good peanut alternative.
+Kinako is roasted soybean flour, it has a deep, nutty flavor. The Japanese use it to make or coat desserts. Some varieties keep the roasted skin which alters the color of the final product. We like to add it to baked goods, it makes a good peanut alternative.
 
 \newpage
 
@@ -2557,34 +2523,34 @@ Heat a cast-iron pan at medium heat, and add 15 ml (1 tbsp) of olive oil. When o
 
 Dates      Events                           Distance (nm)  Days                      
 ---------- -------------------------------- -------------  ----
-2016-04-02 First sail                       16             1
-2016-05-27 Port Angeles                     20             1
-2016-07-02 First offshore cruising attempt  142            2
-2016-08-11 San Francisco, US                700            6
-2016-10-09 Los Angeles, US                  350            4
-2016-10-17 San Diego, US                    160            2
-2016-11-01 Ensenada, Mexico                 80             1
-2016-12-05 La Paz, Mexico                   910            10
-2017-03-02 Nuku Hiva, French Polynesia      2700           28
-2017-04-25 Rangiroa, French Polynesia       580            6
-2017-05-02 Papeete, Tahiti                  210            2.5
-2017-06-05 Huahine, Society Islands         90             1
-2017-07-01 Rarotonga, Cook Islands          534            6
-2017-07-22 Alofi, Niue                      580            6
-2017-08-03 Vava'u, Tonga                    234            2.5
-2017-10-21 Whangarei, New Zealand           1199           10
-2017-12-15 Pakatoa, New Zealand             40             1
-2017-05-25 Opua, New Zealand                110            1.5
-2018-06-11 Savusavu, Fiji                   1210           15
-2018-09-04 Suva, Fiji                       120            1.5
-2018-09-25 Musket cove, Fiji                110            1.5
-2018-10-03 Vuda Point, Fiji                 20             1     
-2018-11-15 Majuro, Marshall Islands         1724           24
-2019-01-22 Chichijima, Japan                2100           21
-2019-03-08 Shizuoka, Japan                  550            4
-2019-04-17 Minamiise, Japan                 126            1.5
-2020-05-29 Shimoda, Japan                   128            1.5
-2020-07-28 Arrival in Victoria, Canada      4111           51
+02-04-16   First sail                       16             1
+27-05-16   Port Angeles                     20             1
+02-07-16   First offshore attempt           142            2
+11-08-16   San Francisco, US                700            6
+09-10-16   Los Angeles, US                  350            4
+17-10-16   San Diego, US                    160            2
+01-11-16   Ensenada, Mexico                 80             1
+05-16-17   La Paz, Mexico                   910            10
+02-03-17   Nuku Hiva, French Polynesia      2700           28
+25-04-17   Rangiroa, French Polynesia       580            6
+02-05-17   Papeete, Tahiti                  210            2.5
+05-06-17   Huahine, Society Islands         90             1
+01-07-17   Rarotonga, Cook Islands          534            6
+22-07-17   Alofi, Niue                      580            6
+03-08-17   Vava'u, Tonga                    234            2.5
+21-10-17   Whangarei, New Zealand           1199           10
+15-12-17   Pakatoa, New Zealand             40             1
+25-05-17   Opua, New Zealand                110            1.5
+11-06-18   Savusavu, Fiji                   1210           15
+04-09-18   Suva, Fiji                       120            1.5
+25-09-18   Musket cove, Fiji                110            1.5
+03-10-18   Vuda Point, Fiji                 20             1     
+15-11-18   Majuro, Marshall Islands         1724           24
+22-01-19   Chichijima, Japan                2100           21
+08-03-19   Shizuoka, Japan                  550            4
+17-04-19   Minamiise, Japan                 126            1.5
+29-05-20   Shimoda, Japan                   128            1.5
+28-07-20   Arrival in Victoria, Canada      4111           51
 ---------- -------------------------------- -------------  ----
 
 # Appendix A Recommended readings

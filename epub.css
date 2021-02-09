@@ -1,0 +1,19 @@
+body {
+	font-size: 14px
+}
+
+table {
+	font-size: 12px
+}
+
+h4 {
+	page-break-before: always;
+}
+
+h2 {
+	page-break-before: always;
+}
+
+blockquote {
+	font-style: italic;
+}
