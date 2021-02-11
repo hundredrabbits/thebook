@@ -350,7 +350,7 @@ We recovered rather quickly from yesterday's event. One of the best things to ov
 The sun came and stayed with us for an hour, not long enough to dry anything, but we're happy it came at all. The sun does wonders for our mood.
    
 ##### 1200
-We tacked back to the northeast to dodge some weather. It is raining again now, we drive from the cabin using a set of long ropes, since we no longer have a dodger to hide under. We make *pâté chinois* (see recipes) for lunch. Then, I napped hard. 
+We tacked back to the northeast to dodge some weather. It is raining again now, we drive from the cabin using a set of long ropes, since we no longer have a dodger to hide under. We make *deconstructed shepherd's pie* (see recipes) for lunch. Then, I napped hard. 
 
 Beating to weather with a good easterly heading. We are now 1,974 km (1066 nm) from Japan, we're nearing the 165°E mark that indicates our turn northward. When you sail east to Alaska or to the Pacific Northwest, you've got to go east until you hit that mark, otherwise you run the risk of staying in the path of typhoons. 
 
@@ -750,7 +750,7 @@ We flipped the jib sheets around as we'd noticed some chafe, we also added tape 
 There is blue ahead, how nice, but this also means we're heading into a calm—not so nice.
 
 ##### 1700
-Storm petrels are flying around Pino island, cackling in the dark. There's at least 30 of them. We are becalmed over a buffet it seems. Tonight will be quiet, and tomorrow will be more of the same. We might have to motor east to catch a breeze, as currently the forecast has us stuck here a while. We hope it's one of those times when it's wrong, otherwise this trip will surely take us 2 months—now I'm glad we left early! We made quick *pâté chinois* (see recipes), with corn, sweet potatoes and tofu. When I make the quick version, I don't bake it in the oven, I prepare the ingredients separately and combine them in a bowl. Both of us had a big appetite today, I guess we were both tired from wrestling the anchor off the bow. We have 1 daikon left, tightly wrapped in cling wrap. It has some dark spots but feels firm. We'll cut it up tomorrow, and see if it tastes as bad as it looks.
+Storm petrels are flying around Pino island, cackling in the dark. There's at least 30 of them. We are becalmed over a buffet it seems. Tonight will be quiet, and tomorrow will be more of the same. We might have to motor east to catch a breeze, as currently the forecast has us stuck here a while. We hope it's one of those times when it's wrong, otherwise this trip will surely take us 2 months—now I'm glad we left early! We made quick *deconstructed shepherd's pie* (see recipes), with corn, sweet potatoes and tofu. When I make the quick version, I don't bake it in the oven, I prepare the ingredients separately and combine them in a bowl. Both of us had a big appetite today, I guess we were both tired from wrestling the anchor off the bow. We have 1 daikon left, tightly wrapped in cling wrap. It has some dark spots but feels firm. We'll cut it up tomorrow, and see if it tastes as bad as it looks.
 
 Cruel that the wind is gone but that waves persist. I bet there's a circle of hell that is exactly this—this is a common theme in my writing isn't it? I blame the fact that I started to read Dante's *Purgatorio*.
 
@@ -1450,7 +1450,7 @@ The gloom bug is strong today isn't it? You let it in! Why'd you do that? It's e
 I slept so, so deep. My sleep has been light these past 24 hours, sensitive to any and every sound and twitch of the boat. I don't have trouble napping usually, but it's been rough. I'm glad I was able to get some rest, as I feel better now, more relaxed.
    
 ##### 1200
-Devine took the wheel at 0930, after checking the weather and seeing a safer spot for us up north, though it means hand-steering in shit conditions for a while to get there. The waves from yesterday's winds are still here, mountainous and persistent. He steered for some time, while I made *pâté chinois* (see recipes) for dinner. He hove-to as we ate it, warm inside. Then 1 hour later, off he went again to steer for another 3 hours. We only need to go 55 km (30 nm) to avoid a bad spell of weather south. Then, we'll have lighter winds to continue to head north to hopefully avoid Wednesday's flare-up. We hope to get some days of reasonable winds after that to make it past the Turn Off. It's close, so close, but we cannot go east, not yet.
+Devine took the wheel at 0930, after checking the weather and seeing a safer spot for us up north, though it means hand-steering in shit conditions for a while to get there. The waves from yesterday's winds are still here, mountainous and persistent. He steered for some time, while I made *deconstructed shepherd's pie* (see recipes) for dinner. He hove-to as we ate it, warm inside. Then 1 hour later, off he went again to steer for another 3 hours. We only need to go 55 km (30 nm) to avoid a bad spell of weather south. Then, we'll have lighter winds to continue to head north to hopefully avoid Wednesday's flare-up. We hope to get some days of reasonable winds after that to make it past the Turn Off. It's close, so close, but we cannot go east, not yet.
 
 It is definitely discouraging to not work towards our goal because of strong winds, but we've got no choice, it is the safest thing to do. Sometimes, the long way is the best way, detours and all. After that, we have 2,778 km (1500 nm) to the opening to the Strait of Juan de Fuca. With what we've done already, it doesn't seem like much, but if we keep getting flare-ups like this it will amount to many more miles. It is best not to count detours.
 
@@ -1695,7 +1695,7 @@ The sun. The sky. Today is the day we've been waiting for, a calm day of full br
 Pino was a turn-key boat when we bought it, and 5 years of hard sailing have turned it into a project boat.
    
 ##### 1200
-We're starting night shifts earlier today, to try and delay the sunrise hour to a more reasonable time. Because of this, I prepared lunch earlier, I made deconstructed pâté chinois (see recipes), using up 2 white potatoes out of 5. We still have plenty of cans, not the most nutritious of foods, but it’s better than nothing.
+We're starting night shifts earlier today, to try and delay the sunrise hour to a more reasonable time. Because of this, I prepared lunch earlier, I made *shepherd's pie* (see recipes), using up 2 white potatoes out of 5. We still have plenty of cans, not the most nutritious of foods, but it’s better than nothing.
 
 ##### 1400
 Clouds are rolling in, it looks like the low is catching up. Things are good as we can self-steer. Devine is reading *The Care and Feeding of the Offshore Crew* by Lin Pardey for the hundredth time, and I'm checking the manual for our Yanmar engine. I noticed it was leaking oil, a fairly new development, and I'm not sure why. I wiped the oil off, and we'll test it to see if it happens again. With a clean area under the engine, it'll be easier to see where the leak is coming from.
@@ -2020,7 +2020,7 @@ Below is a list of the more cryptic items we had aboard Pino on the passage from
 
 ### Textured vegetable protein (TVP)
 
-TVP is a soy product, made from defatted soy flour that's been cooked under pressure, and then dried. It is a shelf stable product that comes in a variety of shapes, ranging from tiny pellets to larger nuggets. Aboard Pino, we prefer the smaller grind, as it doesn't use up as much volume in a jar. We use it instead of mince meat in spagehtti sauces, sheperd's pie or tacos. TVP soaks up flavor, and ads bulk to dishes.
+TVP is a soy product, made from defatted soy flour that's been cooked under pressure, and then dried. It is a shelf stable product that comes in a variety of shapes, ranging from tiny pellets to larger nuggets. Aboard Pino, we prefer the smaller grind, as it doesn't use up as much volume in a jar. We use it instead of mince meat in spagehtti sauces, shepherd's pie or tacos. TVP soaks up flavor, and ads bulk to dishes.
 
 ### Nori
 
@@ -2218,9 +2218,9 @@ Add dry tofu and cooked noodles, then add the sauce overtop. Cook for 1-2 minute
 
 \newpage
 
-## Deconstructed Pâté Chinois
+## Deconstructed shepherd's pie
 
-Pâté Chinois is a Québec recipe, which typically consists of a baked dish with 3 layers: Mince meat at the bottom, a mixture of corn niblets and creamed corn in the middle, and mashed potatoes overtop. When underway, we prefer to prepare the ingredients together in a pan on the stovetop. The result is satisfying, and takes a lot less time and fuel to prepare. We prefer to use sweet potatoes, as they cook faster than white potatoes. In a floating kitchen, cooking time matters. 
+Shepherd's pie is a Québec recipe, which typically consists of a baked dish with 3 layers: Mince meat at the bottom, a mixture of corn niblets and creamed corn in the middle, and mashed potatoes overtop. When underway, we prefer to prepare the ingredients together in a pan on the stovetop. The result is satisfying, and takes a lot less time and fuel to prepare. We prefer to use sweet potatoes, as they cook faster than white potatoes. In a floating kitchen, cooking time matters. 
 
 Sauce
 -----------------------   ----------------------------------- 
