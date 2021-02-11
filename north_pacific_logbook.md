@@ -702,12 +702,12 @@ Devine is making *cornpone* (see recipes) for dinner. We opened a vacuum-sealed 
     Distance to Victoria: 5,065 km (2735 nm)
 
 ##### 0230
-Finally seeing the wind turn a little more towards the north, permiting us to do go east. We need to keep heading that way to catch some of that sweet Pacific High breeze! The wind we've got is from a passing low, as usual, and won't last, but at this point we'll take what we can get.
+Finally seeing the wind turn a little more towards the north, permiting us to do go east. We need to keep heading that way to catch some of that sweet Pacific High breeze! The only wind that we got comes from a passing low, and won't last, but we'll take what we can get.
 
-We're steering from inside, as it is getting colder. Devine found a sweet spot with ropes that permits us to do little to no steering tonight.
+It's getting colder, so we're steering from inside. Devine fiddled with ropes and found an arrangement that will let Pino steer itself tonight.
    
 ##### 5h30
-Pino is bashing to weather. The waves aren't too crazy, but I worry about them still. Pino's bow slams into the sea every now and then, and I can hear the anchor rattling. I hope I tied it down well this time, as retrieving it now would be dangerous. We are pointing east right now. I never thought we'd have to chase lows to get wind. Walking inside is difficult, we have to move carefully. Going to the bathroom is an interesting experience when bashing, since ours is located at the bow. It's hard to focus on our business when we struggle to keep our butts down and bodies straight.
+Pino is now bashing to weather. The waves aren't too crazy, but I worry about them still. Pino's bow slams into the sea every now and then, and I can hear the anchor rattling. I hope I tied it down well this time, as retrieving it now would be dangerous. We are pointing east right now. I never thought we'd have to chase lows to get wind. Walking inside is difficult, we have to move carefully. Going to the bathroom is an interesting experience when bashing, since ours is located at the bow. It's hard to focus on our business when we struggle to keep our butts down and bodies straight.
 
 ##### 6h00
 We saw a cargo ship named Scorpion on AIS. It is 7 km (4 nm) south of us. A rare occurrence. We've got an alarm set for ships that come near, it only rang twice so far while on the open sea. Last time it rang, there was a trawler passing south, near enough that we could make out its faint outline in distance, and we could hear its engine too. Otherwise, there is no one within 89 km (48 nm) of us. Land is much further than this. We'll be passing the western tip of the Aleutians soon, the more miles we put between the opening to the Bering Sea and us the better. We were pointing to it for the better part of yesterday, and it was scaring the shit out of me.
@@ -764,33 +764,33 @@ Cruel that the wind is gone but that waves persist. I bet there's a circle of he
     Distance to Victoria: 4,784 km (2583 nm)
 
 ##### 0000
-Clouds bring false hope of wind in passing. Once past us, all air is lifted out from the sea. I went back inside, no sense in bobbing in the water in the cold and in the dark.
+Clouds bring false hope of wind in passing. I went back inside, no sense in being outside when we're just bobbing on the water in the cold, and in the dark.
    
 ##### 0200
-Devine is sleeping hard, and I am outside, steering still. The wind has settled into the north, it's easier to steer but I must be there to keep Pino on an easterly course. The sea is settled, the sky, cloudy, but I can see a clearing in the north that will likely catch up, bringing sun and a cloudless sky this afternoon. We had early oatmeal, as we were very hungry this morning. It was a cold night, had many layers on, but could not stay warm.
+Devine is sleeping hard, and I'm still outside, steering. The wind has settled into the north, it's easier to steer and I try to keep Pino on an easterly course. The sea is settled, the sky is cloudy, but I can see a clearing in the north that will likely catch up, bringing sun and a cloudless sky this afternoon. We had early oatmeal, as we were very hungry this morning. It was a cold night, had many layers on, but could not stay warm.
 
 ##### 0600
-Woke up to find Devine asleep on watch, Kindle in hand. He let me sleep longer but couldn't stay awake himself. Not a big deal, as Pino is not going very fast, although we were going southeast. I corrected the course and made coffee. We sat outside, talking about our readings. Devine disliked *The Incredible Tide* by Alexander Key due to its religious undertones and pessimistic worldview, Miyazaki's *Future Boy Conan* is better. I started reading *Solaris*, and I really like it so far.
+Woke to find Devine asleep on watch, Kindle in hand. He let me sleep longer but couldn't stay awake himself. Not a big deal, as Pino is not going very fast, although we were going southeast. I corrected the course and made coffee. We sat outside, talking about our recent readings. Devine disliked *The Incredible Tide* by Alexander Key due to its religious undertones and pessimistic worldview, Miyazaki's *Future Boy Conan* is better. I started reading *Solaris*, and I really like it.
    
 ##### 1000
-We woke up Calcifer, as it is time to charge the batteries. Since we are becalmed, it'll also provide some forwardness. We each had a short nap, we're both very tired today. Whenever we go nap we fall asleep almost instantly, and waking up is very, very difficult. It may be because in hectic times, we are more alert and don't allow our bodies and minds to fully relax. We've had many moments like this recently.
+We woke up Calcifer, it's time to charge the batteries. And since we're' becalmed, it'll also provide some forwardness. We each had a short nap, we're both very tired today. Whenever we go down to nap we fall asleep instantly, but waking up is very, very difficult. It may be because in hectic times, we are more alert and don't allow our bodies and minds to fully relax. We've had many moments like this recently.
 
-After waking, I read *The Long Way* by Bernard Moitessier aloud to Devine. It's comforting to have our thoughts echoed in his, somehow we feel less alone. The sea scares everyone.
+After waking up, I read *The Long Way* by Bernard Moitessier aloud to Devine. It's comforting to have our thoughts echoed in his, somehow we feel less alone. The sea scares everyone.
    
 ##### 1400
-We put Calcifer to sleep, goodnight buddy! Then, we make *savory pancakes* (see recipes), same recipe as regular pancakes, except that I use water instead of soy buttermilk. I like to make pancakes as quick-bread whilst sailing. The pancakes act as a side-dish to *soybean hummus* (see recipes), carrots and daikon. The daikon had some nasty bits but the rest was eatable, mild, but good enough by our standards. We had a glass of wine afterwards, as two albatrosses circled our boat, landing closer and closer every time.
+We put Calcifer to sleep, goodnight buddy! Then, we cook *savory pancakes* (see recipes), same recipe as regular pancakes, except that I use water instead of soy milk. The pancakes act as a side-dish to *soybean hummus* (see recipes), carrots and daikon. The daikon had some nasty bits but the rest was eatable, mild, but good enough by our standards. We had a glass of wine after. Two albatrosses circled our boat, landing closer and closer each time.
 
-They kept their distance at first, but now they come right near, checking us out, and allowing us to see their striking features more clearly. We named the more daring of the two Bowie because of the dark coloring around its eyes—which is very glamorous indeed. Every time we look outside we see Bowie there, paddling next to the boat, having no trouble keeping up. Love ya glam bird, you're keeping us well entertained.
+They kept their distance at first, but now they come nearer, checking us out, and allowing us to study their features better. We named the more daring of the two Bowie because of the glamorous dark coloring around the eyes. Every time we look outside we see Bowie there, paddling next to the boat, having no trouble keeping up. Love ya glam bird, you're keeping us well entertained.
    
 ##### 1530
-We have 2 carrots left, a length of daikon, 2 lotus roots, about 10 sweet potatoes and as many regular potatoes. We have 8 onions and 1/2 bulb of garlic. We should have bought more garlic. In the end while stocking up, this staple escaped our minds. We departed Japan so suddenly that we forgot a few key things. Ah well, we'll manage without, we have garlic powder that we can use as a backup.
+We have 2 carrots left, a length of daikon, 2 lotus roots, about 10 sweet potatoes and as many regular potatoes. We have 8 onions and 1/2 bulb of garlic. We should have bought more garlic. In the end while stocking up, this had escaped our minds. We departed Japan so suddenly that we forgot a few key things. Ah well, we'll manage without, we have garlic powder that we always can use as a backup.
    
 ##### 2230
-The wind is rising from the east, we're self-steering toward the north. The wind should turn gradually to the south, which will permit us to resume our easterly course. We have a full jib and double-reefed main.
+The wind is rising from the east, we're self-steering northwardly. The wind should turn gradually to the south, which will permit us to resume our easterly course. We have a full jib and double-reefed main.
 
 ## Self-steering
 
-One of the reasons we converted Pino from wheel to tiller was to simplify self-steering. We are big fans of shock-cord sailing, which consists of using a set of ropes, sails, shock cords and blocks to self-steer a boat without the need for a windvane. 
+One of the reasons we converted Pino from wheel to tiller was to simplify self-steering. We are big fans of shock-cord sailing, which consists of using a set of shock cords and blocks to self-steer a boat without the need for a windvane. 
 
 The easiest point of sail is when beating into the wind. We lash the tiller in place using ropes, then trim the sails and the boat will stay on a relatively straight course. We make small adjustments when necessary. To allow for more variation, we like to tie a line to the tiller (we have two cam cleats fixed to the tiller to quickly jam the line), than to a bike tube on the toe rail. We used a bike tube because it's what we had, and we found it more stretchy than shock cord. We adjust the tension by releasing the line from the cam cleat, or tightening it. Wrapping a line about the tiller is also fine, but if the wind is strong it’s better to make more turns. We add extra turns even with a cam cleat, as a precaution.
 
@@ -816,27 +816,28 @@ Learning to sail without complex systems is essential, not just for single-hande
     Distance to Victoria: 4,678 km (2526 nm)
 
 ##### 0430
-Wind is still coming out of the east, making going in that direction assuredly impossible. We are going north, making little headway to 180°W, that place on the map feels close, but far away with such winds. The breeze isn't pushing us at incredible speeds either. I marked our position on the chart and was disappointed with our lack of progress, we were becalmed yesterday and that has largely contributed to it, but it's hard to stomach with so much sea between Pino and Canada. I should be more patient, I know this. I can't control the weather, and the forces that govern the winds aren't malicious. We've got to wait for wind, we've got to be patient, stoic.  
+Wind is still coming out of the east, making going in that direction impossible. We are going north, making little headway toward our destination. The breeze isn't really pushing us that fast either. I marked our position on the chart and was disappointed with our lack of progress. I should be more patient, I know. I can't control the weather. We've got to wait for wind, we've got to be patient. 
+
 ##### 0640
-Bowie is stalking us. He startled me as he landed next to Pino with a loud splash. I noticed that whenever we got too far, he'd fly over, land just ahead and drift past us before repeating the motion again. Our Bowie is not shy anymore! 
+Bowie is stalking us. He startled me as he landed next to the cockpit in a loud splash. I noticed that whenever we got too far, he'd fly over, land just ahead and drift past us before repeating the motion again. Bowie is not shy anymore.
 
 ##### 0800
-Why am I always hungry?! After coffee comes lunch, I guess both of us eat breakfast too early these days. Devine is making *garlic, chilies and nori pasta* (see recipes)—my favorite. He sautées the garlic and chilies in olive oil, then adds the cooked pasta and swirls it in until well-coated with the mixture, then he transfers it to bowls and tops it off with shredded nori. My stomach is whining as the smell wafts around the cabin. I am steering north. The wind doesn't permit much else, at least there's a relatively constant breeze. Today, we'll be making an inventory of all the food we've got left, just to see the state of things. Our snack locker is bare, but we expected that, Devine really loves eating snacks. We'll have to be creative down the line to keep this one fed and happy.   
+Why am I always hungry?! After coffee comes lunch, I guess both of us eat breakfast too early these days. Devine is making *garlic, chilies and nori pasta* (see recipes)—my favorite. He sautées the garlic and chilies in olive oil, then adds the cooked pasta and swirls it in until well-coated with the mixture, then he transfers it to bowls and tops it off with shredded nori. My stomach is whining as the smell wafts out the cabin. I am steering north. The wind doesn't permit much else, at least there's a relatively constant breeze. Today, we'll be making an inventory of all the food we've got left, just to see the state of things. Our snack locker is bare, as expected, Devine sure loves snacks. We'll soon have to be creative to keep this one fed and happy.   
 
 ##### 1130
-We did the food inventory, Pino's stores are looking good! We have enough variety to ensure nutritive and fun meals. This is reassuring. There is food everywhere aboard, it's hard to know the state of things until we start counting though. All of the slow days we've had worried me, wondering if we'd have enough if our sail really did take 2 months. I'm happy to say that we're okay on that front. It's been 20 days and we're going through our stores at a good pace.
+We did the food inventory, Pino's stores are looking good! We have enough variety for nutritive and fun meals. There is food everywhere aboard, it's hard to know the state of things until we take things out of the lockers and start counting. All of the slow days had had worried, wondering if we'd have enough if our sail really did take 2 months. It's been 20 days and we're going through our stores at a reasonable pace.
 
-Wind is invariably weak, coming out of the east.   
+The wind is weak, and still coming from the east.   
 
 ##### 1730
-Wandered into another patch of calm. This is better than beating or running into high winds. It's too bad that our options are too much wind or none at all.
+Wandered into another calm. This is better than beating or running into high winds. It's too bad that our options are either too much wind or none at all.
 
-A quiet ocean isn't the worse thing, as there is much to enjoy. Our neighbours the Pacific white-sided dolphins came to see us 3 times today. Because the sea was flat, we could hear them coming from far away. They are a most welcome sight. No matter how bad I'm feeling, their visit always perks me right up! Bowie left to look for food, we're left with the cackling storm petrels for company.
+This quietness isn't the worse thing. Pacific white-sided dolphins came to see us 3 times today. Because the sea was flat, we could hear them coming from far away. No matter how bad I'm feeling, their visit always perks me right up! Bowie left to look for food, we're left with cackling storm petrels for company.
 
-We moved closer to 180°W, we are at 178°E, here's hoping for wind returning later today so we can finally cross that invisible line! We noticed today that one of our spreader lights was broken. Pino is going to need a lot of love and attention after this trip is over.  
+We moved closer to 180°W, we are at 178°E, here's hoping for the wind returning later today so we can finally cross that invisible line! We noticed today that one of our spreader lights was broken. Pino is going to need a lot of love and attention after this trip.  
 
 ##### 2230
-Sometimes sailing feels like witchcraft. There was hardly any wind before, Pino was bobbing stupidly in the water as I sat inside, waiting. I got tired of the motion and of the sails beating about, so I went outside to steer. Devine reduces the jib in periods of calm to reduce chafe, but keeps a tiny scarf to ease the back and forth pendulum motion from waves. I felt tiny, irregular puffs of wind so I unfurled the jib and pointed us east. Perfect. Wind filled the sails and we started to go forward? It was like presenting the full jib created movement, the wind awaking with it. I was amazed, and started dancing in the cockpit, happy to be moving forward in a favorable direction! Hope the wind stays with us, if so, we'll cross 180°W! Maybe the school of dolphins from before pitied us and returned to pull us on—ah, what good friends!
+Sometimes sailing feels like witchcraft. There was hardly any wind before, Pino was bobbing stupidly in the water as I sat inside, waiting. I got tired of the motion and of the sails flapping about, so I went outside to steer. Devine reduces the jib in periods of calm to reduce chafe, but keeps a tiny bit of canvas up to ease the pendulum motion from waves. I felt tiny little puffs of wind so I unfurled the jib and pointed us east. Perfect. Wind filled the sails and we started to go forward.. I was amazed, and started dancing in the cockpit, happy to be moving forward in a favorable direction! Hope the wind stays with us, if so, we'll cross 180°W!
 
 ## Food storage
 
@@ -1336,11 +1337,11 @@ The night is smooth, so far. We are staying ahead of the weather, pretending it 
 
 > "This curious world we inhabit is more wonderful than convenient; more beautiful than it is useful; it is more to be admired and enjoyed than used." — Henry David Thoreau
 
-We don’t like to think about what cargo ships on the ocean carry. Every material object is a potential burden, in terms of the physical and mental space they occupy. Even when they pass out of our hands, whether they are sold, passed down, or donated, the objects still exist, while many more are manufactured. In his book *The Long Way*, Moitessier talks about the need to stop satisfying false needs and false joys, to instead focus on preserving nature. Preserving nature is our most worthy responsibility, and isn't compatible with an economy of "full consumption". 
+We don’t like to dwell on what the cargo ships we encounter may carry. Every object is a potential burden, in terms of the physical and mental space they occupy. Even when they pass out of our hands, whether they are sold, passed down, donated or discarded, the objects still exist, while many more are manufactured. In his book *The Long Way*, Moitessier talks about the need to stop satisfying false needs and false joys, to instead focus on preserving nature. Preserving nature is our most worthy responsibility, and isn't compatible with an economy of "full consumption". 
 
 Devine & I have contributed our share of waste in the past, we have burdened others with objects when we reduced our own lives to fit onto a boat. Now, we do our best to avoid new items, and spend time seeking existing alternatives, or repairing broken items whenever possible. It is a challenge, as our for-profit economy doesn't encourage thrift and care, it promotes off-the-shelf solutions, while making repair and thrift difficult, and unnattractive.
 
-Time is necessary to practice thrift and care, but it a scarce resource. Work takes an ever-larger chunk out of the average person's day. Time did not used to be compartmentalized into work and non-work, "work" was once more intertwined with family, community and play. Now, "work" pays for outside entertainment, and life outside of work has lost vitality and meaning, it has ceased being a means to an end and become an end in itself. An economy that glorifies "work" and "infinite consumption" preaches that leisure is a commodity to be consumed rather than free time to be enjoyed. Today's pleasures are debited to the future, paid not in money, but in waste and misery. A purchase that was easy to make today, will be an inconvenience to someone, somewhere, later. Our membership in this world is never free. 
+Time is necessary to practice thrift and care, but it is a scarce resource. Work takes an ever-larger chunk out of the average person's day. Time did not used to be compartmentalized into work and non-work, "work" was once more intertwined with family, community and play. Now, "work" pays for outside entertainment, and life outside of work has lost vitality and meaning, it has ceased being a means to an end and become an end in itself. An economy that glorifies "work" and "infinite consumption" preaches that leisure is a commodity to be consumed rather than free time to be enjoyed. Today's pleasures are debited to the future, paid not in money, but in waste and misery. A purchase that was easy to make today, will be an inconvenience to someone, somewhere, later. Our membership in this world is never free. 
 
 We have to cherish nature, to foster its renewal, and to prioritize thrift and care rather than waste and excess. Maintenance and stewardship require something of us, we have responsibilities that lie beyond ourselves and our own profit. The farming phrase, “eyes to acres,” by Wes Jackson, says that in order to run a farm well, one has to be familiar with the environment, to be in touch with the little changes that occur everyday. Only when we see land as a community, to which we belong, can we begin to use it with respect and love. 
 
