@@ -370,6 +370,8 @@ This is going to be a long, long trip, as we are not done seeing big waves.
 
 ## Heaving to
 
+![](img/heavingto.jpg "heavingto")
+
 Heaving-to is a sailing technique, it's a way of slowing down your vessel. It involves fixing the tiller and sail positions so that the vessel doesn't need steering.  To heave-to, we turn to tack through the wind, without releasing the jib sheet. The mainsail self-tacks to the other side, but the jib is held aback. When the jib's belly curves inward, the tiller (or rudder) should be aligned with it, as if trying to tack back again. It's necessary to lash the tiller so the rudder can't move again. Without the power of the jib, the boat can't go forward and will stop. It is easy to do, and all aboard should learn to do it.
 
 Breaking a heave-to involves unlashing the tiller, and releasing the windward jib sheet before hauling in the leeward sheet. 
@@ -510,6 +512,8 @@ The forecast is promising, but the GRIB files for this area are not always accur
 Quiet night at sea. Saw some stars! It has been a while. We're sailing southeast with a patch of light rain on the horizon, just in time for Devine's shift.
 
 ## Squalls
+
+![](img/squalls.jpg "squalls")
 
 Squalls bring sudden high winds and rain in passing. They usually blow at around 25 kn (46 km/h) and last around 30 minutes. They are easy to see from a distance, big puffy cumulonimbus clouds, with dark bottoms and a skirt of rain. 
 
@@ -790,6 +794,8 @@ The wind is rising from the east, we're self-steering northwardly. The wind shou
 
 ## Self-steering
 
+![](img/selfsteering.jpg "self steering")
+
 One of the reasons we converted Pino from wheel to tiller was to simplify self-steering. We are big fans of shock-cord sailing, which consists of using a set of shock cords and blocks to self-steer a boat without the need for a windvane. 
 
 The easiest point of sail is when beating into the wind. We lash the tiller in place using ropes, then trim the sails and the boat will stay on a relatively straight course. We make small adjustments when necessary. To allow for more variation, we like to tie a line to the tiller (we have two cam cleats fixed to the tiller to quickly jam the line), than to a bike tube on the toe rail. We used a bike tube because it's what we had, and we found it more stretchy than shock cord. We adjust the tension by releasing the line from the cam cleat, or tightening it. Wrapping a line about the tiller is also fine, but if the wind is strong it’s better to make more turns. We add extra turns even with a cam cleat, as a precaution.
@@ -959,6 +965,8 @@ Light winds, Pino is self-steering to the southeast, sometimes we can nudge it b
 I feel bad because I dropped a glass jar onto Devine's bony side while reaching for a snack in the dark. He was not pleased with me.
 
 ## Birds and nature
+
+![](img/birds.jpg "parrot finch")
 
 Since we started sailing, I have become a bird nerd, watching them brings me joy. **Attention restoration theory** says that people can concentrate better, and were less stressed after spending time in nature, or even looking at scenes of nature. We have found this to be true for us, and observing birds has played a big part in it. 
 
