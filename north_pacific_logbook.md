@@ -66,7 +66,7 @@ Note: On this trip, we used GRIB files to read the weather. They are computer-de
 	Distance to Victoria: 7,491 km (4045 nm)
 
 ##### 0600
-We woke up early today, as we had little time to prepare before leaving Japan. Why so last minute? Well, we only decided to leave yesterday. Because of this last minute change, there were many tasks we had no yet done, or had not had time to do.
+We woke up early today, as we had little time to prepare before leaving Japan. Why so last minute? Well, we only decided to leave yesterday. Because of this last minute change, there were many tasks we had not yet done, or had not had time to do.
 
 We're usually more organized than this, with only a few tasks to do, but not this time. Last minute departures is not our style, but we also wanted to take this window. We had to find a post box to send the pocket Wifi we rented and to fill our water tanks. This may not seem like much, but it was, as it piled up on top of other things we'd forgotten, like finding and installing the pot holders to the stove top, installing the jack lines, locating the tethers, putting key items back in the ditch bag plus a number of other last minute things that had escaped our minds at the time.
 
