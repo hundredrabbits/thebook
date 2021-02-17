@@ -24,7 +24,7 @@ Upon our arrival after spending 7 weeks at sea, the Canadian Customs asked us to
 
 Weeks later, we decided to expand on the logbook. We added recipes, and expanded on specific logs, adding stories of previous trips.
 
-The book is titled Busy Doing Nothing, as a tribute to our favorite Ergo Proxy episode of the same name. The episode is a metaphor for living in harmony with whatever may come. The crew of a boat is stranded for many days after the wind dies, and each one aboard reacts differently to being becalmed. Busy Doing Nothing' is about living in the present, and on inviting liminality into one's life. 
+The book is titled Busy Doing Nothing, as a tribute to our favorite Ergo Proxy episode of the same name. The episode is a metaphor for living in harmony with whatever may come. The crew of a boat is stranded for many days after the wind dies, and each one aboard reacts differently to being becalmed. Busy Doing Nothing is about living in the present, and on inviting liminality into one's life. 
 
 The writing in this book is not meant to be intentionally harrowing, it is an honest account of our journey. When we made the choice to leave port in 2016, we knew we'd have to sail back home through the North Pacific Ocean, it was the only way to bring Pino back home.
 
