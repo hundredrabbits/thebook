@@ -13,7 +13,13 @@ pdfunite cover.pdf north_pacific_logbook.pdf assembled.pdf
 # Build epub
 ~/Applications/pandoc assembled.md --from markdown+simple_tables+line_blocks --toc -V toc-title:"Table of Contents" --toc-depth=2 --epub-metadata=metadata.yaml --epub-cover-image=img/cover.jpg --css epub.css -w epub -o assembled.epub
 
+# Build mobi
+ebook-convert "assembled.epub" "assembled.mobi"
+
 # Cleanup
 rm -f assembled.md
 rm -f cover.pdf
 
+~/Applications/butler push assembled.pdf hundredrabbits/busy-doing-nothing:pdf
+~/Applications/butler push assembled.epub hundredrabbits/busy-doing-nothing:epub
+~/Applications/butler push assembled.mobi hundredrabbits/busy-doing-nothing:mobi
