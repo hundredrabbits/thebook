@@ -1,18 +1,3 @@
----
-title:
-- type: main
-  text: Busy Doing Nothing
-- type: subtitle
-  text: 
-creator:
-- role: author
-  text: by Rekka Bellum and Devine Lu Linvega
-- role: illustrator
-  text: Illustrated by Rekka Bellum
-lang: en-CA
-rights: © 2021 Hundredrabbits, CC BY-NC
-...
-
 ![](img/mapleft.jpg "leftmap")
 
 \newpage
