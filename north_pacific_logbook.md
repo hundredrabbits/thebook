@@ -37,7 +37,7 @@ During our North Pacific crossing I kept a detailed journal of the day's events.
 
 Upon our arrival after spending 7 weeks at sea, the Canadian Customs asked us to quarantine for 2 more weeks. I used this time to transcribe the handwritten pages, so we could publish them online. Every morning, I'd transcribe 4-5 days worth of journals, and handed them off to Devine for proofreading. After 14 days of isolation, the entirety of the logbook was published online. Devine wrote the closing words, to try and explain why we did what we did, a question we have long struggled to answer.
 
-Weeks later, we decided to expand on the logbook. I added recipes, as well as a list of cooking tips and pantry essentials. I also expanded on specific logs, adding stories of previous trips.
+Weeks later, we decided to expand on the logbook. We added recipes, and expanded on specific logs, adding stories of previous trips.
 
 The book is titled Busy Doing Nothing, as a tribute to our favorite Ergo Proxy episode of the same name. The episode is a metaphor for living in harmony with whatever may come. The crew of a boat is stranded for many days after the wind dies, and each one aboard reacts differently to being becalmed. Busy Doing Nothing' is about living in the present, and on inviting liminality into one's life. 
 
@@ -172,7 +172,7 @@ We preparedd spaghetti with eggplant and green peppers for dinner. It is still h
 
 ## Kuroshio 
 
-The Kuroshio, or black current, is a high-temperature, high-salinity dark blue warm current that has a transparency of more than 30 m (98 feet). Its flow rate is 4-5 km/h (2-3 kn) on the average and reaches up to 7-9 km/h (4 to 5 kn). The Kuroshio is weaker in the summer and autumn, but stronger in the winter and spring. The current carries a lot of sargassum seaweed into the Eastern Pacific.
+The Kuroshio, or black current, is a high-temperature, high-salinity dark blue warm current that has a transparency of more than 30 m (98 feet). Its flow rate is 4-5 km/h (2-3 kn) on the average and reaches up to 7-9 km/h (4 to 5 kn). The Kuroshio is weaker in the summer and autumn, but stronger in the winter and spring. The current carries a lot of sargassum seaweed into the Eastern Pacific. The Kuroshio and Oyashio currents also carry small fish close to Japan's coastal areas, that in turn attract larger fish, resulting in a varied ecosystem along the coasts. 
 
 Sailing along with the Kurushio gave us a free ride, adding sometimes two or three knots to our speed. But coming out of Shimoda, we underestimated its strength. As soon as we passed Oshima Island, the current began to pull us northward, even with our bow pointing east. 
 
