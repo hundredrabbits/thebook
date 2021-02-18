@@ -153,7 +153,7 @@ We noticed that in following seas, the automatic bilge pump goes off often. I su
 
 We installed a second manual bilge pump in the cabin in 2018. We thought having a second, more powerful pump aboard could be useful in storm conditions. If necessary, we can pump water out while inside the cabin. On a boat, redundancy is key. 
 
-We preparedd spaghetti with eggplant and green peppers for dinner. It is still hard to finish food, so we started making smaller portions to avoid waste. Both of us are still plagued with weird taste buds. Sweet is too sweet, veggies are bland.
+We prepared spaghetti with eggplant and green peppers for dinner. It is still hard to finish food, so we started making smaller portions to avoid waste. Both of us are still plagued with weird taste buds. Sweet is too sweet, veggies are bland.
 
 ## Kuroshio 
 
@@ -439,7 +439,7 @@ The seas have settled, and the wind has died. The forecast changed. We motor eas
 ##### 1600
 We stopped motoring and sailed with a reefed jib and main. We don't trust the weather here, it's best to be cautious with the amount of sail we raise. The wind is coming out of the west, even if the GRIB files called for no wind. The seas are moderate. We don't know the exact strength of the wind as our wind meter died after the wave knocked Pino over. We installed telltales at various points around the boat. One of them is hung around a toothbrush, and is the best one we've made? The telltale spins right around loosely, it is sensitive and is perfect to show wind direction—also, it makes me laugh, sometimes the cheap things work just as well as the fancy things. 
 
-It's also funny to think that something like a broken windmeter might keep some boats in port. The things you think you need. A wind meter is useful, but not essential. This device has failed us before, so we have generally learned to live without it. 
+It's also funny to think that something like a broken wind meter might keep some boats in port. The things you think you need. A wind meter is useful, but not essential. This device has failed us before, so we have generally learned to live without it. 
 
 Pino is steering itself. We are navigating from inside, checking our heading on the side of the compass from the companionway door. There are zero targets on AIS. 
 
