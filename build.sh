@@ -15,3 +15,18 @@ pdfunite cover.pdf north_pacific_logbook.pdf assembled.pdf
 
 # Build mobi
 ebook-convert "assembled.epub" "assembled.mobi"
+
+# Cleanup
+rm -f busy-doing-nothing.pdf
+rm -f busy-doing-nothing.epub
+rm -f busy-doing-nothing.mobi
+rm -f assembled.md
+rm -f cover.pdf
+
+mv assembled.pdf busy-doing-nothing.pdf
+mv assembled.epub busy-doing-nothing.epub
+mv assembled.mobi busy-doing-nothing.mobi
+
+~/Applications/butler push busy-doing-nothing.pdf hundredrabbits/busy-doing-nothing:pdf
+~/Applications/butler push busy-doing-nothing.epub hundredrabbits/busy-doing-nothing:epub
+~/Applications/butler push busy-doing-nothing.mobi hundredrabbits/busy-doing-nothing:mobi
