@@ -2526,37 +2526,37 @@ Heat a cast-iron pan at medium heat, and add 15 ml (1 tbsp) of olive oil. When o
 
 # Timeline
 
-Dates      Events                           Distance (nm)  Days                      
----------- -------------------------------- -------------  ----
-02-04-16   First sail                       16             1
-27-05-16   Port Angeles                     20             1
-02-07-16   First offshore attempt           142            2
-11-08-16   San Francisco, US                700            6
-09-10-16   Los Angeles, US                  350            4
-17-10-16   San Diego, US                    160            2
-01-11-16   Ensenada, Mexico                 80             1
-05-16-17   La Paz, Mexico                   910            10
-02-03-17   Nuku Hiva, French Polynesia      2700           28
-25-04-17   Rangiroa, French Polynesia       580            6
-02-05-17   Papeete, Tahiti                  210            2.5
-05-06-17   Huahine, Society Islands         90             1
-01-07-17   Rarotonga, Cook Islands          534            6
-22-07-17   Alofi, Niue                      580            6
-03-08-17   Vava'u, Tonga                    234            2.5
-21-10-17   Whangarei, New Zealand           1199           10
-15-12-17   Pakatoa, New Zealand             40             1
-25-05-17   Opua, New Zealand                110            1.5
-11-06-18   Savusavu, Fiji                   1210           15
-04-09-18   Suva, Fiji                       120            1.5
-25-09-18   Musket cove, Fiji                110            1.5
-03-10-18   Vuda Point, Fiji                 20             1     
-15-11-18   Majuro, Marshall Islands         1724           24
-22-01-19   Chichijima, Japan                2100           21
-08-03-19   Shizuoka, Japan                  550            4
-17-04-19   Minamiise, Japan                 126            1.5
-29-05-20   Shimoda, Japan                   128            1.5
-28-07-20   Arrival in Victoria, Canada      4111           51
----------- -------------------------------- -------------  ----
+Dates      Events               Distance (nm)  Days                      
+---------- -------------------- -------------  ----
+02-04-16   First sail           16             1
+27-05-16   Port Angeles, US     20             1
+02-07-16   1st offshore trip    142            2
+11-08-16   San Francisco, US    700            6
+09-10-16   Los Angeles, US      350            4
+17-10-16   San Diego, US        160            2
+01-11-16   Ensenada, MX         80             1
+05-16-17   La Paz, MX           910            10
+02-03-17   Nuku Hiva, PF        2700           28
+25-04-17   Rangiroa, PF         580            6
+02-05-17   Papeete, PF          210            2.5
+05-06-17   Huahine, FP          90             1
+01-07-17   Rarotonga, COK       534            6
+22-07-17   Alofi, NU            580            6
+03-08-17   Vava'u, TO           234            2.5
+21-10-17   Whangarei, NZ        1199           10
+15-12-17   Pakatoa, NZ          40             1
+25-05-17   Opua, NZ             110            1.5
+11-06-18   Savusavu, FJ         1210           15
+04-09-18   Suva, FJ             120            1.5
+25-09-18   Musket cove, FJ      110            1.5
+03-10-18   Vuda Point, FJ       20             1     
+15-11-18   Majuro, MH           1724           24
+22-01-19   Chichijima, JP       2100           21
+08-03-19   Shizuoka, JP         550            4
+17-04-19   Minamiise, JP        126            1.5
+29-05-20   Shimoda, JP          128            1.5
+28-07-20   Victoria, CA         4111           51
+---------- -------------------- -------------  ----
 
 # Appendix A Recommended readings
 
