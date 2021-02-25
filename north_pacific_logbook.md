@@ -202,10 +202,10 @@ It's going to be another rough and rainy night. This horrible system seems to co
 ![](img/june14.jpg "Running high on little.")
 
     Daily progress: 230 km (124 nm)
-    istance to Victoria: 6,524 km (3523 nm)
+    Distance to Victoria: 6,524 km (3523 nm)
 
 ##### 0800
-We both did shorter night shifts because of the weather. Everything inside is wet. The floors are slippery, and our foul-weather gear just isn't drying between shifts. We hang them over the sink so they drip into it, which makes doing the dishes a very unpleasant affair. All synthetic clothing won't dry and doesn’t keep us warm. We switch to wool, as it stays warm even when damp. We collected a few sweaters overtime, rescued from Thrift Stores.
+We both did shorter night shifts because of the weather. Everything inside is wet. The floors are slippery, and our foul-weather gear just isn't drying between shifts. We hang them over the sink so they drip into it, which makes doing the dishes a very unpleasant affair. All synthetic clothing won't dry and doesn’t keep us warm. We switch to wool, as it stays warm even when damp. We collected a few sweaters over time, rescued from Thrift Stores.
 
 We eat two small meals per day, but aren't yet low on energy. The terrible weather has a way of keeping us focused. When there is danger we become superhuman. We need less sleep, less food, less everything. Don't know how long we can sustain this though.
 
@@ -319,7 +319,7 @@ We sat on the sticky, wet floor, wide-eyed and thinking: "Did that just happen?"
 Got the boat back in order. We surveyed the extent of the damage: we have no more dodger, the wind meter appears to be dead, we also lost our 100-watt solar panel, the rig looks okay so does the engine and the sails. We spent the day heaving-to, trying to calm down. We made a plan not to panic, and to go forward. It's a long way to anywhere from here, and we've got to keep going. No one is coming to get us out, we have to get ourselves out.
 
 ##### 1700
-After cleaning up the cabin, we slept in each other's arms, with alarms to warn us off coming ships. We don't usually do this, but with both AIS and radar, we felt safe.
+After cleaning up the cabin, we slept in each other's arms, with alarms to warn us of coming ships. We don't usually do this, but with both AIS and radar, we felt safe.
 
 \newpage
 
@@ -680,7 +680,7 @@ Devine is making [cornpone](#cornpone) for dinner. We opened a vacuum-sealed bag
     Distance to Victoria: 5,065 km (2735 nm)
 
 ##### 0230
-Finally seeing the wind turn a little more towards the north, permiting us to do go east. We need to keep heading that way to catch some of that sweet Pacific High breeze! The only wind that we got comes from a passing low, and won't last, but we'll take what we can get.
+Finally seeing the wind turn a little more towards the north, permitting us to do go east. We need to keep heading that way to catch some of that sweet Pacific High breeze! The only wind that we got comes from a passing low, and won't last, but we'll take what we can get.
 
 It's getting colder, so we're steering from inside. Devine fiddled with ropes and found an arrangement that will let Pino steer itself tonight.
    
@@ -782,7 +782,7 @@ On the passage from Tonga to New Zealand, we ran into our friend, and solo-sailo
 
 The storm jib system only requires a few lengths of surgical tubing (or bike tubing), a storm jib (or stay sail) and two snatch blocks. I will not explain these techniques in too much detail, as Andrew Evans does it much better in his short (and free) booklet *Thoughts, Tips and Tactics for Singlehanded Sailing*.
 
-Learning to sail without complex systems is essential, not just for single-handers, but also for couples. An overeliance on gadgetry can be dangerous, especially at sea, where there is no one to help when things go wrong. 
+Learning to sail without complex systems is essential, not just for single-handers, but also for couples. An overreliance on gadgetry can be dangerous, especially at sea, where there is no one to help when things go wrong. 
 
 \newpage
 
@@ -1137,7 +1137,7 @@ The wind has been erratic, coming and going, always from the north, or the north
 
 This morning at 0100, when I went to sleep, I noticed that I could see my own breath. Yep, it is cold in here! I was lying in bed, in a pile of sleeping bags, buried within to try and shield myself from it.
 
-Devine made a lantern our of a can of Yebisu beer yesterday, he hung it up and placed a candle in it. It helped us save power at night, while giving the room a nice ambience. If we near our hands to it it gives off a bit of warmth too, it feels good after a cold shift.
+Devine made a lantern out of a can of Yebisu beer yesterday, he hung it up and placed a candle in it. It helped us save power at night, while giving the room a nice ambience. If we near our hands to it it gives off a bit of warmth too, it feels good after a cold shift.
 
 Our next milestone lies ahead, 167 km (90 nm) away. We'll hit the 3,704 km (2000 nm) to Vancouver Island. It's a lot of ground to cover, but we've already done so much. If the wind stays we'll meet our goal soon enough, but it is difficult in these waters, where the wind is far from constant. We still don't have weather, as the Iridium office is closed on weekends, and that the next working day is a holiday. We'd like to know what's going on out there, but we can't read the waves, not like Moitessier. Maybe it's time to unbox the sextant, although it won't be easy to take noon sights in fog..
    
@@ -1193,7 +1193,7 @@ The chart that I use to mark our position everyday has a lot more mold now, but 
 We have a box of electronics and wires that we use everyday, housing the satellite phone and Devine's old iPhone (and corresponding wires). Every time we use them, we put them back into their box afterwards to protect them. We've also added a pack of desiccant to minimize moisture. We keep the logbook and some other important notebooks in a plastic bag with more desiccant packets, we'd hate to lose the content of these books, which contain notes on future projects, drawings etc.
    
 ##### 2200
-At this point, the GRIB files are so old that there is no way to know whether there is still a patch of bad weather ahead or not. The wind is definitely increasing, but remains manageable. We keep our course east, with little to no adjustments. I am inside, wrapped in a blanket, and gaze outside every 20 minutes or so, the time it takes for a ship to catch up. I also check AIS often. I look at Navionics too, although there is little point in checking our progress every hour, it is better to check a the end of the day. We measure our advancements from 0900-2100, as 0900 was the time we departed from Shimoda. It is strange to think that we were in Japan, that we made it, had a lovely time there, and left. I almost don't believe it, and I know I'll likely think the same of this passage. Some things we do are just too crazy, even for me to believe. Imagine, a small plastic boat sailing around the Pacific.
+At this point, the GRIB files are so old that there is no way to know whether there is still a patch of bad weather ahead or not. The wind is definitely increasing, but remains manageable. We keep our course east, with little to no adjustments. I am inside, wrapped in a blanket, and gaze outside every 20 minutes or so, the time it takes for a ship to catch up. I also check AIS often. I look at Navionics too, although there is little point in checking our progress every hour, it is better to check at the end of the day. We measure our advancements from 0900-2100, as 0900 was the time we departed from Shimoda. It is strange to think that we were in Japan, that we made it, had a lovely time there, and left. I almost don't believe it, and I know I'll likely think the same of this passage. Some things we do are just too crazy, even for me to believe. Imagine, a small plastic boat sailing around the Pacific.
 
 I'd rather be here aboard Pino than on a plane though, that much is sure.
 
@@ -1315,7 +1315,7 @@ The night is smooth, so far. We are staying ahead of the weather, pretending it 
 
 We don’t like to dwell on what the cargo ships we encounter may carry. Every object is a potential burden, in terms of the physical and mental space they occupy. Even when they pass out of our hands, whether they are sold, passed down, donated or discarded, the objects still exist, while many more are manufactured. In his book *The Long Way*, Moitessier talks about the need to stop satisfying false needs and false joys, to instead focus on preserving nature. Preserving nature is our most worthy responsibility, and isn't compatible with an economy of "full consumption". 
 
-Devine & I have contributed our share of waste in the past, we have burdened others with objects when we reduced our own lives to fit onto a boat. Now, we do our best to avoid new items, and spend time seeking existing alternatives, or repairing broken items whenever possible. It is a challenge, as our for-profit economy doesn't encourage thrift and care, it promotes off-the-shelf solutions, while making repair and thrift difficult, and unnattractive.
+Devine & I have contributed our share of waste in the past, we have burdened others with objects when we reduced our own lives to fit onto a boat. Now, we do our best to avoid new items, and spend time seeking existing alternatives, or repairing broken items whenever possible. It is a challenge, as our for-profit economy doesn't encourage thrift and care, it promotes off-the-shelf solutions, while making repair and thrift difficult, and unattractive.
 
 Time is necessary to practice thrift and care, but it is a scarce resource. Work takes an ever-larger chunk out of the average person's day. Time did not used to be compartmentalized into work and non-work, "work" was once more intertwined with family, community and play. Now, "work" pays for outside entertainment, and life outside of work has lost vitality and meaning, it has ceased being a means to an end and become an end in itself. An economy that glorifies "work" and "infinite consumption" preaches that leisure is a commodity to be consumed rather than free time to be enjoyed. Today's pleasures are debited to the future, paid not in money, but in waste and misery. A purchase that was easy to make today, will be an inconvenience to someone, somewhere, later. Our membership in this world is never free. 
 
@@ -1342,7 +1342,7 @@ Quiet morning aboard Pino. We started doing readings of *Cyberiad* by Stanislaw 
 
 The fog parted today as we were chatting, glass of red wine in hand. I peeked outside and just... laughed! I felt such joy at being able to see far ahead. It's had to describe what I felt. Such unbridled joy! It is such a relief to see the world and ocean with such precision, clarity and color. You don’t quite realize how much you like something until you’re deprived of it for extended periods. 
 
-Devine is making [garlic, nori and chili flake past](#chiligarlic) for dinner. We're using up our last onion, and the bulb of garlic is thinning out. These ingredients usually go last, but the potatoes are still plentiful. Staples in Canada, like carrots, onions and potatoes, are things that are cheap and easy to buy in large quantities, but not in Japan! Yellow onions were sold in packs of 3, and were expensive. The carrots too were sold in threes. Expensive. Why 3?! It's possible that the price of a larger bag would deter Japanese buyers, as in general, produce there is costly. At least, Japanese groceries stock many great items like dried tofu ([kouya doufu](#kouyadoufu)), [kirimochi](#kirimochi) (rice cakes), fu (wheat gluten blocks), preserved lotus root, dried seaweed, dried mushrooms etc.
+Devine is making [garlic, nori and chili flake pasta](#chiligarlic) for dinner. We're using up our last onion, and the bulb of garlic is thinning out. These ingredients usually go last, but the potatoes are still plentiful. Staples in Canada, like carrots, onions and potatoes, are things that are cheap and easy to buy in large quantities, but not in Japan! Yellow onions were sold in packs of 3, and were expensive. The carrots too were sold in threes. Expensive. Why 3?! It's possible that the price of a larger bag would deter Japanese buyers, as in general, produce there is costly. At least, Japanese groceries stock many great items like dried tofu ([kouya doufu](#kouyadoufu)), [kirimochi](#kirimochi) (rice cakes), fu (wheat gluten blocks), preserved lotus root, dried seaweed, dried mushrooms etc.
    
 ##### 1400
 The wind is rising out of the southwest. We have to hand-steer to keep with the waves. It's been a while since we've steered outside at night. It was very cold, made colder by the lingering moisture in the air. It clung to our clothes, wool hats and gloves. After our shifts, we'd huddle under a pile of sleeping bags to try and warm ourselves as quickly as possible, to fall asleep as quickly as possible. I'd curl up into a ball, to try and accumulate warmth fast. Sleep doesn't come when I am cold.
@@ -1380,12 +1380,12 @@ The sky has blue in it, and the fog has cleared. Waves are better too. I don't h
 We are nearing the Turn Off, it lies 255 km (138 nm) away. When we get there, it is time to eat our prize, a pack of gnocchi! 
    
 ##### 1400
-Time for another freak-out moment! I was steering outside, waves were okay, manageable, than overtime there would come trains of waves, sweeping in threes, each one larger than the next. This is common on the ocean, but I was also getting cross waves. While I steered through the first set of threes, another set would come and hit Pino at an angle. I freaked out because of the size and ferocity of the cross waves, with some peaking way high above the lifeline. *Not again*, I thought. *My legs are noodles. J'ai des jambes en nouilles.* My legs could barely hold me up. I wanted to heave-to then, but I had to wait for the threes to pass to make my turn. Once they did pass, I *parked* Pino and hurried inside, finding Devine reading quietly on the starboard side settee. "You okay?" he asks me, as he tends to do, because he’s great like that. When I park the boat, it is usually because things aren't okay. I went to lie next to him and shook for hours as he tried to calm me. Devine decided to try and steer, and did so for a while but stopped as the cross waves were too much, even for him. We decided to heave-to for the night to let this awful weather pass.
+Time for another freak-out moment! I was steering outside, waves were okay, manageable, than over time there would come trains of waves, sweeping in threes, each one larger than the next. This is common on the ocean, but I was also getting cross waves. While I steered through the first set of threes, another set would come and hit Pino at an angle. I freaked out because of the size and ferocity of the cross waves, with some peaking way high above the lifeline. *Not again*, I thought. *My legs are noodles. J'ai des jambes en nouilles.* My legs could barely hold me up. I wanted to heave-to then, but I had to wait for the threes to pass to make my turn. Once they did pass, I *parked* Pino and hurried inside, finding Devine reading quietly on the starboard side settee. "You okay?" he asks me, as he tends to do, because he’s great like that. When I park the boat, it is usually because things aren't okay. I went to lie next to him and shook for hours as he tried to calm me. Devine decided to try and steer, and did so for a while but stopped as the cross waves were too much, even for him. We decided to heave-to for the night to let this awful weather pass.
 
 Devine made pasta, I ate it while half asleep. Today's stress robbed me of rest. We shared a can Yebisu beer too, to make sure I'd get knocked right out.
    
 ##### 1700
-Every time we near a milestone, we hit a wall, whether it comes in the form of a calm or strong weather. There is always something, and this time is no different. We are at a wall, with big weather all around, and ahead. These walls are, for the moment, impassable, keeping us and our destination apart. The Turn Off lies ahead, but a patch of very strong winds bars the way, reaching far north and south. We'll check the weather tomorrow morning, to decide if we should go, or wait. It's possible the weather will lessen, but it can also get worst.
+Every time we near a milestone, we hit a wall, whether it comes in the form of a calm or strong weather. There is always something, and this time is no different. We are at a wall, with big weather all around, and ahead. These walls are, for the moment, impassable, keeping us and our destination apart. The Turn Off lies ahead, but a patch of very strong winds bars the way, reaching far north and south. We'll check the weather tomorrow morning, to decide if we should go, or wait. It's possible the weather will lessen, but it can also get worse.
 
 This streak of rough weather is a cruel, cruel thing, a horrible weather monster, guarding the east, keeping small ships from passing. Vancouver Island is concealed behind it, uncaring. "What can we do to appease you? Oh great streak?" It doesn't answer—well, it answers the only way it can I suppose, with lashes of rain and gusts of wind. Maybe it intends to let us through, and we are misunderstanding each other? As different sorts of beings often do, being dissimilar in every way.
 
@@ -1395,7 +1395,7 @@ I am eager, scared to see how this develops. Gale force winds isn't a big deal f
 
 Sailing is pleasant most times, but after long periods at sea in foul weather, or in calms, feeling cold, hungry and tired, it is normal to experience some anxiety.
 
-Much stress in sailing comes as a result of poor performance, when becalmed, plagued by lights winds for days and days. We experienced this early in the trip. We were both obssessed with finding wind, and with it came greater mental exhaustion and emotional instability. In such moments, having another person with you to talk things out with helps, but the best medicine is sleep. Stress due to lack of wind is worsened by lack of rest. 
+Much stress in sailing comes as a result of poor performance, when becalmed, plagued by lights winds for days and days. We experienced this early in the trip. We were both obsessed with finding wind, and with it came greater mental exhaustion and emotional instability. In such moments, having another person with you to talk things out with helps, but the best medicine is sleep. Stress due to lack of wind is worsened by lack of rest. 
 
 > "Uncertain waits are longer than known, finite waits." (David Maister, “The psychology of waiting lines” 1985)
 
@@ -1551,13 +1551,13 @@ Modern oilskin garments were developed by Edward Le Roy, in 1898. Le Roy used wo
 
 Oilskins and other traditionally 'waxed' clothing, used to be the main-stay of sailors, they would last a lifetime if their owners put enough love and work into them. Nowadays, foul-weather gear is made from synthetics treated with Durable Water Repellent (DWR), but requires the same amount care and attention. Other types include flexible PVC-coated synthetics. All have their pros and cons, but few can rival the breathable qualities of Le Roy's process. 
 
-When we started sailing, we both purchased a full set of foul-weather gear. An expensive set, a bib and jacket. These kept us dry and warm at first, but overtime, they lost their durable water repellent coating, and we found ourselves sitting in puddles often. The water would wet our butts, and seep inside to wet the rest. A wet butt is terrible on long trips, as it irritates the skin and can leave painful bruises. 
+When we started sailing, we both purchased a full set of foul-weather gear. An expensive set, a bib and jacket. These kept us dry and warm at first, but over time, they lost their durable water repellent coating, and we found ourselves sitting in puddles often. The water would wet our butts, and seep inside to wet the rest. A wet butt is terrible on long trips, as it irritates the skin and can leave painful bruises. 
 
 Synthetic DWR-coated foulies require re-treatment to maintain water-repellency. Affected garments can be treated with a 'spray-on' or 'wash-in' treatment. It is possible to wetproof clothing yourself, the process is simple, and is a good option for those who don't want to reply on marine stores and their products.
 
 Zippers on clothes are also exposed to the elements, making damage and corrosion difficult to avoid. We found that even plastic zippers will freeze up from too much salt buildup. Applying a lubricant can minimize blockages.
 
-After long, salty trips, we usually rinse our gear with plenty of freshwater to remove salt crystals. We use old tooth brushes to scrub deposits from zippers. Failing to do this, will make deteriorate your expensive gear, very, very fast.
+After long, salty trips, we usually rinse our gear with plenty of freshwater to remove salt crystals. We use old tooth brushes to scrub deposits from zippers. Failing to do this, will make your expensive gear deteriorate very, very fast.
 
 \newpage
 
@@ -1843,7 +1843,7 @@ Devine has been devouring books. He finished Dante's *Purgatorio*, Cervante's *D
 We have a foot pump in the galley, with a pedal pushing against the pump to draw out water. One of the two pegs securing the pedal to the pump broke yesterday—not an easy fix. We have a spare pedal, but the fitting requires removing both the intake and outtake hoses. Not very convenient. It is hard to do a good seal, as the hoses are old, and this late into the trip I don't want to risk losing any water to leakage. I did a temporary fix, with a rope wrapping around the top of the pedal to a pipe running underneath it, keeping the broken peg down. Let's hope it holds.
 
 ##### 1100
-After coffee, comes soba. Devine prepares soba for lunch with wasabi and TVP. We cook them in so little water that they absorb it all. It results in soba covered in a gooey secretion from the buckwheat that soba masters would probably shame us for, but watever, it tastes delicious and there is no waste. Normally, cooked soba require a fresh water rinse or two.
+After coffee, comes soba. Devine prepares soba for lunch with wasabi and TVP. We cook them in so little water that they absorb it all. It results in soba covered in a gooey secretion from the buckwheat that soba masters would probably shame us for, but whatever, it tastes delicious and there is no waste. Normally, cooked soba require a fresh water rinse or two.
 
 We've got 389 km (210 nm) left. We've awakened Calcifer so we could motor through a calm to get past 130°W, where the wind is scheduled to return. There is a mean system forming a few days from now, and we don't want to be in it. We're done with storms chasing us. It is nice today, calm seas, warm sun and clear skies. We're sitting outside, getting some Vitamin D while trying to picture the outline of Vancouver Island in the distance. We see cloud patterns on the horizon that look like land, like mountains. It is too easy to trick our brains into believing there's actual land there, it's easy to warp our sense of space. We haven't seen land in 47 days, maybe it's easy to do because our brains long for the sight of land, for the shadows of great snowy peaks rising in the east. Soon, soon. In the meantime, we've got to watch for traffic. The Juan de Fuca Strait is a busy seaway, though after navigating the east coast of Japan I can't say that I'm too worried, instead of 100 targets on the radar, we'll get 20 at most.
 
@@ -1973,7 +1973,7 @@ Convenience products will protect those living at odds with nature. Novel and fa
 
 In the name of security, a modern citizen will be thoroughly handled. A modern civilisation will deem itself total as it finally does away with all inconveniences, vanquished the totality of the Unknowable, the Indifferent, the Unorganizeable, of Nature, by means of paving over it.
 
-We have seen the non-participation to the throughput mechanisms of society labeled as escapism, but we look at it in reverse where one escapes by being apart from nature. An illusory sense of dominion and domestication of nature might make one think of it as a place where one can escape to, and this is re-enforced when seen through the lense of a synthetic protective layer of proxies and simulations, but the protective layer doesn't curve outward upon nature, but inward upon the individual. And that is absolute escapism.
+We have seen the non-participation to the throughput mechanisms of society labeled as escapism, but we look at it in reverse where one escapes by being apart from nature. An illusory sense of dominion and domestication of nature might make one think of it as a place where one can escape to, and this is re-enforced when seen through the lens of a synthetic protective layer of proxies and simulations, but the protective layer doesn't curve outward upon nature, but inward upon the individual. And that is absolute escapism.
 
 We believe that one can use nature's indifference as a reminder of the actual fortitude of their being, to learn of one's own true capacity for resilience when communing with nature—ideas altogether at odds with modern stories, or an invitation to be part of something.
 
@@ -1991,7 +1991,7 @@ Below is a list of the more cryptic items we had aboard Pino on the passage from
 
 ### Textured vegetable protein (TVP) {#tvp}
 
-TVP is a soy product, made from defatted soy flour that's been cooked under pressure, and then dried. It is a shelf stable product that comes in a variety of shapes, ranging from tiny pellets to larger nuggets. Aboard Pino, we prefer the smaller grind, as it doesn't use up as much volume in a jar. We use it instead of mince meat in spagehtti sauces, shepherd's pie or tacos. TVP soaks up flavor, and ads bulk to dishes.
+TVP is a soy product, made from defatted soy flour that's been cooked under pressure, and then dried. It is a shelf stable product that comes in a variety of shapes, ranging from tiny pellets to larger nuggets. Aboard Pino, we prefer the smaller grind, as it doesn't use up as much volume in a jar. We use it instead of mince meat in spaghetti sauces, shepherd's pie or tacos. TVP soaks up flavor, and ads bulk to dishes.
 
 ### Nori {#nori}
 
@@ -2011,7 +2011,7 @@ Dashi is a soup stock and essential condiment in Japanese cuisine. Dashi contain
 
 Dashi is used as a broth base for Japanese hot pot dishes, simmered dishes, noodle soups, it's also used as a seasoning liquid (for rice). Konbu dashi is the easiest stock to make, it has a subtle taste and is often mixed with shiitake mushroom dashi. 
 
-We carry kombu dashi granules aboard Pino, as a way to quickly flavor dishes. The alternative is to buy strips of dried kombu strips and to soak them in hot water. The seaweed flavor leeches into the liquid, which we use to flavor foods. On a boat, using whole konbu isn't ideal. Using granules is the next best thing. In grocery stores, they are usually sold in small indivually-wrapped packages. I bought a larger 500 g bag of granules, which solved the packaging issue.
+We carry kombu dashi granules aboard Pino, as a way to quickly flavor dishes. The alternative is to buy strips of dried kombu strips and to soak them in hot water. The seaweed flavor leeches into the liquid, which we use to flavor foods. On a boat, using whole konbu isn't ideal. Using granules is the next best thing. In grocery stores, they are usually sold in small individually-wrapped packages. I bought a larger 500 g bag of granules, which solved the packaging issue.
 
 ### Miso {#miso}
 
@@ -2237,7 +2237,7 @@ Cabbage                   1/4 head
 Kimchi                    320 g
 -----------------------   ------------------------ 
 
-Heat a pan at medium heat, when hot, add 15 ml (1 tbsp) of roasted sesame oil. Then, lay the 6 kiri mochi blocks in the pan without overlapping them (cook in groups of 3 if using small pan). Using a pepper grinder (or mortal and pestle), grind some whole black peppercorns to season the 6 blocks of kiri mochi. Turn them over when the bottom sides are puffed and brown, wait till the blocks are slightly browned, and puffed. To know if they're ready, try and poke a sfork through the middle, it should be easy to pierce — although it will stick to your fork!
+Heat a pan at medium heat, when hot, add 15 ml (1 tbsp) of roasted sesame oil. Then, lay the 6 kiri mochi blocks in the pan without overlapping them (cook in groups of 3 if using small pan). Using a pepper grinder (or mortal and pestle), grind some whole black peppercorns to season the 6 blocks of kiri mochi. Turn them over when the bottom sides are puffed and brown, wait till the blocks are slightly browned, and puffed. To know if they're ready, try and poke a fork through the middle, it should be easy to pierce — although it will stick to your fork!
 
 Remove skins, and julienne carrots (or cut into thin, long sticks). Finely shred 1/4 head of green cabbage. Place vegetables at the bottom of two bowls. Cut each kiri mochi block into 4 smaller pieces, and divide into bowls. Top with kimchi.
 
@@ -2336,7 +2336,7 @@ Combine 3 g (1 tsp) kombu dashi granules with 120 ml (1/2 cup) of water, 30 ml (
 
 ## Pasta salad with mustard dressing {#mustard}
 
-In this recipe I used whole-grain mustard, also known as 'grainy' mustard due to the precense of whole mustard seeds. It's a good idea to prepare jars while still in port, and then you'll have plenty of mustard for the passage. We picked up seeds while in Fiji, and have been preparing our own mustard ever since. See following recipe for instructions.
+In this recipe I used whole-grain mustard, also known as 'grainy' mustard due to the presence of whole mustard seeds. It's a good idea to prepare jars while still in port, and then you'll have plenty of mustard for the passage. We picked up seeds while in Fiji, and have been preparing our own mustard ever since. See following recipe for instructions.
 
 Ingredients
 -----------------------   ----------
@@ -2404,7 +2404,7 @@ Add the cooked rice to the skillet, breaking up the clumps while stirring, and c
 
 ## Japanese curry {#kare}
 
-This recipe uses ready-made, store-bought curry bricks, which are concentrated cubes of spices with a thickening agent which creates a thick, spicy sauce when simmmered with water. These bricks are inexpensive, and easy to use on long, ocean passages. Instead of Kouya-doufu (dry tofu), you can use TVP or 175 g (1/2 of 350 g pack) or jouon tofu (tetra-pak tofu).
+This recipe uses ready-made, store-bought curry bricks, which are concentrated cubes of spices with a thickening agent which creates a thick, spicy sauce when simmered with water. These bricks are inexpensive, and easy to use on long, ocean passages. Instead of Kouya-doufu (dry tofu), you can use TVP or 175 g (1/2 of 350 g pack) or jouon tofu (tetra-pak tofu).
 
 Ingredients
 -----------------------   ------------------------------
