@@ -2506,8 +2506,6 @@ Serve atop of rice, and season with ground sichuan pepper. I normally serve it w
 
 ## Stove-top pitas {#pita}
 
-In Japan, there are two tetra-pak varieties, o ryouri-muki tofu (firm tofu for cooking), which has a yellow packaging, and kinugoshi toufu (silken tofu) that comes in blue packaging. Instead of 175 g (1/2 of 350 g pack) of tetra-pak tofu, you can use 2 blocks of Kouya-doufu (dry tofu).
-
 Ingredients
 -----------------------   ----------------------
 Whole wheat flour         225 g
