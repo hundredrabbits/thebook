@@ -10,7 +10,7 @@
 
 We found Pino on Vancouver Island in the spring of 2016, a Yamaha 33 sailboat built in 1982. At that moment, we knew of Yamaha for their keyboards and motorcycles, but not their sailboats. After a bit of research, we learned that between 1976 and 1985 Yamaha did build and export sailboats to the Pacific Northwest. These are familiar sights in sailing schools due to their reputation of being sturdy.
 
-Prior to purchasing Pino, we had read a few sailing books. One of them in particular, The Feeding and Caring of the Offshore Crew by Lin Pardey, left a lasting impression on us. In it, Lin and Larry Pardey travel to Japan on their 24-foot sailboat Seraffyn. We had never heard of anyone sailing to Japan, but we soon became obsessed with the idea. Pino was built there, and we thought we could sail it back to its home in Japan! But first, we ought to learn how to sail.
+Prior to purchasing Pino, we had read a few sailing books. One of them in particular, *The Feeding and Caring of the Offshore Crew* by Lin Pardey, left a lasting impression on us. In it, Lin and Larry Pardey travel to Japan on their 24-foot sailboat Seraffyn. We had never heard of anyone sailing to Japan, but we soon became obsessed with the idea. Pino was built there, and we thought we could sail it back to its home in Japan! But first, we ought to learn how to sail.
 
 In February 2016, we moved aboard Pino. And like fledglings leaping out of the nest, we clumsily pushed from the dock and spread Pino's dacron wings. In the beginning, we lacked the finesse that we observed in others, but with time we knew we'd figure it out. On the topic of finesse, or the lack thereof, the first time we hoisted our gennaker, we raised it the wrong way 3 times(it's a triangle). We didn't know which part of the sail was the tack, clew or head. To be fair, when a large sail is stuffed into a bag, it is hard to tell where it begins and where it ends. We learned by watching others, and by reading books, but mostly by doing.
 
@@ -62,8 +62,8 @@ Note: On this trip, we used GRIB files to read the weather. They are computer-de
 
 ![](img/june09.jpg "Passing Oshima")
 
-	Daily progress: 0 km (0 nm)
-	Distance to Victoria: 8,210 km (4433 nm)
+    Daily progress: 0 km (0 nm)
+    Distance to Victoria: 8,210 km (4433 nm)
 
 ##### 0600
 We woke up early today, as we had little time to prepare before leaving Japan. Why so last minute? Well, we only decided to leave yesterday. Because of this last minute change, there were many tasks we had not yet done, or had not had time to do.
@@ -99,8 +99,8 @@ The wind rises to a fresh breeze. We slip into our oil skins as we don't want to
 
 ![](img/june10.jpg "Seasick.")
 
-	Daily progress: 305 km (165 nm)
-	Distance to Victoria: 7,905 km (4,268 nm)
+    Daily progress: 305 km (165 nm)
+    Distance to Victoria: 7,905 km (4,268 nm)
 
 ##### 0800
 We download the weather, it is the same as yesterday, but it looks like the wind will increase this evening. Pino is doing well, but we are both feeling a bit sea sick.
@@ -218,7 +218,7 @@ We used to be afraid of sailing at night, but now we look forward to it. It is t
 
 Before we start our night shifts, we usually reef the mainsail. A smaller sail will slow us down, but our main concern is safety. The rule is that if the wind rises enough to have us question whether we should reef or not, we do it.
 
-Another important rule, is to never reef at night. Everything is harder to do in the dark. We have done it before, with success, but the issue is that it means waking up your partner, robbing them of their precious sleep. Can't we reef a sail alone? Yes, we could, but that would break another rule:  never wander on deck in the dark alone, even with a tether. Therefore, we plan to always do our last manoeuvres of the day while there is still some light out, at the cost of speed.
+Another important rule, is to never reef at night. Everything is harder to do in the dark. We have done it before, with success, but the issue is that it means waking up your partner, robbing them of their precious sleep. Can't we reef a sail alone? Yes, we could, but that would break another rule: never wander on deck in the dark alone, even with a tether. Therefore, we plan to always do our last manoeuvres of the day while there is still some light out, at the cost of speed.
 
 Since we started sailing, we have stuck to the same pattern for night shifts. One sleeps between 1900 and 2100, then sails between 2100 and 2400, then goes back to sleep from 2400 until 0300, and then goes back to the tiller between 0300 and 0600. 3 hours on, and 3 hours off. Some sailors prefer longer shifts, doing 4-5 hours at a time. We prefer shorter shifts, because we get tired easy, and 3 hours, when tired, feels unending. If ever we need more sleep, we take short naps in the day.
 
@@ -309,7 +309,7 @@ Then, the world became clear again, Pino righted itself, as sailboats tend to do
 
 Devine ran to me, and tried to lift me up but couldn't. "Is something dragging you under?" He yelled, panicked. "NO!" I replied, "it's the weight of the water in my clothes! My boots are full of water! Winch me up!" I was wearing tall rubber boots when it happened, they do a good job of keeping water out when sailing, but in this particular instance, their impermeability was problematic. When people fall overboard, a common tactic is to tie a halyard to a point on their life jacket, and to winch them out. Our halyard winches and lines were covered in broken dodger pieces, it was hard to reach them. I had an idea then. "TAKE MY LEG!" I yelled. I managed to lift my right leg up so he could help me get it above the lower life line. It worked. Once that leg was up, it gave me enough lift so he could grab my other leg, and then it was easy to climb to safety. I imagined then how difficult it would have been to get me out of the water, had my tether been longer. At that moment, I wished for an even shorter tether. The boat had rounded 180 degrees. Devine secured Pino into a heave-to, lashing the tiller so we could relax, and assess the damage.
 
-We left the outside as it was, and went inside. I was eager to get somewhere safe. I was glad that we kept the companionway door shut, as the wave filling the inside of the boat would have been very bad. The cabin was an incredible mess, with things, not water. "We're dead." Devine said. In truth, we were fine, but he was shook up, and the inside of the boat looked worse than it was. When the wave broke at our stern,  Devine was thrown from one side of the boat to the other, the produce jumped out of the baskets, some of the floor boards were flipped over, a bottle of cooking oil leapt out of the fridge and emptied its contents over a cushion and onto the floor, a 5 L jar of umeshu (Japanese plum wine) leapt out of that same space and hit the ceiling on the opposite side, exploding onto the navigation table and instruments. All our charts were wet, and our passports too. I usually stash them in dry bags, but I didn't do it this time and I'm not sure why I didn't? There was umeshu EVERYWHERE. The stink of it covered everything.
+We left the outside as it was, and went inside. I was eager to get somewhere safe. I was glad that we kept the companionway door shut, as the wave filling the inside of the boat would have been very bad. The cabin was an incredible mess, with things, not water. "We're dead." Devine said. In truth, we were fine, but he was shook up, and the inside of the boat looked worse than it was. When the wave broke at our stern, Devine was thrown from one side of the boat to the other, the produce jumped out of the baskets, some of the floor boards were flipped over, a bottle of cooking oil leapt out of the fridge and emptied its contents over a cushion and onto the floor, a 5 L jar of umeshu (Japanese plum wine) leapt out of that same space and hit the ceiling on the opposite side, exploding onto the navigation table and instruments. All our charts were wet, and our passports too. I usually stash them in dry bags, but I didn't do it this time and I'm not sure why I didn't? There was umeshu EVERYWHERE. The stink of it covered everything.
 
 We sat on the sticky, wet floor, wide-eyed and thinking: "Did that just happen?" I'd read of boats being knocked-over, or 'pooped' many times before, but reading about it is different than experiencing it. I downed a can of ginger ale. "You almost lost me," I said to Devine, pained at the thought. He came over and we stayed in each other's arms, for what felt like...forever. He smiled and looked at me afterwards. "You want to get married?" I laughed out loud when he said this. Devine knew how I felt about marriage, because he too shared my views on it. We've been together a long, long time, for 14 or so years. We’ve spoken about it before, but neither of us cared enough to do it. "Husband" and "wife" are words that carry a lot of ideological baggage. At this point though, we were agitated, we wanted to make promises to each other, and were willing to do away with our pre-existing thoughts on marriage.
 
@@ -360,7 +360,7 @@ This is going to be a long, long trip. I know we are not done seeing big waves.
 
 ![](img/heavingto.jpg "How to heave-to.")
 
-Heaving-to is a sailing technique, it's a way of slowing down your vessel. It involves fixing the tiller and sail positions so that the vessel doesn't need steering.  To heave-to, we turn to tack through the wind, without releasing the jib sheet. The mainsail self-tacks to the other side, but the jib is held aback. When the jib's belly curves inward, the tiller (or rudder) should be aligned with it, as if trying to tack back again. It's necessary to lash the tiller so the rudder can't move again. Without the power of the jib, the boat can't go forward and will stop. It is easy to do, and all aboard should learn to do it.
+Heaving-to is a sailing technique, it's a way of slowing down your vessel. It involves fixing the tiller and sail positions so that the vessel doesn't need steering. To heave-to, we turn to tack through the wind, without releasing the jib sheet. The mainsail self-tacks to the other side, but the jib is held aback. When the jib's belly curves inward, the tiller (or rudder) should be aligned with it, as if trying to tack back again. It's necessary to lash the tiller so the rudder can't move again. Without the power of the jib, the boat can't go forward and will stop. It is easy to do, and all aboard should learn to do it.
 
 Breaking a heave-to involves unlashing the tiller, and releasing the windward jib sheet before hauling in the leeward sheet.
 
@@ -817,7 +817,7 @@ This quietness isn't the worse thing. Pacific white-sided dolphins came to see u
 We moved closer to 180°W, we are at 178°E, here's hoping for the wind returning later today so we can finally cross that invisible line! We noticed today that one of our spreader lights was broken. Pino is going to need a lot of love and attention after this trip.
 
 ##### 2230
-Sometimes sailing feels like witchcraft. There was hardly any wind before, Pino was bobbing stupidly in the water as I sat inside, waiting. I got tired of the motion and of the sails flapping about, so I went outside to steer. Devine reduces the jib in periods of calm to reduce chafe, but keeps a tiny bit of canvas up to ease the pendulum motion from waves. I felt tiny little puffs of wind so I unfurled the jib and pointed us east. Perfect. Wind filled the sails and we started to go forward.. I was amazed, and started dancing in the cockpit, happy to be moving forward in a favorable direction! Hope the wind stays with us, if so, we'll cross 180°W!
+Sometimes sailing feels like witchcraft. There was hardly any wind before, Pino was bobbing stupidly in the water as I sat inside, waiting. I got tired of the motion and of the sails flapping about, so I went outside to steer. Devine reduces the jib in periods of calm to reduce chafe, but keeps a tiny bit of canvas up to ease the pendulum motion from waves. I felt tiny little puffs of wind so I unfurled the jib and pointed us east. Perfect. Wind filled the sails and we started to go forward. I was amazed, and started dancing in the cockpit, happy to be moving forward in a favorable direction! Hope the wind stays with us, if so, we'll cross 180°W!
 
 ## Food storage
 
@@ -909,7 +909,7 @@ Devine went up the mast to the first spreader to fix a light that had broken off
 I've been doodling a lot at night, drawing silly cartoons. My peanut people doodles keep me busy, it is therapeutic. Humor is a good way to deal with stress. It's something I did too when working at an animation studio in Japan. My computer was garbage and crashed constantly, between reboots I'd draw cartoons, featuring my difficult computer. It helped diffuse my anger and made working there bearable.
 
 ##### 0800
-Devine made a noodle stir-fry for lunch, using spices, our preserved lotus root and half a daikon. He also added bits of [dried tofu](#kouyadoufu). We love adding this type of tofu to meals as they soak up all the flavor. After lunch, Devine and I napped hard in succession. The sea is calm, with a swell coming out of the east. No wind—well, if one can call the occasional puff of air wind. We are pointing Pino's bow east, into the swell. I sing some *Deathcab For Cutie* as I steer. Something I do when my brain is too tired to brainstorm projects, or when it doesn't want to dwell on memories past, or  on a future when land is near.
+Devine made a noodle stir-fry for lunch, using spices, our preserved lotus root and half a daikon. He also added bits of [dried tofu](#kouyadoufu). We love adding this type of tofu to meals as they soak up all the flavor. After lunch, Devine and I napped hard in succession. The sea is calm, with a swell coming out of the east. No wind—well, if one can call the occasional puff of air wind. We are pointing Pino's bow east, into the swell. I sing some *Deathcab For Cutie* as I steer. Something I do when my brain is too tired to brainstorm projects, or when it doesn't want to dwell on memories past, or on a future when land is near.
 
 ##### 1000
 Pino clumsily wanders into a patch of resting shearwaters. They are such skittish things. Even if we steer clear they still run, feet and wings flapping as they try and get away. Sometimes they dive underwater. I saw one do this today, but it must have been confused because it resurfaced even closer to us, and in a panic it took to the air, feet splashing and wings lifting water as it took off.
@@ -997,7 +997,7 @@ Ok. Little freak out just then, but the phone is fine. Still, I hate relying on 
 
 We are becalmed, again. Pino had a good run today though! Now, there is fog and it is wet out. I await the sun, the wind... I can hear Leach's storm petrels cackling outside. Seems like they only ever come around the boat at night, to laugh, as if they know how eerie it is for us to hear. Robusta is north of us, but also suffers from lack of progress. Sailboats are creatures of movement, ours has not had many opportunities for it lately.
 
-As we bob around, I hear voices in the rigging, a sort of squeaky "hellooo." Other times, while sitting outside at night, we'd hear "hey's!" and "check-its!" When extremely tired, the brain not only finds words in sounds, we also have conversations with ghosts, asking questions, receiving answers.  Sometimes my own answers were so absurd that it would startle me into wakefulness. I'd start combining words to make new ones, or invent new ones entirely while being sure of their meaning. Questions like: "Where is the turtle there?" I'd answer with "the meeting last time", then say "in the mihtime" or something.
+As we bob around, I hear voices in the rigging, a sort of squeaky "hellooo." Other times, while sitting outside at night, we'd hear "hey's!" and "check-its!" When extremely tired, the brain not only finds words in sounds, we also have conversations with ghosts, asking questions, receiving answers. Sometimes my own answers were so absurd that it would startle me into wakefulness. I'd start combining words to make new ones, or invent new ones entirely while being sure of their meaning. Questions like: "Where is the turtle there?" I'd answer with "the meeting last time", then say "in the mihtime" or something.
 
 Lack of sleep does weird things to one's brain. Don't get me started on the things I saw moving in the compass! A head, nodding, agreeing to all of my nonsense, always. It would swallow me right up, my head swimming with numbers in a clear liquid, enveloped in yellow light. Thankfully, we hallucinate less these days, being becalmed allows for more sleep.
 
@@ -1145,7 +1145,7 @@ The distance to Vancouver Island is a lot of ground to cover, but we've already 
 Devines makes penne, using our last bag of fun-shaped pasta with Indian spices and tofu. "Experiment!" he says, handing me the bowl. I like Devine's experiments, he's got a gift for cooking with limited ingredients. He somehow always manages to prepare something delicious, something that feels fresh despite having no fresh ingredients. At this point in our trip, when all that's left are potatoes, dried radish and canned vegetables, it's an important skill. I'm not as inspired.
 
 ##### 0900
-We sail in and out of fog banks. Sailing in fog is hard on the eyes, it brings everything out of focus. I've got a massive headache from constantly turning my head to check up at the compass through the companionway door. I steer outside when the fog clears, and retreat indoors when it settles around us. Fog makes my clothes instantly damp. Devine drives, I read a collection of shorts, Golden Apples Of The Sun, by Ray Bradbury.
+We sail in and out of fog banks. Sailing in fog is hard on the eyes, it brings everything out of focus. I've got a massive headache from constantly turning my head to check up at the compass through the companionway door. I steer outside when the fog clears, and retreat indoors when it settles around us. Fog makes my clothes instantly damp. Devine drives, I read a collection of shorts, *Golden Apples Of The Sun* by Ray Bradbury.
 
 We're sailing east into the wind, but it's hard, the waves make us yaw, and so self-steering is not possible today. Can't complain though, we are going forward.
 
@@ -1943,7 +1943,7 @@ We look at each other, sitting on deck and admiring the view. "Hey—" I say to 
 
 We'll end this story by thanking our land crew, Morgan, Douglas and Devine's dad Yves.
 
-We'd also like to thank those who helped us during our 14-day quarantine period. Jason, for doing our laundry and for the take-out food. Brian, for the extra baking supplies. Cameron, for happy junk foods. Robert, for the fresh produce. Judie & Colin, for the company. Marie, for the pocket wifi, brew and fresh produce.  Karin & Rick, for the ice cream and fresh produce. Colin N., for the mouse. Warren for the fresh produce and beer.
+We'd also like to thank those who helped us during our 14-day quarantine period. Jason, for doing our laundry and for the take-out food. Brian, for the extra baking supplies. Cameron, for happy junk foods. Robert, for the fresh produce. Judie & Colin, for the company. Marie, for the pocket wifi, brew and fresh produce. Karin & Rick, for the ice cream and fresh produce. Colin N., for the mouse. Warren for the fresh produce and beer.
 
 Thank you to our friends on land and sea, who have followed our travels for many years, and that have offered both moral and monetary support.
 
@@ -2127,8 +2127,8 @@ Serve into two bowls with some chives. Eat wrapped in salad or cabbage leaves, o
 
 Hummus
 -----------------------   ------------------
-Soybeans                 300 g (150 g, dry)
-Tahini    				  15 ml
+Soybeans                  300 g (150 g, dry)
+Tahini                    15 ml
 Lemon                     1/2, juiced
 White miso                15 g
 Olive oil                 15 ml
@@ -2160,7 +2160,7 @@ Arrowroot starch          7 g
 Olive oil                 15 ml
 Yellow onion              1, chopped
 Garlic                    3 cloves, minced
-Nutritional yeast    	  15 g
+Nutritional yeast         15 g
 -----------------------   ------------------
 
 Cook kishimen (wheat noodles) according to package instructions, drain and reserve for later.
@@ -2212,7 +2212,7 @@ Sauce
 Olive oil                 15 ml
 Yellow onion              1 medium, diced
 Sweet potatoes            2 medium, skinned and cubed
-TVP     				  40 g
+TVP                       40 g
 Soy sauce                 15 ml
 Vegetable broth           60 ml
 Smoked paprika            3 g
