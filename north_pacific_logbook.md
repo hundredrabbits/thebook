@@ -52,7 +52,7 @@ On our last connection, the train broke down—a rare occurrence in Japan. We ar
 
 Our last day in Shimoda was stressful, but the train ride was a good way to end our visit there. The local train from Shimoda runs along the eastern coastline of the Izu Peninsula, the scenery is stunning. We spent the evening sorting out problems with our satellite phone, but found time for one last beer on the docks. We sat with Shuhei, Anja and Thomas in the dark, beer in hand, nervous, but also relieved that we could leave tomorrow.
 
-Note: On this trip, we used GRIB files to read the weather. They are computer-derived weather forecasts packed into a digital file. We download them using our SAT phone's data, and visualize them via a laptop or phone. GRIB files can be quite large, it is therefore necessary to specify an area of coordinates with an appropriate resolution to keep the files small, then transfer fast and the whole transaction not too costly.
+Note: On this trip, we used GRIB files to read the weather. They are computer-derived weather forecasts packed into a digital file. We download them using our SAT phone's data, and visualize them via a laptop or phone. GRIB files can be quite large, it is therefore necessary to specify an area of coordinates with an appropriate resolution to keep the files small, the transfer fast and the whole transaction not too costly.
 
 \newpage
 
@@ -478,7 +478,7 @@ The wind rose from the south, with big seas. We reefed the jib, put the third re
 ##### 0300
 We hove-to as the morning light shone onto the sea, this is a good time to figure out if what we're doing is a shit idea, or a really shit shit shit idea. Cradled by waves, I stared into the depths and felt dizzy. I'd rather not spend too much time thinking about the enormity of the world's oceans. They are large and wild spaces between continents, and humans, blinded by hubris, build and wear their boats like armor to cross them. Madness.
 
-The wind in this area is very strong, but there is a promise of lighter winds from the east. Devine gets his foul-weather gear on, and goes outside to steer us onto 165°E. Our friends on Robusta are south of us still, but making some progress to the north. They are mending a sail and going slow. We are glad that Pino's wings haven't lost their feathers yet, our armored bird is healthy, and flying east.
+The wind in this area is very strong, but there is a promise of lighter winds from the east. Devine gets his foul-weather gear on, and goes outside to steer us onward to 165°E. Our friends on Robusta are south of us still, but making some progress to the north. They are mending a sail and going slow. We are glad that Pino's wings haven't lost their feathers yet, our armored bird is healthy, and flying east.
 
 ##### 0600
 As the day went on the clouds vanished, revealing a blue sky. I seemed to have forgotten that the sky could ever be that color. The waves are still mean, but the blue reflected into them dulls their teeth. When we get sun, we usually take everything out to dry, but today is not a good day for this because the cockpit is getting a lot of saltwater spray. I have a pair of leggings outside that is well-pickled and that just won't dry, and I don't want to add to that sorry collection.
