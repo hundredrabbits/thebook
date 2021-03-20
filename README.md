@@ -25,3 +25,6 @@ ebook-convert "assembled.epub" "assembled.mobi"
 rm -f assembled.md
 rm -f cover.pdf
 ```
+# Licenses
+
+This book's source code is licensed under **MIT** (see LICENSE.mit.md) and the **images, text and assets** (see LICENSE.by-nc-sa-4.0.md)  are licensed under [BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). View individual licenses for details.
