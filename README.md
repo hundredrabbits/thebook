@@ -27,4 +27,4 @@ rm -f cover.pdf
 ```
 # Licenses
 
-This book's source code is licensed under **MIT** (see LICENSE.mit.md) and the **images, text and assets** (see LICENSE.by-nc-sa-4.0.md)  are licensed under [BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). View individual licenses for details.
+Busy Doing Nothing's source code (to build a book) is licensed under [MIT](https://github.com/hundredrabbits/thebook/blob/master/LICENSE) and the **images, text and assets** are licensed under [BY-NC-SA 4.0](https://github.com/hundredrabbits/thebook/blob/master/LICENSE.by-nc-sa-4.0.md). View individual licenses for details.
