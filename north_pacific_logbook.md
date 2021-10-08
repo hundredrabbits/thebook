@@ -1064,7 +1064,7 @@ We reached 175°W today! There's fog, coffee cannot come fast enough.
 I am managing the charging of our electronics, trying to find out which one needs it the most. We only have a handful of outlets, so I've got to swap them out when they're done. The solar backpack is outside again, charging up the big battery bank. It charges slowly, but it'll get there! This backpack is a good backup to have, should our other, larger panel fail.
 
 ##### 0800
-Devine makes [cornpone](#cornpone) for lunch, served with soybeans, onions and spices. A simple, hearty dish. No matter how large the portio, it seems I can always finish it. My stomach is not easily satiated at sea, it's very different from when we started this trip and couldn't finish our food. I remember the ghosts of discarded produce on the water, a head of broccoli, a daikon and some green beans.
+Devine makes [cornpone](#cornpone) for lunch, served with soybeans, onions and spices. A simple, hearty dish. No matter how large the portion, it seems I can always finish it. My stomach is not easily satiated at sea, it's very different from when we started this trip and couldn't finish our food. I remember the ghosts of discarded produce on the water, a head of broccoli, a daikon and some green beans.
 
 The wind is good, the seas are flat and we are flying! We put Calcifer back to sleep, job well done friend, our batteries are charged up again. Pino is drifting happily, its residents are also happy. Ninj, our mascot, is ordering us around from his spot on the starboard settee.
 
