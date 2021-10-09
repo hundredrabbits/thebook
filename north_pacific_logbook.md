@@ -684,10 +684,10 @@ Finally seeing the wind turn a little more towards the north, permitting us to d
 
 It's getting colder, so we're steering from inside. Devine fiddled with ropes and found an arrangement that will let Pino steer itself tonight.
 
-##### 5h30
+##### 0530
 Pino is now bashing to weather. The waves aren't too large, but I worry about them still. Pino's bow slams into the sea every now and then, and I can hear the anchor rattling. I hope I tied it down well this time, as retrieving it now would be dangerous. We are pointing east right now. I never thought we'd have to chase lows to get wind. Walking inside is difficult, we have to move carefully. Going to the bathroom is an interesting experience when bashing, since ours is located at the bow. It's hard to focus on our business when we struggle to keep our butts down and bodies straight.
 
-##### 6h00
+##### 0600
 We saw a cargo ship named Scorpion on AIS. It is 7 km (4 nm) south of us. A rare occurrence. We've got an alarm set for ships that come near, it only rang twice so far while on the open sea. Last time it rang, there was a trawler passing south, near enough that we could make out its faint outline in distance, and we could hear its engine too. Otherwise, there is no one within 89 km (48 nm) of us. Land is much further than this. We'll be passing the western tip of the Aleutians soon, the more miles we put between the opening to the Bering Sea and us the better. We were pointing to it for the better part of yesterday, and it was scaring the shit out of me.
 
 ##### 1230
