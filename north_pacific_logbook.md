@@ -1615,7 +1615,7 @@ The wind lessened and the rain stopped, we unfurl the jib again, increasing our 
 ##### 1400
 We make [Japanese curry](#kare) for dinner—yes, again, we're not tired of it yet. I used up our last two sweet potatoes, some dried radish, dried tofu and soy bits to make it. I'm glad we brought 2,700 g of [TVP](#tvp), and 10 packs of [kouya-doufu](#kouyadoufu) (dried tofu, 5 per pack), these two ingredients add bulk to our meals and fill us up. We have a glass of wine, and enjoy it for a short hour before I go back to steering.
 
-We've been pushing hard these past few days, doing as much distance as we can to position ourselves well to against the weather. It has paid off, but it's exhausting. These systems never stop coming. At least we're dry, there is little rain but it isn't too cold.
+We've been pushing hard these past few days, doing as much distance as we can to position ourselves well to the weather. It has paid off, but it's exhausting. These systems never stop coming. At least we're dry, there is little rain but it isn't too cold.
 
 ##### 2100
 The wind was supposed to increase, it hasn't, this could mean many things, that it's been delayed, that we've moved past it or that it won't increase at all. We both had good shifts, we're thankful for long summer days. We charged the batteries for 2 hours, they were running low. Looking forward to giving them a good strong full charge.
