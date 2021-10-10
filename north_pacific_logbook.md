@@ -684,10 +684,10 @@ Finally seeing the wind turn a little more towards the north, permitting us to d
 
 It's getting colder, so we're steering from inside. Devine fiddled with ropes and found an arrangement that will let Pino steer itself tonight.
 
-##### 5h30
+##### 0530
 Pino is now bashing to weather. The waves aren't too large, but I worry about them still. Pino's bow slams into the sea every now and then, and I can hear the anchor rattling. I hope I tied it down well this time, as retrieving it now would be dangerous. We are pointing east right now. I never thought we'd have to chase lows to get wind. Walking inside is difficult, we have to move carefully. Going to the bathroom is an interesting experience when bashing, since ours is located at the bow. It's hard to focus on our business when we struggle to keep our butts down and bodies straight.
 
-##### 6h00
+##### 0600
 We saw a cargo ship named Scorpion on AIS. It is 7 km (4 nm) south of us. A rare occurrence. We've got an alarm set for ships that come near, it only rang twice so far while on the open sea. Last time it rang, there was a trawler passing south, near enough that we could make out its faint outline in distance, and we could hear its engine too. Otherwise, there is no one within 89 km (48 nm) of us. Land is much further than this. We'll be passing the western tip of the Aleutians soon, the more miles we put between the opening to the Bering Sea and us the better. We were pointing to it for the better part of yesterday, and it was scaring the shit out of me.
 
 ##### 1230
@@ -1064,7 +1064,7 @@ We reached 175°W today! There's fog, coffee cannot come fast enough.
 I am managing the charging of our electronics, trying to find out which one needs it the most. We only have a handful of outlets, so I've got to swap them out when they're done. The solar backpack is outside again, charging up the big battery bank. It charges slowly, but it'll get there! This backpack is a good backup to have, should our other, larger panel fail.
 
 ##### 0800
-Devine makes [cornpone](#cornpone) for lunch, served with soybeans, onions and spices. A simple, hearty dish. No matter how large the portio, it seems I can always finish it. My stomach is not easily satiated at sea, it's very different from when we started this trip and couldn't finish our food. I remember the ghosts of discarded produce on the water, a head of broccoli, a daikon and some green beans.
+Devine makes [cornpone](#cornpone) for lunch, served with soybeans, onions and spices. A simple, hearty dish. No matter how large the portion, it seems I can always finish it. My stomach is not easily satiated at sea, it's very different from when we started this trip and couldn't finish our food. I remember the ghosts of discarded produce on the water, a head of broccoli, a daikon and some green beans.
 
 The wind is good, the seas are flat and we are flying! We put Calcifer back to sleep, job well done friend, our batteries are charged up again. Pino is drifting happily, its residents are also happy. Ninj, our mascot, is ordering us around from his spot on the starboard settee.
 
@@ -1615,7 +1615,7 @@ The wind lessened and the rain stopped, we unfurl the jib again, increasing our 
 ##### 1400
 We make [Japanese curry](#kare) for dinner—yes, again, we're not tired of it yet. I used up our last two sweet potatoes, some dried radish, dried tofu and soy bits to make it. I'm glad we brought 2,700 g of [TVP](#tvp), and 10 packs of [kouya-doufu](#kouyadoufu) (dried tofu, 5 per pack), these two ingredients add bulk to our meals and fill us up. We have a glass of wine, and enjoy it for a short hour before I go back to steering.
 
-We've been pushing hard these past few days, doing as much distance as we can to position ourselves well to against the weather. It has paid off, but it's exhausting. These systems never stop coming. At least we're dry, there is little rain but it isn't too cold.
+We've been pushing hard these past few days, doing as much distance as we can to position ourselves well to the weather. It has paid off, but it's exhausting. These systems never stop coming. At least we're dry, there is little rain but it isn't too cold.
 
 ##### 2100
 The wind was supposed to increase, it hasn't, this could mean many things, that it's been delayed, that we've moved past it or that it won't increase at all. We both had good shifts, we're thankful for long summer days. We charged the batteries for 2 hours, they were running low. Looking forward to giving them a good strong full charge.
