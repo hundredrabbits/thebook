@@ -1,5 +1,7 @@
 # North Pacific Logbook
 
+This repository is no longer updated(since 2021.10.09), see the new [location of the project](https://git.sr.ht/~rabbits/busydoingnothing).
+
 Building the logbook requires Pandoc and Calibre.
 
 ## Missing cover image
